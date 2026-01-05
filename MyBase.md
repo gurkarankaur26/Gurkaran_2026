@@ -231,7 +231,17 @@
 16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
     then keep automating.
 
-    sqrt(4) = 2
-    sqrt
+    ***** Python function to calculate squareroot of a number*****
+    def calsquareroot(n):
+    sqrt= n**(1/2)
+    print(f"Square root of {n} is {sqrt}")
 
+   Function Call:  calsquareroot(64)
+   Output: Square root of 64 is 8.0
+
+   Function Call:  calsquareroot(6)
+   Output: Square root of 6 is 2.449489742783178
+
+   Function Call:  calsquareroot(64)
+   Output: Square root of 64 is 2.8284271247461903      
                 
