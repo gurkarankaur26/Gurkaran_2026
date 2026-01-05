@@ -191,7 +191,7 @@
     log(1000) = 3   
     
     10**3 = 1000
-    10**(1.5)=  31.622776601683793 -> Try power < 3 as 456 < 1000 which 10^3 -> Very Low 
+    10**(1.5)=  31.622776601683793 -> Try power < 3 as 456 < 1000 and that is 10^3 -> Very Low 
     10**(2.5)=  316.22776601683796 -> Try power 2.5 < power 3
     10**(2.7)=  501.18723362727246 -> Find in the range 2.5- 2.7
     10**(2.6)=  398.1071705534973  -> Find in the range 2.6 -2.7
@@ -202,7 +202,36 @@
     10**(2.659)= 456.03691595129595
     
     log10(456) = 2.659
+  
+   *****Python function to calculate log of a number upto 1000.****
+    def calbase10log(n):
+    if n <1000:
+     #print(n)
+     pow=3
+     while(pow>0):
+        #print('power',pow)
+        res=int(10**pow)
+        #print(res)
+        if res==n:
+         break
+        else:
+         pow = pow -.001
+        
+     print(f"Log10({n}) is {pow}")    
+    else:
+     print('No. should not be greater than 1000')
 
-    log10(231) = 
+    **** Function Call*******
+    function call : calbase10log(456) 
+    output: Log10(456) is 2.6590000000000376
+
+    function call : calbase10log(231) 
+    output: Log10(231) is 2.36500000000007 
+
+16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
+    then keep automating.
+
+    sqrt(4) = 2
+    sqrt
 
                 
