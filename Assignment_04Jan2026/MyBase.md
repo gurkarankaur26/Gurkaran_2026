@@ -83,8 +83,8 @@
 3.  a. Multi Digit Addition in Base4
 
        10+22=  (32/4=8  remainder 0 8/4=2  remainder 0 2/4=0 reaminder 2)= 200      
-       31+32 = (63/4=15 remainder 3 15/4=3 remainder 2 3/4=0 remainder 3)= 333      
-       40+13 = (53/4=13 remainder 1 13/4=3 remainder 2 3/4=0 remainder 3)= 311
+       31+32 = (63/4=15 remainder 3 15/4=3 remainder 3 3/4=0 remainder 3)= 333    
+       40+13 = (53/4=13 remainder 1 13/4=3 remainder 1 3/4=0 remainder 3)= 311
     
     b. Multi Digit Subtraction in Base 4
 
@@ -94,29 +94,73 @@
 
 4. Single Digit Multipliction
 
-       2*3 = (5/4=1  remainder 1 1/4=0 remainder 1) = 11  
+       2*3 = (6/4 =1 remainder 2 1/4=0 remainder 1) = 12 
        3*4 = (12/4=3 remainder 0 3/4=0 remainder 3) = 30  
        4*6 = (24/4=6 remainder 0 6/4 1 remainder 2 1/4=0 reminder 1) = 120
 
-5. Double Digit Multiplication    
+***Start: Pyhton Function for single and multiple digit Addition, Subtraction and Multiplication***
+def base4_calc(operation, num1,num2):
+    res=0
+    if(operation=='+'):
+        res =num1+num2
+    elif(operation == '-'):
+        if(num1 > num2):
+            res= num1 - num2
+        else:
+            res= num2 -num1
+    elif(operation == '*'):
+        res= num1 * num2
+    quotient=9
+    remainder =9
+    base4_res=''
+    loop = True
+    #print(quotient)
+    while(loop):       
+        quotient  = int(res/4)       
+        remainder = res%4
+        res =quotient
+        #print(remainder)
+        if(base4_res != ''):
+         base4_res = str(remainder)+base4_res
+         #print(base4_res)
+        else:
+         base4_res = str(remainder)
+         #print(base4_res)
+        if(quotient == 0):
+            loop=False
+        
+    if(operation =='+'):
+        #print(base4_res)
+        print(f"{num1}+{num2}={base4_res}")
+    elif(operation == '-'):
+        if(num1 > num2):
+            print(f"{num1}-{num2}={base4_res}")
+        else:
+            print(f"{num2}-{num1}={base4_res}")
+    elif(operation == '*'):
+         print(f"{num1}*{num2}={base4_res}")
+         
+***End: Pyhton Function for single and multiple digit Addition, Subtraction and Multiplication***
+        
+***************************************
+   Function Call: base4_calc('+', 2,3)
+   Output: 2+3=11
+   Function Call: base4_calc('-', 7,3)
+   Output: 7-3=10
+   Function Call: base4_calc('+', 10,22)
+   Output: 10+22=200
+   Function Call: base4_calc('-', 31,12)
+   Output: 31-12=103
+   Function Call: base4_calc('*', 2,3)
+   Output: 2*3=12              
+ ***************************************
 
-        22       
-       *31 
-      ______
-        22
-      132
-      ______
-      2002
-      ______
+5. Double Digit Multiplication   
 
-       12
-      *21
-      ______
-       12
-      30
-      ______
-      312
-      ______
+   ***Calling Pyhton Function for single and multiple digit Addition, Subtraction and Multiplication**
+
+   Function Call: base4_calc('*', 22,31)
+   Output: 22*31=22222 
 
 6. Convert from your base to decimal
     yourbase(Base4) -> base10
@@ -124,14 +168,27 @@
     10  -> 4 
     100 -> 16 (1*4^2 + 0.4^1 + 0.4^0 = 16+0+0)
     11  -> 5  (1*4^1 + 1*4^0 = 4 +1)
-    111 -> 13 (1*4^2 + 1*4^1 + 1*4^0 = 8+4+1)
+    111 -> 21 (1*4^2 + 1*4^1 + 1*4^0 = 16+4+1)
     20  -> 8  (2*4^1 + 0*4^0 = 8 +0)
     121 -> 25 (1*4^2 + 2*4^1 + 1*4^0 = 16+8+1)
+
+    ***Start: Python Function to convert anumber from a specified base to decimal***
+    def convert_num_todecimal(base,num):
+    ln= int(len(str(num)))
+    res=0
+    str_num=str(num)
+    for i in str_num:
+        if(ln<0):
+         break
+        res=res+ int(i)*(base**(ln-1))
+        ln=ln-1
+    print(res)
+     ***End: Python Function to convert anumber from a specified base to decimal***
 
 7. What is the smallest base possible?
    A. 1   B. 2
    Base === # of symbols
-   Base2 is the smallet base possible as we atleast two symbols are required to create a number
+   Base2 is the smallest base possible as we atleast two symbols are required to create a number
 
 8.  In base 7, how many numbers can we represent with 1 digit?
     7
@@ -159,14 +216,18 @@
       ..
       ..
       Total Numbers for d digit = 7
-      6*7^(d-1)
+      6*(7^(d-1))
 
 10. In baseb, how many numbers can we represent with 3 digits?
-      (b-1)*b^2
+      (b-1)*(b^2)
 
 11. In baseb, how many numbers can we represent with d digits?
-      (b-1)*b^(d-1)
-
+     ***Start: Python function to find to total numbers for specified base and digit***
+     def total_nos_for_base_digit(b,d):
+      res = (b-1)*((b**(d-1)))
+      return res
+     ***End: Python function to find to total numbers for specified base and digit***
+      
 12. In base10, to represent 1000 numbers how many digits do we need?
       3 = log(1000)
 
@@ -188,8 +249,7 @@
     Write full strategy.
     Step / Code it in your own way.
    
-    log(1000) = 3   
-    
+    log(1000) = 3       
     10**3 = 1000
     10**(1.5)=  31.622776601683793 -> Try power < 3 as 456 < 1000 and that is 10^3 -> Very Low 
     10**(2.5)=  316.22776601683796 -> Try power 2.5 < power 3
@@ -203,7 +263,7 @@
     
     log10(456) = 2.659
   
-   *****Python function to calculate log of a number upto 1000.****
+   ***Start: Python function to calculate log of a number upto 1000.***
     def calbase10log(n):
     if n <1000:
      #print(n)
@@ -221,21 +281,26 @@
     else:
      print('No. should not be greater than 1000')
 
-    **** Function Call*******
+    ***End: Python function to calculate log of a number upto 1000.***
+
+    ***Function Call to calculate log of a number upto 1000.***
     function call : calbase10log(456) 
     output: Log10(456) is 2.6590000000000376
 
     function call : calbase10log(231) 
     output: Log10(231) is 2.36500000000007 
+    ***Function Call to calculate log of a number upto 1000.***
 
 16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
     then keep automating.
 
-    ***** Python function to calculate squareroot of a number*****
+    *** Start: Python function to calculate squareroot of a number ***
     def calsquareroot(n):
     sqrt= n**(1/2)
     print(f"Square root of {n} is {sqrt}")
-
+    *** End: Python function to calculate squareroot of a number ***
+    
+    *** Calling Python function to calculate squareroot of a number ***
     Function Call:  calsquareroot(64)
     Output: Square root of 64 is 8.0
 
@@ -243,5 +308,6 @@
     Output: Square root of 6 is 2.449489742783178
 
     Function Call:  calsquareroot(64)
-    Output: Square root of 64 is 2.8284271247461903      
+    Output: Square root of 64 is 2.8284271247461903    
+   *** Calling Python function to calculate squareroot of a number ***  
                 
