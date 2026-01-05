@@ -179,7 +179,30 @@
 # So log is nothing but the count of zeros
 
 14. In base 2, to represent N numbers how many digits do we need?
-2^d = N
-d = log2(N)
+    2^d = N
+    d = log2(N)
+
+15. Compute log10 of 456 and few more numbers. You can use power(i.e. 10**x) in python but Do not 
+    use math.log10. Accurate to say 3 decimal digits.
+    Try computing Manually.
+    Write full strategy.
+    Step / Code it in your own way.
+   
+    log(1000) = 3   
+    
+    10**3 = 1000
+    10**(1.5)=  31.622776601683793 -> Try power < 3 as 456 < 1000 which 10^3 -> Very Low 
+    10**(2.5)=  316.22776601683796 -> Try power 2.5 < power 3
+    10**(2.7)=  501.18723362727246 -> Find in the range 2.5- 2.7
+    10**(2.6)=  398.1071705534973  -> Find in the range 2.6 -2.7
+    10**(2.68)= 478.6300923226385
+    10**(2.66)= 457.0881896148752
+    10**(2.65)= 446.683592150963   -> Find in the range 2.65 -2.66
+    10**(2.658)= 454.9880601500485 
+    10**(2.659)= 456.03691595129595
+    
+    log10(456) = 2.659
+
+    log10(231) = 
 
                 
