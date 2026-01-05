@@ -137,7 +137,7 @@
     7
 
 9.  In base 7, how many numbers can we represent with 2 digits?
-      First Digit  can be  1,2,3,4,5,6
+      First Digit  can be  1,2,3,4,5,6 (exclude 0 as 01 will be 1 02 will be 2...i.e. a single digit number)
       Second Digit can be  0,1,2,3,4,5,6
       Total Numbers for first digit  = 6
       Total Numbers for second digit = 7
