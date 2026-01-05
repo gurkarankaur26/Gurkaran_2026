@@ -236,12 +236,12 @@
     sqrt= n**(1/2)
     print(f"Square root of {n} is {sqrt}")
 
-   Function Call:  calsquareroot(64)
-   Output: Square root of 64 is 8.0
+    Function Call:  calsquareroot(64)
+    Output: Square root of 64 is 8.0
 
-   Function Call:  calsquareroot(6)
-   Output: Square root of 6 is 2.449489742783178
+    Function Call:  calsquareroot(6)
+    Output: Square root of 6 is 2.449489742783178
 
-   Function Call:  calsquareroot(64)
-   Output: Square root of 64 is 2.8284271247461903      
+    Function Call:  calsquareroot(64)
+    Output: Square root of 64 is 2.8284271247461903      
                 
