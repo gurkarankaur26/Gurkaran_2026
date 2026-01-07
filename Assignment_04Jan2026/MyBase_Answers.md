@@ -225,7 +225,7 @@ def base4_calc(operation, num1,num2):
 11. In baseb, how many numbers can we represent with d digits?
      ***Start: Python function to find to total numbers for specified base and digit***
      def total_nos_for_base_digit(b,d):
-      res = (b-1)*((b**(d-1)))
+      res = b**3
       return res
      ***End: Python function to find to total numbers for specified base and digit***
       
@@ -264,7 +264,7 @@ def base4_calc(operation, num1,num2):
     
     log10(456) = 2.659
   
-   ***Start: Python function to calculate log of a number upto 1000.***
+   ***Start: Python function to calculate log of a number upto 10000.***
     def calbase10log(n):
     if n <10000:
      #print(n)
@@ -282,15 +282,15 @@ def base4_calc(operation, num1,num2):
     else:
      print('No. should not be greater than 10000')  
 
-    ***End: Python function to calculate log of a number upto 1000.***
+    ***End: Python function to calculate log of a number upto 10000.***
 
-    ***Function Call to calculate log of a number upto 1000.***
+    ***Function Call to calculate log of a number upto 10000.***
     function call : calbase10log(456) 
     output: Log10(456) is 2.659909999991221
 
     function call : calbase10log(231) 
     output: Log10(231) is 2.365479999989292
-    ***Function Call to calculate log of a number upto 1000.***
+    ***Function Call to calculate log of a number upto 10000.***
 
 16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
     then keep automating.
