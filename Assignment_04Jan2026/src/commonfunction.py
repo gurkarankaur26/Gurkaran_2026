@@ -63,7 +63,7 @@ def total_nos_for_base_digit(b,d):
 #End: Python function to find to total numbers for specified base and digit***
 
 #Start: Python function to calculate log of a number upto 1000.***
-def calbase10log(n):
+def calbase10log_1000(n):
     if n <1000:
      #print(n)
      pow=3
@@ -81,6 +81,26 @@ def calbase10log(n):
      print('No. should not be greater than 1000')
 
 #End: Python function to calculate log of a number upto 1000.***
+
+#Start: Python function to calculate log of a number upto 10000.***
+def calbase10log(n):
+    if n <10000:
+     #print(n)
+     pow=4
+     while(pow>0):
+        #print('power',pow)
+        res=int(10**pow)
+        #print(res)
+        if res==n:
+         break
+        else:
+         pow = pow -.00001
+        
+     print(f"Log10({n}) is {pow}")    
+    else:
+     print('No. should not be greater than 10000')  
+
+#End Python function to calculate log of a number upto 1000.***
 
 #Start: Python function to calculate squareroot of a number ***
 def calsquareroot(n:int):

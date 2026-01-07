@@ -265,9 +265,9 @@ def base4_calc(operation, num1,num2):
   
    ***Start: Python function to calculate log of a number upto 1000.***
     def calbase10log(n):
-    if n <1000:
+    if n <10000:
      #print(n)
-     pow=3
+     pow=4
      while(pow>0):
         #print('power',pow)
         res=int(10**pow)
@@ -275,20 +275,20 @@ def base4_calc(operation, num1,num2):
         if res==n:
          break
         else:
-         pow = pow -.001
+         pow = pow -.00001
         
      print(f"Log10({n}) is {pow}")    
     else:
-     print('No. should not be greater than 1000')
+     print('No. should not be greater than 10000')  
 
     ***End: Python function to calculate log of a number upto 1000.***
 
     ***Function Call to calculate log of a number upto 1000.***
     function call : calbase10log(456) 
-    output: Log10(456) is 2.6590000000000376
+    output: Log10(456) is 2.659909999991221
 
     function call : calbase10log(231) 
-    output: Log10(231) is 2.36500000000007 
+    output: Log10(231) is 2.365479999989292
     ***Function Call to calculate log of a number upto 1000.***
 
 16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
