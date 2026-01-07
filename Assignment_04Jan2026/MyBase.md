@@ -1,4 +1,4 @@
- 1. I choose Base 4. Below is the Base4 upto three digits
+ 1. Selected Base 4 for base related tasks. Below is the Base4 upto three digits
 
    Base10   Base4
       0      0
