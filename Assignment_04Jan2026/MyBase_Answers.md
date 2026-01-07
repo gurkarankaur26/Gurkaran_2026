@@ -68,35 +68,61 @@
       64     1000
      
  2. a. Single Digit Addition in Base4
+       
+         1 2  3
+       1 2 3  10
+       2 3 10 11
 
-       2+3 = (5/4=1  reminder  1 1/4=0 remainder 1) = 11 
-       3+6 = (9/4=2  remainder 1 2/4=0 remainder  2) = 21  
-       8+9 = (17/4=4 remainder 1 4/4=1 remainder 0  1/4=0 remainder 1) = 101
-       5+6 = (11/4=2 remainder 3 2/4=0 remainder 2) = 23
+       2+3 = 11
+       3+1 = 10
+       
 
     b. Single Digit Subtraction in Base4
 
-       9-2 = (7/4=1 remainder 3 1/4 = 0 remainder 1) = 13
-       7-3 = (4/4=1 remainder 0 1/4=0 remainder 1) = 10
-       8-6=  (2/4=0 remainder 2) = 2
+       3-1  = 2
+       3-2  = 1
 
 3.  a. Multi Digit Addition in Base4
 
-       10+22=  (32/4=8  remainder 0 8/4=2  remainder 0 2/4=0 remainder 2)= 200      
-       31+32 = (63/4=15 remainder 3 15/4=3 remainder 3 3/4=0 remainder 3)= 333    
-       40+13 = (53/4=13 remainder 1 13/4=3 remainder 1 3/4=0 remainder 3)= 311
+       22 + 11 = 33
+       31 + 33 = 130 (3 +1 is 10 so 1 carry over -> 1 + 3 + 3 = 10 + 3 = 13)
     
-    b. Multi Digit Subtraction in Base 4
+    b. Multi Digit Subtraction in Base 4       
 
-       22-10 = (12/4=3  remainder 0 3/4=0 remainder 3 ) = 30  
-       44-13 = (31/4= 7 remainder 3 7/4=1 remainder 3 1/4=0 remainder 1)= 133
-       31-12 = (19/4= 4 remainder 3 4/4=1 remainder 0 1/4=0 remainder 1) = 103
+       22 - 10 =  12
+       23 - 12 =  11
+       33 - 11 =  22
 
 4. Single Digit Multiplication
 
-       2*3 = (6/4 =1 remainder 2 1/4=0 remainder 1) = 12 
-       3*4 = (12/4=3 remainder 0 3/4=0 remainder 3) = 30  
-       4*6 = (24/4=6 remainder 0 6/4 1 remainder 2 1/4=0 reminder 1) = 120
+       Tables in  base 4
+
+       1  2   3
+       2  10  12
+       3  12  21       
+
+       2*3 = 12 
+       2*2 = 20  
+
+5. Double Digit Multiplication  
+       
+       12 
+      *31
+      ----
+       12
+     102
+     -----
+     1032
+     ------
+
+     33
+    *13
+    -----
+     231
+     33
+    -----
+    1221
+    -----
 
 ***Start: Python Function for single and multiple digit Addition, Subtraction and Multiplication***
 def base4_calc(operation, num1,num2):
@@ -154,8 +180,7 @@ def base4_calc(operation, num1,num2):
    Function Call: base4_calc('*', 2,3)
    Output: 2*3=12              
  ***************************************
-
-5. Double Digit Multiplication   
+ 
 
    ***Calling Python Function for single and multiple digit Addition, Subtraction and Multiplication**
 
@@ -208,7 +233,7 @@ def base4_calc(operation, num1,num2):
       Total Numbers for second digit =4
       Total Number of combinations for two digit: 4*4 =16 (base10)
 
-9.  In base7, how many numbers can we represent with d digits?
+10.  In base7, how many numbers can we represent with d digits?
       Total Numbers for first digit  = 7
       Total Numbers for second digit = 7
       Total Numbers for three digit  = 7
@@ -219,20 +244,20 @@ def base4_calc(operation, num1,num2):
       Total Numbers for d digit = 7
       7^(d)
 
-10. In baseb, how many numbers can we represent with 3 digits?
+11. In baseb, how many numbers can we represent with 3 digits?
       b^3
 
-11. In baseb, how many numbers can we represent with d digits?
+12. In baseb, how many numbers can we represent with d digits?
      ***Start: Python function to find to total numbers for specified base and digit***
      def total_nos_for_base_digit(b,d):
       res = b**3
       return res
      ***End: Python function to find to total numbers for specified base and digit***
       
-12. In base10, to represent 1000 numbers how many digits do we need?
+13. In base10, to represent 1000 numbers how many digits do we need?
       3 = log(1000)
 
-13. In base10, to represent N numbers how many digits do we need?
+14. In base10, to represent N numbers how many digits do we need?
       d = log10(N)
 
       10 ^ d = N (number)
@@ -240,11 +265,11 @@ def base4_calc(operation, num1,num2):
 
 # So log is nothing but the count of zeros
 
-14. In base 2, to represent N numbers how many digits do we need?
+15. In base 2, to represent N numbers how many digits do we need?
     2^d = N
     d = log2(N)
 
-15. Compute log10 of 456 and few more numbers. You can use power(i.e. 10**x) in python but Do not 
+16. Compute log10 of 456 and few more numbers. You can use power(i.e. 10**x) in python but Do not 
     use math.log10. Accurate to say 3 decimal digits.
     Try computing Manually.
     Write full strategy.
@@ -292,7 +317,7 @@ def base4_calc(operation, num1,num2):
     output: Log10(231) is 2.365479999989292
     ***Function Call to calculate log of a number upto 10000.***
 
-16. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
+17. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
     then keep automating.
 
     *** Start: Python function to calculate square root of a number ***
