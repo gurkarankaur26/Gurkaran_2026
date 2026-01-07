@@ -58,7 +58,8 @@ def convert_num_todecimal(base,num):
 
 #Start: Python function to find to total numbers for specified base and digit***
 def total_nos_for_base_digit(b,d):
-      res = (b-1)*((b**(d-1)))
+      #res = (b-1)*((b**(d-1)))
+      res = b**d
       return res
 #End: Python function to find to total numbers for specified base and digit***
 
