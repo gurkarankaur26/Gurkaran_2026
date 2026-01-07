@@ -136,7 +136,7 @@
 
     ***Start: Python Function to convert a number from a specified base to decimal***
     def convert_num_todecimal(base,num):
-    ln= int(len(str(num)))
+    ln= len(str(num))
     res=0
     str_num=str(num)
     for i in str_num:
