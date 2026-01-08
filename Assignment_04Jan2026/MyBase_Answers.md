@@ -227,32 +227,31 @@
     log10(456) = 2.659
   
    ***Start: Python function to calculate log of a number upto 10000.***
+
     def calbase10log(n):
-    if n <10000:
-     #print(n)
-     pow=4
-     while(pow>0):
-        #print('power',pow)
-        res=int(10**pow)
-        #print(res)
-        if res==n:
-         break
-        else:
-         pow = pow -.00001
-        
-     print(f"Log10({n}) is {pow}")    
-    else:
-     print('No. should not be greater than 10000')  
+        p = 0
+        ctn = True
+        step = 0.1
+        while ctn:
+            if 10 ** (p + step) <= n:
+                p = p + step
+            else:
+                step = step / 10
+                if step < 1e-6:
+                    ctn = False
 
-    ***End: Python function to calculate log of a number upto 10000.***
+        print(f"Log10({n}) is {p:.6f}")  
 
-    ***Function Call to calculate log of a number upto 10000.***
+
+    ***End: Python function to calculate log of a number.***
+
+    ***Function Call to calculate log10 of a number.***
     function call : calbase10log(456) 
-    output: Log10(456) is 2.659909999991221
+    output: Log10(456) is 2.658964
 
     function call : calbase10log(231) 
-    output: Log10(231) is 2.365479999989292
-    ***Function Call to calculate log of a number upto 10000.***
+    output: Log10(231) is 2.363611
+    ***Function Call to calculate log10 of a number.***
 
 17. Write your strategy to compute SQRT! Work out manually first using python as calculator and 
     then keep automating.
