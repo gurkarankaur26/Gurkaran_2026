@@ -20,7 +20,7 @@ while (showmenu):
                     #print("You selected Log10")
                     commonfunction.calbase10log(int(num1))
                 elif int(option) == 2:
-                    commonfunction.calsquareroot(int(num1))
+                    commonfunction.calsquareroot_guess(int(num1))
             else:
                 print("Invalid input") 
             res= input("Do you want to exit?(y/n): ")
