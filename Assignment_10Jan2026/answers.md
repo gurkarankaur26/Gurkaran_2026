@@ -388,7 +388,7 @@
 
     ### End: Function to multiply two numbers of a given base
 
-13. Write code to fiind log of a number
+13. Write code to find log of a number
 
    ***Start: Python function to calculate log of given baseof a number upto 10000.***
 
