@@ -27,8 +27,8 @@ print("Print n digit numbers of the given base(base:12 3 digit numbers)")
 print(f'{"*"*60}')
 print_base_numbers.print_ndigit_no_in_base("0123456789AB",3)
 
-Log_BaseN_Num.calbaselog(12,1000000)
-SquareRoot.calsquareroot_guess(64)
+log_baseN_num.calbaselog(12,1000000)
+squareroot.calsquareroot_guess(64)
 print()
 print()
 
