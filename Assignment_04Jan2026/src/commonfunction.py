@@ -44,14 +44,20 @@ def base4_calc(operation, num1,num2):
 #End: Pyhton Function for single and multiple digit Addition, Subtraction and Multiplication***
 
 #Start: Python Function to convert anumber from a specified base to decimal***
-def convert_num_todecimal(base,num):
-    ln= len(str(num))
+def convert_num_todecimal(symbols,num):
+    base =len(symbols)
+    ln= len(num)
     res=0
-    str_num=str(num)
-    for i in str_num:
+    for i in num:
         if(ln<0):
          break
-        res=res+ int(i)*(base**(ln-1))
+        val:int=0
+        if str(i).isdigit()==True:
+            val =int(i)
+        else:
+            val =symbols.find(i)
+        print(type(val),type(ln))
+        res=res+ val*(base**(ln-1))
         ln=ln-1
     print(res)
 #End: Python Function to convert anumber from a specified base to decimal***

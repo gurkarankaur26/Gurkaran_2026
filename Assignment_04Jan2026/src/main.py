@@ -11,8 +11,7 @@ while (showmenu):
     print('\n\n')
     print(menu)
     option = input("Enter any number from 1 to 5: ")
-    if option.isdigit() and int(option) > 0:  
-     
+    if option.isdigit() and int(option) > 0:       
         if int(option) >= 1 and int(option) <= 2:
             num1 = input("Enter a number :")
             if num1.isdigit() and int(num1) > 0:
@@ -30,9 +29,9 @@ while (showmenu):
                 showmenu=False
                 break
         elif int(option)==3:
-            base= input("Enter base:")
+            base= input("Enter base symbols:")
             num=  input("Enter number:")
-            if base.isdigit() and int(base) > 0 and num.isdigit() and int(num) > 0:        
+            if num.isdigit() and int(num) > 0:        
                 commonfunction.convert_num_todecimal(int(base),int(num))
             else:
                 print("Invalid input")
