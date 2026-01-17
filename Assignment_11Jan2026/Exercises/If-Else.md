@@ -99,5 +99,7 @@ def are_rectangles_intersecting(rect1: tuple, rect2: tuple):
         return True
     else: 
         return False
+    
+    
 
 ### End: Function to check the rectangles are intersecting or not 
