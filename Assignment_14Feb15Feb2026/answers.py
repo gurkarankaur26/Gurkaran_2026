@@ -142,7 +142,7 @@ def log10_binary_search(x, tol=1e-7):
              high = high * 2
              #print('high',high)
              if 10**high >= x:
-                 break;
+                 break
      elif x < 1:
          low =-1
          high = 0
@@ -150,7 +150,7 @@ def log10_binary_search(x, tol=1e-7):
              low = low *2
              #print('low',low)
              if 10**low <=x:
-                 break;
+                 break
      cnt = True
      while cnt:
          mid = (low+high)/2
