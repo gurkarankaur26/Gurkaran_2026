@@ -161,12 +161,8 @@ def log10_binary_search(x, tol=1e-7):
              low = mid
          else:
              high = mid
-             
-             
-             
-             
     except ValueError as e:
-        print (f("Error:{e}"))
+        print ("Error:",e)
             
         
 # Log Base n
@@ -207,6 +203,6 @@ def log_base_n(x, n,tol=1e-7):
              high = mid
              
     except ValueError as e:
-        print (f("Error:{e}"))
+        print ("Error: ",e)
             
         
