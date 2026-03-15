@@ -1,1 +1,0 @@
-Word embeddings are a way to represent words as vectors in a multi-dimensional space, typically in high-dimensional numerical form. These vectors capture semantic and syntactic information about words, allowing us to perform various natural language processing (NLP) tasks, such as text classification, sentiment analysis, machine translation, and more. 
