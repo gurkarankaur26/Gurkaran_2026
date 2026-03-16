@@ -1,8 +1,11 @@
 import openai
 import os
 import numpy as np
+import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from pathlib import Path
+import kagglehub 
+from kagglehub import KaggleDatasetAdapter
 from get_embeddings import get_embedding
 openai_key=''
 file_path = Path('C:/Users/Lenovo/Documents/openrouter_key/ML_KEY.txt').expanduser()
@@ -24,42 +27,85 @@ client = openai.OpenAI(
 )
 
 #  Product Dataset
-data = {
-     "Cargo Pants": "Durable pants with multiple pockets for functionality and style" ,
-      "6-Pocket Pants": "Pants with two front, two back, and two side pockets.",
-      "Cargo Joggers": "Pant that ombines the multi-pocket style with an elasticized waistband and cuffs.",
-      "Tactical Cargo Pants": "Pants designed for durability, often featuring specialized pockets and, at times, zippers.",
-     "Leather Crossbody Bag": "A sustainable, compact bag with an adjustable strap",
-     "Polarized Sunglasses": "Stylish eyewear that reduces glare and protects eyes from UV rays",
-     "Plant Grow Bags": "Breathable fabric pots for gardening on balconies or patios",
-     "Water Pump Sprayer": "A handheld tool for watering plants or applying fertilizer."
-}
+# data = {
+#      "Cargo Pants": "Durable pants with multiple pockets for functionality and style" ,
+#       "6-Pocket Pants": "Pants with two front, two back, and two side pockets.",
+#       "Cargo Joggers": "Pant that ombines the multi-pocket style with an elasticized waistband and cuffs.",
+#       "Tactical Cargo Pants": "Pants designed for durability, often featuring specialized pockets and, at times, zippers.",
+#      "Leather Crossbody Bag": "A sustainable, compact bag with an adjustable strap",
+#      "Polarized Sunglasses": "Stylish eyewear that reduces glare and protects eyes from UV rays",
+#      "Plant Grow Bags": "Breathable fabric pots for gardening on balconies or patios",
+#      "Water Pump Sprayer": "A handheld tool for watering plants or applying fertilizer."
+# }
+# Set the path to the file you'd like to load
+# download dataset
+path = kagglehub.dataset_download(
+   "PromptCloudHQ/flipkart-products"
+)
+
+# p1 = r"C:\Users\Lenovo\.cache\kagglehub\datasets\PromptCloudHQ\flipkart-products\versions\1"
+# print(os.listdir(p1))
+
+# p2 = os.path.join(p1, "home")
+# print(os.listdir(p2))
+
+# p3 = os.path.join(p2, "sdf")
+# print(os.listdir(p3))
 
 
-#  Create Database dictionary
-product_vectors = {}
-for product, description in data.items():
-    # Generate the embedding for the products
-    embedding = get_embedding(description)
-    # Store in the new dictionary
-    product_vectors[product] = embedding
 
-# Set User Input
-user_description = "I want pants with multiple pockets"
-user_vec = get_embedding(user_description)
+file_path = os.path.join(
+    path,
+    "flipkart_com-ecommerce_sample.csv"
+)
 
-# Find Closest products
-similarities = {}
-for product, vec in product_vectors.items():
-    # Calculate similarity and store in the dictionary
-    sim = cosine_similarity([user_vec], [vec])[0][0]# fetch the finl similarity score from the first row and first elemen
-    similarities[product] = sim
-#print top three similar products
-ctr =1
-for product,score  in similarities.items():    
-    print(product)
-    ctr+=1
-    if ctr == 4:
-        break
-    
-    
+df = pd.read_csv(file_path)
+
+continue_input = "Y"
+while (continue_input.upper() =="Y" or continue_input.upper() == "YES"):
+    # Set User Input
+    user_description = input("Please enter the product you are looking for:  ")
+
+    user_vec = get_embedding(user_description)
+
+    # Use head() to get the first 1000 rows
+    #data = df.head(100)
+    data = df[df["description"].str.contains(user_description, case=False, na=False)]
+
+    #  Create Database dictionary
+    product_vectors = {}
+
+    #  Create Database dictionary
+    product_vectors = {}
+
+    for name, description in zip(data["product_name"], data["description"]):
+
+        text = f"{name}. Category: {description}"
+
+        embedding = get_embedding(text)
+
+        product_vectors[name] = embedding
+        
+
+
+
+    # Find Closest products
+    similarities = {}
+    for product, vec in product_vectors.items():
+        # Calculate similarity and store in the dictionary
+        sim = cosine_similarity([user_vec], [vec])[0][0]# fetch the finl similarity score from the first row and first elemen
+        similarities[product] = sim
+    #print top three similar products
+    sorted_products = sorted(
+        similarities.items(),
+        key=lambda x: x[1],
+        reverse=True
+    )
+    if sorted_products is None:
+        print("Sorry!! Product not found")
+    else:
+        for product, score in sorted_products[:3]:
+            print(product, score)
+        
+    continue_input = input("Do you want to conitune search? Enter Y/N:  ")
+        
