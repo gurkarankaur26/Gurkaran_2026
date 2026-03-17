@@ -70,42 +70,45 @@ while (continue_input.upper() =="Y" or continue_input.upper() == "YES"):
 
     # Use head() to get the first 1000 rows
     #data = df.head(100)
-    data = df[df["description"].str.contains(user_description, case=False, na=False)]
+    
+   
+    data = df[df["description"].str.contains(user_description, case=False, na=False)]   
+    if not data.empty:        
+        #  Create Database dictionary
+        product_vectors = {}
 
-    #  Create Database dictionary
-    product_vectors = {}
+        #  Create Database dictionary
+        product_vectors = {}
 
-    #  Create Database dictionary
-    product_vectors = {}
+        for name, description in zip(data["product_name"], data["description"]):
 
-    for name, description in zip(data["product_name"], data["description"]):
+            text = f"{name}. Category: {description}"
 
-        text = f"{name}. Category: {description}"
+            embedding = get_embedding(text)
 
-        embedding = get_embedding(text)
-
-        product_vectors[name] = embedding
-        
+            product_vectors[name] = embedding
+            
 
 
 
-    # Find Closest products
-    similarities = {}
-    for product, vec in product_vectors.items():
-        # Calculate similarity and store in the dictionary
-        sim = cosine_similarity([user_vec], [vec])[0][0]# fetch the finl similarity score from the first row and first elemen
-        similarities[product] = sim
-    #print top three similar products
-    sorted_products = sorted(
-        similarities.items(),
-        key=lambda x: x[1],
-        reverse=True
-    )
-    if sorted_products is None:
-        print("Sorry!! Product not found")
-    else:
+        # Find Closest products
+        similarities = {}
+        for product, vec in product_vectors.items():
+            # Calculate similarity and store in the dictionary
+            sim = cosine_similarity([user_vec], [vec])[0][0]# fetch the finl similarity score from the first row and first elemen
+            similarities[product] = sim
+        #print top three similar products
+        sorted_products = sorted(
+            similarities.items(),
+            key=lambda x: x[1],
+            reverse=True
+        )
+    
         for product, score in sorted_products[:3]:
-            print(product, score)
-        
+                print(product, score)
+     
+    else:
+        print("Sorry!! Product not found") 
+         
     continue_input = input("Do you want to conitune search? Enter Y/N:  ")
         
