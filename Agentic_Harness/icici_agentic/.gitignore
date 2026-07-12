@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+knowledge-base/
+icici-knowledge-base/
+structured_knowledge/
+__pycache__/
+*.pyc

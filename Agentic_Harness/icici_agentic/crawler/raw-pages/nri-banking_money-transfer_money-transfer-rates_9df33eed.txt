@@ -1,0 +1,15 @@
+TITLE: Currency Exchange Rates - ICICI Bank NRI Services
+URL: https://www.icicibank.com/nri-banking/money-transfer/money-transfer-rates
+
+Money2India offers low-cost transfers from USA and UAE with fast service and real-time tracking.
+| Country | Exchange Rate (INR) | Service Charges | 
+|---|---|---|
+| USA | 94.19 | Below USD 1,000 – USD 4 fee | 
+| USD 1000 & above – Zero fee | ||
+| UAE | 25.67 | 12 AED | 
+| Canada | 65.35 | Zero fee | 
+| Europe | 108.01* | 0.5 % of remitting amount* | 
+| Singapore | 72.74 | Zero fee | 
+| UK | 124.68 | Zero fee | 
+As on July 01, 2026 at 10:00 AM IST. Exchange rates are volatile and are subject to change. Check the exchange rates before initiating the transfer.
+Disclaimer: Rates and service charges are subject to change. To check the exact rate for your transfer, kindly login to M2I.

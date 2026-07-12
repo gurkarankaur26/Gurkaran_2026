@@ -1,0 +1,35 @@
+TITLE: Forex Exchange, Forex Trading, Forex Rates - Rules & Documentation - ICICI Bank
+URL: https://www.icicibank.com/online-services/forex/you_need
+
+Limit of USD 2,50,000* or it’s equivalent per financial year is applicable for the below mentioned purposes of travel:
+- Private Visit (Leisure Travel)
+- Employment
+- Accompanying patient abroad
+- Business Travel from Individual/ Proprietorship account
+- Education
+- Emigration
+- Medical Treatment/ Person who has fallen sick after going abroad
+*The overall limit available for an individual, under Liberalised Remittance Scheme for Resident Individuals (LRS) is USD 2,50,000 per financial year and the other limits as per Schedule III pertaining to travel, business, medical, education, immigration, etc have been subsumed under the LRS limit (within the overall limit of USD 2,50,000 per financial year). Hence the limit is the combined limit available for various purposes and products.
+Please note that any remittance exceeding USD 2,50,000 should be as per RBI guidelines. For more information, please contact the nearest ICICI Bank Forex Servicing branches.
+| Purpose of Travel | Documentation for ICICI Bank account holder | Documentation for non ICICI bank account holder | 
+|---|---|---|
+| Private Visits (Leisure Travel) | Form A2 cum application and LRS declaration Self-attested copy of PAN (if applicable) Self-attested copy of Passport | Form A2 cum application and LRS declaration Self-attested copy of PAN Self-attested copy of Passport Self-attested copy of VISA. In case VISA is on arrival then copy of air ticket to be taken | 
+| Going abroad on employment | ||
+| Business trip – Funding from Resident Individual Account or Proprietorship Account | ||
+| Attendant accompanying a patient for medical treatment/ check-up abroad | ||
+| Emigration | ||
+| Education (Studies Abroad) | ||
+| Medical Treatment/ Person who has fallen sick after going abroad | 
+Note:
+In case the forex limit exceeds USD 2,50,000 or it’s equivalent for purposes of Emigration, Education and Medical treatment, additional supporting document is required. For emigration, the estimate from the country of emigration; for education - estimate from the institution abroad; and for Medical treatment – the estimate received from the Doctor in India or Hospital/doctor abroad would be required.
+For more information, please visit the nearest ICICI Bank Forex Servicing branch.
+| Slabs for Valuation of Supply | |||
+|---|---|---|---|
+| Amount of currency exchanged | Value of Supply | GST @ 18%# | |
+| Up to Rs. 1,00,000 | 1% of gross amount exchanged, subject to minimum amount of Rs. 250 | Rs. 180* | |
+| From Rs. 1,00,001 to Rs. 10,00,000 | Rs. 1,000 plus 0.5% of gross amount exchanged | Rs. 990** | |
+| Above Rs. 10,00,000 | Rs. 5,500 plus 0.1% of gross amount exchanged, subject to maximum of Rs. 60,000 | Rs. 1,170*** | |
+# 18% considered for the purpose of numeric understanding only
+*Amount considered for exchange is Rs. 1,00,000
+**Amount considered for exchange is Rs. 10,00,000
+***Amount considered for exchange is Rs. 20,00,000

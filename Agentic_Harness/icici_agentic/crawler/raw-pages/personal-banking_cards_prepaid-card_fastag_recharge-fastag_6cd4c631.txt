@@ -1,0 +1,98 @@
+TITLE: FASTag Recharge - Make FASTag Recharge Online Instantly | ICICI Bank
+URL: https://www.icicibank.com/personal-banking/cards/prepaid-card/fastag/recharge-fastag
+
+Experience seamless and easy toll payment with ICICI Bank's FASTag. It is a reloadable tag designed to enhance your road travel experience. With this tag affixed securely on your vehicle, you can bid goodbye to long queues at toll plazas. FASTag helps you to pay toll charges electronically, in an instant. You can bypass the hassle of physically paying fees at toll plazas. What’s more, you don’t need to pay cash to recharge your wallet.
+NEW CUSTOMER EXISTING CUSTOMER CONCESSIONAIRE LOGIN FASTAG USER GUIDE (PDF, 910 KB)
+FASTag is an electronic toll collection system that enables users to pay tolls while travelling without stopping and paying in cash. Recharging your FASTag Account is essential to ensure a seamless toll payment experience.
+For the first-of-its-kind, you can now set Standing Instruction (SI) from Retail Net Banking(RIB) or ICICI Bank's iMobile app and simply forget the hassles of recharging your ICICI Bank FASTag every time. With this facility, your FASTag account gets automatically recharged when the amount goes below the threshold limit
+Recharging your FASTag is an easy procedure that offers flexibility and convenience. There are several options for doing this. Let us discuss two well-known methods of FASTag recharging:
+Using the iMobile App
+Through UPI Payments
+Open any UPI-enabled app:Many UPI apps like Google Pay, PhonePe or Paytm can be used for this purpose. Make sure the app is up-to-date
+Using these methods ensures that your FASTag remains topped up, allowing for seamless travel through toll plazas without any delays. Whether you prefer the detailed control offered by the iMobile app or the quick and easy UPI payments, recharging your FASTag has never been more convenient.
+Here are the key benefits of using FASTag:
+Log in to Net Banking or mobile APP (ICICI Bank or Non-ICICI Bank) (For ETOL Code)
+Select 'Payments and Transfer' ➔ 'Fund Transfer' ➔ ' Other Bank Account'
+To 'Add new Payee' enter the below details for:
+BENEFICIARY TYPE: NEFT or IMPS or RTGS
+BENEFICIARY ACCOUNT NUMBER: ETOLXXXXXXXX
+IFSC CODE: ICIC0000104
+BENEFICIARY ACCOUNT NAME: ETCPOOL
+Log in to Net Banking or mobile APP (ICICI Bank or Non-ICICI Bank) (For ETCCUG Code)
+Select 'Payments and Transfer' ➔ 'Fund Transfer' ➔ ' Other Bank Account'
+To 'Add new Payee' enter the below details for:
+BENEFICIARY TYPE: NEFT or IMPS or RTGS
+BENEFICIARY ACCOUNT NUMBER: ETCCUGXXXXXXXX
+IFSC CODE: ICIC0000106
+BENEFICIARY ACCOUNT NAME: ETCPOOL
+Log in to Net Banking or mobile APP (ICICI Bank or Non-ICICI Bank)(For FTIM Code)
+Select 'Payments and Transfer' ➔ 'Fund Transfer' ➔ ' Other Bank Account'
+To 'Add new Payee' enter the below details for:
+BENEFICIARY TYPE: NEFT or IMPS or RTGS
+BENEFICIARY ACCOUNT NUMBER: FTIMXXXXXXXX
+IFSC CODE: ICIC0000104
+BENEFICIARY ACCOUNT NAME: ETCPOOL
+NOTE:
+Where XXXXXXXX is the 8-digit FASTag Customer ID
+Payment initiated through any other mode apart from NEFT or IMPS or RTGS will be declined.
+*You can transfer amount from 'CUG Wallet' to 'Tag'.
+Automatic transfer:
+Manual transfer:
+Steps to set Standing Instructions (SI):
+Retail Internet Banking (RIB):#
+Corporate Net Banking (CIB):#
+#For e.g. in your SI, if you enter the ‘Threshold Amount’ as INR 500, ‘Top-up Amount’ as INR 1,000 and ‘Start Date’ as 15 February 2021, then starting Feb 15, 2021, your SI will be set. As soon as your account goes below INR 500 threshold, it will get automatically topped up with INR 1,000.
+Transactions through your tag is only possible when the amount is transferred from ‘CUG Wallet’ to ‘Tag’.
+Two ways to transfer from ‘CUG Wallet’ to ‘Tag’:
+Automatic transfer:
+Manual transfer:
+Click Here To Login to the customer portal
+For any queries, please reach out on our Toll-Free number 1800-2100-104.
+T&C apply.
+For Vehicle, enter the
+For CUG Wallet, enter the
+Important points to remember:
+Select ‘Payments’ from the top menu -> ’Standing Instructions’
+Or Select ‘Statement and Activity’ from the top menu -> ’Recent Activity’.
+For instance:
+Insufficient funds in your Savings Account or if the transaction is not permitted, as Debit in your Savings Account has been barred (for certain reasons), then it automatically gets triggered after 8 hours. This will be attempted 3 times and if it still fails, the SI will be disabled, automatically.
+To enable the SI again, you have to log in to RIB again and complete the steps as given above.
+If you have enabled the Standing Instructions successfully and would like to disable the same, Login to RIB, with the same User Credentials, which you had used to activate it. For example, to enable the Standing Instructions, if you had logged in to RIB with your User ID <XX1234>, then to disable it too you will have to login with the same User ID <XX1234>.
+1Tag Account/Vehicle Number:
+For example, if you enter the minimum ‘Threshold Amount’ as ₹100, ‘Top-up Amount’ as ₹1,000, your SI will be set with the effective date, which was selected during the setup of the SI. Then, as soon as your account goes below the ₹100 threshold, it will get automatically topped up with ₹1,000.
+2CUG/One Wallet:
+For example, if you enter the minimum ‘Threshold Amount’ as ₹500, ‘Top-up Amount’ as ₹1,000, your SI will be set with the effective date, which was selected during the setup of the SI. As soon as your account goes below ₹500 threshold, it will get automatically topped up with ₹1,000.
+Imagine a situation where you have entered the FASTag lane at the toll plaza, however you are unable to zip through, due to insufficient funds in your wallet. Aside from the commotion, you will have to pay double the applicable toll fees!
+To avoid all these hassles, we bring you one more option to recharge your FASTag automatically, as per your defined frequency - through UPI Mandate.
+Salient features of an auto recharge facility through UPI Mandate:
+Frequency enabled as per convenience
+One time quick and easy process to set-up
+Enabled or Disabled at any time, as per requirement
+Can set up this facility in both CUG or wallet and Tag.
+Simple steps to enable the facility:
+Step 1 Login to ICICI Bank FASTag Customer portal
+Step 2 Select ‘Payments’ → ‘Standing Instructions for UPI’ from top menu
+Step 3 Enter details to set 'Standing Instructions through UPI'
+Select 'Payment Frequency' from the drop-down
+Enter 'Virtual Payment Address (VPA)' *
+Enter 'Top-up Amount' (Minimum amount: INR 100)
+Select 'Start Date' and click on 'Submit' button
+Step 4 Go to UPI Mandate section in your app (with which VPA ID is linked) to accept the authorization request on the same day
+Step 5 Pre-debit notification will be sent from the respective app (where the UPI Mandate has been set)
+Step 6 Accept the notification and enter the PIN#(if required)
+Step 7 UPI Mandate will be triggered within 24 hours of accepting the pre-debit notification and amount will be deducted from your bank account
+*Linked to Bank Account
+#PIN is requested only if the recharge amount is more than INR 15,000
+Let’s consider this scenario:
+You set the Standing Instructions through UPI by logging into the customer portal on 15 March 2023 with ‘Payment Frequency’ as Daily. You will receive the authorization request in your mobile app on 15 March 2023 and Pre-debit notification on 16 March 2023, which needs to be accepted and PIN entered. This is a one-time process. Within 24 hours of accepting the pre-debit notification, UPI Mandate will be triggered and the amount will get deducted from the bank account. Starting from 16 March 2023, amount will get deducted on a daily basis to automatically recharge your FASTag
+Auto Recharge FastTag with ICICI Bank's iMobile app
+When recharging your FASTag, you can start with a minimum of ₹100 and go up to a maximum of ₹1,00,000. This flexibility allows you to select any amount within this range that suits your needs when recharging your FASTag wallet.
+No, there are no charges for recharging your FASTag account. However, there are certain charges related to getting one. These are:
+If you have recharged your FASTag account through the ICICI Bank portal and the amount is debited from your bank account but not credited to your FASTag, contact ICICI Bank Customer Service Centre immediately. Place a request to initiate a reversal of the transaction to ensure the funds are correctly credited to your FASTag account without delay.
+FASTag is mandatory for vehicles using electronic toll collection lanes as per regulatory guidelines. Maintaining sufficient balance ensures uninterrupted toll payments.
+Log in to ICICI Bank FASTag portal or supported digital platform, enter registered vehicle number, select recharge amount and complete payment using available methods.
+Recharge is usually reflected shortly after a successful transaction, subject to system processing timelines.
+FASTag recharge may be available at authorised toll plaza counters or Point of Sale locations, subject to operational availability.
+Payment methods may include Net Banking, UPI, debit card, credit card or other approved digital channels.
+Log in to the FASTag portal, enter chassis number as per registration details, select recharge amount and complete the transaction.
+Monthly pass recharge is subject to toll operator policies and applicable charges.

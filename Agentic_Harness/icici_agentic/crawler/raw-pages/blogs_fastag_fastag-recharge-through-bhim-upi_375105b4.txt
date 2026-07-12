@@ -1,0 +1,43 @@
+TITLE: How to Recharge FASTag Using BHIM UPI?
+URL: https://www.icicibank.com/blogs/fastag/fastag-recharge-through-bhim-upi
+
+THE
+ORANGE
+HUB
+How to Recharge FASTag Using BHIM UPI?
+FASTag has completely transformed the landscape of highway traffic in India by simplifying and expediting toll payments. This innovative electronic toll collection system allows for payments at toll plazas through RFID technology enabling vehicles to pass through without any interruptions.
+It has notably decreased congestion at toll booths across India, making travel more efficient and convenient.
+You can top up your FASTag conveniently using your UPI application. This user-friendly app provides a way to oversee your toll transactions. You can utilise your FASTag at your convenience without concerns about balance by recharging it via your smartphone using BHIM UPI. Read this post to learn more about FASTag recharge using the UPI in India.
+Steps to Recharge Your FASTag through BHIM UPI
+You can recharge your FASTag through UPI Payments on the iMobile app or set for Auto Debit in the ICICI Bank FASTag option. When recharging through BHIM UPI, follow the steps below:
+Step 1
+Access the UPI App
+Open up your UPI app on your phone. If you're not already signed in, input your details to log into your account.
+Step 2
+Initiate Transaction
+After logging in, go to the menu. Choose the Pay to UPI ID option. This will enable you to start a transaction for recharging your FASTag.
+Step 3
+Input the UPI ID
+- Enter the UPI ID linked to your FASTag in the Pay to UPI ID section. For ICICI Bank, the format is "netc.vehiclenumber@icici". Make sure the ID is correct to avoid transaction issues.
+E.g : If your vehicle number is MH00AA000, your UPI ID would be ‘netc.mh00aa0000@icici’.
+Step 4
+Double check the UPI ID
+Before proceeding, verify that the UPI ID matches your account. This step is crucial for ensuring that everything is in order.
+Step 5
+Enter the Recharge Amount
+Now type in the amount you want to recharge for your FASTag. It's an idea to review your balance and consider your usual travel requirements when deciding on the recharge sum.
+Step 6
+Confirm the Transaction
+Lastly confirm and authorize the transaction by entering your UPI PIN. After you input your PIN the system will process the transaction. You can expect to receive a confirmation message confirming a recharge.
+FAQs on FASTag Recharge through UPI
+1. What is the minimum/maximum FASTag recharge amount?
+The maximum recharge value for FASTag may differ based on your KYC, however the minimum recharge amount using UPI is usually Rs. 1.
+2. What payment modes are accepted to recharge FASTag through BHIM UPI?
+Recharging your FASTag via BHIM UPI, debit card, RTGS, net banking, with an ICICI Bank account enables you to send money straight through the UPI payment system for speedy transactions.
+3. What should I do if my payment status is not updated even after a successful transaction through BHIM UPI?
+Check your bank statement for confirmation first to see whether your payment status has been changed. For a resolution, get in touch with your bank customer support or the FASTag issuer if the money is taken out.
+4. Can we buy FASTag from the UPI app?
+No, FASTags are not sold using the BHIM app. Banks, authorised retailers, and online marketplaces that provide this service can all sell you FASTag.
+5. Which app is used to recharge FASTag?
+Numerous UPI-capable applications, such as iMobile app from ICICI Bank and BHIM UPI app may be used to recharge your FASTag.
+Scroll to top

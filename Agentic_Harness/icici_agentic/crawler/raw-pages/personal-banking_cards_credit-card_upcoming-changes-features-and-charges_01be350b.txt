@@ -1,0 +1,36 @@
+TITLE: Credit Cards - Upcoming changes to Credit Card features and charges
+URL: https://www.icicibank.com/personal-banking/cards/credit-card/upcoming-changes-features-and-charges
+
+Starting 01 January 2025, you can enjoy complimentary lounge access at domestic airports by spending ₹75,000 on certain ICICI Bank Credit Cards. Spends made in the previous calendar quarter will unlock access for the subsequent calendar quarter. For example, to be eligible for complimentary lounge access in the quarter of January 2025 to March 2025, you need to spend a minimum of ₹75,000 in the quarter of October 2024 to December 2024 and similarly for subsequent quarters. The number of complimentary access varies as per the Card.
+Please go through the below illustration to understand the Spend period along with the Lounge eligibility period
+| S. No. | Spend period | Lounge eligibility period | 
+|---|---|---|
+| 1 | Spend ₹75,000 between 26 September 2024 and 25 December 2024 | Get complimentary lounge access between 01 January 2025 and 31 March 2025 | 
+| 2 | Spend ₹75,000 between 26 December 2024 and 25 March 2025 | Get complimentary lounge access between 01 April 2025 and 30 June 2025 | 
+| 3 | Spend ₹75,000 between 26 March 2025 and 25 June 2025 | Get complimentary lounge access between 01 July 2025 and 30 September 2025 | 
+| 4 | Spend ₹75,000 between 26 June 2025 and 25 September 2025 | Get complimentary lounge access between 01 October 2025 and 31 December 2025 | 
+This updated criterion for availing complimentary domestic airport lounge access will be applicable for all eligible ICICI Bank Credit Cards except:
+ICICI Bank Diamant Credit Cards
+ICICI Bank Emeralde Private Metal Credit Cards
+ICICI Bank Emeralde Private Credit Cards
+ICICI Bank Emeralde Credit Cards
+ICICI Bank Emirates Emeralde Credit Cards
+MakeMyTrip ICICI Bank Credit Cards
+Times Black ICICI Bank Credit Cards
+| S. No. | Spend period | Eligibility period | 
+| 1 | Spend ₹25,000 between December 26, 2025 and March 25, 2026 | Get BookmyShow benefits between April 01, 2026 and June 30, 2026 | 
+| 2 | Spend ₹25,000 between 26 March 2025 and 25 June 2026 | Get BookmyShow benefits between 01 July 2026 and 30 September 2026 | 
+| 3 | Spend ₹25,000 between 26 June 2026 and 25 September 2026 | Get BookmyShow benefits between 01 October 2026 and 31 December 2026 | 
+| 4 | Spend ₹25,000 between 26 September 2026 and 25 December 2026 | Get BookmyShow benefits between 01 January 2027 and 31 March 2027 | 
+| 
+ | Credit Cards | DCC Charges | 
+|---|---|---|
+| Dynamic Currency Conversion Fees (DCC) | Times Black ICICI Bank Credit Card | 1.49% | 
+| ICICI Bank Emeralde Metal Credit Card, ICICI Bank Emeralde Credit Card, ICICI Bank Emeralde Private Credit Card | 2.00% | |
+| MakeMyTrip ICICI Bank Travel Credit Card | 0.99% | |
+| Amazon Pay ICICI Bank Credit Card | 1.99% | |
+| All other credit cards including MakeMyTrip ICICI Bank Signature Credit Card and MakeMyTrip ICICI Bank Platinum Credit Card | 3.50% | 
+From 05 February 2024, rent pay and e-wallet loading transactions will not accrue any reward points.
+This change will not apply for Amazon Pay ICICI Bank Credit Card
+You will continue to earn reward points on utility transactions as offered on your card. Starting 05 February 2024, the government transactions will be included under utility payment transactions.
+This change will not apply for Amazon Pay ICICI Bank Credit Card

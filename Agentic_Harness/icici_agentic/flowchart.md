@@ -1,0 +1,77 @@
+┌─────────────────────┐
+│ User enters question│
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Generate embedding  │
+│ for user query      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Load embeddings.json│
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Compute similarity  │
+│ for all documents   │
+│ (Embedding + Keyword│
+│ Hybrid Score)       │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Select Top K docs   │
+│ (e.g. top 5 or 10)  │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Read document files │
+│ from knowledge-base │
+└──────────┬──────────┘
+           │
+           ▼
+┌────────────────────────────────────┐
+│ Build LLM Prompt                   │
+│                                    │
+│ - User Question                    │
+│ - Conversation History             │
+│ - Retrieved Documents              │
+│ - Agent Instructions               │
+└──────────┬─────────────────────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Send prompt to LLM  │
+│ (GPT-4.1-mini)      │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Parse LLM response  │
+└──────────┬──────────┘
+           │
+           │
+ ┌─────────┼─────────┐
+ │         │         │
+ ▼         ▼         ▼
+
+ANSWER    ASKUSER    SEARCH
+ │          │          │
+ │          │          │
+ │          │          ▼
+ │          │    ┌──────────────┐
+ │          │    │ Search again │
+ │          │    │ with new query│
+ │          │    └──────┬───────┘
+ │          │           │
+ │          └───────────┘
+ │
+ ▼
+┌─────────────────────┐
+│ Return answer to    │
+│ user as Kajal       │
+└─────────────────────┘

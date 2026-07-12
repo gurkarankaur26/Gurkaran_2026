@@ -1,0 +1,16 @@
+TITLE: iMobile: ICICI Bank’s NRI Mobile Banking App | Secure & Convenient Banking
+URL: https://www.icicibank.com/nri-banking/mobile-banking/imobile
+
+Things you should know
+-  
+                                        SIM Binding is mandatory Register using the SIM linked to your bank account. 
+-  
+                                        Mobile number must be active Ensure your registered SIM is inserted and can send SMS. 
+-  
+                                        Secure login options Log in using MPIN, Internet Banking ID or fingerprint. 
+-  
+                                        Use updated OS only iMobile works on Android 9+ and iOS 17+ versions only. 
+-  
+                                        One device at a time You can access iMobile on only one device per user. 
+-  
+                                        No charges from ICICI Bank iMobile is free to use; operator data/SMS charges apply.

@@ -1,0 +1,41 @@
+TITLE: Mutual Fund Calculator | Mutual Fund Return Calculator Online
+URL: https://www.icicibank.com/calculator/mutual-fund-calculator
+
+Use ICICI Bank’s Mutual Fund Calculator to estimate potential returns on SIP or lumpsum investments. It’s quick, accurate, and helps you plan your financial goals with ease.
+No technical expertise needed
+Available 24*7 online
+Facilitates better investment decisions
+Helps evaluate return differences between investment modes
+Know your maturity value upfront to plan financial goals better
+Select ‘One-Time Investment’
+Enter your target or investment amount
+Input your initial investment
+Select the investment duration
+Enter the expected return rate
+Click ‘Calculate’ to view your estimated maturity value or the required investment amount.
+Select ‘SIP’
+Enter your target or SIP amount
+Choose the SIP duration
+Input the expected return rate
+Click ‘Calculate’ for instant results.
+The calculator supports both new and experienced investors by simplifying return estimation. It helps evaluate multiple types of mutual fund returns—absolute, annualised, total, trailing, point-to-point, and rolling. Its intuitive design allows even non-experts to project returns across fixed-tenure periods and make informed decisions for both short- and long-term goals.
+The ICICI Bank MF Calculator works on a straightforward algorithm. Whether you're investing via a one-time lump sum or a Systematic Investment Plan (SIP), it calculates your potential returns instantly based on your inputs, without the need for complex manual calculations.
+A Mutual Fund Calculator is an online tool that helps estimate the potential returns on your investments. By entering values such as investment amount, duration, and expected rate of return, you can view the maturity amount, helping in better financial planning.
+No, the calculator provides an estimated return based on the inputs you provide.
+Please note:
+Why is the Expected Rate of Return Important in a Mutual Fund Calculator?
+The expected rate of return is a key factor in calculating future value.
+Here’s why it matters:
+Example – Impact of 1% difference over 10 years:
+| SIP Amount | Tenure | Return Rate | Expected Value | 
+| ₹10,000/month | 10 years | 10% | ₹20,14,576 | 
+| ₹10,000/month | 10 years | 11% | ₹21,24,298 | 
+You can start investing in mutual funds with as little as ₹500 per instalment through a Systematic Investment Plan (SIP).
+This makes mutual fund investments accessible and flexible for all types of investors.
+The calculator allows you to evaluate how returns differ between investing a fixed amount monthly (SIP) and investing a larger amount at once (Lumpsum).
+Illustration:
+Let’s assume an expected return rate of 12% over 5 years:
+| Investment Type | Amount Invested | Duration | Expected Return | Maturity Amount | 
+| SIP | ₹10,000/month | 5 years | 12% p.a. | ₹8.11 lakh | 
+| Lumpsum | ₹6 lakh (one-time) | 5 years | 12% p.a. | ₹10.57 lakh | 
+As shown, the investment method impacts your maturity value. The calculator helps you compare both options based on your investment capacity and goals.

@@ -1,0 +1,10 @@
+TITLE: FD Interest Rates - Check Latest Fixed Deposit Rates | ICICI Bank
+URL: https://www.icicibank.com/personal-banking/deposits/fixed-deposit/fd-interest-rates
+
+The rules below apply as per the Reserve Bank of India (RBI) guidelines in addition to the regular FD rules T&C. In case of a conflict, these terms shall prevail.
+Below are the key features of FDs:
+| Tenure of Deposit | Less than ₹25 crore | ₹25 crore and above | 
+|---|---|---|
+| Less than 1 year | 0.50% | 0.50% | 
+| 1 year and above but < 5 years | 1.00% | 1.00% | 
+| 5 years and above | 1.00% | 1.50% |

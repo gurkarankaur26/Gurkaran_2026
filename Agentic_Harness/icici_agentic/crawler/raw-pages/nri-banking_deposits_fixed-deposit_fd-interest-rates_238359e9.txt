@@ -1,0 +1,46 @@
+TITLE: NRI Fixed Deposit Interest Rates – NRE & NRO FD Rates | ICICI Bank
+URL: https://www.icicibank.com/nri-banking/deposits/fixed-deposit/fd-interest-rates
+
+Note: Clear your browser cookies and history, or use incognito mode to view the latest rates.
+ 
+OPEN FIXED DEPOSIT
+ 
+ 
+Important Notes:
+- FD interest rates are subject to change without prior notice
+- TDS (Tax Deducted at Source) will be applicable on interest earned on NRO FD as per Income Tax laws. No TDS will be applicable on interest earned on NRE FD.
+- NRE FD rates are applicable for 1 year tenure or more.
+- Senior Citizen rates do not apply to NRI FDs.
+- Revised rates apply to both new and renewed FDs.
+- If you change from a Non-Resident to a Resident status, the Resident Deposit rates will apply.
+ 
+Note: The rules apply as per the Reserve Bank of India (RBI) guidelines in addition to the regular FD rules and T&C. In case of a conflict, these terms shall prevail.
+ 
+Premature Withdrawal Penalty on NRI Fixed Deposits  
+Penalty on Premature/Partial Closure for NRO & NRE FDs:
+ 
+- In case of premature withdrawal, interest on the deposit shall be paid for the period that it has remained with the bank at the rate that prevailed at the time of booking for the actual tenure of the Term Deposit and not at the contracted rate and post deduction of the applicable penalty.
+- In case of premature withdrawal of the entire deposit amount before the minimum tenure (1 year for NRE FD and 7 days for NRO ), no interest will be paid.
+- No interest will be paid if the NRE FD is withdrawn before 1 year from the date of deposit.
+- Any excess interest paid at the contracted rate (as part of monthly or quarterly payouts) will be recovered from the principal amount in case of premature withdrawal.
+- Penalties for premature withdrawal are applicable, as mentioned below
+ 
+ 
+| Tenure of deposit | Less than Rs. 25 Cr | Rs. 25 Cr and above | 
+|---|
+| Less than 1 year | 0.50% | 0.50% | 
+| 1 year and above but < 5 years | 1.00% | 1.00% | 
+| 5 years and above | 1.00% | 1.50% | 
+ 
+ 
+Penalty and Rules for FDs Without Premature Withdrawal Facility (NRO & NRE):
+- These FDs cannot be closed before the predetermined tenure. Premature closure may only be allowed in special cases (e.g., regulatory directions, deceased claims).
+- In cases of early closure, no interest will be paid and any credited interest will be recovered from the principal.
+- Overdraft against Fixed Deposit (ODFD) is unavailable for non-withdrawable deposits.
+- The auto-renewal facility is not available for these FDs.
+- The minimum term for traditional NRO FDs without premature withdrawal is 3 months.
+- The maximum term for traditional NRO FDs without premature withdrawal is 10 years.
+- The minimum term for cumulative NRO FDs without premature withdrawal is 6 months.
+- The maximum term for cumulative NRO FDs without premature withdrawal is 10 years.
+- The minimum term for NRE FDs is 1 year, and the maximum term for NRE FDs is 10 years.
+- For opening an FD without premature withdrawal, please contact your Relationship Manager or visit any ICICI Bank branch.

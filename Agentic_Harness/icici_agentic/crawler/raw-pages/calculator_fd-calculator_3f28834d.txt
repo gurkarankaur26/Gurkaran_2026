@@ -1,0 +1,61 @@
+TITLE: FD Calculator - Fixed Deposit Calculator Online | ICICI Bank
+URL: https://www.icicibank.com/calculator/fd-calculator
+
+Calculate your Fixed Deposit (FD) returns effortlessly. Use our FD Calculator to plan your investments wisely and maximise your returns.
+Open Fixed Deposit View interest rates Fixed Deposit details
+Tax Deducted at Source (TDS) applies to interest earned, as per prevailing rates.
+Check the latest Fixed Deposit interest rates
+Minimum FD amount: ₹10,000
+Tenure options:
+Cumulative FD: 6 months – 10 years
+Quarterly Interest Payout FD: 3 months – 10 years
+Monthly Interest Payout FD: 3 months – 10 years
+Short-term: 7 days – 185 days.
+The FD Calculator provides indicative maturity amounts for NRE and NRO Term Deposits with premature withdrawal facilities
+It cannot be used for calculating FCNR Account Deposit maturity values
+Check the latest interest rates for FCNR Deposits
+The Calculator covers deposits up to ₹3 crore
+For deposits over ₹3 crore, check NRE or NRO interest rates
+Senior citizen rates do not apply to NRE and NRO deposits
+NRO FDs are subject to TDS
+Minimum FD amount: ₹25,000
+Tenure options:
+NRE FD: 1 year – 10 years
+NRO FD: 7 days – 10 years.
+Free and Online: Access the ICICI Bank FD Calculator online at no cost, from anywhere
+Compare Interest Rates: Compare different FD interest rates offered by ICICI Bank
+Minimal Input: Enter just a few details like FD amount and tenure to calculate maturity amount and interest accurately
+Instant Results: Get immediate calculations of the interest earned on your FD for the chosen tenure.
+The maturity amount of an FD is determined by using the compound interest formula, as most banks compound interest quarterly. Below is the formula used: FD is determined using
+A = P (1 + r/n)^(n*t)
+where:
+A = Maturity amount
+P = Principal amount (Initial deposit)
+r = Annual interest rate (in decimal, e.g., 6.6% = 0.066)
+n = Number of times interest is compounded per year (i.e., if interest is compounded quarterly, n=4)
+t = Tenure of the FD in years
+Let us understand it with an example. When an investor invests ₹1,00,000 in an FD at an interest rate of 6.60% per annum for 3 years, in which the interest is compounded quarterly, they get a total amount of ~₹1,21,699 at maturity*.
+*The estimated maturity amount is calculated using ICICI Bank’s FD Calculator. Final values may vary subject to ICICI Bank’s policies.
+The ICICI Bank FD Calculator is a user-friendly tool designed to help customers estimate the interest earned on their Fixed Deposit (FD). By inputting the investment amount, tenure, and applicable interest rate, customers can easily calculate the potential returns on their deposit.
+ICICI Bank’s FD Calculator is a simple and efficient tool to estimate your Fixed Deposit returns. The calculator needs only basic information from you, i.e., the FD amount and the FD tenure. The rate of interest is automatically filled. The calculator quickly calculates the expected returns on the FD and helps you save time when comparing various FD plans to choose one.
+It also eliminates the need for time-consuming manual calculations and ensures more precise results. It helps in better financial planning by providing a clear picture of how your investment will grow over time.
+Using the FD Calculator is simple:
+Interest is calculated based on the FD tenure and the prevailing interest rate at the time of opening the FD.
+Cumulative FD: Interest compounded, i.e., reinvested into the principal quarterly
+Quarterly Payout FD: Simple interest paid at the end of each quarter
+Monthly Payout FD: Interest paid at a discounted value monthly
+Short-term FD: Interest calculated and paid on simple interest basis.
+The minimum amount to open a Fixed Deposit with ICICI Bank is ₹10,000. For a Recurring Deposit, the minimum opening amount is ₹500 and subsequent deposits can be in multiples of ₹100 per month.
+ICICI Bank offers flexible tenures from 7 days – 10 years.
+Eligible applicants include:
+Individuals:
+Residents
+Non-Resident Indians
+Minors with guardianship.
+Entities:
+Sole Proprietorship Firms
+Hindu Undivided Families (HUFs)
+Partnership Firms
+Limited Companies
+Trust Accounts.
+You can open an ICICI Bank FD anytime, anywhere through ICICI Bank's iMobile app or Net Banking. You can also open an FD by visiting any ICICI Bank Branch or ATM or by calling our Customer Care on 1800 1080.

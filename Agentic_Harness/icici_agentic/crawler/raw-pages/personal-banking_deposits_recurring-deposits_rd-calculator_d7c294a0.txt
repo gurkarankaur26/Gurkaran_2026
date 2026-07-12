@@ -1,0 +1,55 @@
+TITLE: RD Calculator - Calculate Maturity Amount Using RD Interest Calculator
+URL: https://www.icicibank.com/personal-banking/deposits/recurring-deposits/rd-calculator
+
+Start saving with ICICI Bank Recurring Deposits (RDs). Make small monthly investments and enjoy assured returns. Use our RD Calculator to estimate how much you can save and earn.
+The Recurring Deposit (RD) Calculator is a helpful tool that allows you to estimate the interest earned on your Recurring Deposit at maturity. ICICI Bank provides competitive interest rates, making it easier for you to plan your savings and investments with the RD Calculator.
+Using the RD Calculator is simple:
+Choose the type of deposit (Senior Citizen or Normal RD).
+Select the monthly investment amount.
+Choose the tenure of your Recurring Deposit.
+Adjust the amount and tenure to suit your preferences.
+After entering the details, you’ll see the calculated maturity amount instantly.
+Interest on a Recurring Deposit is compounded quarterly. The formula used to calculate the RD interest rate is:
+M = R[(1 + i)^n - 1] / (1 - (1 + i)^(-1/3))
+ Where:
+M = Maturity Value
+R = Monthly Instalment
+n = Number of Quarters
+i = Rate of Interest / 400
+ For example, if you invest ₹5,000 per month at 8% interest for one year, the maturity amount will be ₹62,647.
+Fixed Interest Rate: The interest rate is determined at the time of opening the RD based on the tenure and investment amount.
+Taxable Interest: The interest earned on RDs is taxable, and TDS (Tax Deducted at Source) is applicable.
+Both Recurring Deposits (RDs) and Fixed Deposits (FDs) are good investment options.
+FD: Suitable for those with lump sum funds available.
+RD: Ideal for those who want to save small amounts regularly.
+Choose an RD if you prefer starting small and building savings month by month.
+Tenure: The minimum RD tenure is 6 months, with an option to extend in 3-month increments.
+Monthly Instalment: Start with a minimum deposit of ₹500 per month, and increase in multiples of ₹100.
+The Recurring Deposit Calculator helps you estimate the interest you will earn and the maturity amount of your Recurring Deposit. Use ICICI Bank’s RD Calculator to efficiently plan your savings.
+Using the RD Calculator is simple:
+Select your deposit type (Senior Citizen or General Citizen)
+Enter the amount you plan to deposit every month
+Choose the deposit tenure (period)
+Adjust the amount or tenure as needed
+The calculator will instantly show you the estimated maturity amount.
+RD interest is compounded quarterly. The formula for calculating the maturity value (M) is:
+M = R[(1+i)^n - 1] / (1 - (1+i)^(-1/3))
+ where:
+M = Maturity Amount
+R = Monthly Instalment Amount
+n = Number of Quarters for which instalments are made
+i = Interest Rate per annum ÷ 400
+For example, investing ₹5,000 per month for one year (4 quarters) at 8% interest yields a maturity amount of ₹62,647..
+Yes, the RD interest rate is fixed at the time of opening the RD and depends on the deposit tenure and amount.
+Yes, the interest earned on a Recurring Deposit is taxable as per applicable laws.
+The RD Calculator provides an estimate of the maturity amount, enabling better financial planning.
+Both options are beneficial. If you have surplus funds, opt for an FD. For smaller, regular savings, an RD is ideal.
+Yes, TDS (Tax Deducted at Source) applies to the interest earned on a Recurring Deposit.
+The minimum tenure for an RD is 6 months, extendable in multiples of 3 months. The maximum tenure is 10 years.
+Start an RD with a minimum deposit of ₹500 per month.. Subsequent deposits should be in multiples of ₹100.
+Shweta Kumari
+Opening an RD (Recurring Deposit) online was incredibly simple and convenient. The entire process took just a few minutes, and I didn’t have to visit the bank even once. The digital platform is user-friendly, and I could compare rates and choose the right RD tenure as my first investment with ICICI Bank. It’s a hassle-free way to secure my savings and earn great returns!
+Nalin
+As a young professional, I wanted a disciplined way to save my money while earning good returns and ICICI Bank’s Recurring Deposit was the perfect choice. The small monthly contributions easily fit into my budget, and this has been excellent way to develop a disciplined savings habit. I would recommend ICICI Bank's RD as a perfect choice for anyone to build a strong and secure foundation.
+Vaibhav Kapoor
+As a busy professional, I appreciate how easy it was to set up my recurring deposits online with ICICI Bank’s Digital platforms.ICICI Bank's iMobile is user-friendly, allowing me to start saving in just a few clicks without any paperwork. I also value the nomination facility, which ensures my savings are secured for my loved ones.

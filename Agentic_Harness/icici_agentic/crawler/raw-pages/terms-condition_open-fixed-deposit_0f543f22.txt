@@ -1,0 +1,66 @@
+TITLE: ICICI Bank fixed deposit (FD) terms and conditions
+URL: https://www.icicibank.com/terms-condition/open-fixed-deposit
+
+This is a summary of the terms governing Deposit Accounts (FD or RD and other deposit variants) with ICICI Bank. This summary is for your reference and general understanding only. In case of inconsistency between the Terms and Conditions and any specific term and condition pertaining to a specific Deposit variant, the specific term and condition of that Deposit variant shall prevail. For detailed Terms and Conditions, please click here (PDF, 449 KB).
+Applicability of terms
+(a)These terms apply to all resident and non-resident Deposit Accounts unless specified otherwise.
+(b)They are supplementary to and should be read in conjunction with the specific terms provided during Account opening.
+(c) The depositor's agreement to these terms is confirmed upon opening or operating the Account.
+Account opening
+Account opening is subject to the Bank's internal policies and adherence to KYC (Know Your Customer) guidelines mandated by the Reserve Bank of India (RBI).
+The applicant must provide all required information and documentation, which the Bank will verify.
+The Bank reserves the right to refuse to open an Account without providing a reason.
+Account closure
+The depositor can request to close the Account by submitting a written request. For Joint Accounts, all holders must sign the request.
+The Bank reserves the right to close an Account if it is not operated in a satisfactory manner 'or for any other valid reason' after providing notice to the depositor.
+Term Deposit Receipt (TDR) or Advice
+The Bank issues a TDR or a deposit advice as evidence of the Deposit. This is a non-transferable memorandum and not a negotiable instrument.
+In case of loss or destruction of the physical TDR, the depositor must immediately notify the Bank in writing and follow the Bank's procedure for issuance of a duplicate, which may require an indemnity.
+Interest
+Interest is calculated at the rate applicable for the deposit tenure at the time of booking.
+The method of calculation (simple or compounded) and frequency of payout (monthly, quarterly or at maturity) are determined by the product chosen.
+Interest rates are subject to change at the Bank's discretion. Renewed deposits will earn interest at the rates prevailing on the date of renewal.
+Renewal of Deposit
+Depositors can opt for auto-renewal at the time of opening the Deposit Account.
+If auto-renewal is enabled, the principal and or interest will be renewed for the original tenure at the interest rate prevailing on the maturity date.
+If no instruction is given, the Deposit is considered overdue upon maturity.
+Repayment of Deposit on maturity
+Unless auto-renewed, the maturity proceeds will be credited to the depositor’s designated operative Account (Savings or Current).
+Payment will be made to the account holder(s) based on the operational instructions provided (e.g., ‘Either or Survivor’, ‘Former or Survivor’, etc.).
+Premature withdrawal of Deposit
+Certain deposits like the Tax Saver FD have a lock-in period and cannot be closed prematurely.
+On premature withdrawal, the interest shall be paid for the period that the Deposit remained with the Bank at a rate that prevailed for Deposits at the time of booking the Deposit and not at a contracted rate, less a penal charge. Please click here for penal rates.
+Fixed Deposits can be prematurely withdrawn through ICICI Bank Net Banking, ICICI Bank's iMobile app or any other digital channel only if the Fixed Deposit is held under a single name. In case of Fixed Deposits held jointly, having mode of operation as ‘Either or Survivor’ or ‘Former or Survivor’ or ‘Anyone or Survivor’, the signatures of all the depositors will be required for premature withdrawal of the Fixed Deposit.
+Premature withdrawal will be allowed in the event of death of the depositor without any premature penal charge.
+Deceased depositor
+In case of the death of a sole depositor, the proceeds are paid to the registered nominee. If no nominee exists, payment is made to the legal heirs upon submission of required legal documents (like a succession certificate).
+For joint accounts, the payment is made to the surviving depositor(s) as per the operational mandate.
+Joint Account provisions
+Clear operational instructions must be provided for joint accounts (e.g., ‘Either or Survivor’, ‘Former or Survivor’, ‘Jointly’).
+All account holders are jointly and severally liable for all obligations related to the Account.
+Modifications to Account details require the consent of all joint holders.
+Nomination
+A nomination facility is available as per the Banking Regulation Act, 1949.
+The nominee has the right to receive the Deposit amount upon the death of the sole depositor or all joint depositors.
+The Bank’s payment to the nominee discharges its liability, but the nominee receives the funds as a trustee for the legal heirs.
+Overdraft Against Deposit
+The Bank may, at its discretion, grant an overdraft facility against the security of the term deposit.
+The deposit will be lien-marked and the TDR may be held by the Bank until the overdraft is fully repaid.
+Terms and conditions for the overdraft facility, including interest rate and margin, are determined by the Bank.
+Bank's lien and right of set-off
+The Bank has a general lien and right of set-off over all funds in the Deposit Account.
+This allows the Bank to appropriate the funds to settle any debts or liabilities owed by the depositor to the Bank in any other capacity, after giving due notice.
+Tax Deduction at Source (TDS)
+The Bank will deduct TDS on interest earned as per the provisions of the Income Tax Act, 1961.
+Depositors may submit Form 15G (for resident individuals) or 15H (for senior citizens) to claim exemption from TDS, provided they meet the eligibility criteria.
+Communication
+All communications will be sent to the depositor's registered e-mail ID or mobile number and address.
+It is the depositor's responsibility to keep the Bank informed of any change in their contact details.
+Indemnity
+The depositor agrees to indemnify the Bank against any losses, damages or costs incurred due to the depositor's non-compliance with the terms, breach of representations or fraudulent activity.
+Governing law and jurisdiction
+The terms and conditions and the relationship between the depositor and the Bank are governed by the laws of India.
+Any disputes are subject to the exclusive jurisdiction of the courts in the city where the branch maintaining the Account is located.
+Amendment of terms
+The Bank reserves the right to amend these terms and conditions at any time.
+Changes will be prospectively effective and will be communicated to depositors through the Bank's website, notice at branches or other appropriate channels.

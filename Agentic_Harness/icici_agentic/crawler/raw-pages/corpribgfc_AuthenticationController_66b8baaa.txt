@@ -1,0 +1,213 @@
+TITLE: ICICI Bank GIFT City Retail  Internet Banking Login
+URL: https://ribibgc.icicibank.com/corpribgfc/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI97
+
+Secure Virtual Keyboard
+			    
+			    
+			      
+			        `
+			        ~
+			      
+			      
+			        1
+			        !
+			      
+			      
+			       2
+			       @
+			      
+			      
+			        3
+			        #
+			      
+			      
+			        4
+			        $
+			      
+			      
+			        5
+			        %
+			      
+			      
+			        6
+			        ^
+			      
+			      
+			        7
+			        &
+			      
+			      
+			        8
+			        *
+			      
+			      
+			        9
+			        (
+			      
+			      
+			        0
+			        )
+			      
+			      
+			        -
+			        _
+			      
+			      
+			        =
+			        +
+			      
+			      Done
+		    	 
+		    	
+			      
+			        q
+			        Q
+			      
+			      
+			        w
+			        W
+			      
+			      
+			        e
+			        E
+			      
+			      
+			        r
+			        R
+			      
+			      
+			        t
+			        T
+			      
+			      
+			        y
+			        Y
+			      
+			      
+			        u
+			        U
+			      
+			      
+			        i
+			        I
+			      
+			      
+			        o
+			        O
+			      
+			      
+			        p
+			        P
+			      
+			      
+			        [
+			        {
+			      
+			      
+			        ]
+			        }
+			      
+    			 
+    			
+			      
+			        a
+			        A
+			      
+			      
+			        s
+			        S
+			      
+			      
+			        d
+			        D
+			      
+			      
+			        f
+			        F
+			      
+			      
+			        g
+			        G
+			      
+			      
+			        h
+			        H
+			      
+			      
+			        j
+			        J
+			      
+			      
+			        k
+			        K
+			      
+			      
+			        l
+			        L
+			      
+			      
+			        ;
+			        :
+			      
+			      
+			        '
+			        '
+			      
+			     
+    			
+			      
+			        z
+			        Z
+			      
+			      
+			        x
+			        X
+			      
+			      
+			        c
+			        C
+			      
+			      
+			        v
+			        V
+			      
+			      
+			        b
+			        B
+			      
+			      
+			        n
+			        N
+			      
+			      
+			        m
+			        M
+			      
+			      
+			        ,
+			        <
+			      
+			      
+			        .
+			        >
+			      
+			      
+			        /
+			        ?
+			      
+  				 
+  				
+				 
+							
+				
+				Please ensure the following before logging in:
+				
+						
+					
+					 
+					The URL address on the address bar of your internet browser begins with https://giftcity.icici.bank.in
+					Do not enter login or other sensitive information in any pop up windows 
+					You have verified the security certificate by clicking on the padlock icon of your internet browser. View all Security terms
+				
+				
+					https://giftcity.icici.bank.in has been verified by Entrust. The communication of your private information from any address beginning with "https" is encrypted and secured using SSL

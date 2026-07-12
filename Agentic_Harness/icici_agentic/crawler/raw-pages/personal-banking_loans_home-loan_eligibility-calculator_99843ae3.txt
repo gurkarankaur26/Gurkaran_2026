@@ -1,0 +1,39 @@
+TITLE: Home Loan Eligibility Calculator - Check Housing Loan Eligibility
+URL: https://www.icicibank.com/personal-banking/loans/home-loan/eligibility-calculator
+
+Use the ICICI Bank Home Loan eligibility calculator to know how much loan you can get based on your income, age and repayment capacity. With the calculator, you can quickly check Home Loan eligibility online and plan your finances for your dream home wisely.
+ 
+When you are applying for a Home Loan with ICICI Bank, you can check your Home Loan eligibility with our online calculator. By using the Home Loan Eligibility Calculator, you can find out the eligible loan amount that you can get from the bank, based on your income and existing financial commitments.
+The process of calculating the Housing Loan eligibility and EMI becomes very easy with our tool. The formula used here is:
+EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]
+Where:
+P = Principal loan amount
+N = Loan tenure in months
+R = Monthly interest rate
+ 
+To know the monthly interest rate (R), take the annual interest rate, divide it by 12 and then convert it to a decimal by dividing it by 100. For example, for a ₹10,00,000 Loan at an illustrative annual interest rate of 9% over 120 months (12 years), your EMI would be around ₹26,602 per month.
+The usage of the online eligibility calculator is very simple for loan applicants. Here is how you can use it:
+Here are some ways by which you can boost your Home Loan eligibility:
+Adding a co-applicant with an independent source of income may strengthen the overall repayment profile and may positively impact Home Loan eligibility, subject to ICICI Bank’s internal assessment criteria. Eligibility assessment may vary for salaried and self-employed applicants based on factors such as income stability, repayment capacity, existing financial obligations, business continuity, cash flows, and supporting financial documents.
+The Home Loan eligibility calculator provides indicative results for informational purposes only. Final loan eligibility, sanctioned loan amount, applicable interest rate, and loan approval are subject to detailed credit evaluation, verification, policy norms, and other terms and conditions of ICICI Bank.
+Equated Monthly Instalment or EMI is a fixed repayment of a Home Loan, which you pay every month for a specific duration. This payment structure follows a pre-defined Amortisation Schedule.
+An Amortisation Schedule is your financial roadmap, detailing:
+With part payments, you can reduce the outstanding balance, thereby lowering the interest.
+Part payment is credited as principal amount. This lowers the total amount of interest you need to pay, where you can either keep the EMI amount same by reducing tenure or keep the tenure same by reducing the EMI amount.
+An EMI Calculator is a perfect option for Home Loan borrowers. By simply entering the Loan amount, interest rate and tenure, you can:
+Calculating your EMIs is crucial for effective financial management. Here’s why:
+Age is a key factor in Home Loan eligibility. Here’s how:
+Lenders check Home Loan eligibility and tenure based on age.
+Age-based criteria align loan terms with your income and retirement plans.
+Understanding age criteria for loans, helps you choose the right tenure and customise the loan to your life stage. Use a Housing Loan eligibility calculator to compare or customise the loan terms.
+Age is a key factor in House Loan eligibility. Here’s how:
+Lenders check Home Loan eligibility and tenure based on age.
+Age-based criteria align loan terms with your income and retirement plans.
+Understanding age criteria for loans, helps you choose the right tenure and customise the loan to your life stage. Use a Housing Loan eligibility calculator to compare or customise the loan terms.
+The exact amount that you can get for a Home Loan depends on various factors like your age, income, and credit score. However, to get an idea of the eligible loan amount, you can use the Home Loan Eligibility Calculator from ICICI Bank and get results immediately.
+The common Home Loan eligibility criteria of ICICI Bank are as follows:
+For detailed information, visit here.
+With a monthly income of ₹50,000, the exact loan amount depends on many important factors like your credit score, existing EMIs and tenure. Using a House Loan eligibility calculator can give a more accurate estimate.
+The exact EMI depends upon the interest rate you qualify for. Know your EMI by using a Housing Loan eligibility calculator for precise results. You need to enter a few important details like the loan amount, interest rate and the tenure to get the EMI.
+It is required to provide monthly income, date of birth, existing EMI obligations, desired loan amount, and preferred tenure. A good credit score improves eligibility.
+A co-applicant with independent income may strengthen the overall repayment profile and helps in increasing loan eligiblity, subject to the bank’s assessment criteria.

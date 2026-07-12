@@ -1,0 +1,36 @@
+TITLE: iMobile Pay for NRI – Get Started with ICICI Bank Mobile Banking
+URL: https://www.icicibank.com/nri-banking/mobile-banking/imobile/get-started
+
+Step 1: Download iMobile
+ 
+Choose any of the following options to get the iMobile app on your device:
+ 
+| Method | How to Download | 
+|---|
+| App Store / Play Store | Search and install ‘iMobile’ | 
+| SMS | SMS iMobile to 5676766 for the link | 
+| Browser | Visit mobile.icicibank.com/dl from your mobile browser | 
+ 
+ 
+Step 2: Activate iMobile to experience enchanced security with SIM Binding authentication now mandatory for NRI customers!
+ 
+Follow these steps after installation:
+ 
+- Install the iMobile app via. App Store or Play Store
+ 
+- Tap on "Let's Get Started"
+ 
+- Tap on "Proceed", to verify your mobile number
+ 
+- Select SIM of the registered mobile number and click on Continue
+ 
+- Create MPIN
+ 
+- Verify through "Debit Card" or "Net Banking ID",
+ - Using “Debit Card”, → authenticate using debit card grid number → enable fingerprint or face id → Login
+ 
+- Using "Net Banking ID", → authenticate using Internet banking user ID & password → enable fingerprint or face id → Login
+ 
+ 
+ 
+Important Notes

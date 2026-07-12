@@ -1,0 +1,70 @@
+TITLE: Car Loan processing fees & charges - Car Loan processing fee
+URL: https://www.icicibank.com/personal-banking/loans/car-loan/service-charges
+
+If you are looking for flexible schemes, quick processing of your loans, attractive interest rates at the click of a mouse, then your search ends here. ICICI Bank Car Loans is the most preferred financier for car loans in the country and offers you all the above with unbelievable ease.
+| Description of Charges | Asset Segment | Processing Fee | |
+|---|---|---|---|
+| New Car | Used Car | ||
+| Processing Fee Amt | Processing Fee Amt | ||
+| Loan processing fee (non refundable) | All Bands | Up to ₹8,500 + applicable GST | 2% of loan amount, max upto ₹20,000, whichever is lower + applicable GST | 
+| SR. NO. | Charges and Interest | Amount | |
+| A | On Application | ||
+| i. | Loan documentation charges | ₹500 + applicable GST | |
+| ii. | Registration Certificate (RC) Collection Fee | ₹600 + applicable GST | |
+| iii. | Stamp duty charges | At actuals as per state stamp duty act + applicable GST | |
+| iv. | Valuation Charges (For Used Car) | Auto - Used car - ₹800* + applicable GST | |
+| v. | Information Utility Charges (Only for Corporate Cases) | ₹300 + applicable GST | |
+| B | 
+ | ||
+| i. | Part Prepayment Charges | Nil for loan seasoning above 24 months | |
+| 3% plus GST for loans seasoning up to 24 months | |||
+| ii. | Penal charges for late payment | 5% plus GST per annum will be charged on the overdue Equated Monthly Instalment (EMI) until repayment plus applicable taxes which may be payable pursuant to the applicable laws and terms and conditions | |
+| iii. | Penal charge for dishonour of cheque, AD, ECS or NACH per transaction | ₹500 + applicable GST per instance of bounce/ return/ dishonour of cheques and/ or any payment instruction including AD/ ECS/ NACH/ E-mandate | |
+| iv. | Loan Cancellation Charges | 1. Digital Lending - NIL Cancellation within Free Look / Cooling off period, Cancellation post cooling period and before 1 EMI date (i.e. from 16th day till 1st EMI date) – ₹2,500 + applicable GST | |
+| C | Service Charges | ||
+| i. | Duplicate repayment or amortization schedule charges | ₹200 + applicable GST for physical print out, Nil for digital channels | |
+| ii. | Statement of Account charges | ₹200 + applicable GST for physical print out at the branch | |
+| iii. | Prepayment statement charges | ₹200 + applicable GST for physical print out at the branch | |
+| iv. | Duplicate No Objection Certificate / No Due Certificate charges | ₹250 + applicable GST | |
+| v. | Revalidation of No Objection Certificate charges | ₹250 + applicable GST | |
+| vi. | No Objection Certificate for conversion from Petrol to Liquefied Petroleum Gas (LPG) or Compressed Natural Gas (CNG) charges | ₹250 + applicable GST | |
+| vii. | No Objection Certificate to convert from private to commercial or from commercial to private charges | ₹250 + applicable GST | |
+| viii. | Repayment mode swap charges | ₹500 + applicable GST | |
+| ix. | Cash Transaction Charges (for repayment of EMI dues in cash at branches) | ₹100 + applicable GST | |
+| x. | Prepayment charges (On Foreclosure) | Nil for loan seasoning above 24 months | |
+| 2% plus GST for loan seasoning between 13 to 24 months and | |||
+| 3% plus GST for loan seasoning up to 12 month | |||
+| Nil for eligible Micro and Small segment customers | |||
+| xi. | CERSAI Charges | ₹100 + applicable GST | |
+| D | Loan related recovery charges (If applicable) | ||
+| i. | Charges incurred in SARFAESI proceedings | At actuals | |
+| ii. | Charges incurred in sending different notices | At actuals | |
+| iii. | Enforcement charges | At actuals | |
+| iv. | Non Maintenance of Mode of Payment charges (NMMP) | ₹800 + applicable GST | |
+| v. | Paper advertisement charges | At actuals | |
+| vi. | Repossession charges | At actuals | |
+| vii. | Security guard charges | At actuals | |
+| Part Prepayment Charges for Car Loans | |
+|---|---|
+| Particulars | Part prepayment criteria and charges | 
+| Eligibility | No minimum seasoning required to initiate part payment | 
+| Part prepayment allowed for all customer profiles (Individual, Non individual, Salaried, Self-employed, etc.) | |
+| Part prepayment charges | i) 3% plus GST for loans with seasoning up to 24 months. | 
+| ii) Nil for loans seasoning above 24 months. | |
+| Other Terms & Conditions | i) Minimum part prepayment amount will be equivalent to one Equated Monthly Instalment (EMI) | 
+| ii) No maximum part prepayment amount | |
+| iii) No maximum number of part prepayments | |
+| iv) No minimum gaps in part prepayments | |
+The RBI through its Circular No. RBI/2023-24/53 dated 18 August 2023 on ‘Fair Lending Practice - Penal Charges in Loan Accounts’, has advised banks that penalty if charged, for non-compliance with the material terms and conditions of the loan contract will be treated as penal charges and not be levied in the form of penal interest that is added to the rate of interest charged on the loans or advances. The RBI has further advised that there will be no capitalisation of penal charges i.e. no further interest will be computed on such penal charges. However, the above mentioned shall not affect the normal procedure for compounding of interest in the loan account.
+The above guidelines are effective from 01 April 2024 and applicable for all fresh loan facilities executed from 01 April 2024. In case of an existing loan facility, the switchover to the new penal charges regime shall take place by the next review or renewal date or before 30 June 2024, whichever is earlier. The revised charges are as below:
+| Existing penal interest | Applicable penal charges | 
+|---|---|
+| 24% per annum + applicable GST | 5% per annum + applicable GST | 
+*Goods and Services Tax and other government taxes, levies, etc. applicable as per the prevailing rate will be charged over and above the mentioned penal charges.
+| ICICI BANK | Quarter ended on March 2026 | ||
+|---|---|---|---|
+| Product | Minimum | Maximum | Mean | 
+| New Car Loan | 7.8% | 11.25% | 8.8% | 
+| Used Car Loan | 9.75% | 17.01% | 13.03% | 
+The Annual Percentage Rate (APR) is a method to compute annualized credit cost which includes interest rate and loan origination fee.
+To calculate the same, please click here to download the APR calculator.

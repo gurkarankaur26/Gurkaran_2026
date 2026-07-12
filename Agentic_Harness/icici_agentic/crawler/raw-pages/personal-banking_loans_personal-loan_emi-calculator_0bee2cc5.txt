@@ -1,0 +1,15 @@
+TITLE: Personal Loan EMI Calculator - Calculate Personal Loan EMI | ICICI Bank
+URL: https://www.icicibank.com/personal-banking/loans/personal-loan/emi-calculator
+
+Personal Loan EMI is calculated using the loan amount, applicable interest rate and repayment tenure selected by the borrower. The EMI consists of both principal and interest components spread across the repayment period.
+Key Components of EMI Calculation
+- Principal loan amount
+- Applicable interest rate
+- Loan repayment tenure
+- Monthly repayment structure
+Customers can use the ICICI Bank Personal Loan EMI Calculator to estimate monthly instalments instantly and compare repayment scenarios conveniently. Personal Loan EMI is calculated using the standard EMI formula based on the loan amount, applicable interest rate and repayment tenure. EMI=P×R×(1+R)N(1+R)N−1EMI = \frac{P \times R \times (1+R)^N}{(1+R)^N - 1}EMI=(1+R)N−1P×R×(1+R)N
+ 
+P = Principal loan amount
+R = Monthly interest rate (Annual Interest Rate ÷ 12 ÷ 100)
+N = Loan tenure in months
+The EMI amount includes both the principal and interest payable on the loan.

@@ -1,0 +1,7 @@
+TITLE: Digital Demat Account Opening for PMS end Clients
+URL: https://www.icicibank.com/business-banking/capital-market-and-securities-market-services/custodial-services/digital-demat-account-opening-for-pms-end-clients
+
+i. i-CACE: Digital Demat a/c for PMS end client
+i-CACE (ICICI Bank Capital Markets & custody Ecosystem) is an in-house platform to facilitate Demat Account Opening and PMS Application for the end clients of Portfolio Managers (PMS) in a single digital journey. i-CACE Platform provides digital as well as phygital journey of account opening as per convenience of the clients
+ii. Third Party Platform integration for Digital Demat a/c
+ICICI Bank has established a tie-up with multiple third-party vendors to enable Portfolio Managers (PMS) to onboard their end clients digitally through these platforms. These platforms support KRA based demat account opening with along with PMS documentation of end clients.

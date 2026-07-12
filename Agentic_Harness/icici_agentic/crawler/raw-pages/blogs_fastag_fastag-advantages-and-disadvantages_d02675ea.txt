@@ -1,0 +1,91 @@
+TITLE: Benefits of FASTag for Vehicles | ICICI Bank FASTag
+URL: https://www.icicibank.com/blogs/fastag/fastag-advantages-and-disadvantages
+
+Experience seamless and easy toll payment with ICICI Bank’s FASTag:
+Enjoy our benefits!
+1. Automatic deduction of toll charges
+2. No hassles of providing cash or change
+3. Convenient recharge options and more benefits
+NEW CUSTOMER EXISTING CUSTOMER CONCESSIONAIRE LOGIN FASTAG USER GUIDE (PDF, 910 KB)
+For the first-of-its-kind, you can now set Standing Instruction (SI) from Retail Net Banking (RIB) and simply forget the hassles of recharging your ICICI Bank FASTag every time. With this facility, your FASTag account gets automatically recharged when the amount goes below the threshold limit*.
+Benefits of Standing Instructions:
+To Know More, Click Here
+With this facility, your ICICI Bank FASTag Account gets automatically recharged, when the amount goes below the threshold limit. You don’t have to recharge your FASTag Account, every time you take out your vehicle on the highways or are out of funds.
+Benefits of Auto Recharge through iMobile:
+To set Auto Recharge through iMobile app, follow the below simple steps:
+Imagine a situation where you have entered the FASTag lane at the Toll plaza, however you are unable to zip through, due to insufficient funds in your wallet. Aside from the commotion, you will have to pay double the applicable toll fees!
+To avoid all these hassles, we bring you one more option to recharge your FASTag automatically, as per your defined frequency - through UPI Mandate.
+Salient features of an auto recharge facility through UPI Mandate:
+Simple steps to enable the facility:
+Step 1 Login to ICICI Bank FASTag Customer portal
+Step 2 Select ‘Payments’ → ‘Standing Instructions for UPI’ from top menu
+Step 3 Enter details to set 'Standing Instructions through UPI'
+Step 4 Go to UPI Mandate section in your app (with which VPA ID is linked) to accept the authorization request on the same day
+Step 5 Pre-debit notification will be sent from the respective app (where the UPI Mandate has been set)
+Step 6 Accept the notification and enter the PIN# (if required)
+Step 7 UPI Mandate will be triggered within 24 Hours of accepting the pre-debit notification and amount will be deducted from your Bank account
+*Linked to Bank Account
+#PIN is requested only if the recharge amount is more than INR 15,000
+Let’s consider this scenario:
+You set the Standing Instructions through UPI by logging into the customer portal on March 15, 2023 with ‘Payment Frequency’ as Daily. You will receive the Authorization request in your mobile app on March 15, 2023 and Pre-debit notification on March 16, 2023, which needs to be accepted and PIN entered. This is a one-time process. Within 24 hours of accepting the pre-debit notification, UPI Mandate will be triggered and the amount will get deducted from the Bank account. Starting from March 16, 2023, amount will get deducted on a daily basis to automatically recharge your FASTag
+Know Your Customer (KYC) is a mandatory process used to verify your identity. You can now complete this verification for FASTag via video calls by connecting with our Bank Officer. During the process, your KYC documents will be verified, and signatures recorded through the video call with a bank officer, thus doing away with the need of physically visiting a bank branch.
+Benefits:
+The status of your KYC impacts your recharge limit for FASTag. If you are a min-KYC customer, the value of the FASTag limit in any month should not exceed INR 10,000. Also, the total amount loaded in the wallet during a financial year should not exceed ₹1 lakh. If you have completed your KYC, the maximum amount in the wallet at any point of time can be ₹1 lakh.
+Pre-requisites for video KYC:
+To initiate video KYC please ensure the following:
+Keep the below things handy -
+Other things to be taken care of –
+Process:
+Select icici.co/ICICiT/k/DUvfEE3ONE6
+Enable location: To proceed, your location should be ‘India’
+Verify details:
+Enter profile details and click ‘Next’
+For verification enter:
+Verify OTP on your Aadhar Registered mobile number
+Select the consents provided
+If communication address is the same as permanent address, select ‘Yes’. Else, select ‘No’ and enter the details
+Select ‘Terms and Conditions’ and ‘Proceed for Video KYC’ to get connected to our Phone Banking Officer
+Details will be verified at our end, after which your KYC status will be confirmed within T+2 working days
+ICICI Bank FASTag has now tied up with Hindustan Petroleum Corporation Limited (HPCL) to let you pay for fuel (petrol, diesel, CNG and Lubricants), using FASTag.
+Benefits:
+To apply for FASTag online, Click here and fill in your details. Your RFID tag will be delivered for free at your doorstep.
+You can also log in to ICICI Bank Net Banking/iMobile/InstaBIZ/Pockets app with your credentials to apply for FASTag.
+Click Here for video on How to purchase FASTag from Pockets App.
+ICICI Bank Net Banking. Click Here to log in
+iMobile
+InstaBIZ
+Pockets app with your credentials to apply for FASTag
+ALL Bank Customers can purchase FASTag, by logging into
+Customer may recharge his tag account online through, iMobile / Credit Card/ Debit Card/ NEFT/ RTGS/ UPI or Net Banking
+Click Here To recharge FASTag through Net Banking
+Now enjoy the convenience of applying for a new FASTag with ICICI Bank WhatsApp Banking. You can also access your FASTag account on your fingertips.
+FASTag services available with WhatsApp Banking:
+Request new FASTag
+Get FASTag balance
+Update Vehicle Registration Number
+Get last 5 transactions
+Close FASTag
+FASTag statement
+Tag replacement
+Check FASTag Status - Simply send ‘Hi’ to 86400 86400 from your registered mobile number to get started.
+Customer will receive SMS alerts on his registered mobile numbers for all the transactions done in his tag account
+Customer doesn't need to worry about carrying cash for the toll payments
+FASTag is read by the tag reader at the plaza and the toll amount is deducted automatically, when the vehicle approaches the toll plaza. The vehicle with FASTag doesn't need to stop at the toll plaza for the cash transaction
+Buy new FASTag
+Recharge FASTag
+Raise a query
+Update Vehicle Number
+Close FASTag
+View FASTag details
+Request tag replacement
+Download statement
+Auto Recharge FASTag account when amount goes below the threshold limit
+If your closure request is approved, your FASTag will be first put in 03 exception code (low balance status) in NPCI and IHMCL records. After 15 days of approval of request, you will receive refund of balance in your wallet and your FASTag will then be added to 06 exception code (closed status) in NPCI and IHMCL records.
+Your closure request will be verified by the Bank basis the documents submitted. The TAT for verification is 3 business days. After the request is approved, your tag will be added to 03 exception code (low balance status) to block tag from doing transactions. After 15 days of approval of request, you will receive refund of balance in your wallet and your FASTag will then be added to 06 exception code (closed status) in NPCI and IHMCL records. If any transactions are sent by toll plaza on blocked tag, you can raise a dispute on the transactions for getting refund from the toll plaza. Once toll plaza accepts the dispute, you will receive the refund.
+You can login to FASTag web portal - https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx and check the activity history of the vehicle for which closure request was raised. The activity history will display the reason for rejection. You can raise request for closure again with valid documents. In case of urgent permanent blocking of tag (if you have sold the vehicle), you can click on “View tag account summary” and then click on “Manage Tags” under “Vehicles” Tab, click on “Manage” and mark the tag as Lost/Stolen to add the tag to 06 exception code (closed/permanent block).
+If your FASTag is hotlisted due to negative balance, you can recharge with sufficient balance and activate. If your FASTag sticker is hotlisted because of incorrect vehicle number or not updating registration certificate, or any other reason, please upload your registration certificate and reach out to customer care number - 1800 2100 104. If your FASTag is showing as “Closed” in NPCI and IHMCL records, it cannot be activated again. You can take a new FASTag under your existing FASTag wallet if the status of your FASTag in ICICI FASTag portal - https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx is “Returndamage” or “LOST” or “STOLEN”. However, if your FASTag status is “HEXTAGCLOSED” or “CLOSED” or “PENDING CLOSED” or “REFUND REQUESTED” or “SUSPENDED” or “WRITE OFF”, you need to create new FASTag account for new FASTag. Existing account can be closed by following the process for FASTag wallet closure.
+If your FASTag is showing as “Closed” in NPCI and IHMCl records, it cannot be activated again. You can check your FASTag wallet status in ICICI Bank FASTag web portal - https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx If your FASTag status is “HEXTAGCLOSED” or “CLOSED” or “PENDING CLOSED” or “REFUND REQUESTED” or “SUSPENDED” or “WRITE OFF”, you need to create new FASTag account for new FASTag. Existing account can be closed by following the process for FASTag wallet closure.
+You can apply through ICICI Bank’s website, FASTag Customer Portal or authorised channels by submitting vehicle and KYC details.
+Yes. Use the designated FASTag lane at toll plazas to enable automatic electronic toll deduction.
+Immediately log in to the FASTag Customer Portal or contact the toll-free number to block the FASTag.
+FASTag is accepted at NETC-enabled toll plazas across India as per national electronic toll collection guidelines.

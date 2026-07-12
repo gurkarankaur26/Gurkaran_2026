@@ -1,0 +1,181 @@
+TITLE: Mutual Fund Faqs - ICICI Bank Answers
+URL: https://www.icicibank.com/personal-banking/investments/mutual-funds/mutual-fund-faqs
+
+A mutual fund is an investment vehicle that pools money from multiple investors and invests it in a diversified portfolio of equities, debt instruments, gold, or other securities. The fund is managed by professional fund managers who make investment decisions on your behalf. Mutual funds enable you to access expert management, diversification, and market opportunities even with modest investment amounts.
+A mutual fund is established as a trust under SEBI regulations. The structure consists of:
+Sponsor(s): Promoters of the fund
+Trustees: Custodians of investor interests
+Asset Management Company (AMC): Manages the fund professionally
+Custodian: Holds underlying securities
+This framework ensures transparency, regulatory oversight, and strong governance for investor protection.
+A SIP allows you to invest a fixed amount regularly—typically monthly—into a mutual fund scheme. Units are purchased at the prevailing NAV on each SIP date, enabling rupee-cost averaging and promoting disciplined investing. SIPs help mitigate market volatility and are ideal for long-term wealth creation.
+NAV represents the per-unit value of a mutual fund scheme. It is calculated as:
+NAV = (Total Market Value of Scheme’s Investments – Liabilities) ÷ Number of Units Outstanding
+NAV helps determine the purchase or sale price of mutual fund units and reflects the fund’s daily performance.2
+NAV is updated and declared at the end of every business day. This ensures transparency and allows investors to track performance regularly. NAV updates are published on AMC websites and AMFI/SEBI platforms.
+The redemption price is the amount an investor receives when selling mutual fund units. It is typically calculated based on the applicable NAV minus any exit load, if applicable. Also check the fund before redeeming whether it is under lock-in period/ELSS/Children/Retirement Fund because these funds cannot be redeemed before the tenure period. Once redeemed, the proceeds are credited to the investor’s registered bank account within standard settlement timelines.
+No. As per SEBI regulations, entry loads have been abolished since 1 August 2009.
+Which means investors do not pay any upfront charges while purchasing units.
+Investors only bear fund-level expenses (expense ratio) and applicable exit loads, if any.
+Below are the few points which you should consider while choosing mutual fund scheme:
+Your Risk Profile
+Your investment goal
+Investment horizon
+Past performance of the fund
+Fund manager track record
+Expense ratio
+Growth Option: Profits are reinvested, allowing wealth to compound over time. No periodic payouts are made.
+IDCW* Option: Investors may receive periodic payouts depending on fund performance and AMC’s declaration. NAV reduces to reflect the payout.
+ Choice depends on whether you prefer capital appreciation or periodic income.
+* IDCW option commonly known as dividend
+Mutual funds are broadly classified as:
+Equity Funds
+Invest in equity and equity related instruments
+For long-term capital growth
+Invest in fixed-income securities which includes government/corporate bonds, treasury bills & money market instruments.
+It provides a reliable income stream, liquidity, and diversification
+Invest in a combination of debt and equity,
+Offers benefit of asset allocation and diversification
+Tailored for goals like retirement and child’s education
+Lock-in periods to encourage disciplined investing
+Invest in indices, like the Sensex or Nifty 50 through Index funds/ETFs or FoF (Fund of Funds)
+Suited for investors who want to allocate exactly as per market index.
+Mutual funds are market-linked products and may involve:
+Market risk
+Interest rate risk
+Credit risk
+Liquidity risk
+ However, diversification, expert management, and regulatory oversight help manage risks effectively. Investors should align scheme choice with their financial goals and risk profile.
+KYC requires:
+PAN
+Proof of Identity (Aadhaar)
+Photograph
+KYC form and FATCA-CRS declaration
+ * please refer KYC form for other documents required for non-individual.
+As per SEBI rules, KYC is mandatory to invest in mutual funds. It ensures that your identity, address, and other details are verified once for all market intermediaries.
+You can check your KYC status through:
+CVL – www.cvlkra.com
+CAMS - Cams Investor Service Centre, Mutual Fund Distributors in India, camskra.com
+AMFI Mutual Fund Sahi hai - KYC Check
+ The status will reflect as “KYC Registered” “KYC Validated”, “On Hold”, or “Not Verified”. (MF KYC should be 'Validated' for "Resident Individual" & for "NRI" - MF KYC should be 'Registered' or 'Validated'.)
+| KYC Status | When | Impact on MF investment | Required to do Re-KYC | 
+| KYC Validated | Original KYC was based on Aadhar | Can perform MF transaction across fund houses | No | 
+| KYC Registered | Original KYC was based on OVD, except Aadhar | No impact on existing investments, but can't invest in new fund house apart from the one already invested with | Required to do Re-KYC to invest in a new fund house apart from the existing one's | 
+| On Hold | Original KYC was based on non-OVD | Debarred from all MF transaction | Yes | 
+| Rejected | After KYC has been "On hold" for 10-15 days, status becomes "Rejected" | Debarred from all MF transaction | Yes | 
+Yes. PAN is mandatory for all investors except specific categories such as certain government bodies or exemptions notified by SEBI.
+Yes. In joint investments, each holder must complete KYC individually. All joint holders must comply with PAN, KYC and FATCA norms since they share ownership of the investment.
+Resident individuals, NRIs, Resident minors (through guardians), HUFs, companies, partnerships, LLPs, trusts and other SEBI-permitted entities can invest in Mutual Fund through ICICI Bank platform, subject to completion of KYC procedures and onboarding online registration process.
+If the Savings account is in single/joint mode of operation and wants to purchase MF in single name (First Holder) then it can be done from iMobile/Net banking. Please login iMobile/Net Banking click on Mutual Fund page and create the Investment ID by selecting the account and fill the basic details like DOB, PAN. Investment ID will create immediately and transaction from iMobile/Net Banking can be done subject to completion of MF KYC.
+If the saving is in Joint Name and want to purchase mutual fund in Any or Survivor mode then please visit the branch and activate Mutual Fund section by submitting the MF online registration form along with PAN and Aadhar.
+You can invest through:
+ICICI Bank Net Banking (Login ICICI Bank Netbanking>Investment >Buy Mutual Fund>Select from top categories>choose the scheme & invest)
+iMobile (iMobile Login>Invest>Mutual Fund>Select from top categories>Choose fund & invest)
+Simply), select the scheme, choose investment mode (SIP/Lumpsum), confirm the mandate and authorise payment securely. If KYC is not done, you need to complete the KYC first. Same can be done from mutual fund section in iMobile.
+Switching is allowed between schemes of the same AMC. The switch is treated as a redemption from the existing scheme and purchase into the new scheme. Applicable exit loads and tax rules may apply. (Lock-in-period fund will not be allowed for switch/transfer before lock-in-tenure)
+Investors may encounter:
+Expense Ratio: Charged by the AMC to manage the fund.
+Exit Load: Charged if units are redeemed within a specified time.
+Transaction charges: Applicable for certain investments above SEBI thresholds.
+ICICI Bank does not charge additional brokerage from investor for mutual fund purchases via regular plans. Please note while doing purchase transaction stamp duty will be applicable and while redemption security transaction tax (STT) will be applicable.
+Tax deducted at source (TDS) TDS will be applicable for NRI customers
+No. Entry loads have been removed by SEBI. Investors can purchase mutual funds without any upfront commission.
+The expense ratio is fee charged by the fund house for managing the mutual fund scheme and is deducted from the NAV daily. It is an important parameter for investors to consider as it directly affects the scheme’s NAV and consequently return on investment. It is available in AMC’s website and Mutual fund fact sheets.
+Some schemes impose exit loads if units are redeemed before a specified period. These charges help discourage early withdrawals and protect long-term investors. Exit load details are available in the scheme’s SID/KIM documents.
+By investing in Mutual Funds, an investor can earn returns in the form of capital gains and dividend** income, which are taxable in the hands of the investor.
+A capital gain / loss arises when an investor sells any number of units of Mutual Funds
+An investor receives a **dividend in proportion to the number of units held at the time of announcement of dividend, which is distributed by companies to investors when they earn a surplus.
+Tax on Capital Gains Received from Mutual Funds:
+The tax on capital gains depends on the period of holding (short-term or long-term) and the type of capital asset.
+In the case of Equity Mutual Funds, an investment tenure of less than 1 year (12 months) is a short-term investment. Any investment of over one year is a long-term investment
+In case of Debt and Hybrid Mutual Funds, an investment tenure of up to 2 years (24 months) is a short-term investment and any investment of over 2 years (24 months) is considered as long-term.
+| Equity Mutual Funds / Equity Index Fund / Equity ETF / Equity FoF /  | Redemption up to Jul 22, 2024 (Pre-Budget) | Redemption on or after Jul 23, 2024 (Post-Budget) | ||
+| STCG | LTCG | STCG | LTCG | |
+| Period of Holdings (Months) | <12 | >12 | <12 | >12 | 
+| Type of Gain | Short-Term | Long-Term | Short-Term | Long-Term | 
+| Taxation Rate | 15% | 10% (on gains above ₹1 lakh) | 20% | 12.50% (on gains above ₹1.25 lakh) | 
+*STT is applicable on these funds as >= 65% is invested in domestic equity shares BAF is considered here as in most cases BAF schemes maintain gross exposure of % or more to equity and equity related instruments.
+| Debt Oriented Fund | Investment prior to Apr 1, 2023 & redemption up to Jul 22, 2024 (Pre-Budget) | Investment prior to Apr 1, 2023 & redemption on or after Jul 23, 2024 (Post-Budget) | ||
+| STCG | LTCG | STCG | LTCG | |
+| Period of Holdings (Months) | <36 | >36 | <24 | >24 | 
+| Type of Gain | Short-Term | Long-Term | Short-Term | Long-Term | 
+| Rate of Tax | As per slab rate | <20>% with indexation | As per slab rate | <12.50>% with no indexation | 
+| Debt Oriented Fund | Investment after <Apr 1, 2023> & redemption up to <Jul 22, 2024> (Pre-Budget) | Investment after <Apr 1, 2023> & redemption on or after <Jul 23, 2024> (Post-Budget) | ||
+| STCG | LTCG | STCG | LTCG | |
+| Period of Holdings (Months) | NA | NA | NA | NA | 
+| Type of Gain | Short-Term | NA | Short-Term | NA | 
+| Rate of Tax | As per slab rate | NA | As per slab rate | NA | 
+| Gold ETFs /Silver ETFs / FoF / Multi-Asset Allocation, International FoFs, Hybrid Mutual Fund with <= 35% Investment in equity Instruments | Investment prior to Apr 1, 2023 & redemption after Jul 23, 2024 | Investment after Apr 1, 2023 & redemption after Jul 23, 2024 (till Mar 31, 2025) | Investment after Apr 1, 2023 & redemption on or after Apr 01, 2025 | |||
+| STCG | LTCG | STCG | LTCG | STCG | LTCG | |
+| Period of Holdings | <12 | >12 | NA | NA | <12 | >12 | 
+| Type of Gain | Short-term | Long-term | Short-term | NA | Short-term | Long-term | 
+| Rate of Tax | As per slab rate | 12.50% | As per slab rate | NA | As per slab rate | 12.50% | 
+Debt Oriented Fund (>= 65% in SEBI Regulated Debt and Money Market Instruments)
+Key abbreviations:
+(STCG – Short Term Capital Gains, LTCG – Long Term Capital Gains, ETF – Exchange Traded Fund, FoF – Fund of Funds, BAF – Balanced Advantage Fund, STT – Securities Transaction Tax)
+**Tax on Dividend Income received from Mutual Funds:
+From Apr 1, 2020, Mutual Fund dividends are taxable in the hands of investors. The dividend income is taxable under the head ‘income from other sources’ at the applicable income tax slab rate for the financial year
+Income Distribution-cum-Capital Withdrawal (IDCW) is a term used by Securities and Exchange Board of India (SEBI) to replace dividend option in Mutual Fund.
+Disclaimer: The Union Budget 2024 has introduced significant changes to the taxation of Mutual Funds, aiming to simplify the tax structure and provide clarity for investors. These changes impact various types of Mutual Funds differently, altering how they are taxed over both the short and long term. Investors can learn how Mutual Funds are taxed if they are concerned that their returns from Mutual Funds will be reduced after paying taxes.
+For any information,please refer the below link- Loan Against Securities: Get Loan on Share, Bonds up to 20 Lacs | ICICI Bank
+Yes. Investors can nominate one or more beneficiaries for their mutual fund folios. Nomination ensures that fund units are transferred smoothly to the nominee in the event of unforeseen circumstances. Nominee details can be added at the time of investment or updated later through online or offline modes.
+Yes. ICICI Bank allows SIP (Systematic Investment Plan): Invest regularly at fixed intervals
+STP (Systematic Transfer Plan): Transfer funds between schemes
+SWP (Systematic Withdrawal Plan): Withdraw a fixed amount periodically
+These systematic features allow disciplined investing, risk averaging and regular income planning.
+Yes. You can switch between Growth and Income Distribution cum capital withdrawal (IDCW) options or move between schemes of the same AMC through ICICI Bank’s platform. The switch is processed as a redemption and fresh purchase, and applicable tax rules and exit loads will apply.
+Yes. Investors can redeem units partially, provided the remaining value meets the minimum balance criteria set by the AMC. This helps you meet specific cash needs while retaining the rest of your investment.
+Mutual funds offer:
+Professional fund management
+Diversification across assets
+Liquidity through easy redemption
+Tax Benefits
+Flexibility via SIP, Lumpsum or goal-based investing
+ These features make mutual funds an efficient and accessible investment option
+Mutual funds spread investments across many securities such as stocks, bonds or money market instruments. This reduces dependence on a single asset, thereby lowering risk. Professional fund managers constantly rebalance the portfolio based on market conditions, enhancing risk-adjusted returns.
+By choosing appropriate schemes based on your risk profile—such as equity funds for long-term goals, hybrid funds for medium-term needs, or debt funds for short-term objectives—you can align your investments with financial milestones like education, retirement, home purchase or wealth creation. Features like SIPs encourage disciplined and structured investing.
+Mutual funds are considered a smart way to grow your money in the long-term as they offer diversification and professional management. While they are still market-linked and can fluctuate, diversification helps reduce volatility compared to directly picking individual stocks. Risk varies based on the type of fund selected.
+Payments are made securely through your ICICI Bank savings account using Net Banking, iMobile Once payment is authorised, units are allotted based on the applicable NAV and cut-off timing .
+Redemption proceeds are credited only to the registered bank account mapped to your folio as per guidelines You may update your bank mandate through MF Central (www.mfcentral.com) before placing a redemption request.
+Once the SIP mandate is set up, instalments are automatically debited from your registered bank account on the SIP date.
+Most AMCs allow SIP dates such as 1st, 7th, 10th, 15th, 25th, etc. The minimum SIP amount usually starts at ₹100-₹500 depending on the fund. These limits make SIPs flexible and convenient for different investor segments. SIP dates can be checked before placing the order.
+Yes. Certain debt and hybrid funds offer Systematic Withdrawal Plans (SWPs) that allow you to receive a fixed monthly amount. IDCW (Income Distribution cum capital withdrawal) options may also provide periodic payouts based on fund performance and distribution policies.
+Yes. Open-ended mutual fund units can be redeemed on any business day. The redemption order is processed based on the applicable NAV and credited to your registered bank account within the standard settlement cycle. Settlement cycle is T+3 working days if done before the cut-off time and T+4 days if done after the cut-off time, depending on the scheme category. Below are the details of cut off time for different scheme categories for iMobile /net banking transactions
+Liquid & Overnight fund Redemption cut-off time – 2.55 PM
+All schemes other than (Liquid & Overnight fund) Redemption cut-off time – 2.55 PM
+It may vary for other schemes like International etc
+Redemption proceeds are typically credited within:
+T+1 day for liquid funds
+T+2 or T+3 days for equity and hybrid funds
+The amount is directly credited to your registered bank account through NEFT/IMPS, ensuring safe and seamless settlement. Below are the details of cut off time for different scheme categories for iMobile /net banking transactions
+Liquid & Overnight fund Redemption cut-off time – 2.55 PM
+All schemes other than (Liquid & Overnight fund) Redemption cut-off time – 2.55 PM
+It may vary for other schemes like International etc.
+The cut-off time for most redemptions is 2.55PM on business days for iMobile /net banking transactions. Orders placed through iMobile Net Banking before this time are processed on the same day’s NAV, while those placed after the cut-off are processed on the next business day.
+Yes. You can make additional purchases in the same scheme using your existing folio number. Additional investments can be made through Lumpsum .
+If your purchase fails due to a payment issue, system error, or incorrect mandate, units will not be allotted. Any debited amount is automatically reversed to your source account, typically within standard banking timelines.
+Refunds are credited back to your registered bank account through NEFT/IMPS.
+Once the SIP is created customer can change the bank mandate through MF central (www.mfcentral.com) but cannot change the payment mode.
+Mutual fund folios cannot be “closed” like a bank account. However, once all units in a folio are redeemed and there are no outstanding investments, the folio becomes inactive.
+If you wish to consolidate or merge folios, you can do through iMobile /MF central or place the request at AMC /registrar .
+Yes. You can transfer existing holdings by submitting a unit transfer request or broker change request through the AMC or registrar (CAMS/KFin). Your units remain intact and will simply mapped to the new platform post execution of broker code change request at AMC/registrar end.
+If you close or change your ICICI Bank account, you must update your registered bank mandate with the mutual fund. This ensures your redemption proceeds and SIP debits continue seamlessly. Your mutual fund units remain secure even if you move to another bank.
+Nominees or legal heirs must submit:
+Death certificate
+KYC documents
+Transmission request form
+Bank details for credit
+Once verified, units are transmitted smoothly to the nominee or rightful heir. ICICI Bank and AMCs follow SEBI-mandated procedures to ensure secure settlement. Please note process and document requirement may vary with different AMC/registrar.
+ICICI Bank’s investment platforms follow industry-leading security measures including encryption, multi-factor authentication, secure payment gateways and transaction monitoring. This ensures safe and seamless investment execution.
+Immediately contact ICICI Bank Customer Care or your Relationship Manager. The Bank will help secure your account, block suspicious activities and guide you through the dispute resolution process. Prompt reporting ensures optimal safeguarding of your financial assets.
+You may view and track your portfolio through:
+ICICI Bank Net Banking
+iMobile
+Consolidated Account Statement (CAS)
+AMC or registrar platforms or MF central
+These channels provide real-time NAV updates, SIP status, capital gains information and performance analytics.
+Updates can be initiated through ICICI Bank’s digital channels through iMobile (Login>Invest>Mutual Fund>Hamburger menu (top left)>MF Services> Mobile/Nominee updation) or directly through the AMC/registrar/MF central. Mandatory KYC/verification may be required. Keeping your details updated ensures seamless SIP debits, payouts and communication.
+Yes. ICICI Bank iMobile offer downloadable investment statements, SIP summaries, and capital gains reports.. (Login>Invest>Mutual Fund>Hamburger menu (top left)>MF Services> Reports). Annual CAS statements can also be extracted from AMCs/registrar to assist with tax filing and audit requirements
+You can track SIPs and redemption activity through the “Investments” section in iMobile or Net Banking. The dashboard displays instalment history, due dates, portfolio value, and status of pending or completed transactions.
+You must update your KYC and bank mandates to reflect your new residency status also update tax status in the AMC folio through MF central or respective AMC/RTA. NRIs may continue investing in mutual funds subject to FEMA guidelines. Tax treatment and investment eligibility may vary based on the scheme and residency.
+Quick links

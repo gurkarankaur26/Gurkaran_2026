@@ -1,0 +1,28 @@
+TITLE: The iMobile Features for ICICI Bank Savings Account Holders | ICICI Bank Blogs
+URL: https://www.icicibank.com/blogs/mobile-banking/imobile-for-savings-account-holders
+
+THE
+ORANGE
+HUB
+The iMobile Features for ICICI Bank Savings Account Holders
+Now you can manage online payments and access banking solutions using imobile from ICICI Bank. Even if you do not hold an account with the Bank, you can still use it for daily transactions, just like other UPI apps. Read further, to know the features of the mobile app.
+ICICI Bank has rolled out imobile – a mobile app that allows customers of any bank to manage payments and banking needs from a single mobile app. The app is a unique combination of UPI and banking features, saving customers from the hassle of maintaining a separate app for online transactions and managing bank accounts. Using the app, you can instantly open a Savings Account with ICICI Bank. It works just like a UPI-enabled app.
+Let’s look at some of the imobile features:
+- imobile is a first-of-its-kind mobile application that offers interoperability to Bank customers. Customers of other banks can also link their account with the app and start making online payments
+- It allows customers to scan the QR code to initiate online payments and transfer money to any bank account, as well as to their UPI ID
+- It is also a gateway for new customers to establish an association with ICICI Bank, which is recognised as the world’s leading Bank
+- With imobile, you can link multiple bank accounts and operate the app with a single UPI ID
+- The app also extends features such as utility bill payments, recharge of mobile phones, travel ticket bookings, investments in mutual funds, insurance, fixed deposits, etc. In case you already hold a Savings Account with ICICI Bank, here’s how you can link your account:
+- Download the imobile app from the Google Play Store or App store
+- Select “I already have an account” if you hold a Savings Account
+- Select “Activate Now”
+- Verify your registered mobile number and an SMS verification will be conducted
+- Now select the login method for the app: Fingerprint or 4-digit PIN or existing Internet Banking User ID
+- Click on Submit
+- Authenticate your imobile app either with a Debit Card or ICICI Bank Internet Banking User ID & password to carry on with the activation process
+- You will receive an SMS on your registered mobile number.
+Once you follow the above steps, imobile will get activated and you can begin fund transfers, online payments and much more. In case you have not registered your mobile number with ICICI Bank, you can register by visiting the nearest ICICI Bank ATM or branch.
+It is safe to use this mobile app that is equipped with advanced encryption technologies. Now you do not need to keep separate mobile apps for paying online and accessing banking solutions. imobile lets you do various tasks, while you are on the go.
+T&C
+For disclaimer, Click Here.
+Scroll to top

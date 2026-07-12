@@ -1,0 +1,87 @@
+TITLE: What is Mutual Fund? Types, Benefits & How Mutual Funds Work | ICICI Bank
+URL: https://www.icicibank.com/blogs/mutual-fund/what-is-mutual-fund-and-how-it-works
+
+Investment solutions such as Mutual Funds combine the capital of many investors to purchase a range of securities including stocks and bonds. For those wondering about the meaning of mutual fund, it refers to a pooled investment vehicle where units in the fund represent each investor's portion of the total investment. Professional fund managers oversee these funds, making choices depending on the goals of the fund and the market.
+Without having to pick individual stocks or bonds, Mutual Funds provide a simple method to invest in a diversified portfolio. Because they allow investments with very small sums of money, they are more appropriate for new investors.
+Mutual Funds mainly work by pooling investors’ money in a diversified portfolio of stocks, bonds, or other assets. A fund manager oversees and controls the portfolio, making decisions on asset allocation based on the fund’s strategy. These professionals have rich expertise and their objective is to maximise returns on your investment.
+Mainly Mutual Funds are of two types known as Actively Managed and Passively Managed. The actively managed funds need a fund manager who carefully analyses and chooses investments to maximise the investments. Such funds need careful research and expertise. Whereas, the passive funds (also known as index funds) majorly aim to replicate a specific market index like the Nifty 50 or the Sensex. Since these funds track an index, they require minimal management and have lower costs.
+When you choose to invest in Mutual Funds, you can get benefits like diversification, professional management, and liquidity. Investors can choose funds based on their financial goals, risk tolerance, and investment horizon. 
+  
+| Feature | Benefit | Description | 
+|---|---|---|
+| Diversification | Reduces risk by investing in various assets | Mutual Funds pool money from many investors to invest in different stocks, bonds, or assets, spreading the risk. | 
+| Professional Management | Expert fund managers handle investments | Fund managers research and manage your investments, saving you time and effort. | 
+| Affordability | The low minimum investment required | You can start investing with a small amount of money, making it accessible to everyone. | 
+| Liquidity | Easy to buy and sell investments | Mutual Funds can be bought or sold on any business day, offering flexibility. | 
+| Systematic Investment Plan (SIP) | Regular, automated investments | You can invest small amounts regularly through SIP, making it easier to build wealth over time. | 
+| Tax Benefits | Tax savings on specific funds | Certain Mutual Funds, like ELSS, offer tax deductions under Section 80C. | 
+| Transparency | Clear and regular updates | You get regular updates on your fund's performance and detailed reports on investments. | 
+| No Lock-in Period | Freedom to access funds when needed | Unlike some investments, many Mutual Funds don’t have a lock-in period, allowing easy access. | 
+Here are the key objectives of a Mutual Fund:
+MFs naturally diversify across securities, assets and geographies, reducing risk by avoiding concentration in a single investment. This approach creates a balanced and resilient portfolio.
+Certain funds, like money-market and liquid funds prioritise protecting capital. While safer, they offer lower returns, making them suitable for investors seeking stability and capital preservation.
+Equity Funds focus on capital growth by investing in stocks, offering a hedge against inflation. Despite higher returns, they come with higher risks, making them suitable for investors with a higher risk appetite.
+Equity-linked Savings Schemes (ELSS) or tax-saving funds provide dual benefits—capital growth and tax savings. Offering income-tax deductions up to Rs 1.5 lakh in a financial year, they are an attractive option for tax-conscious investors.
+Equity funds are investments in companies’ stocks, focusing on capital appreciation over the long term. Due to market volatility, they offer high potential gains but also high risks.
+Debt funds primarily invest in fixed-income securities like bonds, which offer stable returns and lower risk.
+Money market funds invest in short-term debt instruments, such as treasury bills and commercial paper, offering modest returns and low risk.
+Hybrid funds are investments of equities and debt securities in a mixed format, having a balance of risk and returns. This type of investment is perfect for investors looking for a balance between their risk and returns.
+Growth funds are investments that emphasise the investment plan with a company with higher potential returns and are in upward trends. They aim for capital appreciation over time and can be an option for those seeking higher returns.
+Income funds primarily invest in fixed-income securities that provide regular income through interest payments for those looking for steady income.
+Liquid funds invest in short-term, highly liquid instruments, which gives easy access to funds and has less risk. They are considered best for short-term investment with good returns.
+Tax-saving funds, such as ELSS, offer tax benefits under Section 80C while investing primarily in equities, combining tax savings with potential capital.
+Aggressive growth funds seek maximum capital appreciation by investing in high-risk assets like small-cap stocks. They are perfect for those who can tolerate higher risk.
+Capital protection funds aim to protect investors' capital while offering modest returns by investing in a mix of debt and equity securities.
+Fixed maturity funds invest in debt securities with fixed maturity times and give investors an idea of returns over a specific time frame.
+Pension funds are mainly used to build a retirement corpus by investing in a mix of equities and debt instruments. They hold long-term growth potential with a lock period.
+Mutual Funds (MFs), a popular investment choice, involves a variety of terms that are essential for investors to understand. Here are some key terms commonly used:
+Calculated by dividing the total net assets of a scheme by the units issued, NAV changes daily based on the market value of the securities held.
+AUM is a significant indicator reflecting the current value of an MF scheme's assets. A higher AUM generally implies a higher client base and investor trust.
+The collection of stocks, bonds or other securities that an investor or fund manager invests in.
+A one-year period that companies and governments use for financial reporting and budgeting.
+This term refers to the commission or sales charge applied when buying or selling MF units. There are different types of loads - front-end load (charges when you buy shares), back-end load (charges when you sell shares) and no load (no sales charge).
+Diversification involves holding a variety of investments in different sectors or asset classes to reduce the impact of any one security's poor performance on the overall portfolio.
+This refers to the process of an investor selling their units back to the fund. MF redemptions are usually processed within a few days.
+A standard against which the performance of an MF can be measured. Funds are often compared to benchmarks like stock or bond indices to gauge their performance.
+These are payments made to MF shareholders from profits realised on the sale of securities in a fund's portfolio. They can be short-term or long-term and are subject to capital gains taxes.
+An option offered by most MFs that allows investors to use their dividend payouts to purchase additional shares in the fund.
+This is a measure of an MF’s performance. It includes any changes in NAV, dividends and capital gain distributions.
+An individual investor’s capacity to endure a loss in their investment. Different MFs have varying levels of risk suited to different investor profiles.
+Below are the two methods of investing in Mutual Funds:-
+An investor has the option to invest using the lump sum approach. For instance, if you possess a large sum of money you can opt for this method and invest the entire amount at once. It is ideal for individuals looking to see high returns and believe that market conditions are favourable. However, due to the investment being made at once, lump sum investments can entail some risk influenced by fluctuations in the market.
+When investors choose to make little investments over making them all at once as they can with a lump sum technique, they choose the SIP approach. Individuals can make monthly or quarterly small-scale investments in Mutual Funds through SIP (Systematic Investment Plans). By lessening the impact of market swings and providing the chance to buy more units during
+Investing in Mutual Funds is easy and can be done online with ICICI Bank internet banking or the iMobile App. Here's how:-
+Both of these online platforms make it accessible for anybody wishing to begin investing in Mutual Funds. These offer a go-to option by providing a quick and simple method to invest in Mutual Funds.
+Read these steps related to portfolio and investment management using ICICI Bank’s iMobile App:
+The CAGR (Compound Annual Growth Rate) statement helps track investment growth over time. Follow these steps to download the report:
+Open the iMobile App and log in.
+Navigate to the ‘Invest’ section.
+Select ‘Mutual Funds’ and choose ‘CAGR Statement’.
+Enter the required details and download the statement.
+Open the iMobile App and go to ‘Mutual Funds’ under the ‘Invest' tab.
+From the main menu, select ‘Service Request’ and click on ‘Update Nominee Details’.
+Next, select the ‘Folio for nominee updation’ and enter the nominee’s name, relationship, and other details.
+Submit the request and confirm via OTP.
+Open the iMobile App and go to ‘Mutual Funds’ under the ‘Invest' tab.
+From the main menu, select ‘Service Request’ and click on ‘Change/Update Email Address’
+Select ‘Mobile Number and Email’ to select Folios for which you wish to update the mobile number
+Select ‘Update Email Address’ and enter the new email.
+Verify through OTP and confirm changes.
+Calculations for the returns for mutual funds are figured out by the amount invested, the duration of the investment, and the expected return rate. One can use two primary methods to calculate returns: lump sum investments and Systematic Investment Plans (SIPs).
+For lump sum investments, the future value (FV) can be calculated using this formula:
+Future Value = Present Value (1 + r/100)^n
+Where PV is the present value (initial investment), r is considered as the estimated rate of return, and n is the time frame of the investment.
+For SIPs, the future value (FV) can be easily calculated using the below formula:
+FV = P [(1+i)^n-1]*(1+i)/i
+Where P is the amount invested monthly through SIP, i is the compounded rate of return, and n is the investment duration in months.
+These formulas consider compounding interest to estimate the final value of the investment. Using a mutual fund calculator, investors can know their expected future investment return.
+Here are the various types of Mutual Fund investment fees:-
+When selecting a Mutual Fund, consider the following factors:
+These steps help align Mutual Fund investments with long term financial objectives.
+Mutual funds are quite safe when you want to grow your money over the long run. While they aren’t entirely risk-free, choosing the right fund based on your risk comfort and financial goals can make them a relatively safe and smart option for growing your money over time.
+There is no need for large sums to start investing in mutual funds. Many mutual funds allow you to start investing with just ₹500 through SIPs. This makes it easy for beginners or young investors to get started without worrying about having a big sum upfront.
+You can invest in mutual funds online through the iMobile App on your smartphone or through internet banking. You can use any of these tools and begin your journey. Just choose a fund, set your investment amount, and complete your KYC. You can start a SIP or lump sum investment anytime.
+What Are The Tax Implications of Mutual Funds?
+Tax on mutual funds depends on the type (equity or debt) and how long you stay invested. Long-term capital gains attract lower tax rates, while short-term gains are taxed higher rate. Also, dividends may be taxed as per your income tax slab.
+Most mutual funds offer flexible withdrawals. You can redeem your investment whenever needed. However, some funds may charge an exit load or have a lock-in period, like ELSS. Always check withdrawal rules before investing to avoid surprises.
+Investing in Mutual Funds is a popular way to achieve financial prosperity. However, aligning investment decisions with your financial goals, risk tolerance and investment horizon is crucial. By doing this, you can pave the way for a successful financial future.

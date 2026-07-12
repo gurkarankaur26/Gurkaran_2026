@@ -1,0 +1,112 @@
+TITLE: Gold Loan Per Gram Calculator – How It Works | ICICI Bank
+URL: https://www.icicibank.com/blogs/gold-loan/how-to-calculate-gold-loan-per-gram
+
+APPLY NOW KNOW MORE
+ 
+When applying for a Gold Loan one of the most crucial factors is the value of your gold. Gold Loans are secured loans where you pledge your gold as collateral to receive funds. The amount of the loan you can avail is directly proportional to the weight and purity of your gold. This blog explains how to calculate the Gold Loan per gram and the key factors that determine the loan value. With this knowledge, you will be better prepared when applying for a Gold Loan from ICICI Bank.
+ 
+What does Gold Loan per gram mean?
+Gold Loan per gram refers to the amount of loan you can receive for each gram of gold you pledge. It is influenced by the Current Market Price of Gold, its purity and the Loan-to-Value (LTV) ratio set by the lender. Calculating the Gold Loan per gram helps you understand how much financing you can secure based on the weight of your gold.
+ 
+For instance, if the current price of gold is ₹ 5,000 per gram and the lender offers a Loan-to-Value (LTV) ratio of 75%, the loan per gram would be ₹ 3,750.
+ 
+Factors affecting the Gold Loan per gram:
+ 
+1.Gold Purity:
+ 
+- The purity of gold is measured in carats. Pure gold is 24 carats but most gold used in jewellery is 22 or 18 carats. The higher the purity of the gold, the higher the Loan Amount you can get per gram.
+ 
+2. Current Market Price of Gold:
+ 
+- The Gold Loan per gram is heavily dependent on the prevailing market price of gold. As the price fluctuates, the Loan Amount you can receive for each gram of gold changes accordingly.
+ 
+3. Loan-to-Value (LTV) Ratio:
+ 
+- The Loan-to-Value (LTV) ratio is the percentage of the value of the gold that the lender is willing to offer as a loan. According to RBI guidelines, banks in India can offer a maximum LTV ratio of 75%. Some lenders may offer less depending on their policies.
+ 
+4. Processing Fees:
+ 
+- While not directly affecting the loan per gram calculation, processing fees charged by the lender can reduce the final amount you receive. Always account for these fees when calculating the net Loan Amount.
+ 
+5. Type of Gold:
+ 
+- Only physical gold such as jewellery and coins are eligible for a Gold Loan. Gold bars or Gold Exchange-Traded Funds (ETFs) are not typically accepted as collateral.
+ 
+How to calculate the Gold Loan per gram:
+To calculate the Gold Loan per gram, you can follow a simple formula based on the purity of gold, current market price and LTV ratio:
+ 
+Loan Amount per gram = (Purity / 24) × Market Price × LTV Ratio
+ 
+Step-by-Step example:
+Let’s calculate the Gold Loan per gram with the following assumptions:
+ 
+- Gold Purity: 22 carats
+- Current Market Price: ₹ 5,000 per gram
+-  LTV Ratio: 75%
+ 
+Using the formula:
+ 
+- Purity: Gold is 22 carats out of 24, so we divide 22 by 24 to get 0.916
+- Market Price: ₹ 5,000 per gram is the current price of gold
+- LTV Ratio: 75% or 0.75
+ 
+Now, let’s calculate the loan per gram:
+ 
+Loan Amount per gram = 0.916 × ₹ 5,000 × 0.75 = ₹3,435
+ 
+So, for 22-carat gold the loan per gram is approximately ₹ 3,435.
+ 
+Variation with different purity:
+ 
+- For 24-carat gold, using the same market price and LTV ratio:
+ Loan Amount per gram = (24/24) × ₹ 5,000 × 0.75 = ₹ 3,750
+ 
+- For 18-carat gold, using the same market price and LTV ratio:
+ Loan Amount per gram = (18/24) × ₹ 5,000 × 0.75 = ₹ 2,812.5
+ 
+ 
+Impact of fluctuating gold prices on the Loan Amount:
+Gold prices are highly volatile and change daily based on several factors like international demand, currency rates, inflation and geopolitical tensions. A rise in the gold price increases the Loan Amount you can receive per gram while a decline reduces the loan value.
+ 
+For example, if the gold price increases from ₹ 5,000 per gram to ₹ 5,200 per gram for 22-carat gold:
+ 
+Loan Amount per gram = (22/24) × ₹ 5,200 × 0.75 = ₹ 3,571.25
+ 
+As the gold price rises, the loan per gram increases to ₹ 3,571.25 compared to ₹ 3,435 at the previous rate of ₹ 5,000 per gram.
+ 
+How to use the ICICI Bank’s Gold Loan calculator?
+ICICI Bank offers an easy-to-use Gold Loan calculator to help you estimate the Loan Amount based on the gold’s weight and purity. Here’s how to use it:
+ 
+- Step 1: Input the weight of the gold:
+ Enter the total weight of the gold you want to pledge, measured in grams.
+ 
+- Step 2: Select purity:
+ Select the purity of your gold (18, 22 or 24 carats) from the options provided.
+ 
+- Step 3: Check current market price:
+ The calculator will automatically take the Current Market Price of Gold. However, you can also manually input the rate if needed.
+ 
+- Step 4: Review LTV ratio:
+ ICICI Bank’s Gold Loan calculator automatically applies the LTV ratio based on the RBI guidelines (up to 75%).
+ 
+- Step 5: Calculate Loan Amount:
+ Click on the ‘Calculate’ button and the tool will display the estimated Loan Amount based on the weight, purity and gold price.
+ 
+ 
+Important considerations when calculating Gold Loan per gram:
+While calculating the Loan Amount per gram gives you a clear estimate of how much you can borrow, there are a few important things to keep in mind:
+ 
+- Gold valuation:
+ The bank will conduct an independent valuation of your gold to verify its purity and weight. Ensure your gold is of good quality and meets the required standards to avoid discrepancies in the Loan Amount.
+ 
+- Processing fees and other charges:
+ Lenders often charge processing fees, which can affect the final disbursed Loan Amount. Always factor these charges into your net Loan Amount.
+ 
+- Interest rates:
+ The interest rate of your Gold Loan will directly impact the total repayment amount. Lower interest rates can significantly reduce the loan’s cost over the tenure.
+ 
+- Repayment options:
+ Choose from different repayment options like EMIs, Bullet Payments or Partial Repayments depending on your financial situation.
+ 
+- Gold price fluctuations:
+ Keep an eye on the fluctuating gold rates, as this directly impacts the Loan Amount per gram. Applying for a loan when gold prices are higher can result in a larger Loan Amount.

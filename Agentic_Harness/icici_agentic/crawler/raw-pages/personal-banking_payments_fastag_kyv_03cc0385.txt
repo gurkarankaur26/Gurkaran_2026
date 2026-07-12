@@ -1,0 +1,22 @@
+TITLE: FASTag KYV Process | ICICI Bank - Quick & Easy Verification
+URL: https://www.icicibank.com/personal-banking/payments/fastag/kyv
+
+It is mandatory that all FASTags issued, are associated with clear images of the Vehicle and the Tag. Hence, you require to submit clear images of the following:
+The front and side views of your Vehicle
+(i) While taking the image from the front, the Licence Plate Number and the FASTag sticker affixed to the Vehicle should be clearly visible, along with the edges of the Vehicle
+(ii) While taking the image from the side, edges of the Vehicle both from the front side as well as the back side should be clearly visible
+FASTag sticker affixed on the windshield of your Vehicle
+Take the image of the sticker from inside the Vehicle after affixing the FASTag on the windshield. The Tag Serial Number on the sticker should be clearly visible
+Registration Certificate (RC)
+Upload the front and back images of the RC in the fields ‘RC Copy Front’ and ‘RC Copy Back’. You may choose to upload Digital RC copies obtained from DigiLocker or mParivahan apps.
+To know more on KYV, click here
+As per regulations, it is mandatory to complete KYV verification. You need to ensure that all images uploaded are clear and correct. The KYV images will be verified by the Bank and if any application is declined based on the Bank’s sole discretion, your FASTag will be hotlisted (you will not be able to use your FASTag at toll plazas and you must pay the penalty imposed by regulatory authorities). To remove the FASTag from the hotlist, you need to upload the correct documents again (through the steps given below). Only once verified and approved, your FASTag will be removed from the hotlist.
+FASTag is an easy-to-use, reloadable tag that is affixed to your vehicle's windscreen. It enables automatic deduction of toll charges, so you can pass through toll plazas without stopping to pay toll manually. FASTag is linked to a prepaid account from which the applicable toll amounts are deducted.
+The tag makes use of Radio-Frequency Identification (RFID) technology to ensure that the relevant charges are automatically deducted from your prepaid account.
+You can recharge your FASTag account by making a payment through cheque or online through Internet Banking or iMobile.
+For customers whose KYC is complete, the FASTag account recharge limit is ₹ 1,00,000. For customers whose KYC documents have not been received, the recharge limit is ₹ 10,000.
+Click here to know more.
+ICICI Bank FASTag Customer Care Numbers:
+Toll-Free Number: 1800 2100 104
+Chargeable Number: 1860 2670 104
+Yes, you can update your Amazon Pay ICICI Bank FASTag KYC details directly through the ICICI Bank platform. To do so, simply log in to your ICICI Bank account, go to the FASTag section, and follow the steps to update your KYC information. This integration allows you to conveniently manage your FASTag KYC within the ICICI Bank ecosystem, ensuring a smooth and efficient process.

@@ -1,0 +1,15 @@
+TITLE: SIP Calculator: Calculate Returns on Systematic Investment Plan | ICICI Bank
+URL: https://www.icicibank.com/calculator/sip-calculator
+
+Using a SIP calculator can help you predict the future value of your Mutual Fund investment. Let us look at an example to see how an SIP calculator might make this process easier.
+Assume you are a working professional planning for your long-term financial goals like retirement or your child’s higher education. Now, to accomplish this, you decide to invest in a Mutual Fund using SIPs, which are simply monthly investments for the required duration of time.
+Below are the key figures:
+- Investment Amount: ₹ 25,000 per month 
+- Investment duration: 25 years 
+- Expected interest rate: 9.00% per annum 
+- Investment frequency: Monthly 
+Here, you can use a SIP calculator to assess the potential growth of your investment over the investment duration. Based on these parameters, the SIP calculator returns the following results:
+- Total investment: ₹ 75,00,000 (₹ 25,000 * 12 months * 25 years) 
+- Future value of the investment: ₹ 2,66,58,223.00 
+- Potential Returns: ₹ 1,91,58,223.00 (Future value - Total investment). 
+- Investing ₹ 75,00,000 over 25 years might result in a future value of ₹ 2,66,58,223.00, assuming an annual interest rate of 9.00%. The total return on the investment would thus be ₹ 1,91,58,223.00.

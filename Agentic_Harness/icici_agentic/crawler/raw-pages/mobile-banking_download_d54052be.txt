@@ -1,0 +1,15 @@
+TITLE: Download ICICI Bank's iMobile app | ICICI Bank Official Mobile Banking App
+URL: https://www.icicibank.com/mobile-banking/download
+
+To start using our Mobile Banking services, you will have to register your mobile number with the bank. You will also need to ensure that the mobile device has an active net connection.
+Not registered for Mobile Banking? Register Now
+Visit the Google Play store or Apple app store to download the new ICICI Bank's iMobile app. Alternatively, SMS iMobile to 5676766 to get the download link or Visit http://mobile.icicibank.com/dl from your mobile browser.
+Once the iMobile application is downloaded, follow these steps to activate ICICI Bank's iMobile app, open and install the application Verify the mobile number and select the Login option from
+Once the Login option is selected, log in to ICICI Bank's iMobile app. First time users need to follow the options below to authenticate their account:
+SMS 'iMobile to 5676766'
+Visit the Google Play store or Apple app store to download the new iMobile . Alternatively, SMS iMobile to 5676766 to get the download link or Visit http://mobile.icicibank.com/dl from your mobile browser.
+Once the iMobile application is downloaded, follow these 3 simple steps to start using iMobile:
+Enter Internet Banking User ID and Password: In case you need your User ID/Password, click here
+Set a 4-digit Login PIN of your choice. This PIN will be required each time you login to iMobile application. We suggest you choose a PIN different from your other PINs (ATM, Phone Banking etc.)
+Complete a one-time grid card authentication. The application will fetch grid values as given on the back of the Debit card of your chosen bank account.
+You can also enable/ disable Login using Fingerprint option at the end of activation steps. Each time you start the application, the app will prompt for the chosen login method (Fingerprint or MPIN). The app will prompt you for your Grid Card authentication for all financial transactions.

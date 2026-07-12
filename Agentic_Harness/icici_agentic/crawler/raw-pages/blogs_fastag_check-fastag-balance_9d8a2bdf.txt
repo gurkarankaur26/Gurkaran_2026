@@ -1,0 +1,37 @@
+TITLE: How to Check FASTag Balance & Status Using Vehicle Number
+URL: https://www.icicibank.com/blogs/fastag/check-fastag-balance
+
+FASTag helps you zip through toll plazas and makes your road trips a breeze. However, this is possible only if your FASTag has enough balance. So, here’s a step-by-step guide to checking your FASTag balance.
+Every vehicle has to pay toll charges at toll stations before getting onto a national highway. One of the biggest problems toll plazas would create was traffic congestion as people used cash for paying the toll. Thanks to the announcement by the government to make FASTag a mandatory toll payment method, toll payment is now fast and easy.
+FASTag is an online toll payment facility that uses Radio-Frequency Identification (RFID) that enables automatic deduction of toll when a vehicle passes through the plaza. You don't have to wait in a long queue; you can pass through the FASTag lane, where the the tag is read and toll is deducted automatically. However, this is possible only if there’s adequate balance in the FASTag account. Hence, it’s important to know your FASTag balance and recharge it if necessary. Let's get to know how you can check your FASTag balance in this blog post.
+If you have opted for a FASTag through ICICI Bank, you can check your FASTag balance through different modes like online, SMS, mobile app and the Customer Care helpline.
+Log into the iMobile app with your credentials
+Go to the ‘Bill Pay / Recharge / FASTag’ section and click on ‘FASTag’
+You can view the FASTag balance for all your vehicles.
+Log into your Internet Banking account
+Go to ‘Payments & Transfer’ > Buy / Recharge FASTag
+Next to each vehicle, you can check the FASTag balance.
+Once you register for the FASTag service, you will get an SMS update every time the toll amount gets deducted. Along with the deducted amount, you will also be informed about your FASTag account balance, notifications on low balance and recharge confirmations, among others.
+To know your FASTag balance through our Customer Care helpline, you can simply give a missed call to the toll-free number 8010928888 or send this SMS to 5676766: ETCBAL Vehicle Registration Number. The mobile number should be registered with the prepaid wallet of the National Highways Authority of India (NHAI).
+If you haven't used FASTag yet, make sure you apply for one today. You can also apply for FASTag through ICICI Bank, where you can recharge your FASTag account, view the balance, manage FASTag and get other updates using the iMobile app.
+To complete a FASTag balance check with vehicle number:
+1. Log in to ICICI Bank’s iMobile app or Net Banking.
+2. Navigate to the FASTag section.
+3. Select the linked vehicle.
+4. View available FASTag balance and transaction history.
+This allows customers to check FASTag balance with vehicle number securely.
+To recharge FASTag:
+1. Log in to ICICI Bank’s iMobile app or Net Banking.
+2. Select FASTag from the payments section.
+3. Choose the registered vehicle.
+4. Enter recharge amount.
+5. Confirm payment using available payment mode.
+Recharge is processed instantly upon successful transaction.
+To check your FASTag status, log into the ICICI Bank iMobile app or your Internet Banking account and go to the FASTag section. Alternatively, you can call Customer Care to know your FASTag status over the phone.
+To check your FASTag status or balance, you will need to provide your vehicle details after logging in to your FASTag account. Another option is to provide your mobile number so that you can receive SMS updates related to your FASTag status or balance.
+You should check your FASTag balance based on the frequency of usage. If you travel frequently, then it is recommended that you check your balance every week.
+You can check FASTag balance by logging into ICICI Bank’s iMobile app or Net Banking using your registered credentials and viewing linked vehicle details.
+The minimum FASTag balance depends on vehicle category and applicable toll norms. Customers should maintain sufficient balance to avoid toll payment interruptions.
+Yes. FASTag balance can be checked via SMS alerts, customer care support or by reviewing transaction notifications received on the registered mobile number.
+Upon closure, the available FASTag balance may be refunded as per policy terms after verification and completion of closure formalities.
+FASTag is essential for smooth travel on highways without spending a lot of time at toll stations. Managing your FASTag account is easy and accessible with ICICI Bank Internet Banking and the iMobile app. Monitor your balance to prevent delays and take advantage of seamless, cashless toll payments on all your trips.

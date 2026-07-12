@@ -1,0 +1,41 @@
+TITLE: ICICI Bank Demat Account Services: GetHoldings, Account Statements & More
+URL: https://www.icicibank.com/personal-banking/demat/access-account
+
+If you have linked your Demat Account to your Net Banking account, please log in to access your Demat Account online. You can avail a wide range of services through Net Banking and the ICICI Bank's iMobile app.
+You can view transactions in your account for a period of 15 days. Various filters are available in transaction statement for quick results. You can view transactions for:
+You can use one of the above mentioned filters or a combination of all the above mentioned filters to get the required transactions in the quickest manner.
+Provides various client related information like client name, client address, Joint Holder's names, account type, bank account details for a given client id.
+You can also view status of your transactions by using Status of Transaction. Once again various filters like:
+Informs you about pay-in and pay-out date for a settlement on all the exchanges electronically connected to NSDL. The facility keeps you updated on settlement cycle and delivery cycle for a given settlement.
+If you are not aware of the ISIN of a particular scrip you can use ISIN Search instead of searching for this information. In addition to ISIN "ISIN Lookup" page will also inform you about face value, status of the given ISIN and if the ISIN is available for demat.
+All your financial transactions pertaining to your Demat Account like Bills, Payments, waivers etc. are available in Customer Ledger.
+If you want to know details of a specific bill then Bill Query is the best option for you. You can get details of any bill generated for your selected Demat Account using this link.
+Request for physical TIFD or IDT booklets with the ‘TIFD booklet request’ link. Select the booklets and the booklet size you wish and a personalised booklet for the account will be delivered to your door step by courier.
+E-Instructions
+One of the salient features of ICICI Bank Demat Services on ICICIBank.com is e-Instructions. This is a facility that allows you to submit TIFD or IDT and Pledge instructions from the comfort of your home or office to Five pre-notified target accounts. You can also transfer your shares online to pre-notified target accounts by sing e-Instructions.
+With e-Instruction you can
+Transfer your TIFDs and IDTs through Net Banking on www.icicibank.com
+Click here (PDF, 1.34 MB)for demo on Internet
+Advantages
+No need to fill up physical TIFD or IDT or Pledge slips
+No need to visit branches
+Time-saving, quick and hassle-free
+To register for e-Instruction facility, visit the nearest Demat enabled ICICI Bank branch with your proof of identity.
+Deadlines for submitting e-Instruction
+Please submit your instructions well in time. For same day execution, e-Instructions will be accepted on best-effort basis as per the following deadlines:
+| Instruction type | Day of the week | Deadline time | 
+|---|---|---|
+| Market or Off Market Transfer | Monday–Friday | 6 p.m.* | 
+| Saturday | 2 p.m.* | |
+| Inter Depository Transfer | Monday–Friday | 4 p.m.* | 
+| Saturday | 11 a.m.* | 
+*For market transfers, e-Instructions are not accepted later than one hour prior to the NSDL pay-in deadline time.
+Please exercise abundant caution while submitting an e-Instruction. E-Instructions cannot be cancelled through Net Banking after submitting the same on the site.
+Click here for E-instructions Terms & Conditions.
+Click here for E-instructions related queries.
+You can place a request for the closure of your Demat account.
+You can add a nominee in your Demat Account
+You can place a request for updating the income range in your Demat Account.
+You can place a request for receiving the Client Master List ( CML ) online or at your correspondence address.
+You can place a request for updating the mobile number, telephone number and e-mail ID in your Demat Account.
+The below services can be accessed through ICICI Bank's iMobile app:
