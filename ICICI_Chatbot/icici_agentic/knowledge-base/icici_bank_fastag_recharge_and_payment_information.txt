@@ -1,0 +1,23 @@
+TITLE: ICICI Bank FASTag Recharge and Payment Information  
+SOURCE: ICICI Bank  
+CATEGORY: Digital Banking, FASTag, Payments  
+TAGS: FASTag, Recharge, Payment Methods, Toll Payments, Net Banking, UPI, Debit Card, Credit Card  
+
+CONTENT:  
+ICICI Bank provides multiple convenient payment options for recharging your FASTag account to facilitate seamless toll payments. Customers can recharge their FASTag using Net Banking, UPI, debit card, credit card, or other approved digital payment channels.  
+
+To recharge your FASTag:  
+1. Log in to the ICICI Bank FASTag portal.  
+2. Enter your vehicle’s chassis number as per the registration details.  
+3. Select the recharge amount.  
+4. Complete the transaction using your preferred payment method.  
+
+Monthly pass recharge is available but is subject to the policies and applicable charges set by the toll operator. Recharge and payment services are available at various sale locations, subject to operational availability.  
+
+KEY POINTS:  
+- Payment methods accepted: Net Banking, UPI, debit card, credit card, and other approved digital channels.  
+- FASTag recharge requires logging into the FASTag portal and entering the vehicle chassis number.  
+- Monthly pass recharge depends on toll operator policies and may include additional charges.  
+- Recharge services are available at select sale locations, subject to availability.  
+
+URL: https://www.icicibank.com/fastag/recharge

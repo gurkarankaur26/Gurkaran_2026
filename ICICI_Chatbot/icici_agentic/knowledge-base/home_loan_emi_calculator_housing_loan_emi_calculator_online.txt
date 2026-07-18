@@ -1,0 +1,35 @@
+TITLE: Home Loan EMI Calculator - Housing Loan EMI Calculator Online  
+SOURCE: ICICI Bank  
+CATEGORY: Home Loans, Loan Calculators  
+TAGS: Home Loan, EMI Calculator, Interest Rate, Loan Tenure, Financial Planning, Budgeting  
+
+CONTENT:  
+ICICI Bank’s Home Loan EMI Calculator is an online tool designed to help customers estimate their monthly Equated Monthly Installment (EMI) for a home loan. By inputting the loan amount, interest rate, and loan tenure, users can quickly calculate their EMI, enabling better financial planning and budgeting before applying for a home loan.
+
+The calculator uses the following formula to compute EMI:  
+EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]  
+Where:  
+- P = Principal loan amount  
+- R = Monthly interest rate (annual interest rate divided by 12 and then by 100)  
+- N = Loan tenure in months  
+
+For example, for a loan amount of ₹10,00,000 at an annual interest rate of 7.25% for 120 months, the EMI would be approximately ₹11,740.
+
+Key features and benefits of the ICICI Bank Home Loan EMI Calculator include:  
+- Easy to use with a simple interface requiring only loan amount, interest rate, and tenure  
+- Provides accurate EMI estimates to aid in financial planning  
+- Allows adjustment of loan parameters to see their impact on EMI  
+- Helps customers manage monthly budgets effectively by knowing exact EMI amounts  
+- Saves time by providing instant results without visiting a bank branch  
+- Assists in pre-planning the loan amount and tenure based on individual financial situations  
+
+Disclaimer: The EMI values provided are for representation purposes only. Final EMI amounts may vary subject to the bank’s policies and approval.
+
+KEY POINTS:  
+- EMI calculation formula and explanation  
+- Example EMI calculation for ₹10,00,000 loan at 7.25% interest for 120 months  
+- Benefits: ease of use, accuracy, budgeting aid, time-saving, and pre-planning assistance  
+- EMI calculator helps in selecting suitable loan amount and tenure  
+- Final EMI subject to bank’s policy  
+
+URL: https://www.icicibank.com/personal-banking/loans/home-loan/emi-calculator

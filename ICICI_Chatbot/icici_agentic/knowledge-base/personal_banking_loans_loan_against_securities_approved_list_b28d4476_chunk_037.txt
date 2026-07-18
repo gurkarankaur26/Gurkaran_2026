@@ -1,0 +1,71 @@
+TITLE:  
+Nippon India Mutual Funds - Scheme Details and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Mutual Funds, Nippon India, Investment, Fund Codes, Growth, IDCW, Bonus, ETF  
+
+CONTENT:  
+This document provides a comprehensive list of Nippon India Mutual Fund schemes along with their respective plan types and unique identification codes. The schemes include various fund categories such as Aggressive Hybrid, Arbitrage, Balanced Advantage, Banking & Financial Services, Conservative Hybrid, Consumption, and Exchange Traded Funds (ETFs). Each scheme is available in different options like Regular (Reg) and Direct (Dir) plans, with payout options including Growth, IDCW (Income Distribution cum Capital Withdrawal), Monthly IDCW, Quarterly IDCW, and Bonus.
+
+Key Nippon India Mutual Fund Schemes and Codes:  
+
+- Nippon India Aggressive Hybrid Fund  
+  - Reg - Growth: 112936  
+  - Reg - IDCW: 112937  
+  - Reg - Monthly IDCW: 139680  
+  - Reg - Quarterly IDCW: 122765  
+
+- Nippon India Arbitrage Fund  
+  - Dir - Growth: 118585  
+  - Dir - IDCW: 118587  
+  - Dir - Monthly IDCW: 128821  
+  - Reg - Growth: 113345  
+  - Reg - IDCW: 113346  
+  - Reg - Monthly IDCW: 128820  
+
+- Nippon India Balanced Advantage Fund  
+  - Dir - Growth: 118736  
+  - Dir - IDCW: 118738  
+  - Reg - Bonus: 102847  
+  - Reg - Growth: 102846  
+  - Reg - IDCW: 102848  
+
+- Nippon India Banking & Financial Services Fund  
+  - Dir - Bonus: 118588  
+  - Dir - Growth: 118589  
+  - Dir - IDCW: 118591  
+  - Reg - Bonus: 101863  
+  - Reg - Growth: 101862  
+  - Reg - IDCW: 101864  
+
+- Nippon India Conservative Hybrid Fund  
+  - Dir - Growth: 118726  
+  - Reg - Growth: 102172  
+
+- Nippon India Consumption Fund  
+  - Dir - Bonus: 118722  
+  - Dir - Growth: 118724  
+  - Dir - IDCW: 118725  
+  - Reg - Bonus: 102752  
+  - Reg - Growth: 102751  
+  - Reg - IDCW: 102753  
+
+- Nippon India ETFs  
+  - BSE Sensex: 131331  
+  - Hang Seng BeES: 140095  
+  - Nifty 50 BeES: 140084  
+  - Nifty Bank BeES: 140087  
+  - Nifty IT: 148408  
+  - Nifty Midcap 150: 146271  
+  - Nifty Next 50 Junior BeES: 140085  
+  - Nifty PSU Bank BeES: 140089  
+
+KEY POINTS:  
+- Nippon India Mutual Funds offer a variety of schemes catering to different investment objectives and risk profiles.  
+- Plans are available in Regular and Direct options, with multiple payout choices such as Growth, IDCW, Monthly IDCW, Quarterly IDCW, and Bonus.  
+- Each scheme and plan combination has a unique identification code for easy reference and transaction processing.  
+- ETFs offered by Nippon India cover major indices like BSE Sensex, Nifty 50, Nifty Bank, and sector-specific indices such as IT and PSU Bank.  
+
+URL:  
+https://www.icicibank.com/ (Refer to Mutual Funds section for detailed scheme information)

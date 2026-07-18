@@ -1,0 +1,28 @@
+TITLE: Safe Banking for Online Services  
+SOURCE: ICICI Bank  
+CATEGORY: Online Banking Security  
+TAGS: Safe Banking, Online Security, Fraud Prevention, Net Banking, Cybersecurity  
+
+CONTENT:  
+Fraudsters are becoming increasingly sophisticated, using tactics such as fake parcel delivery scams and unrealistic investment offers to deceive customers. To protect yourself while using ICICI Bank’s online services, it is essential to stay aware and vigilant.  
+
+Key safety practices include:  
+- Stay alert to suspicious emails, messages, or calls asking for personal or banking information.  
+- Never share your net banking credentials, OTPs, or PINs with anyone.  
+- Use strong, unique passwords and change them regularly.  
+- Access net banking only through official ICICI Bank websites or mobile apps.  
+- Avoid using public or unsecured Wi-Fi networks for banking transactions.  
+- Regularly monitor your account statements and transaction alerts for any unauthorized activity.  
+- Report any suspicious activity immediately to ICICI Bank’s customer service.  
+
+By maintaining awareness and following these security measures, you can effectively protect yourself from online banking fraud.  
+
+KEY POINTS:  
+- Fraudsters use scams like fake parcel deliveries and investment traps to target customers.  
+- Never share net banking credentials, OTPs, or PINs.  
+- Use official ICICI Bank platforms for online banking.  
+- Avoid public Wi-Fi for transactions.  
+- Monitor accounts regularly for unauthorized transactions.  
+- Report suspicious activity immediately.  
+
+URL: https://www.icicibank.com/online-safe-banking

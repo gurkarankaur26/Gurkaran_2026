@@ -1,0 +1,61 @@
+TITLE:  
+Forex Prepaid Card Fees & Charges - ICICI Bank
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Forex Prepaid Card, Fees & Charges, International Banking
+
+TAGS:  
+Forex Card, Prepaid Card, ATM Withdrawal, Cross Currency Fee, Lost Card Fee, Dynamic Currency Conversion, ICICI Bank
+
+CONTENT:  
+ICICI Bank Forex Prepaid Card offers transparent fee structures for various transactions including issuance, ATM withdrawals, reloads, and cross-currency transactions. Below is a detailed schedule of charges and important guidelines to help you manage your card usage efficiently.
+
+**Fee Structure:**
+
+| Charge Type                          | Details                                                                                  |
+|------------------------------------|------------------------------------------------------------------------------------------|
+| Transaction Fee (POS/Online)        | NIL                                                                                      |
+| Cross Currency Fee                  | 3.5% + GST (applicable on all transaction types where billing currency differs from card currency) |
+| Cross Currency Transaction          | A transaction where the billing currency differs from the card currency                   |
+| Wallet to Wallet Transfer Fee       | 2.5% of transfer amount (charged to the destination wallet)                              |
+| Cash Advance / Cash@POS Transactions Fee | 0.5% of transaction amount (withdraw cash by swiping card at merchant outlets)          |
+| Lost Card Replacement Fee           | USD 20.00 (applicable for international locations)                                      |
+| Fee for Uncapped ATM Withdrawals    | 1% of withdrawal amount                                                                  |
+| Taxes                              | All fees and charges are exclusive of taxes. GST at 18% effective from March 1, 2020      |
+
+**Daily ATM Withdrawal Limits and Fees by Currency:**
+
+| Currency | Daily ATM Withdrawal Limit | ATM Withdrawal Fee |
+|----------|----------------------------|--------------------|
+| USD      | USD 2,000                  | USD 2.00           |
+| EUR      | EUR 1,500                  | EUR 1.50           |
+| GBP      | GBP 1,000                  | GBP 1.50           |
+| AUD      | AUD 2,000                  | AUD 2.00           |
+| CAD      | CAD 2,000                  | CAD 2.00           |
+
+**Important Notes:**
+
+- Cash withdrawal limits may vary depending on the ATM abroad and acquiring bank limits, which may be lower than ICICI Bank’s limits.
+- Some international banks may levy additional surcharges on ATM transactions. Check ATM screen information for details.
+- Dynamic Currency Conversion (DCC) may involve additional third-party currency conversion charges. DCC allows customers to choose the currency for payment at POS, online, or ATM.
+- ICICI Bank does not benefit from DCC charges except for currency conversion from billing currency to active wallet currency.
+- Customers should carefully review and confirm DCC charges before proceeding with transactions.
+- To avoid extra charges, it is recommended to:
+  - Choose to pay in local currency during POS or online transactions.
+  - When withdrawing cash at ATMs, select “Accept without currency conversion” to avoid DCC charges.
+
+KEY POINTS:  
+- No transaction fee on POS/online payments.  
+- Cross currency fee is 3.5% + GST on all transactions involving currency conversion.  
+- Wallet to wallet transfers incur 2.5% fee on the receiving wallet.  
+- Cash withdrawals at merchants cost 0.5% of the transaction amount.  
+- Lost card replacement internationally costs USD 20.  
+- ATM withdrawal fees vary by currency, with daily limits specified.  
+- DCC transactions may incur additional charges; paying in local currency is advised to save costs.  
+- GST of 18% applies on all fees and charges.  
+
+URL:  
+https://www.icicibank.com/personal-banking/cards/travel-card/schedule-of-charges

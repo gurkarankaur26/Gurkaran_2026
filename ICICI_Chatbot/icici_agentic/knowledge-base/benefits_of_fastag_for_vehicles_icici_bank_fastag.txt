@@ -1,0 +1,45 @@
+TITLE: Benefits of FASTag for Vehicles | ICICI Bank FASTag  
+SOURCE: ICICI Bank  
+CATEGORY: FASTag, Toll Payments, Digital Banking  
+TAGS: FASTag, Toll Payment, Auto Recharge, Standing Instructions, UPI Mandate, ICICI Bank  
+
+CONTENT:  
+ICICI Bank’s FASTag offers a seamless and convenient way to pay toll charges electronically, eliminating the need for cash transactions at toll plazas. Key benefits include automatic deduction of toll charges, hassle-free travel without the need to carry cash or change, and multiple convenient recharge options.
+
+**Key Features and Benefits:**  
+1. **Automatic Toll Payment:** Toll charges are automatically deducted from your FASTag account as you pass through toll plazas, ensuring a smooth and quick passage.  
+2. **No Cash Hassles:** No need to carry cash or wait in queues for change at toll booths.  
+3. **Convenient Recharge Options:** Recharge your FASTag account easily through ICICI Bank’s Retail Internet Banking (RIB), iMobile app, or UPI Mandate.  
+
+**Standing Instructions (SI) for Auto Recharge:**  
+- Customers can set up Standing Instructions via ICICI Bank Retail Net Banking to automatically recharge their FASTag account when the balance falls below a predefined threshold.  
+- This eliminates the need to manually recharge the FASTag every time the balance is low, ensuring uninterrupted toll payments.  
+
+**Auto Recharge through iMobile App:**  
+- ICICI Bank provides an option to set auto recharge through the iMobile app, allowing customers to define recharge frequency and amount.  
+- This feature helps avoid situations where insufficient funds in the FASTag wallet cause delays or double toll charges.  
+
+**Auto Recharge via UPI Mandate:**  
+- Customers can enable auto recharge using UPI Mandate by following these steps:  
+  1. Login to ICICI Bank FASTag Customer Portal.  
+  2. Navigate to ‘Payments’ → ‘Standing Instructions for UPI’.  
+  3. Enter details to set up Standing Instructions through UPI.  
+  4. Accept the authorization request in the linked UPI app on the same day.  
+  5. Accept the pre-debit notification and enter PIN if required (PIN required only if recharge amount exceeds INR 15,000).  
+  6. UPI Mandate will be triggered within 24 hours, and the recharge amount will be deducted automatically.  
+
+- Once set, the recharge will happen automatically as per the defined frequency (e.g., daily), ensuring the FASTag wallet is always funded.  
+
+**Important Notes:**  
+- The auto recharge facility is linked to your bank account.  
+- PIN entry is required only for recharge amounts exceeding INR 15,000.  
+- The authorization and pre-debit acceptance are one-time processes for setting up the mandate.  
+
+KEY POINTS:  
+- FASTag enables automatic toll payments without cash.  
+- Standing Instructions via Retail Net Banking allow automatic recharge below threshold limits.  
+- Auto recharge can be set up via iMobile app or UPI Mandate for hassle-free wallet top-ups.  
+- UPI Mandate requires authorization and pre-debit acceptance; PIN needed only for amounts above INR 15,000.  
+- Ensures uninterrupted travel and avoids double toll charges due to insufficient funds.  
+
+URL: https://www.icicibank.com/blogs/fastag/fastag-advantages-and-disadvantages

@@ -1,0 +1,30 @@
+TITLE: ICICI Bank Mutual Fund Schemes and Codes  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Growth, IDCW, Direct Plan, Regular Plan  
+
+CONTENT:  
+This document provides a list of mutual fund schemes along with their unique identification codes (folio numbers) offered through ICICI Bank. The schemes include various fund types such as equity, hybrid, sectoral, and thematic funds from different fund houses like SBI and Sundaram. Each scheme is available in different plan options such as Direct Plan and Regular Plan, and payout options like Growth and IDCW (Income Distribution cum Capital Withdrawal).
+
+Key mutual fund schemes listed include:  
+- SBI Quant Fund (Direct and Regular, Growth and IDCW)  
+- SBI Small Cap Fund (Direct and Regular, Growth and IDCW)  
+- SBI Technology Opportunities Fund (Direct and Regular, Growth and IDCW)  
+- SBI US Specific Equity Active FoF (Direct and Regular, Growth and IDCW)  
+- Sundaram Aggressive Hybrid Fund (Direct and Regular, Growth and Monthly IDCW)  
+- Sundaram Balanced Advantage Fund (Direct and Regular, Growth and Monthly IDCW)  
+- Sundaram Business Cycle Fund (Direct and Regular, Growth and IDCW)  
+- Sundaram Consumption Fund (Direct and Regular, Growth and IDCW)  
+- Sundaram Equity Savings Fund (Direct and Regular, Growth and Half Yearly IDCW)  
+
+Each scheme is identified by a unique code which is essential for transactions and tracking investments.
+
+KEY POINTS:  
+- Mutual fund schemes are available in Direct and Regular plans.  
+- Payout options include Growth and IDCW (Income Distribution cum Capital Withdrawal).  
+- Unique scheme codes are provided for each fund and plan combination.  
+- Fund types include equity, hybrid, sectoral, and fund of funds (FoF).  
+- Monthly and half-yearly IDCW options are available for some funds.  
+- These codes are necessary for investment, redemption, and tracking purposes.  
+
+URL: https://www.icicibank.com/ (Official ICICI Bank website)

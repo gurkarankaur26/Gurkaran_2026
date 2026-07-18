@@ -1,0 +1,67 @@
+TITLE:  
+Forex Exchange, Forex Trading, Forex Rates - Rules & Documentation
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Forex Services, Remittance, Travel Finance
+
+TAGS:  
+Forex Exchange, Liberalised Remittance Scheme, LRS, Forex Documentation, Travel Forex, Forex Limits, Forex Fees, Forex GST, Forex for Education, Forex for Medical Treatment, Forex for Emigration
+
+CONTENT:  
+ICICI Bank provides forex exchange and remittance services under the Liberalised Remittance Scheme (LRS) governed by RBI guidelines. The overall limit for remittance under LRS is USD 2,50,000 (or equivalent) per financial year for resident individuals. This limit is applicable for various purposes including private visits, employment, business travel, education, emigration, medical treatment, and accompanying patients abroad.
+
+**Liberalised Remittance Scheme (LRS) Limit:**  
+- USD 2,50,000 per financial year (combined limit for all purposes).  
+- Any remittance exceeding this limit must comply with RBI guidelines and requires additional documentation.
+
+**Eligible Purposes for Forex Remittance under LRS:**  
+- Private Visit (Leisure Travel)  
+- Employment abroad  
+- Business Travel (from Individual/Proprietorship account)  
+- Accompanying patient abroad for medical treatment/check-up  
+- Education (Studies Abroad)  
+- Emigration  
+- Medical Treatment or if a person falls sick after going abroad
+
+**Documentation Requirements:**  
+
+| Purpose of Travel                          | Documentation for ICICI Bank Account Holders                                  | Documentation for Non-ICICI Bank Account Holders                                  |
+|-------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Private Visits (Leisure Travel)            | Form A2 cum application and LRS declaration, Self-attested PAN (if applicable), Self-attested Passport copy | Form A2 cum application and LRS declaration, Self-attested PAN, Passport, VISA copy (or air ticket if VISA on arrival) |
+| Going abroad on employment                  | Same as above (contact branch for details)                                   | Same as above (contact branch for details)                                       |
+| Business trip (Resident Individual/Proprietorship Account) | Same as above (contact branch for details)                                   | Same as above (contact branch for details)                                       |
+| Accompanying patient for medical treatment | Same as above (contact branch for details)                                   | Same as above (contact branch for details)                                       |
+| Emigration                                  | Same as above plus estimate from country of emigration                       | Same as above plus estimate from country of emigration                           |
+| Education (Studies Abroad)                   | Same as above plus estimate from institution abroad                          | Same as above plus estimate from institution abroad                              |
+| Medical Treatment/Person fallen sick abroad | Same as above plus estimate from doctor in India or hospital/doctor abroad   | Same as above plus estimate from doctor in India or hospital/doctor abroad       |
+
+**Note:**  
+For remittances exceeding USD 2,50,000 for Emigration, Education, and Medical Treatment, additional supporting documents such as estimates from the foreign institution, hospital, or doctor are mandatory.
+
+**Forex Exchange Fees and GST:**  
+
+| Amount of Currency Exchanged (INR) | Value of Supply (Fee)                         | GST @ 18% (Approximate)          |
+|-----------------------------------|----------------------------------------------|---------------------------------|
+| Up to Rs. 1,00,000                | 1% of gross amount exchanged, minimum Rs. 250 | Rs. 180                         |
+| Rs. 1,00,001 to Rs. 10,00,000    | Rs. 1,000 plus 0.5% of gross amount exchanged | Rs. 990                         |
+| Above Rs. 10,00,000               | Rs. 5,500 plus 0.1% of gross amount exchanged, max Rs. 60,000 | Rs. 1,170                       |
+
+**Important Notes:**  
+- GST @ 18% is applicable on the forex service fees.  
+- The fees are subject to minimum and maximum limits as specified above.
+
+For further assistance or detailed information, customers are advised to visit the nearest ICICI Bank Forex Servicing branch.
+
+KEY POINTS:  
+- LRS limit of USD 2,50,000 per financial year for resident individuals for various forex remittance purposes.  
+- Combined limit applies for travel, education, medical, business, and emigration purposes.  
+- Specific documentation required depending on purpose and account type (ICICI or non-ICICI).  
+- Additional documents required for remittances exceeding USD 2,50,000 for education, emigration, and medical treatment.  
+- Forex exchange fees vary by amount exchanged with GST @ 18% applicable.  
+- Contact ICICI Bank Forex Servicing branches for remittances exceeding the LRS limit or for detailed queries.
+
+URL:  
+https://www.icicibank.com/online-services/forex/you_need

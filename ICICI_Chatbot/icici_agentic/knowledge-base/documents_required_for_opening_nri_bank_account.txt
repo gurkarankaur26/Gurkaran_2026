@@ -1,0 +1,34 @@
+TITLE: Documents Required for Opening NRI Bank Account  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking  
+TAGS: NRI Account, Documents Required, Eligibility, PAN, OCI, PIO, RBI Guidelines  
+
+CONTENT:  
+To open an NRI Savings Account in India with ICICI Bank, applicants must fulfill eligibility criteria and submit specific documents to verify their residential status and identity as per RBI guidelines. This ensures compliance and smooth account opening for Non-Resident Indians (NRIs) and Persons of Indian Origin (PIOs).
+
+**Eligibility:**  
+- **Non-Resident Indian (NRI):** A person residing outside India who is an Indian citizen.  
+- **Person of Indian Origin (PIO):** A person residing outside India who is a citizen of any country other than Bangladesh or Pakistan (or other countries as specified by the Central Government). This includes Overseas Citizen of India (OCI) cardholders who reside outside India.
+
+**Documents Required:**  
+- Proof of Identity (POI) such as valid passport.  
+- Proof of Address (POA): If the Overseas Valid Document (OVD) does not contain address details, additional documents issued by foreign government departments and a letter from the Foreign Embassy or Mission in India are accepted.  
+- PAN Card or PAN Acknowledgement Number (mandatory in Form 97 if Indian income from non-agricultural sources exceeds INR 4 lakhs).  
+- Additional Annexure as applicable.  
+
+**Submission Process:**  
+- Documents must be submitted physically at any ICICI Bank branch in India.  
+- NRI account opening is also available through Non-face-to-face mode, subject to terms and conditions.  
+
+**Tax Benefits:**  
+- To avail Double Taxation Avoidance Agreement (DTAA) benefits, physical submission of relevant documents is required.
+
+KEY POINTS:  
+- NRI and PIO eligibility criteria defined as per RBI and Citizenship Act.  
+- Mandatory submission of identity and address proof documents.  
+- PAN or PAN acknowledgement number required if income exceeds INR 4 lakhs.  
+- Physical submission of documents at ICICI Bank branches in India.  
+- Non-face-to-face account opening available with terms and conditions.  
+- DTAA benefits require physical document submission.  
+
+URL: https://www.icicibank.com/nri-banking/faq-disclaimer-popups/new-customer-documents

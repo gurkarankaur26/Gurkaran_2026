@@ -1,0 +1,49 @@
+TITLE: Recurring Deposit (RD) Calculator and Details  
+SOURCE: ICICI Bank  
+CATEGORY: Deposits / Recurring Deposits  
+TAGS: Recurring Deposit, RD Calculator, Interest Rates, Maturity Amount, Senior Citizen RD, Investment Planning, Taxation, Tenure, Monthly Instalment  
+
+CONTENT:  
+ICICI Bank’s Recurring Deposit (RD) allows customers to save small amounts monthly and earn assured returns with competitive interest rates. The RD Calculator helps estimate the maturity amount and interest earned on your RD investment.
+
+**Key Features of ICICI Bank RD:**  
+- **Deposit Type:** Choose between Senior Citizen RD and Normal RD.  
+- **Monthly Instalment:** Minimum ₹500 per month, increasing in multiples of ₹100.  
+- **Tenure:** Minimum tenure is 6 months, extendable in 3-month increments.  
+- **Interest Rate:** Fixed at the time of opening based on tenure and deposit amount. Interest is compounded quarterly.  
+- **Taxation:** Interest earned is taxable and subject to TDS (Tax Deducted at Source).  
+
+**Using the RD Calculator:**  
+1. Select deposit type (Senior Citizen or General).  
+2. Enter monthly instalment amount.  
+3. Choose the tenure of the RD.  
+4. Adjust amount or tenure as needed.  
+5. View the estimated maturity amount instantly.  
+
+**Interest Calculation Formula:**  
+M = R × [(1 + i)^n - 1] / [1 - (1 + i)^(-1/3)]  
+
+Where:  
+- M = Maturity Amount  
+- R = Monthly Instalment Amount  
+- n = Number of Quarters (3 months each)  
+- i = Annual Interest Rate ÷ 400  
+
+**Example:**  
+Investing ₹5,000 per month for 1 year (4 quarters) at 8% interest results in a maturity amount of approximately ₹62,647.
+
+**Comparison with Fixed Deposits (FD):**  
+- FD is suitable for lump sum investments.  
+- RD is ideal for regular monthly savings starting with small amounts.  
+
+KEY POINTS:  
+- Minimum monthly deposit: ₹500 (in multiples of ₹100)  
+- Minimum tenure: 6 months (extendable in 3-month increments)  
+- Interest compounded quarterly  
+- Interest rate fixed at account opening based on tenure and amount  
+- Interest earned is taxable; TDS applicable  
+- RD Calculator available online for instant maturity amount estimation  
+- Suitable for customers preferring disciplined monthly savings  
+- Senior Citizens may opt for special RD schemes with potentially different rates  
+
+URL: https://www.icicibank.com/personal-banking/deposits/recurring-deposits/rd-calculator

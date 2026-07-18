@@ -1,0 +1,51 @@
+TITLE:  
+ICICI Bank FASTag - Features, Usage, Payments, and FAQs
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Toll Payments, Digital Payments, Vehicle Services
+
+TAGS:  
+FASTag, Toll Payment, NHAI, ICICI Bank, RFID, Toll Discounts, FASTag Replacement, Contactless Payments, Parking Payment
+
+CONTENT:  
+ICICI Bank FASTag is an electronic toll collection system that enables vehicles to pass through toll plazas without stopping. It uses RFID technology to automatically identify vehicles in motion and digitally deduct toll charges from the linked FASTag wallet, eliminating the need for physical toll booths.
+
+**Key Features and Usage:**  
+- Toll charges are automatically processed through FASTag and vehicle identification systems.  
+- FASTag can also be used to pay for fuel at participating petrol pumps of major oil marketing companies like HPCL and IOCL by informing the attendant. Payments are processed via RFID readers or the HP Pay/IOCL apps linked to your tag.  
+- FASTag is accepted for contactless parking payments at major airports in India, including Hyderabad, Delhi, and Mumbai. Parking fees are automatically deducted from the FASTag wallet upon exit.  
+
+**E-Notice and Payment Regularisation:**  
+- If toll payment cannot be processed due to insufficient FASTag balance, improper FASTag placement, invalid vehicle details, or non-compliance with toll guidelines, an E-Notice is issued.  
+- E-Notice details can be checked on the official NHAI portal by entering the vehicle number and verifying via OTP.  
+- Payments for E-Notices can be completed online on the NHAI portal using UPI, Net Banking, or wallet options.  
+- After successful payment, a receipt is generated which should be saved for future reference.  
+- To regularise FASTag and pay E-Notices, users must check pending notices and complete payments online through the NHAI portal.  
+
+**FASTag Management:**  
+- Maintain sufficient FASTag wallet balance and ensure proper FASTag placement on the vehicle’s windshield.  
+- Use a valid High Security Registration Plate (HSRP) and follow traffic and lane discipline rules at toll plazas.  
+- If the vehicle’s windshield is replaced, the old FASTag is destroyed. Users must apply for a "Tag Replacement" via the ICICI Bank portal or branch. The existing balance will be carried forward to the new tag.  
+- Only one active FASTag is allowed per vehicle as per Government of India guidelines. Multiple tags for the same vehicle are prohibited and may cause technical errors or multiple deductions.  
+
+**Discounts and Offers:**  
+- NHAI offers discounts for local residents living within 20 km of a toll plaza. To avail, apply for a "Local Resident Pass" at the toll plaza office and link it to your ICICI Bank FASTag.  
+
+**Customer Support and Services:**  
+- ICICI Bank provides a missed call service for balance enquiry. By giving a missed call to 801 092 8888 from the registered mobile number, users receive an instant SMS with their current FASTag wallet balance.  
+
+KEY POINTS:  
+- FASTag enables cashless, contactless toll payments and is linked to a prepaid wallet.  
+- E-Notice issued for failed toll payments can be checked and paid online via NHAI portal.  
+- FASTag can be used for fuel payments at HPCL and IOCL petrol pumps.  
+- Contactless parking payments accepted at major airports (Hyderabad, Delhi, Mumbai).  
+- Only one FASTag per vehicle is allowed; multiple tags are not permitted.  
+- Tag replacement required if windshield is changed; balance is carried forward.  
+- Local residents within 20 km of toll plazas can avail discounts by applying for a Local Resident Pass.  
+- Missed call service (801 092 8888) provides instant FASTag wallet balance updates.  
+
+URL:  
+https://www.icicibank.com/fastag

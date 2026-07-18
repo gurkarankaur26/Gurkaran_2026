@@ -1,0 +1,45 @@
+TITLE: ICICI Bank FASTag - Eligibility, Charges, Usage & Benefits  
+SOURCE: ICICI Bank  
+CATEGORY: Payments, Toll Collection, Digital Banking  
+TAGS: FASTag, Toll Payments, RFID, ICICI Bank, NETC, Vehicle, Eligibility, Charges, Online Recharge  
+
+CONTENT:  
+ICICI Bank FASTag is an RFID-enabled device affixed to the windscreen of vehicles, facilitating automatic toll payments from a prepaid account linked to the tag. It enables seamless, cashless toll transactions at National Highway toll plazas, allowing vehicles to pass without stopping for cash payments. The toll amount is automatically deducted when the tag is scanned by the toll plaza antenna.
+
+**Eligibility:**  
+- Mandatory for all M and N category vehicles (four-wheelers and above) as per Government of India mandate.  
+- Applicable to private individuals and corporate entities owning vehicles of Class 4 or above (cars, jeeps, vans, trucks, buses, construction machinery).  
+- New vehicles can be issued FASTags using the chassis number before registration number allocation, subject to documentation and verification.
+
+**FASTag Categories and Colors:**  
+- Issued in different colors based on vehicle class as defined by the National Highways Authority of India (NHAI).  
+- Example: Violet for cars/jeeps/vans (Class 4), Orange, Yellow, Pink for various truck, bus, and machinery categories based on axle count and size.
+
+**Usage and Acceptance:**  
+- Accepted at all National Highway toll plazas across India under the National Electronic Toll Collection (NETC) program.  
+- Increasing acceptance at State Highway toll plazas, select city parking lots, and participating petrol pumps for fuel payments.
+
+**Application Process:**  
+- Offline: Available at any ICICI Bank branch, POS terminals at National Highway toll plazas, select petrol pumps, and Regional Transport Offices (RTOs). Requires submission of vehicle documents and KYC.  
+- Online: Apply via ICICI Bank’s official website or iMobile Pay app by submitting vehicle details and KYC documents. The FASTag is couriered to the registered address after verification.
+
+**Benefits:**  
+- Cashless, contactless toll payments reducing wait times and fuel consumption.  
+- Instant SMS alerts for every transaction for easy expense tracking.  
+- Access to a dedicated customer portal for viewing statements and online recharges.  
+- Avoids penalty of paying double toll charges applicable for vehicles without a functional FASTag or insufficient balance.
+
+**Charges and Fees:**  
+- Specific fee details are available on the ICICI Bank website or at the point of sale. (Note: The document does not specify exact fees; users should refer to official sources.)  
+
+KEY POINTS:  
+- FASTag is mandatory for M and N category vehicles.  
+- Enables automatic toll deduction via RFID technology.  
+- Issued in different colors based on vehicle class.  
+- Accepted nationwide at National Highway toll plazas and expanding to other locations.  
+- Can be applied for online or offline with required KYC and vehicle documents.  
+- Provides SMS alerts and online account management.  
+- Vehicles without FASTag or with insufficient balance pay double toll charges.  
+- New vehicles can get FASTag using chassis number before registration.  
+
+URL: https://www.icicibank.com/personal-banking/payments/fastag/fastag-faqs

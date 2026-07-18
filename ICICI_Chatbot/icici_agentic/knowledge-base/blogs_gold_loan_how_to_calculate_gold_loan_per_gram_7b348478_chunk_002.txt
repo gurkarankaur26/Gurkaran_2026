@@ -1,0 +1,58 @@
+TITLE:  
+ICICI Bank Gold Loan - Loan Amount Calculation, Eligibility, Interest Rates, and Application Process
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Gold Loan, Personal Finance, Loan Products
+
+TAGS:  
+Gold Loan, Loan Amount, LTV Ratio, Interest Rates, Gold Valuation, Loan Calculator, Repayment Options, Processing Fees
+
+CONTENT:  
+ICICI Bank offers Gold Loans against the pledge of gold jewelry or coins. The loan amount is calculated based on the weight, purity, and current market price of gold, subject to a Loan-to-Value (LTV) ratio as per RBI guidelines.
+
+**Loan Amount Calculation per Gram:**  
+The loan amount per gram depends on the purity of gold, the current market price, and the LTV ratio (up to 75%). The formula used is:  
+Loan Amount per gram = (Purity in carats / 24) × Market Price per gram × LTV Ratio
+
+Examples:  
+- For 22-carat gold at ₹5,000 per gram:  
+  Loan Amount = (22/24) × ₹5,000 × 0.75 = ₹3,435 per gram  
+- For 24-carat gold at ₹5,000 per gram:  
+  Loan Amount = (24/24) × ₹5,000 × 0.75 = ₹3,750 per gram  
+- For 18-carat gold at ₹5,000 per gram:  
+  Loan Amount = (18/24) × ₹5,000 × 0.75 = ₹2,812.5 per gram  
+
+**Impact of Gold Price Fluctuations:**  
+Gold prices are volatile and influenced by international demand, currency rates, inflation, and geopolitical factors. An increase in gold price increases the loan amount per gram, while a decrease reduces it. For example, if the gold price rises to ₹5,200 per gram for 22-carat gold:  
+Loan Amount = (22/24) × ₹5,200 × 0.75 = ₹3,571.25 per gram
+
+**ICICI Bank Gold Loan Calculator:**  
+ICICI Bank provides an online Gold Loan calculator to estimate the loan amount based on your gold’s weight and purity.  
+Steps to use the calculator:  
+1. Enter the total weight of gold in grams.  
+2. Select the purity (18, 22, or 24 carats).  
+3. The calculator fetches the current market price automatically or allows manual input.  
+4. The LTV ratio (up to 75%) is applied automatically as per RBI guidelines.  
+5. Click ‘Calculate’ to view the estimated loan amount.
+
+**Important Considerations:**  
+- **Gold Valuation:** The bank conducts an independent valuation to verify purity and weight. Ensure your gold is of good quality to avoid discrepancies.  
+- **Processing Fees and Charges:** Processing fees may apply and affect the net disbursed loan amount.  
+- **Interest Rates:** The interest rate impacts the total repayment. Lower rates reduce the overall cost.  
+- **Repayment Options:** Flexible repayment options include EMIs, Bullet Payments, or Partial Repayments.  
+- **Gold Price Fluctuations:** Keep track of gold price changes as they affect the loan amount.
+
+KEY POINTS:  
+- Loan amount depends on gold purity, weight, market price, and LTV ratio (up to 75%).  
+- Example loan per gram for 22-carat gold at ₹5,000/gm is ₹3,435.  
+- Gold price volatility directly impacts loan amount.  
+- ICICI Bank offers an online Gold Loan calculator for easy estimation.  
+- Independent gold valuation is mandatory.  
+- Processing fees and interest rates affect the final loan cost.  
+- Multiple repayment options available for borrower convenience.
+
+URL:  
+https://www.icicibank.com/personal/borrow/loan-against-gold/index.page

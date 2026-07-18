@@ -1,0 +1,18 @@
+TITLE: Digital Demat Account Opening for PMS End Clients  
+SOURCE: ICICI Bank  
+CATEGORY: Capital Market Services / Demat Account / Portfolio Management Services (PMS)  
+TAGS: Demat Account, PMS, Digital Account Opening, Portfolio Manager, KRA, Custodial Services  
+
+CONTENT:  
+i-CACE (ICICI Bank Capital Markets & Custody Ecosystem) is an in-house digital platform designed to facilitate the seamless opening of Demat accounts and Portfolio Management Services (PMS) applications for end clients of Portfolio Managers (PMS). The platform offers both fully digital and phygital (digital plus physical) account opening journeys, allowing clients to choose the mode most convenient for them.
+
+Additionally, ICICI Bank has partnered with multiple third-party vendors to enable Portfolio Managers to onboard their end clients digitally. These third-party platforms support KRA (KYC Registration Agency) based Demat account opening along with the necessary PMS documentation, streamlining the onboarding process for PMS end clients.
+
+KEY POINTS:  
+- i-CACE platform enables a single digital journey for Demat account opening and PMS application for PMS end clients.  
+- Offers both digital and phygital account opening options.  
+- Integration with multiple third-party platforms for digital onboarding of PMS end clients.  
+- Supports KRA-based Demat account opening along with PMS documentation.  
+- Simplifies and expedites the onboarding process for Portfolio Managers and their clients.  
+
+URL: https://www.icicibank.com/business-banking/capital-market-and-securities-market-services/custodial-services/digital-demat-account-opening-for-pms-end-clients

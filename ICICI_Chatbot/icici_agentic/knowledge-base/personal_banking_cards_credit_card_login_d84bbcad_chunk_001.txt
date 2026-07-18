@@ -1,0 +1,48 @@
+TITLE:  
+ICICI Bank Credit Card Login and Net Banking Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Credit Card Services, Net Banking
+
+TAGS:  
+Credit Card Login, Net Banking, Credit Card Activation, Bill Payment, Reward Redemption, EMI Conversion, Utility Bill Payment, Secure Transactions
+
+CONTENT:  
+ICICI Bank Credit Card Login allows customers to securely manage their credit card accounts through the Retail Net Banking portal. Users can log in using their User ID and Password via a virtual keyboard to safeguard their information. The platform offers flexibility to handle finances conveniently from home or office.
+
+Key features of ICICI Bank Credit Card Net Banking include:  
+- Secure payments with authentication for safe online transactions.  
+- Linking credit cards to the Net Banking portal to access offers, discounts, statements, tax payments, and EMI conversions.  
+- Timely payment of utility bills such as electricity, water, and mobile bills through the ‘Bill Pay’ service, which supports over 18,000 billers.  
+- Redeeming reward points for a variety of gift items and vouchers.  
+
+To link a Credit Card to your Net Banking User ID:  
+1. Log in to the Net Banking portal.  
+2. Click on ‘Service Request’ under the Customer Service tab.  
+3. Select ‘Link my Credit Card Account to my User ID’.  
+4. Fill in the required details and submit.  
+5. Enter the OTP received to complete registration. A notification confirms successful linking (may take some time to reflect).  
+
+Credit Card Activation can be done via:  
+- ICICI Bank ATM  
+- ICICI Bank iMobile App  
+- Net Banking  
+
+Customers can access their credit card details and services securely through ICICI Bank Net Banking or the iMobile app using registered credentials.
+
+If login issues occur, verify User ID and Password carefully, noting that passwords are case-sensitive. Support is available for assistance.
+
+KEY POINTS:  
+- Secure Credit Card management via ICICI Bank Net Banking portal.  
+- Link credit card to Net Banking for enhanced services and offers.  
+- ‘Bill Pay’ service supports payments to 18,000+ billers including utilities and mobile bills.  
+- Reward points can be redeemed for gifts and vouchers.  
+- Credit Card activation available through ATM, iMobile app, or Net Banking.  
+- Login credentials are case-sensitive; support available for login issues.  
+- Access credit card details and perform transactions securely online.  
+
+URL:  
+https://www.icicibank.com/personal-banking/cards/credit-card/login

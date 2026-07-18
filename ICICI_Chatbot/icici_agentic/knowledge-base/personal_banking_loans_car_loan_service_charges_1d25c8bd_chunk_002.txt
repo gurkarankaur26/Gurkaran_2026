@@ -1,0 +1,66 @@
+TITLE:  
+ICICI Bank Car Loan Charges, Prepayment, and Penal Charges Policy
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Car Loans, Loan Charges, Prepayment, Penal Charges
+
+TAGS:  
+Car Loan, Prepayment Charges, Penal Charges, Loan Recovery, EMI, Loan Foreclosure, CERSAI Charges, RBI Guidelines
+
+CONTENT:  
+This document outlines the charges, prepayment policies, and penal charges applicable to ICICI Bank car loans as per the latest RBI guidelines effective from April 1, 2024.
+
+**Charges on Car Loans:**  
+- **Cash Transaction Charges (for repayment of EMI dues in cash at branches):** ₹100 + applicable GST  
+- **Prepayment Charges (On Foreclosure):**  
+  - Nil for loan seasoning above 24 months  
+  - 2% plus GST for loan seasoning between 13 to 24 months  
+  - 3% plus GST for loan seasoning up to 12 months  
+  - Nil for eligible Micro and Small segment customers  
+- **CERSAI Charges:** ₹100 + applicable GST  
+
+**Loan Related Recovery Charges (If applicable):**  
+- Charges incurred in SARFAESI proceedings: At actuals  
+- Charges incurred in sending different notices: At actuals  
+- Enforcement charges: At actuals  
+- Non Maintenance of Mode of Payment charges (NMMP): ₹800 + applicable GST  
+- Paper advertisement charges: At actuals  
+- Repossession charges: At actuals  
+- Security guard charges: At actuals  
+
+**Part Prepayment Charges for Car Loans:**  
+- **Eligibility:** No minimum seasoning required to initiate part payment  
+- Part prepayment allowed for all customer profiles (Individual, Non-individual, Salaried, Self-employed, etc.)  
+- **Part Prepayment Charges:**  
+  - 3% plus GST for loans with seasoning up to 24 months  
+  - Nil for loans seasoning above 24 months  
+- **Other Terms & Conditions:**  
+  - Minimum part prepayment amount will be equivalent to one Equated Monthly Instalment (EMI)  
+  - No maximum part prepayment amount  
+  - No maximum number of part prepayments  
+  - No minimum gaps in part prepayments  
+
+**RBI Guidelines on Penal Charges (Effective April 1, 2024):**  
+- RBI Circular No. RBI/2023-24/53 dated 18 August 2023 mandates that penalty charges for non-compliance with material loan terms will be treated as penal charges, not penal interest.  
+- Penal charges will not be capitalized; no further interest will be computed on such charges.  
+- This applies to all fresh loan facilities executed from April 1, 2024. Existing loans will switch to the new regime by the next review/renewal date or by June 30, 2024, whichever is earlier.  
+
+**Revised Penal Charges:**  
+| Existing Penal Interest | Applicable Penal Charges |  
+|------------------------|--------------------------|  
+| 24% per annum + applicable GST | 5% per annum + applicable GST |  
+
+*Note: Goods and Services Tax and other government taxes, levies, etc., will be charged over and above the mentioned penal charges as per prevailing rates.*
+
+KEY POINTS:  
+- Prepayment charges vary based on loan seasoning; nil after 24 months.  
+- Part prepayment allowed anytime with minimum amount equal to one EMI.  
+- Penal charges capped at 5% per annum plus GST, replacing earlier 24% penal interest.  
+- Various recovery and enforcement charges apply at actuals or fixed rates plus GST.  
+- RBI guidelines effective from April 1, 2024, ensure penal charges are not compounded.  
+
+URL:  
+https://www.icicibank.com/personal/loans/car-loan.page

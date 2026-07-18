@@ -1,0 +1,33 @@
+TITLE:  
+List of Mutual Funds Available via ICICI Bank
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Investment, Fund Codes, ICICI Bank, Invesco, JM Funds  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes available through ICICI Bank, including fund names, types (Direct/Regular), dividend options (Growth/IDCW), and their respective scheme codes. The funds primarily include offerings from Invesco India and JM Funds, covering various categories such as Contra Fund, Financial Services Fund, Flexi Cap Fund, Focused Fund, Infrastructure Fund, Large & Mid Cap Fund, Largecap Fund, Midcap Fund, Multicap Fund, and Smallcap Fund.
+
+Key details include:  
+- Fund Name  
+- Plan Type: Direct (Dir) or Regular (Reg)  
+- Dividend Option: Growth or IDCW (Income Distribution cum Capital Withdrawal)  
+- Scheme Code (Unique identifier for each fund variant)
+
+Examples:  
+- Invesco India Contra Fund - Dir - IDCW | Code: 120349  
+- Invesco India Financial Services Fund - Reg - Growth | Code: 108378  
+- Invesco India Flexi Cap Fund - Dir - Growth | Code: 149763  
+- JM Midcap Fund - Dir - Growth | Code: 150815  
+
+This list is useful for investors looking to identify and invest in specific mutual fund schemes through ICICI Bank’s platform.
+
+KEY POINTS:  
+- Mutual funds listed include various categories and plans from Invesco India and JM Funds.  
+- Each fund has a unique scheme code for identification.  
+- Plans are available in Direct and Regular options.  
+- Dividend options include Growth and IDCW.  
+- The list helps investors select funds for investment via ICICI Bank.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

@@ -1,0 +1,31 @@
+TITLE: Top 5 Features of a Savings Account Online  
+SOURCE: ICICI Bank  
+CATEGORY: Savings Account  
+TAGS: Savings Account, Interest Rate, Online Banking, Security, ICICI iMobile, Deposit Insurance, UPI, Digital Banking  
+
+CONTENT:  
+Savings accounts are essential financial tools that provide a safe place to store money while earning interest. They offer liquidity, allowing customers to withdraw funds anytime. Key benefits include easy accessibility, safety from theft, and the ability to grow savings through interest earnings.
+
+1. **Interest Earnings:**  
+   Savings accounts in India typically offer an interest rate of 2.5% across all balances. Interest is compounded, meaning earnings grow over time by adding accumulated interest to the principal amount. Comparing compound interest benefits is advisable when selecting an account.
+
+2. **Convenient Access and Management:**  
+   Customers can access their funds through multiple channels such as ATMs, UPI, and mobile banking. ICICI Bank provides the ICICI iMobile app, which offers a user-friendly interface for managing accounts, transferring funds, and paying bills instantly. Features include instant transaction alerts, easy fund transfers via UPI, and immediate bill payments, enabling seamless and secure banking from anywhere.
+
+3. **Safety and Security:**  
+   Indian banks implement strong security measures to protect account holders’ money. The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits up to Rs. 5 lakhs per depositor per bank, ensuring protection even if a bank fails. Digital banking security includes two-factor authentication (2FA), one-time passwords (OTPs), and secure login methods, providing multiple layers of protection and real-time transaction alerts.
+
+4. **Liquidity:**  
+   Savings accounts provide high liquidity, allowing customers to withdraw or transfer money anytime without restrictions, making them ideal for everyday financial management.
+
+5. **Enhanced User Experience:**  
+   Online banking platforms simplify financial management with features like instant alerts, easy fund transfers, and bill payments, ensuring a smooth and efficient banking experience.
+
+KEY POINTS:  
+- Interest rate: 2.5% across all balances (compounded interest)  
+- Deposit insurance coverage: Rs. 5 lakhs per depositor per bank by DICGC  
+- Access channels: ATMs, UPI, mobile banking (ICICI iMobile app)  
+- Security features: 2FA, OTPs, secure login, real-time transaction alerts  
+- Benefits: Liquidity, safety, convenience, and easy account management  
+
+URL: https://www.icicibank.com/blogs/saving-account/features-of-a-savings-account

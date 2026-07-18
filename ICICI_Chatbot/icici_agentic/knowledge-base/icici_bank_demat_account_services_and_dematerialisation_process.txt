@@ -1,0 +1,33 @@
+TITLE: ICICI Bank Demat Account Services and Dematerialisation Process  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account, Securities, Banking Services  
+TAGS: Demat Account, Dematerialisation, Securities, NSDL, CDSL, Power of Attorney, Fees, Eligibility  
+
+CONTENT:  
+ICICI Bank offers Demat account services with no fee for opening a Depository Participant (DP) account. A nominal fee is charged for services as per the Standard Rate Card. Customers can open multiple Demat accounts with ICICI Bank without any restriction on the number of accounts. There is no minimum balance requirement; accounts can be maintained with zero balance.
+
+Account operation can be authorized to another person through a Power of Attorney (POA). The authorized person can operate the account on behalf of the account holder. If the account holder wishes to revoke the POA and operate the account themselves, a written revocation is required.
+
+**Dematerialisation of Securities (Demat):**  
+Dematerialisation is the process of converting physical securities (certificates) into electronic form and crediting them to the investor’s Demat account. Dematerialised securities are fungible and do not carry certificate or distinctive numbers.
+
+**Process for Dematerialisation:**  
+- Submit a completely filled Demat Request Form (DRF) in triplicate for each International Security Identification Number (ISIN) along with defaced physical certificates.  
+- DRF forms are available at any ICICI Bank branch offering Demat services.  
+- Verify that the securities are eligible for Demat; the issuing company must be registered with NSDL/CDSL. Eligibility can be checked on www.icic.ibank.in or at the nearest branch.  
+- Use a separate DRF for each security with a unique ISIN. If certificates of the same security have different ISINs (e.g., partly paid shares), separate DRFs must be used. Multiple folio numbers of the same holder pattern and ISIN can be dematerialised under a single DRF.  
+- Locked-in securities must be submitted under a separate DRF and not mixed with free securities. The lock-in reason and release date must be specified on the DRF. Separate DRFs are required if locked-in securities of the same ISIN have different lock-in reasons or release dates.  
+- Minor discrepancies in the name on the DRF and certificates (such as initials placement) can be accepted if the signature on the DRF matches the specimen signature with the issuer or registrar.
+
+KEY POINTS:  
+- No fee for opening ICICI Bank Demat account; nominal service fees apply.  
+- Multiple Demat accounts can be opened with ICICI Bank.  
+- No minimum balance required in Demat accounts.  
+- Account operation can be authorized via Power of Attorney; revocation requires written notice.  
+- Dematerialisation converts physical securities to electronic form credited to Demat account.  
+- DRF must be submitted in triplicate with defaced certificates for each ISIN.  
+- Securities must be eligible for Demat (company registered with NSDL/CDSL).  
+- Separate DRFs required for different ISINs and locked-in securities.  
+- Minor name mismatches allowed if signatures match.  
+
+URL: https://www.icicibank.com/Personal-Banking/investments/demat-account.page

@@ -1,0 +1,35 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment Options and Details
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Mutual Funds, Investment Products, Financial Services
+
+TAGS:  
+Mutual Funds, DSP Funds, Investment Plans, Growth Option, Dividend Option, IDCW, Fund Codes
+
+CONTENT:  
+This document provides a detailed list of various mutual fund schemes offered by DSP Mutual Fund, accessible through ICICI Bank. The schemes include different fund types such as Gilt Funds, Liquidity Funds, Low Duration Funds, Nifty SDL Plus G-Sec Index Funds, Overnight Funds, Savings Funds, and Short Term Funds. Each fund is available in multiple options including Direct and Regular plans, with different dividend payout frequencies such as Daily IDCW (Income Distribution cum Capital Withdrawal), Weekly IDCW, Monthly IDCW, Quarterly IDCW, and Growth options.
+
+Key mutual fund schemes and their variants include:
+
+- **DSP Gilt Fund**: Monthly IDCW option available.
+- **DSP Liquidity Fund**: Available in Direct and Regular plans with Daily, Weekly IDCW, and Growth options.
+- **DSP Low Duration Fund**: Offers Direct and Regular plans with Daily, Weekly, Monthly, Quarterly IDCW, and Growth options.
+- **DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund**: Available in Direct and Regular plans with Growth and IDCW options.
+- **DSP Overnight Fund**: Direct and Regular plans with Daily, Weekly IDCW, and Growth options.
+- **DSP Savings Fund**: Multiple IDCW frequencies (Daily, Monthly) and Growth options in Direct and Regular plans.
+- **DSP Short Term Fund**: Direct plan with Growth and IDCW options.
+
+Each scheme is identified by a unique code (e.g., DSP Gilt Fund - Mthly IDCW: 100086). These codes are essential for investors to select and transact in the specific fund variant.
+
+KEY POINTS:  
+- Multiple DSP Mutual Fund schemes are available through ICICI Bank.  
+- Funds are offered in Direct and Regular plans.  
+- Dividend options include Daily, Weekly, Monthly, Quarterly IDCW, and Growth.  
+- Each fund variant has a unique identification code for transactions.  
+- Fund types cover a range of investment needs: gilt funds, liquidity funds, low duration funds, index funds, overnight funds, savings funds, and short-term funds.  
+- Investors can choose based on their preference for dividend payout frequency and growth options.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

@@ -1,0 +1,38 @@
+TITLE: Internet Banking Login Guide  
+SOURCE: ICICI Bank  
+CATEGORY: Internet Banking  
+TAGS: Internet Banking, Login, User ID, Password, Security, Authentication  
+
+CONTENT:  
+ICICI Bank provides a secure Internet Banking platform for customers to access and manage their bank accounts online. Customers can log in using their User ID and Password to perform various banking activities such as viewing account details, bill payments, fund transfers, recharges, investments, and insurance services.
+
+**Login Process:**  
+- Enter your User ID. If you do not have one, you can retrieve it using the "Get User ID" option.  
+- Enter your Password. If forgotten, use the "Get Password" option to reset it.  
+- Optionally, select "Remember User Id" for easier access on personal devices.  
+- Complete any CAPTCHA or security verification as prompted.  
+- Click "Authenticate" or "Start In" to access your dashboard.
+
+**Security:**  
+- The ICICI Bank Internet Banking site uses SSL encryption verified by Entrust to ensure secure communication of private information.  
+- Customers are advised not to close the browser window during login or transaction processing to avoid interruptions.  
+
+**Services Available Post Login:**  
+- Dashboard overview of accounts  
+- Bank account management  
+- Bill payments  
+- Fund transfers  
+- Mobile and DTH recharges  
+- Investment options  
+- General and life insurance services  
+- Customer service and support  
+- Smart Wire for international remittances  
+
+KEY POINTS:  
+- Secure login with User ID and Password  
+- SSL encryption ensures data security  
+- Options to retrieve User ID and reset Password available  
+- Multiple banking services accessible post login  
+- Do not close the window during login or transaction processing  
+
+URL: https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&AuthenticationFG.MENU_ID=6&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI

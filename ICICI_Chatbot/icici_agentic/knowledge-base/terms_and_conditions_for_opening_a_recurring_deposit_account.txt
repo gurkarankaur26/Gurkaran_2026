@@ -1,0 +1,37 @@
+TITLE: Terms and Conditions for Opening a Recurring Deposit Account  
+SOURCE: ICICI Bank  
+CATEGORY: Deposits  
+TAGS: Recurring Deposit, RD, Interest Rates, Tenure, Premature Withdrawal, Nomination, Penalty, TDS, Tax Forms  
+
+CONTENT:  
+- A Recurring Deposit (RD) account will be created within 1 working day of request submission.  
+- Upon opening an RD, a standing instruction is set up to debit monthly installments from the selected savings account for the chosen tenure and amount.  
+- Minimum RD amount is Rs. 500, and deposits must be in multiples of Rs. 100.  
+- The RD account will be created only if sufficient funds are available in the linked savings account.  
+- Installment amounts are debited from the selected savings account on the date of opening for the first installment, and on the chosen day of each subsequent month.  
+- Tenure options for RD are in multiples of 3 months, with a minimum tenure of 6 months and a maximum of 10 years.  
+- Interest rates applicable to the RD depend on the tenure and prevailing rates (refer to ICICI Bank’s interest rate schedule).  
+- Premature withdrawal of the RD will attract interest calculated at the rate applicable for the actual period the deposit was held, minus a premature withdrawal penalty rate.  
+- Penalty for delayed installments is charged monthly at Rs. 12 per Rs. 1000 of the installment amount.  
+- Any fraction of a month is treated as a full month for penalty interest calculation.  
+- Penalty interest is recovered from the total interest payable at maturity.  
+- On maturity, the principal and interest amount will be credited to the linked savings account.  
+- Nomination for RD accounts can be registered by visiting any ICICI Bank branch and submitting the nomination form.  
+- Customers not liable for TDS must submit 3 self-attested copies of Form 15G or Form 15H (for senior citizens) at the nearest branch. These forms can also be downloaded and submitted online via the ‘Manage Your Taxes’ section after login.  
+- If the standing instruction or closure date falls on a Sunday or public holiday, the execution date is at the sole discretion of ICICI Bank.  
+- Customers will receive SMS or email notifications about RD account closure if mobile number or email is provided; however, providing these details does not update the bank’s records.  
+- ICICI Bank is not responsible for any claims arising from incorrect or incomplete information provided by the customer.  
+
+KEY POINTS:  
+- Minimum RD amount: Rs. 500; multiples of Rs. 100  
+- Tenure: 6 months to 10 years, in multiples of 3 months  
+- Account creation time: Within 1 working day  
+- Installments debited monthly via standing instruction  
+- Penalty for delayed installments: Rs. 12 per Rs. 1000 per month  
+- Premature withdrawal: Interest adjusted with penalty rate  
+- Nomination available via branch visit  
+- TDS exemption requires submission of Form 15G/15H  
+- Maturity proceeds credited to linked savings account  
+- Notifications sent via SMS/email if contact details provided  
+
+URL: https://www.icicibank.com/terms-condition/deposit-open-rd

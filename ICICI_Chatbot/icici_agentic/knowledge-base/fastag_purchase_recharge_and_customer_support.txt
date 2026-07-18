@@ -1,0 +1,27 @@
+TITLE: FASTag - Purchase, Recharge, and Customer Support  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / FASTag  
+TAGS: FASTag, Recharge, UPI, ICICI Bank, Payment, Customer Support  
+
+CONTENT:  
+FASTag is an electronic toll collection system that allows automatic deduction of toll charges and enables you to pass through toll plazas without stopping for cash transactions. It is linked to your prepaid account from which the applicable toll amount is deducted.
+
+**Purchase of FASTag:**  
+- FASTags are not available for purchase through the BHIM UPI app.  
+- You can buy FASTag from banks (including ICICI Bank), authorised retailers, and online marketplaces that provide this service.
+
+**Recharge of FASTag:**  
+- FASTag recharge can be done through multiple UPI-enabled applications such as the ICICI Bank iMobile app and the BHIM UPI app.  
+- Ensure your FASTag account has sufficient balance to avoid payment failures at toll plazas.
+
+**Customer Support and Payment Status:**  
+- If your payment status has not been updated or money has been deducted without confirmation, first check your payment status through the FASTag issuer’s app or website.  
+- For resolution, contact your bank’s customer support or the FASTag issuer directly.
+
+KEY POINTS:  
+- FASTag cannot be purchased via BHIM UPI app; available through banks, authorised retailers, and online platforms.  
+- Recharge FASTag using UPI-enabled apps like ICICI Bank iMobile and BHIM UPI app.  
+- Check payment status on the FASTag issuer’s platform if payment issues arise.  
+- Contact bank customer support or FASTag issuer for dispute resolution.
+
+URL: https://www.icicibank.com/fastag

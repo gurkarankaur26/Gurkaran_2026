@@ -1,0 +1,43 @@
+TITLE: What is Mutual Fund? Types, Benefits & How Mutual Funds Work  
+SOURCE: ICICI Bank  
+CATEGORY: Investment, Mutual Funds  
+TAGS: Mutual Funds, Investment, SIP, Diversification, Fund Management, Tax Benefits  
+
+CONTENT:  
+Mutual Funds are pooled investment vehicles that combine the capital of many investors to purchase a diversified portfolio of securities such as stocks and bonds. Each investor owns units representing their share of the total investment. These funds are managed by professional fund managers who make investment decisions based on the fund’s objectives and market conditions.
+
+Mutual Funds provide an easy way to invest in a diversified portfolio without the need to pick individual stocks or bonds. They are suitable for new investors as they allow investments with small amounts of money.
+
+**How Mutual Funds Work:**  
+Investors’ money is pooled together and invested in a diversified portfolio of assets. Fund managers oversee the portfolio, making decisions on asset allocation to maximize returns according to the fund’s strategy.
+
+**Types of Mutual Funds:**  
+1. **Actively Managed Funds:**  
+   - Managed by fund managers who actively select investments to outperform the market.  
+   - Require careful research and expertise.  
+2. **Passively Managed Funds (Index Funds):**  
+   - Aim to replicate a specific market index like Nifty 50 or Sensex.  
+   - Require minimal management and have lower costs.
+
+**Benefits of Investing in Mutual Funds:**  
+
+| Feature                  | Benefit                                | Description                                                                                  |  
+|--------------------------|--------------------------------------|----------------------------------------------------------------------------------------------|  
+| Diversification          | Reduces risk                         | Investments spread across various assets to minimize risk.                                  |  
+| Professional Management  | Expert handling                     | Fund managers research and manage investments, saving time and effort.                      |  
+| Affordability            | Low minimum investment              | Start investing with small amounts, accessible to all investors.                            |  
+| Liquidity                | Easy buying and selling             | Mutual Funds can be bought or sold on any business day, providing flexibility.              |  
+| Systematic Investment Plan (SIP) | Regular automated investments | Enables investing small amounts regularly to build wealth over time.                        |  
+| Tax Benefits             | Tax savings                        | Certain funds like ELSS offer tax deductions under Section 80C of the Income Tax Act.       |  
+| Transparency             | Regular updates                    | Investors receive clear and regular performance reports and detailed investment information.|  
+| No Lock-in Period        | Flexibility                       | Most Mutual Funds do not have a lock-in period, allowing easy exit (except specific funds).  |
+
+KEY POINTS:  
+- Mutual Funds pool money from multiple investors to invest in diversified assets.  
+- Managed by professional fund managers aiming to maximize returns.  
+- Two main types: Actively Managed and Passively Managed (Index Funds).  
+- Benefits include diversification, professional management, affordability, liquidity, SIP options, tax benefits, transparency, and no lock-in period (except for some funds).  
+- ELSS funds provide tax benefits under Section 80C.  
+- Suitable for investors with varying financial goals, risk tolerance, and investment horizons.
+
+URL: https://www.icicibank.com/blogs/mutual-fund/what-is-mutual-fund-and-how-it-works

@@ -1,0 +1,46 @@
+TITLE:  
+Mutual Fund Schemes and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Investment, Fund Codes, UTI, Aditya Birla Sun Life, Banking & PSU Debt Fund  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their respective AMFI (Association of Mutual Funds in India) codes. It includes schemes from UTI Mutual Fund and Aditya Birla Sun Life Mutual Fund, covering various fund types such as growth, dividend (IDCW), direct plans, regular plans, and ETFs.
+
+Key Mutual Fund Schemes and AMFI Codes:
+
+**UTI Mutual Fund Schemes:**  
+- UTI Mid Cap Fund - IDCW: 102393  
+- UTI MNC Fund - Direct - Growth: 120682  
+- UTI MNC Fund - Direct - IDCW: 120681  
+- UTI MNC Fund - Growth: 100740  
+- UTI Multi Asset Allocation Fund - Direct - Growth: 120760  
+- UTI Multi Cap Fund - Direct - Growth: 153515  
+- UTI Nifty 50 ETF: 135320  
+- UTI Nifty 50 Index Fund - Direct - Growth: 120716  
+- UTI Nifty Bank ETF: 148173  
+- UTI Small Cap Fund - Direct - Growth: 148618  
+- UTI Transportation and Logistics Fund - Direct - Growth: 120731  
+- UTI Value Fund - Direct - Growth: 120751  
+
+**Aditya Birla Sun Life Banking & PSU Debt Fund Schemes:**  
+- Direct Plan - Growth: 119550  
+- Direct Plan - IDCW: 119551  
+- Direct Plan - Monthly IDCW: 119552  
+- Direct Plan - Quarterly IDCW: 119553  
+- Regular Plan - Growth: 108273  
+- Regular Plan - IDCW: 108272  
+- Regular Plan - Monthly IDCW: 110282  
+- Regular Plan - Quarterly IDCW: 108274  
+
+This list is useful for investors to identify and invest in specific mutual fund schemes by referencing the AMFI codes, which are essential for transactions and tracking.
+
+KEY POINTS:  
+- The document lists mutual fund schemes with their AMFI codes for easy identification.  
+- Includes schemes from UTI Mutual Fund and Aditya Birla Sun Life Mutual Fund.  
+- Covers various plan types: Direct, Regular, Growth, IDCW (Income Distribution cum Capital Withdrawal), Monthly and Quarterly IDCW, and ETFs.  
+- AMFI codes are crucial for mutual fund transactions and record-keeping.  
+
+URL:  
+https://www.icicibank.com/ (Official ICICI Bank website)

@@ -1,0 +1,57 @@
+TITLE: ICICI Lombard Device Insurance - Coverage, Exclusions, and Claim Process  
+SOURCE: ICICI Bank  
+CATEGORY: Insurance / Device Protection  
+TAGS: Device Insurance, Claim Process, Exclusions, ICICI Lombard, Screen Damage, Policy, Premium  
+
+CONTENT:  
+ICICI Lombard offers device insurance covering accidental damage including screen damage. The policy outlines specific exclusions, premium variations, and a detailed claim process to assist insured customers.
+
+**Exclusions:**  
+- Loss or damage due to incorrect storage, poor maintenance, willful negligence, incorrect installation or setup unless confirmed otherwise by Authorized Service Centre (ASC).  
+- Damage caused by unauthorized software, viruses, software faults, or manufacturing defects that cause device failure.  
+- Loss or damage covered under supplier, dealer, or factory warranty.  
+- Loss occurring after transfer of ownership of the insured device.  
+- Consequences arising from war, hostilities, rebellion, civil commotion, military power seizure, government or authority orders.  
+- Manufacturing defects covered under manufacturer’s warranty, including latent or inherent product defects.  
+- Loss or damage to SIM card or memory card unless caused by an insured peril.  
+- Internal battery leakage unless caused by an insured peril.  
+- Mechanical, electrical, or electronic breakdown or malfunction unless caused by external accidental means or liquid damage.  
+- Intentional overloading, experiments, tests, or alterations causing abnormal conditions.  
+- Battery replacement costs unless due to accidental or liquid damage.  
+- Loss or damage to accessories, even if included in the purchase price.  
+
+Premiums may vary depending on the device make and model. Refer to the Master Policy wordings for detailed premium information.
+
+**Claim Process:**  
+1. Intimate claim via toll-free call center: 1800 2666  
+OR  
+2. File claim through ICICI Lombard website:  
+   - Navigate: Lombard > Claims > Corporate Claims > Fire Eng and Misc > Claim Intimation  
+   - Use the Claimstracker portal (link provided on the website)  
+
+**Information required for claim intimation:**  
+- IMEI number or Policy certificate number  
+- Date of loss  
+- Cause of loss (specifically mention “Screen damage cover”)  
+- Alternative contact number  
+- Email address  
+- Communication address including Pin code  
+
+**Documents to upload after claim intimation:**  
+- Purchase invoice  
+- Policy certificate copy  
+- Photographs or video of the damaged device (refer to demo for clarity)  
+- Cancelled cheque for fund transfer  
+- Policy certificate number and claim number (claim number will be shared via mail and message)  
+
+The ICICI Lombard claims team will verify the documents and process the claim as per policy terms and conditions. Approved claim amounts will be credited directly to the insured’s bank account via fund transfer.
+
+KEY POINTS:  
+- Device insurance excludes damage from negligence, unauthorized software, manufacturing defects under warranty, war-related events, and accessories.  
+- Premium varies by device make and model.  
+- Claims can be filed via toll-free number 1800 2666 or online through ICICI Lombard’s Claimstracker portal.  
+- Specific documentation including IMEI, purchase invoice, policy certificate, and proof of damage is mandatory.  
+- Claim approval results in direct fund transfer to the insured’s bank account.  
+
+URL:  
+https://www.icicilombard.com/claims (for claim intimation and tracking)

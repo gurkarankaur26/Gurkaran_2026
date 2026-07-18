@@ -1,0 +1,32 @@
+TITLE: Mutual Fund Schemes and Codes  
+SOURCE: ICICI Bank  
+CATEGORY: Investment Products  
+TAGS: Mutual Funds, Fund Codes, HDFC Funds, Edelweiss Funds, Investment Options  
+
+CONTENT:  
+This document provides a list of mutual fund schemes along with their respective scheme codes. The schemes include various types of funds such as growth plans, dividend payout plans (IDCW), direct and regular plans, and different fund categories like arbitrage, balanced advantage, banking & financial services, business cycle, defence, and overseas equity funds. The list includes schemes from fund houses like Edelweiss and HDFC.
+
+Key mutual fund schemes and their codes include:  
+- Edelweiss Technology Fund - Direct Plan - IDCW: 152438  
+- Edelweiss Technology Fund - Regular Plan - Growth: 152439  
+- HDFC Arbitrage Fund - Direct Plan - Growth: 118931  
+- HDFC Arbitrage Fund - Direct Plan - Monthly IDCW: 129054  
+- HDFC Balanced Advantage Fund - Direct Plan - Growth: 118968  
+- HDFC Banking & Financial Services Fund - Direct Plan - Growth: 148986  
+- HDFC BSE Sensex Index Fund: 101281  
+- HDFC Business Cycle Fund - Direct Plan - Growth: 150805  
+- HDFC Defence Fund - Direct Plan - Growth: 151750  
+- HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth: 149180  
+- HDFC Diversified Equity All Cap Active FOF - Direct Plan - Growth: 153860  
+
+These codes are essential for investors to identify and transact in specific mutual fund schemes through ICICI Bank’s investment platform.
+
+KEY POINTS:  
+- The document lists mutual fund schemes with their unique scheme codes.  
+- Includes both direct and regular plans, growth and IDCW (dividend payout) options.  
+- Covers multiple fund categories: arbitrage, balanced advantage, banking & financial services, business cycle, defence, overseas equity, and diversified equity funds.  
+- Fund houses mentioned include Edelweiss and HDFC.  
+- Scheme codes are necessary for investment transactions and portfolio management.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/schemes-codes

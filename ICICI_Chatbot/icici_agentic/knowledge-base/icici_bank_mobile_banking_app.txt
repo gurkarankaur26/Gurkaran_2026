@@ -1,0 +1,23 @@
+TITLE: ICICI Bank Mobile Banking App  
+SOURCE: ICICI Bank  
+CATEGORY: Digital Banking, Mobile Banking  
+TAGS: Mobile Banking, UPI, ICICI Bank App, Android, iPhone, Digital Payments  
+
+CONTENT:  
+ICICI Bank offers a comprehensive mobile banking app designed to provide customers with convenient access to a wide range of banking services. The app supports payments through UPI and other digital banking transactions, enabling users to manage their finances anytime and anywhere.
+
+The app is available for download on both Android and iOS platforms:  
+- Android users can download the app from the Google Play Store.  
+- iPhone users can download the app from the Apple App Store.
+
+The app ensures secure, fast, and easy banking, including fund transfers, bill payments, account management, and more.
+
+KEY POINTS:  
+- Mobile banking app supports UPI payments and other banking services.  
+- Available on Google Play Store for Android users.  
+- Available on Apple App Store for iPhone users.  
+- Enables 24/7 access to banking services.  
+- Secure and user-friendly interface.  
+
+URL:  
+https://www.icicibank.com

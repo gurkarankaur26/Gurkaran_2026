@@ -1,0 +1,50 @@
+TITLE: Car Loan Interest Rates 2026 - Starting from 8.40%* | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Loans / Car Loan  
+TAGS: Car Loan, Interest Rates, EMI, Loan Tenure, Eligibility, Fees, ICICI Bank  
+
+CONTENT:  
+Own your dream car with ICICI Bank Car Loan, offering interest rates starting from 8.40%* per annum (p.a.) with 100% on-road funding and flexible tenures. The loan comes with low EMIs, minimal documentation, and a hassle-free application process.
+
+**Interest Rates:**  
+- Interest rates are expressed as Annual Percentage Rates (APR) and depend on factors such as income, debt, credit score (CIBIL), car on-road price, loan amount, loan tenure, and RBI Repo Rate.  
+- The type of car does not directly influence the rate, but the car price may affect it.  
+- For new cars, interest rates vary based on car segment, CIBIL score, customer relationship, and loan tenure.  
+
+| Loan Tenure | Interest Rate for New Car Loans |  
+|-------------|---------------------------------|  
+| More than 36 months | Starting from 8.40% p.a. (based on CIBIL score and car model) |  
+| Less than 36 months | Starting from 10.25% p.a. (based on CIBIL score and car segment) |  
+
+**Loan Features:**  
+- 100% on-road price funding available.  
+- Flexible repayment tenures.  
+- Quick disbursement and minimal paperwork.  
+
+**EMI Calculation:**  
+EMI is calculated using the reducing balance method, where interest is charged on the outstanding loan amount after each EMI payment.  
+
+EMI Formula:  
+EMI = [P × R × (1 + R)^N] / [(1 + R)^N – 1]  
+
+Where:  
+- P = Principal loan amount  
+- R = Monthly interest rate (annual rate divided by 12)  
+- N = Loan tenure in months  
+
+An EMI calculator is available to estimate monthly installments, total interest payable, and total repayment amount based on loan amount, interest rate, and tenure.  
+
+**Additional Information:**  
+- Shorter loan tenures may attract higher interest rates but result in higher EMIs.  
+- Longer tenures reduce monthly EMI but may increase total interest paid.  
+
+KEY POINTS:  
+- Interest rates start at 8.40% p.a. for new car loans over 36 months.  
+- Interest rates start at 10.25% p.a. for new car loans under 36 months.  
+- 100% on-road price funding available.  
+- Loan tenure and CIBIL score influence interest rates.  
+- EMI calculated using reducing balance method.  
+- Minimal documentation and quick loan disbursal.  
+- Flexible repayment tenures to suit borrower needs.  
+
+URL: https://www.icicibank.com/personal-banking/loans/car-loan/interest-rate

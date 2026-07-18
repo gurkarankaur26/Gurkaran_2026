@@ -1,0 +1,68 @@
+TITLE:  
+ICICI Prudential Mutual Funds - Key Schemes and Details
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Products
+
+TAGS:  
+ICICI Prudential, Mutual Funds, Equity Funds, Debt Funds, Growth, Dividend, Fund Codes
+
+CONTENT:  
+ICICI Prudential offers a wide range of mutual fund schemes catering to different investment needs. These schemes are available in both Direct and Regular plans, with options for Growth and Dividend (IDCW) payouts. Below are some of the key schemes along with their plan types and unique identification codes:
+
+1. **ICICI Prudential Passive Multi-Asset Fund of Funds**  
+   - Direct Plan - Growth (Code: 149441)  
+   - Direct Plan - IDCW (Code: 149442)  
+   - Regular Plan - Growth (Code: 149439)  
+   - Regular Plan - IDCW (Code: 149440)  
+
+2. **ICICI Prudential Pharma Healthcare and Diagnostics Fund**  
+   - Direct Plan - Growth (Code: 143874)  
+   - Direct Plan - IDCW (Code: 143876)  
+   - Regular Plan - Growth (Code: 143873)  
+   - Regular Plan - IDCW (Code: 143875)  
+
+3. **ICICI Prudential PSU Equity Fund**  
+   - Direct Plan - Growth (Code: 150539)  
+   - Direct Plan - IDCW (Code: 150541)  
+   - Regular Plan - Growth (Code: 150538)  
+   - Regular Plan - IDCW (Code: 150540)  
+
+4. **ICICI Prudential Quality Fund**  
+   - Direct Plan - Growth (Code: 153458)  
+   - Direct Plan - IDCW (Code: 153460)  
+   - Regular Plan - Growth (Code: 153459)  
+   - Regular Plan - IDCW (Code: 153457)  
+
+5. **ICICI Prudential Regular Savings Fund**  
+   - Direct Plan - Growth (Code: 120616)  
+   - Direct Plan - Monthly IDCW (Code: 120615)  
+   - Direct Plan - Quarterly IDCW (Code: 120614)  
+   - Direct Plan - Half Yearly IDCW (Code: 120613)  
+   - Regular Plan - Growth (Code: 102330)  
+   - Regular Plan - Monthly IDCW (Code: 102331)  
+   - Regular Plan - Quarterly IDCW (Code: 113097)  
+   - Regular Plan - Half Yearly IDCW (Code: 113098)  
+
+6. **ICICI Prudential Rural Opportunities Fund**  
+   - Direct Plan - Growth (Code: 153184)  
+   - Direct Plan - IDCW (Code: 153182)  
+   - Regular Plan - Growth (Code: Not provided)  
+
+**Note:**  
+- Growth option reinvests earnings into the fund, increasing NAV.  
+- IDCW (Income Distribution cum Capital Withdrawal) options pay dividends monthly, quarterly, or half-yearly as per the scheme.  
+- Direct plans have lower expense ratios compared to Regular plans as they do not involve distributor commissions.
+
+KEY POINTS:  
+- Multiple schemes available for diversified investment across sectors and asset classes.  
+- Both Direct and Regular plans offered with Growth and Dividend payout options.  
+- Unique scheme codes help in easy identification and transaction processing.  
+- Dividend payout frequency varies by scheme and plan.  
+- Suitable for investors seeking equity, multi-asset, sector-specific, and savings-oriented mutual funds.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

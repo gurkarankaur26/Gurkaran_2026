@@ -1,0 +1,21 @@
+TITLE: Mutual Fund Investment and Tracking for NRIs  
+SOURCE: ICICI Bank  
+CATEGORY: Investment Services  
+TAGS: Mutual Funds, NRI Investment, SIP Tracking, KYC, Tax Filing, Portfolio Management  
+
+CONTENT:  
+ICICI Bank provides comprehensive services for tracking and managing mutual fund investments, especially for Non-Resident Indians (NRIs). Customers can track their Systematic Investment Plans (SIPs) and redemption activities through the “Investments” section available on iMobile or Net Banking platforms. The dashboard offers detailed information including instalment history, due dates, portfolio value, and the status of pending or completed transactions.
+
+Annual Consolidated Account Statements (CAS) can be obtained from Asset Management Companies (AMCs) or registrars to assist with tax filing and audit requirements. It is important for NRIs to update their Know Your Customer (KYC) details and bank mandates to reflect their current residency status. Additionally, tax status should be updated in the AMC folio through MF Central or the respective AMC/Registrar and Transfer Agent (RTA).
+
+NRIs are allowed to continue investing in mutual funds subject to Foreign Exchange Management Act (FEMA) guidelines. However, tax treatment and investment eligibility may vary depending on the specific mutual fund scheme and the investor’s residency status.
+
+KEY POINTS:  
+- SIP and redemption tracking available via iMobile and Net Banking under “Investments” section.  
+- Dashboard displays instalment history, due dates, portfolio value, and transaction status.  
+- Annual CAS statements can be obtained from AMCs or registrars for tax and audit purposes.  
+- NRIs must update KYC, bank mandates, and tax status in AMC folio to reflect residency changes.  
+- Mutual fund investments by NRIs are subject to FEMA guidelines.  
+- Tax treatment and eligibility vary based on scheme and residency status.  
+
+URL: https://www.icicibank.com

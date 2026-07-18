@@ -1,0 +1,59 @@
+TITLE:  
+ICICI Bank Mutual Funds - Investment, SIP, Redemption, and Withdrawal Details
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investments, SIP, Redemption, Systematic Withdrawal Plans
+
+TAGS:  
+Mutual Funds, SIP, Systematic Withdrawal Plan, Redemption, NAV, Investment Process, ICICI Bank, Fund Types, Payment, Settlement Cycle
+
+CONTENT:  
+Mutual funds are a smart way to grow your money over the long term by offering diversification and professional management. While mutual funds are market-linked and subject to fluctuations, diversification helps reduce volatility compared to investing directly in individual stocks. The risk level varies depending on the type of fund selected.
+
+**Investment and Payment Process:**  
+- Payments for mutual fund investments are securely made through your ICICI Bank savings account using Net Banking or iMobile.  
+- Once payment is authorized, units are allotted based on the applicable Net Asset Value (NAV) and cut-off timing.  
+- Additional purchases can be made in the same scheme using the same process.
+
+**Systematic Investment Plan (SIP):**  
+- SIP instalments are automatically debited from your registered bank account on the chosen SIP date once the mandate is set up.  
+- Most Asset Management Companies (AMCs) allow SIP dates such as 1st, 7th, 10th, 15th, 25th, etc.  
+- The minimum SIP amount usually starts at ₹100 to ₹500 depending on the fund, making SIPs flexible and convenient for different investor segments.  
+- SIP dates can be checked before placing the order.
+
+**Systematic Withdrawal Plan (SWP) and Income Distribution:**  
+- Certain debt and hybrid funds offer Systematic Withdrawal Plans (SWPs) that allow investors to receive a fixed monthly amount.  
+- Income Distribution cum Capital Withdrawal (IDCW) options may provide periodic payouts based on fund performance and distribution policies.
+
+**Redemption Process:**  
+- Open-ended mutual fund units can be redeemed on any business day.  
+- Redemption orders are processed based on the applicable NAV and credited to your registered bank account within the standard settlement cycle.  
+- Redemption proceeds are credited only to the registered bank account mapped to your folio as per guidelines. You may update your bank mandate through MF Central (www.mfcentral.com) before placing a redemption request.  
+- The amount is credited directly via NEFT/IMPS, ensuring safe and seamless settlement.
+
+**Cut-off Timings and Settlement Cycle:**  
+- Redemption cut-off time for Liquid & Overnight funds: 2:55 PM on business days.  
+- Redemption cut-off time for all other schemes (except Liquid & Overnight funds): 2:55 PM on business days.  
+- Cut-off times may vary for other schemes like International funds.  
+- Orders placed before the cut-off time are processed on the same day’s NAV; orders placed after the cut-off are processed on the next business day.
+
+**Settlement Timelines:**  
+- Liquid funds: Redemption proceeds credited within T+1 working day.  
+- Equity and hybrid funds: Redemption proceeds credited within T+2 or T+3 working days depending on the scheme category.  
+- Standard settlement cycle is T+3 working days if redemption is done before the cut-off time and T+4 days if done after the cut-off time.
+
+KEY POINTS:  
+- Mutual funds offer diversification and professional management with varying risk based on fund type.  
+- Payments and SIP instalments are securely processed via ICICI Bank Net Banking or iMobile.  
+- SIP minimum amount ranges from ₹100 to ₹500; multiple SIP dates available.  
+- SWPs and IDCW options provide periodic income from certain debt and hybrid funds.  
+- Redemption is allowed any business day with proceeds credited to registered bank accounts only.  
+- Redemption cut-off time is 2:55 PM for most schemes; orders before cut-off processed same day NAV.  
+- Settlement cycle: T+1 day for liquid funds, T+2/T+3 days for equity/hybrid funds.  
+- Bank mandate updates for redemption can be done via MF Central (www.mfcentral.com).
+
+URL:  
+https://www.icicibank.com/personal-banking/investments/mutual-funds.page

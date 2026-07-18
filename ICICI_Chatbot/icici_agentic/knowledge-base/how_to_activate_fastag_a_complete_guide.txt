@@ -1,0 +1,58 @@
+TITLE: How to Activate FASTag: A Complete Guide  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / FASTag  
+TAGS: FASTag, Toll Payments, Activation, ICICI Bank, Digital Payments, Vehicle, Toll Plaza  
+
+CONTENT:  
+FASTag is a mandatory electronic toll collection system introduced in 2014 to enable cashless toll payments and reduce congestion at toll plazas. It is a magnetic sticker affixed to the front windscreen of four-wheelers. When a vehicle passes through a toll plaza, the FASTag is scanned, and the toll charges are automatically deducted from the linked account or wallet.
+
+**What is FASTag?**  
+- A sticker with RFID technology affixed on the vehicle’s front windscreen.  
+- Enables automatic toll fee deduction without cash transactions.  
+- Helps reduce waiting time and traffic congestion at toll plazas.  
+- Records all toll payments and FASTag recharges for easy tracking.
+
+**How to Activate FASTag**  
+
+1. **Self Activation via ICICI Bank iMobile App**  
+   - Download and log in to the ICICI Bank iMobile app.  
+   - Enter the 4-digit PIN received on your registered mobile number.  
+   - Select the 'Shop' tab and tap on the ‘FASTag’ icon.  
+   - Enter your vehicle registration number, make, and model.  
+   - Agree to the Terms and Conditions.  
+   - Provide a valid email ID and delivery address.  
+   - Select the bank account for payment debit.  
+   - Tap on proceed to complete the purchase and activation.  
+   - The FASTag is automatically activated once linked to your account.  
+
+2. **Activation at a Certified Bank Branch**  
+   - Visit a certified bank branch that supports FASTag activation.  
+   - Submit your vehicle Registration Certificate (RC), KYC documents, and other required details.  
+   - Request to link the FASTag to your bank account.  
+   - Confirm activation with the bank representative.  
+   - Note: Not all banks provide FASTag activation services; verify with your bank beforehand.  
+
+**FASTag Recharge Options at ICICI Bank**  
+- Cheque  
+- Net Banking  
+- NEFT  
+- UPI  
+- RTGS  
+- Credit Card  
+- Debit Card  
+
+**Benefits of FASTag**  
+- Faster toll plaza transactions through dedicated FASTag lanes.  
+- Eliminates the need for cash payments and waiting for change.  
+- Reduces traffic congestion and waiting times at toll plazas.  
+- Provides a digital record of toll payments and recharges.  
+- Convenient recharge options through multiple digital channels.  
+
+KEY POINTS:  
+- FASTag is mandatory for all four-wheelers for toll payments.  
+- Activation can be done online via ICICI Bank iMobile app or at certified bank branches.  
+- Requires vehicle registration number, RC, and KYC documents for activation.  
+- Multiple recharge options available including digital payments and cheque.  
+- Enables faster, cashless toll payments and reduces congestion.  
+
+URL: https://www.icicibank.com/blogs/fastag/how-to-activate-fastag

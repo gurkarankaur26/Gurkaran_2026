@@ -1,0 +1,15 @@
+TITLE: Scan and Pay Loan Payments Online - ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Loans, Digital Payments  
+TAGS: Loan Payment, UPI, QR Code, Digital Banking, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers a convenient way to pay your loan outstanding amount using the Scan and Pay feature. Customers can scan the QR code provided by ICICI Bank through any UPI-enabled banking app or the BHIM app to make instant loan payments. This digital payment method simplifies the loan repayment process, making it quick and hassle-free without the need for cash or cheque deposits.
+
+KEY POINTS:  
+- Loan payments can be made by scanning the ICICI Bank QR code via any UPI-enabled app or BHIM app.  
+- Instant and secure payment method for loan outstanding amounts.  
+- Eliminates the need for physical visits or cheque payments.  
+- Available for all ICICI Bank loan customers.  
+
+URL: https://www.icicibank.com/online-services/scan-to-pay/loans-payment

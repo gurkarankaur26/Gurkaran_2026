@@ -1,0 +1,56 @@
+TITLE:  
+ICICI Bank Current Accounts – Features, Eligibility, Charges, and Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Banking – Current Accounts
+
+TAGS:  
+Current Account, Business Banking, Fees, Charges, Eligibility, Documentation, Foreign Entities, Merchant Services, Remittances, Sweep-in FD, Cheque Book, Stop Payment
+
+CONTENT:  
+ICICI Bank offers a range of current account variants tailored to meet the needs of businesses, government entities, foreign entities, and specialized sectors such as government e-marketplace (GEM) sellers, RERA-linked collections, and project developers requiring escrow accounts.
+
+**Eligibility and Documentation:**  
+- Businesses must provide registration certificates, trust deed, PAN card, and authorised signatory documents.  
+- Foreign entities with Indian branches or permitted operations can open current accounts subject to regulatory approvals and documentation compliance.  
+- Applications can be made online via the ICICI Bank website or by visiting a branch, where bank officials assist with documentation, KYC, and product selection.
+
+**Charges and Fees:**  
+- Monthly account maintenance fees may apply depending on the current account variant.  
+- Charges for cheque book issuance, cash deposits beyond free limits, outward remittances, NEFT/RTGS transactions at branches, merchant services, and penalties for returned cheques are applicable as per the Schedule of Charges.  
+- Free cash deposit limits vary by account variant and turnover band; exceeding these limits incurs per-transaction charges.  
+- Stop-payment requests generally attract nominal fees, with charges varying by request channel (branch, online, or relationship manager).  
+- Locker allotment, safety deposit services, and allied trade services have separate fee structures and are optional.
+
+**Interest and Earnings:**  
+- Current accounts typically do not earn interest like savings accounts.  
+- Some variants offer linked deposit sweep features that allow surplus funds to earn interest via sweep-in fixed deposit facilities.
+
+**Merchant and Remittance Services:**  
+- Merchant acquiring fees, gateway integration fees, transaction discount rates (TDR), and POS terminal rentals apply. Rates are negotiable based on transaction volumes and merchant verticals.  
+- Foreign exchange rates are competitive, and remittance charges may be reduced or waived for business customers depending on relationship depth and product bundles.
+
+**Returns and Penalties:**  
+- Returns due to insufficient funds or mismatched signatures attract return charges and may impact account standing.  
+- Customers are informed of such charges in the account terms and Schedule of Charges.
+
+**Additional Services:**  
+- Demand drafts and banker’s cheques are charged as per the Schedule of Charges.  
+- Relationship Managers provide personalized assistance for account management and service needs.
+
+KEY POINTS:  
+- Multiple current account variants tailored for businesses, government, foreign entities, and specialized sectors.  
+- Mandatory documentation includes registration certificates, PAN, trust deed, and authorised signatory proof.  
+- Charges include maintenance fees, transaction fees, cheque book fees, remittance fees, merchant service fees, and penalties.  
+- Free cash deposit limits vary; exceeding limits incurs charges.  
+- No interest on current accounts, but sweep-in FD linked accounts available for earnings on surplus funds.  
+- Merchant acquiring and remittance fees are negotiable based on relationship and volume.  
+- Stop-payment and returned cheque charges apply as per Schedule of Charges.  
+- Optional locker and safety deposit services available with separate fees.  
+- Applications can be made online or at branches with support from Relationship Managers.
+
+URL:  
+https://www.icicibank.com/business-banking/current-accounts.page

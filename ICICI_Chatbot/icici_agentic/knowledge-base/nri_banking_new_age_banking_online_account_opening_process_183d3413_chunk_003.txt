@@ -1,0 +1,69 @@
+TITLE:  
+ICICI Bank Savings Account Inactive and Dormant Account Policies and Activation Process
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Savings Account Management
+
+TAGS:  
+Inactive Account, Dormant Account, Account Activation, KYC, FATCA, Funds Transfer, Chequebook, ATM Card, Account Restrictions
+
+CONTENT:  
+**Definitions:**  
+- **Inactive Account:** A savings account with no transactions for more than 12 months is classified as inactive.  
+- **Dormant Account:** A savings account with no transactions for more than 24 months is classified as dormant.  
+
+**Purpose:**  
+These classifications safeguard your interest by alerting you to inactivity. A notification letter will be sent to your registered communication address.
+
+**Restrictions:**  
+- **Inactive Account:**  
+  - Chequebook issuance requests are not permitted.  
+
+- **Dormant Account:**  
+  - Requests for chequebook issuance are not permitted.  
+  - Renewal of ATM/Debit Card is not allowed.  
+  - Requests for change of address, addition or deletion of joint holders, and signature modifications are not allowed.  
+  - Withdrawals through ATM, Net Banking, or Branch are not permitted.  
+
+**Activation Process:**  
+- **Inactive Account Activation:**  
+  To reactivate an inactive account, conduct any transaction via cheque, ATM, or Infinity banking. Alternatively, visit the nearest ICICI Bank branch in India and submit an account activation letter.  
+
+- **Dormant Account Activation:**  
+  To normalize a dormant account, use one of the following methods:  
+
+  **Direct Courier Method:**  
+  1. Fill the Dormancy Activation Request Form.  
+  2. Attach KYC documents:  
+     - Proof of address where you want to receive communications.  
+     - First two and last two pages of your valid passport.  
+     - Documents must be signed and attested by a local Bank, Notary Authority, or Indian Embassy if residing outside India.  
+  3. Submit FATCA form if applicable. If your country of residence has changed in the last two years, submit the FATCA/CRS form along with a copy of your visa.  
+  4. Send documents via:  
+     - PO Box services available in USA, Singapore, United Kingdom, UAE, Australia, and Canada, OR  
+     - Courier to:  
+       ICICI Bank Limited,  
+       RPC Mumbai, 5th Floor, A-Wing,  
+       Autumn Estates, Chandivali Farm Road,  
+       Chandivali, Next to Chandivali Studio,  
+       Opp MHADA,  
+       Andheri-East, Mumbai-400072, INDIA.  
+
+**Funds Transfer Registration:**  
+- To transfer funds online, register a payee under the relevant section (Other ICICI Bank Account, Non-ICICI Bank Account, or Card-2-Card Funds Transfer).  
+- After entering payee details, registration will be pending confirmation. No transfers are allowed until confirmation.  
+- You will receive an email alert with a Unique Registration Number (URN).  
+- Login to Net Banking and confirm the payee registration by entering the URN in the “confirm payee” section.  
+
+KEY POINTS:  
+- Inactive account: no transactions for 12+ months; dormant account: no transactions for 24+ months.  
+- Inactive accounts cannot request chequebooks; dormant accounts have multiple restrictions including no ATM withdrawals or address changes.  
+- Activation requires transaction or submission of documents depending on account status.  
+- Dormant account activation requires KYC documents, FATCA form (if applicable), and attestation if residing abroad.  
+- Funds transfer requires payee registration and confirmation via URN.  
+
+URL:  
+https://www.icicibank.com (specific page not provided)

@@ -1,0 +1,40 @@
+TITLE:  
+Bandhan Mutual Fund Schemes Overview
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Bandhan Mutual Fund, Dynamic Bond Fund, Liquid Fund, Gilt Fund, Investment Options, Dividend, Growth, IDCW, Fund Codes  
+
+CONTENT:  
+This document provides an overview of various Bandhan Mutual Fund schemes, including their types, dividend options, and unique identification codes. The schemes cover a range of investment options such as gilt funds, dynamic bond funds, and liquid funds, available in both direct and regular plans with different dividend payout frequencies and growth options.
+
+Key Schemes and Features:
+
+1. Bandhan CRISIL IBX Gilt Index Funds  
+   - Available for April 2028 and June 2027 maturities  
+   - Options: Direct and Regular plans  
+   - Dividend options: IDCW (Income Distribution cum Capital Withdrawal) and Growth  
+   - Fund codes vary by plan and option (e.g., 148793 for Reg - IDCW April 2028)
+
+2. Bandhan Dynamic Bond Fund  
+   - Available in Direct and Regular plans  
+   - Dividend payout frequencies: Annual, Half-Yearly, Quarterly, Periodic IDCW, and Growth option  
+   - Fund codes provided for each variant (e.g., 118415 for Dir - Ann IDCW)
+
+3. Bandhan Liquid Fund  
+   - Available in Direct and Regular plans  
+   - Dividend payout frequencies: Daily, Weekly, Monthly IDCW, and Growth option  
+   - Special categories for unclaimed IDCW and Redemption amounts categorized by duration (less than or more than 3 years)  
+   - Fund codes provided for each variant (e.g., 118366 for Dir - Dly IDCW)
+
+The document lists unique fund codes for each scheme variant, which are essential for transactions and identification.
+
+KEY POINTS:  
+- Bandhan Mutual Fund offers a variety of schemes including Gilt, Dynamic Bond, and Liquid Funds.  
+- Each scheme is available in Direct and Regular plans.  
+- Dividend options include IDCW (Income Distribution cum Capital Withdrawal) with frequencies such as Annual, Half-Yearly, Quarterly, Monthly, Weekly, and Daily, as well as Growth options.  
+- Unique fund codes are assigned to each scheme variant for identification and transaction purposes.  
+- Special provisions exist for unclaimed IDCW and Redemption amounts in the Liquid Fund category, categorized by duration (less than or more than 3 years).  
+
+URL:  
+https://www.icicibank.com/knowledge-base/bandhan-mutual-fund-schemes

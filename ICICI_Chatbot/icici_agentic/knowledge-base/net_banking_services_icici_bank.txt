@@ -1,0 +1,41 @@
+TITLE: Net Banking Services - ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Online Banking Services  
+TAGS: Net Banking, Online Banking, Fund Transfer, Account Management, Deposits, Loans, Credit Cards, Investments, Insurance, Demat, Payments  
+
+CONTENT:  
+ICICI Bank’s Net Banking service allows customers to perform a wide range of banking transactions and manage their finances conveniently from anywhere in the world. The platform provides real-time access to all accounts and offers over 350 services through a user-friendly dashboard designed for ease of use.
+
+Key features of ICICI Bank Net Banking include:  
+- **Account Management:** View account details, track assets, liabilities, loans, investments, and credit cards on a single platform.  
+- **Deposits:** Open and manage fixed deposits (FD) and recurring deposits (RD) online.  
+- **Fund Transfer:** Transfer funds within ICICI Bank accounts or to other banks using NEFT, RTGS, IMPS, and UPI.  
+- **Bill Payments:** Pay utility bills, credit card bills, and other payments seamlessly.  
+- **Credit Cards:** Access credit card details, make payments, and raise service requests.  
+- **Loans:** Apply for loans, view loan details, and raise service requests.  
+- **Investments:** Manage investments including mutual funds, PPF, and other instruments.  
+- **Demat Services:** Access and manage Demat accounts and related service requests.  
+- **Insurance:** View and manage insurance policies and service requests.  
+- **Forex and Remittance:** Access foreign exchange services and remit funds internationally.  
+- **Additional Services:** Recharge mobile phones, access tax services, use the shopping mall, and manage travel cards.  
+- **Personalization:** Customize your profile and dashboard for a tailored banking experience.  
+- **Chatbot Support:** Get instant assistance through the integrated chatbot for queries and support.  
+
+The platform is designed to provide a seamless and comprehensive banking experience, enabling customers to carry out most banking activities without visiting a branch.
+
+KEY POINTS:  
+- Over 350 banking services available online.  
+- Real-time access to accounts and transactions.  
+- Facility to open and manage fixed and recurring deposits.  
+- Multiple fund transfer options: NEFT, RTGS, IMPS, UPI.  
+- Comprehensive credit card management and service requests.  
+- Loan application and management through Net Banking.  
+- Investment tracking including mutual funds and PPF.  
+- Demat account access and service requests.  
+- Insurance policy management online.  
+- Forex and international remittance services.  
+- Bill payments and mobile recharge facilities.  
+- Integrated chatbot for instant customer support.  
+- Secure and user-friendly interface.  
+
+URL: https://www.icicibank.com/personal-banking/online-services

@@ -1,0 +1,36 @@
+TITLE: Key Features and Benefits of ICICI Bank’s iMobile App  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking, Digital Payments  
+TAGS: iMobile, Mobile Banking, UPI, Payments, ICICI Bank, Digital Wallet, Loans, Credit Cards, Mutual Funds  
+
+CONTENT:  
+ICICI Bank’s iMobile app is a comprehensive mobile banking application designed to offer seamless banking and payment services to both ICICI Bank customers and customers of other banks. It functions similarly to major UPI apps, enabling users to perform a wide range of financial transactions securely and conveniently from a single platform.
+
+Key features of the iMobile app include:
+
+- **Pay to Contact:** Users can view UPI IDs of contacts saved in their phone and transfer money directly across different payment apps and digital wallets, ensuring interoperability and ease of transactions.
+
+- **Accessibility for All Banks:** The app is available to customers holding bank accounts with any bank, allowing them to perform all types of transactions securely.
+
+- **Scan to Pay:** Instant payments can be made by scanning QR codes at various merchants such as hospitals, grocery stores, restaurants, petrol pumps, pharmacies, and multiplexes. Users can also send money to any UPI ID, bank account, or to themselves without any fees.
+
+- **Banking at Fingertips:** Users can open new ICICI Bank savings accounts, apply for credit cards, or avail loans directly through the app. The app offers instant loan approvals and credit cards with zero joining fees.
+
+- **Link Bank Accounts:** Users can link their bank accounts with their iMobile UPI ID during login, enabling sending and receiving money without sharing account numbers or other sensitive banking details.
+
+- **Additional Features:** The app supports utility bill payments, mobile recharges, movie ticket bookings, travel ticket bookings, gift card purchases, and investments in mutual funds, fixed deposits (FD), recurring deposits (RD), among others. It also provides expense tracking and balance checking functionalities.
+
+The iMobile app eliminates the need for multiple apps by consolidating banking and payment services into one secure and user-friendly platform.
+
+KEY POINTS:  
+- Available to all bank customers, not limited to ICICI Bank customers  
+- Supports UPI-based payments including pay to contacts and scan to pay  
+- No fees for sending money to UPI IDs or bank accounts  
+- Open new ICICI Bank savings accounts, apply for credit cards and loans via app  
+- Instant loan approvals and credit cards with zero joining fees  
+- Link multiple bank accounts securely with UPI ID  
+- Pay utility bills, recharge mobiles, book tickets, buy gift cards  
+- Invest in mutual funds, FD, RD through the app  
+- Expense tracking and balance checking features  
+
+URL: https://www.icicibank.com/blogs/mobile-banking/imobile-pay-features

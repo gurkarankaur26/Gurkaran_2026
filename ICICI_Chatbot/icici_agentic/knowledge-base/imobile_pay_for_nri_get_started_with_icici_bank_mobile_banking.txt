@@ -1,0 +1,35 @@
+TITLE: iMobile Pay for NRI – Get Started with ICICI Bank Mobile Banking  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Mobile Banking  
+TAGS: iMobile, NRI Banking, Mobile App, SIM Binding, MPIN, Debit Card, Net Banking  
+
+CONTENT:  
+ICICI Bank offers the iMobile app tailored for NRI customers to facilitate secure and convenient mobile banking. The app incorporates enhanced security features including mandatory SIM Binding authentication for NRIs.
+
+**How to Download iMobile App:**  
+- **App Store / Play Store:** Search and install ‘iMobile’  
+- **SMS:** Send SMS with text "iMobile" to 5676766 to receive the download link  
+- **Browser:** Visit mobile.icicibank.com/dl from your mobile browser  
+
+**Activation Process for NRI Customers:**  
+1. Install the iMobile app from App Store or Play Store.  
+2. Open the app and tap on "Let's Get Started".  
+3. Tap on "Proceed" to verify your mobile number.  
+4. Select the SIM card of the registered mobile number and click "Continue".  
+5. Create your MPIN (Mobile Personal Identification Number).  
+6. Verify your identity using either:  
+   - **Debit Card:** Authenticate using your debit card grid number, then enable fingerprint or face ID for login.  
+   - **Net Banking ID:** Authenticate using your Internet banking user ID and password, then enable fingerprint or face ID for login.  
+
+**Important Notes:**  
+- SIM Binding authentication is mandatory for NRI customers to enhance security.  
+- Fingerprint or face ID login is available after initial authentication.  
+
+KEY POINTS:  
+- iMobile app is available on App Store, Play Store, via SMS link, or browser download.  
+- Mandatory SIM Binding authentication for NRIs ensures enhanced security.  
+- MPIN creation is required for app activation.  
+- Two verification methods: Debit Card grid number or Net Banking ID.  
+- Biometric login (fingerprint/face ID) can be enabled post-authentication.  
+
+URL: https://www.icicibank.com/nri-banking/mobile-banking/imobile/get-started

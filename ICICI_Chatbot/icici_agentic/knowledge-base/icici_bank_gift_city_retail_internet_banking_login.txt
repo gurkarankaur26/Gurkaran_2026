@@ -1,0 +1,23 @@
+TITLE: ICICI Bank GIFT City Retail Internet Banking Login  
+SOURCE: ICICI Bank  
+CATEGORY: Internet Banking  
+TAGS: ICICI Bank, GIFT City, Internet Banking, Login, Security  
+
+CONTENT:  
+ICICI Bank provides a secure internet banking login portal specifically for its GIFT City retail customers. Customers can access their accounts through the dedicated URL: https://giftcity.icici.bank.in. The portal uses a secure virtual keyboard to enhance security during login, preventing keylogging and unauthorized access.
+
+Important security measures to follow before logging in:  
+- Ensure the URL in the browser address bar begins with https://giftcity.icici.bank.in  
+- Do not enter login or sensitive information in any pop-up windows  
+- Verify the security certificate by clicking on the padlock icon in the browser to confirm the site is verified by Entrust  
+
+The secure virtual keyboard includes all alphanumeric keys and special characters, allowing users to enter their credentials safely.
+
+KEY POINTS:  
+- Dedicated internet banking portal for ICICI Bank GIFT City retail customers  
+- Secure URL: https://giftcity.icici.bank.in  
+- Use of secure virtual keyboard for login  
+- Verify security certificate (Entrust verified) before entering credentials  
+- Avoid entering sensitive information in pop-up windows  
+
+URL: https://ribibgc.icicibank.com/corpribgfc/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI97

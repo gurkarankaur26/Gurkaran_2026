@@ -1,0 +1,32 @@
+TITLE: ICICI Bank Digital Car Loan  
+SOURCE: ICICI Bank  
+CATEGORY: Loans  
+TAGS: Car Loan, Digital Loan, eKYC, Loan Approval, Flexible Repayment  
+
+CONTENT:  
+ICICI Bank offers a fully digital Car Loan process designed to provide customers with a fast, secure, and convenient way to finance their vehicle purchase. The application process is streamlined with minimal documentation and includes a secure eKYC verification to ensure data accuracy and safety.  
+
+**Application Process:**  
+- Customers need to provide additional details such as address and office information.  
+- The application is submitted online for approval and processing.  
+- A bank representative may contact the customer for further information to facilitate loan processing.  
+- For customers with pending KYC, the Video KYC (VKYC) process must be completed before submission.  
+
+**Key Benefits:**  
+- **Fast and Instant Approval:** The digital process enables quick loan approvals and timely disbursement without long waiting periods.  
+- **Minimal Documentation:** Most documents are collected digitally, reducing paperwork and saving time.  
+- **Loan Flexibility:** Customers can customize loan amount, tenure, and EMI structure to suit their budget.  
+- **Secure eKYC Process:** The use of OTP and document verification ensures a safe and reliable approval process.  
+
+ICICI Bank’s digital-first approach makes availing a Car Loan easy, hassle-free, and efficient, helping customers drive their dream car with flexible and timely financial support.  
+
+KEY POINTS:  
+- Fully digital Car Loan application and approval process  
+- Additional customer details required: address, office details  
+- Video KYC mandatory for pending KYC customers  
+- Fast approval and disbursement  
+- Minimal documentation, mostly digital  
+- Flexible loan amount, tenure, and EMI options  
+- Secure eKYC with OTP and document verification  
+
+URL: https://www.icicibank.com/personal/loans/car-loan.page

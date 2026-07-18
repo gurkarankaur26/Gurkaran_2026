@@ -1,0 +1,34 @@
+TITLE: ICICI Prudential and Invesco India Mutual Funds Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, ICICI Prudential, Invesco India, Investment Funds, Growth, IDCW, Direct Plan, Regular Plan  
+
+CONTENT:  
+This document provides a structured overview of various mutual fund schemes offered by ICICI Prudential and Invesco India. The funds are categorized by their investment focus, plan type (Direct or Regular), and option type (Growth or IDCW - Income Distribution cum Capital Withdrawal).  
+
+ICICI Prudential Mutual Funds:  
+- Rural Opportunities Fund (Regular Plan, IDCW)  
+- Smallcap Fund (Direct and Regular Plans, Growth and IDCW options)  
+- Technology Fund (Direct and Regular Plans, Growth and IDCW options)  
+- Thematic Advantage Fund (Fund of Funds) (Direct and Regular Plans, Growth and IDCW options)  
+- Transportation and Logistics Fund (Direct and Regular Plans, Growth and IDCW options)  
+- US Bluechip Equity Fund (Direct and Regular Plans, Growth and IDCW options)  
+- Value Fund (Direct and Regular Plans, Growth and IDCW options)  
+
+Invesco India Mutual Funds:  
+- Arbitrage Fund (Direct and Regular Plans, Ann Bonus, Growth and IDCW options)  
+- Balanced Advantage Fund (Direct and Regular Plans, Growth and IDCW options)  
+- Contra Fund (Direct Plan, Growth option)  
+
+Each fund is identified by a unique code for easy reference. The options available allow investors to choose between growth-oriented investments or periodic income through IDCW. Direct plans typically have lower expense ratios compared to regular plans.  
+
+KEY POINTS:  
+- Multiple mutual fund schemes available under ICICI Prudential and Invesco India brands.  
+- Plans offered include Direct and Regular, with options for Growth and IDCW.  
+- Funds cover diverse sectors such as rural opportunities, smallcap, technology, thematic advantage, transportation and logistics, US bluechip equities, value investing, arbitrage, balanced advantage, and contra strategies.  
+- Unique identification codes are assigned to each fund variant for tracking and investment purposes.  
+- IDCW option provides periodic income distribution, while Growth option reinvests earnings to increase NAV.  
+- Direct plans generally have lower fees compared to regular plans, benefiting long-term investors.  
+
+URL:  
+https://www.icicibank.com/wealth/investments/mutual-funds.page

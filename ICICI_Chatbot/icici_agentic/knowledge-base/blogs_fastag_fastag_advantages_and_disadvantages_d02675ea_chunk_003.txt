@@ -1,0 +1,56 @@
+TITLE:  
+ICICI Bank FASTag - Features, Activation, Closure, and FAQs
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag Services
+
+TAGS:  
+FASTag, Toll Payments, Vehicle Registration, FASTag Closure, FASTag Recharge, Customer Support
+
+CONTENT:  
+ICICI Bank FASTag enables automatic toll payments by deducting toll charges electronically when the vehicle approaches the toll plaza, eliminating the need to stop for cash transactions.
+
+**Key Services Offered:**  
+- Buy new FASTag  
+- Recharge FASTag  
+- Raise a query  
+- Update Vehicle Number  
+- Close FASTag  
+- View FASTag details  
+- Request tag replacement  
+- Download statement  
+- Auto Recharge when balance falls below threshold  
+
+**FASTag Closure Process:**  
+- Submit closure request with required documents.  
+- Bank verifies the request within 3 business days.  
+- Upon approval, the FASTag is put under exception code 03 (low balance status) in NPCI and IHMCL records to block transactions.  
+- After 15 days of approval, the balance refund is credited to your wallet, and the FASTag status changes to exception code 06 (closed status).  
+- If any transactions occur on the blocked tag, you can raise a dispute for a refund from the toll plaza.  
+- You can check the activity history and closure status on the FASTag web portal: https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx  
+- For urgent permanent blocking (e.g., vehicle sold), mark the tag as Lost/Stolen via the portal to immediately add it to exception code 06 (closed/permanent block).  
+
+**Reactivation and Replacement:**  
+- If FASTag is hotlisted due to negative balance, recharge with sufficient funds to reactivate.  
+- If hotlisted due to incorrect vehicle number or missing registration certificate, upload the registration certificate and contact customer care at 1800 2100 104.  
+- FASTags with status “Closed” in NPCI and IHMCL records cannot be reactivated.  
+- If your FASTag status is “Returndamage,” “LOST,” or “STOLEN,” you can get a replacement under the existing FASTag wallet.  
+- For statuses like “HEXTAGCLOSED,” “CLOSED,” “PENDING CLOSED,” “REFUND REQUESTED,” “SUSPENDED,” or “WRITE OFF,” a new FASTag account must be created. Existing accounts can be closed following the FASTag wallet closure process.  
+
+**Customer Support:**  
+- For any issues related to FASTag, vehicle number updates, or tag replacement, contact ICICI Bank customer care at 1800 2100 104.  
+
+KEY POINTS:  
+- FASTag enables cashless toll payments with automatic deduction.  
+- Closure requests take 3 business days for verification and 15 days for refund processing.  
+- Tags blocked due to negative balance or incorrect details can be reactivated after rectification.  
+- Closed FASTags cannot be reactivated; new tags/accounts may be required depending on status.  
+- Urgent blocking of FASTag is possible by marking it Lost/Stolen via the portal.  
+- Customer care helpline: 1800 2100 104  
+- FASTag portal for managing tags and checking status: https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx  
+
+URL:  
+https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx

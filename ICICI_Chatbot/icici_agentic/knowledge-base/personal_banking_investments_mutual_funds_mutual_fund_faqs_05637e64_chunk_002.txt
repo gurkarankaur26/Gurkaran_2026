@@ -1,0 +1,84 @@
+TITLE:  
+Mutual Funds Investment Guide
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investments, KYC, Banking
+
+TAGS:  
+Mutual Funds, Equity Funds, Debt Funds, Hybrid Funds, Index Funds, KYC, PAN, Investment Risks, SEBI, ICICI Bank
+
+CONTENT:  
+Mutual funds are investment vehicles pooling money from multiple investors to invest in diversified portfolios of securities. They are broadly classified into the following categories:
+
+1. **Equity Funds**  
+   - Invest primarily in equity and equity-related instruments.  
+   - Aim for long-term capital growth.
+
+2. **Debt Funds**  
+   - Invest in fixed-income securities such as government/corporate bonds, treasury bills, and money market instruments.  
+   - Provide reliable income, liquidity, and diversification.
+
+3. **Hybrid Funds**  
+   - Invest in a combination of debt and equity instruments.  
+   - Offer benefits of asset allocation and diversification.  
+   - Tailored for specific financial goals like retirement and child’s education.
+
+4. **Index Funds/ETFs and Fund of Funds (FoF)**  
+   - Invest in market indices like Sensex or Nifty 50.  
+   - Suitable for investors who want to replicate market index allocation.
+
+**Risks Involved:**  
+- Market risk  
+- Interest rate risk  
+- Credit risk  
+- Liquidity risk  
+
+Diversification, expert fund management, and regulatory oversight help mitigate these risks. Investors should choose schemes aligned with their financial goals and risk tolerance.
+
+**KYC (Know Your Customer) Requirements:**  
+- PAN card (mandatory for all investors except certain government bodies or SEBI-notified exemptions)  
+- Proof of Identity (Aadhaar card)  
+- Photograph  
+- KYC form and FATCA-CRS declaration  
+
+For non-individual investors, additional documents may be required as per the KYC form.
+
+**KYC Compliance:**  
+- KYC is mandatory as per SEBI regulations to invest in mutual funds.  
+- It verifies identity, address, and other details once for all market intermediaries.  
+- Joint investments require each holder to complete KYC individually, complying with PAN, KYC, and FATCA norms.
+
+**KYC Status and Impact on Mutual Fund Transactions:**  
+
+| KYC Status    | When Applicable                         | Impact on MF Investment                                      | Re-KYC Required?                  |  
+|---------------|---------------------------------------|--------------------------------------------------------------|----------------------------------|  
+| KYC Validated | Original KYC based on Aadhaar          | Can transact across all fund houses                           | No                               |  
+| KYC Registered| Original KYC based on Official Valid Documents (OVD) except Aadhaar | No impact on existing investments; cannot invest in new fund houses | Yes, to invest in new fund houses |  
+| On Hold       | Original KYC based on non-OVD          | Debarred from all mutual fund transactions                    | Yes                              |  
+| Rejected     | After KYC "On Hold" status for 10-15 days | Debarred from all mutual fund transactions                    | Yes                              |  
+
+**Eligible Investors:**  
+- Resident individuals  
+- Non-Resident Indians (NRIs)  
+- Resident minors (through guardians)  
+- Hindu Undivided Families (HUFs)  
+- Companies, partnerships, LLPs  
+- Trusts and other SEBI-permitted entities  
+
+All must complete KYC and onboarding registration to invest via ICICI Bank’s platform.
+
+KEY POINTS:  
+- Mutual funds are classified into Equity, Debt, Hybrid, and Index funds.  
+- Each category serves different investment goals and risk profiles.  
+- KYC is mandatory for all investors to comply with SEBI regulations.  
+- PAN is mandatory except for specific exemptions.  
+- Joint investors must individually complete KYC and PAN compliance.  
+- KYC status affects the ability to transact in mutual funds.  
+- ICICI Bank facilitates mutual fund investments for a wide range of investor categories.  
+- Risks include market, interest rate, credit, and liquidity risks, mitigated by diversification and expert management.
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds-investment-guide

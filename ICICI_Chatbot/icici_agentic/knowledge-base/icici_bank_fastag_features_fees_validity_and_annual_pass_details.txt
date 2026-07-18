@@ -1,0 +1,34 @@
+TITLE: ICICI Bank FASTag – Features, Fees, Validity, and Annual Pass Details  
+SOURCE: ICICI Bank  
+CATEGORY: FASTag, Toll Payments, Prepaid Wallet  
+TAGS: FASTag, Toll Payment, Prepaid Wallet, Annual Pass, ICICI Bank, NHAI, Re-issuance Fee, Validity  
+
+CONTENT:  
+ICICI Bank FASTag is a prepaid wallet used for electronic toll payments on national highways and expressways managed by the National Highways Authority of India (NHAI). The FASTag is linked to a prepaid wallet from which toll charges are deducted automatically when you pass through toll plazas.
+
+**Key Features and Information:**  
+- **No Interest on Balance:** The balance maintained in the FASTag wallet or the security deposit held by the bank does not earn any interest as per current regulations.  
+- **No Annual Maintenance Fee:** ICICI Bank does not charge any annual maintenance fee for the FASTag. You only pay for toll transactions and any recharges you make to maintain the wallet balance.  
+- **Validity:** The FASTag is valid for 5 years from the date of issuance. It remains functional as long as it is readable and not physically damaged. After 5 years, a fresh tag application is required.  
+- **Re-issuance Fee:** If the FASTag is lost or physically damaged, a re-issuance fee of approximately ₹100 plus applicable GST is charged. Upon payment, a new tag is issued and linked to the existing wallet balance.  
+- **Wallet Balance and Blacklisting:** If the wallet balance falls below zero due to a transaction, the tag may be blacklisted or marked with restrictions until the balance is recharged.  
+
+**FASTag Annual Pass:**  
+- The Annual Pass is a toll payment scheme designed for non-commercial vehicles such as cars, jeeps, and vans.  
+- It allows unlimited travel on NHAI-managed national highways and expressways without worrying about wallet balance or recharges.  
+- The pass is valid for 1 year (365 days) from the activation date or up to 200 toll trips, whichever is reached first.  
+- The Annual Pass must be linked to an existing ICICI Bank FASTag. If you have an active FASTag, the Annual Pass will be automatically linked to it.  
+- **Pricing:** The Annual Pass costs ₹3,000 (including taxes).  
+- **Purchase and Activation:** You can purchase or recharge the Annual Pass online via the Rajmargyatra app or the official NHAI portal. After payment, the pass is linked and activated within approximately 2 hours.  
+- After the Annual Pass validity expires, the FASTag automatically reverts to regular per-trip toll billing.  
+
+KEY POINTS:  
+- ICICI Bank FASTag is a prepaid wallet with no interest on balance.  
+- No annual maintenance fee is charged for the FASTag.  
+- FASTag validity is 5 years; re-issuance fee is ₹100 + GST if lost or damaged.  
+- Annual Pass for non-commercial vehicles costs ₹3,000 and is valid for 1 year or 200 trips.  
+- Annual Pass is linked automatically to an active ICICI Bank FASTag.  
+- Annual Pass can be purchased/recharged online via Rajmargyatra app or NHAI portal.  
+- Wallet balance must be maintained to avoid blacklisting of the FASTag.  
+
+URL: https://www.icicibank.com/fastag

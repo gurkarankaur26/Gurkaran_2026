@@ -1,0 +1,21 @@
+TITLE: Credit Card Service Requests  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards, Customer Service  
+TAGS: Credit Card, Service Requests, PIN, Statements, Customer Support, ICICI Bank  
+
+CONTENT:  
+ICICI Bank provides online support for all credit card service requests, allowing customers to raise requests related to statements, PIN generation or reset, dispatch issues, and other credit card-related concerns quickly and securely.  
+
+To access these services, customers must log in using their Net Banking User ID and Password.  
+
+If you do not have login credentials, you can:  
+- Generate your User ID and Password online via the ICICI Bank website  
+- Contact Customer Care at 1800 1080 for assistance  
+
+KEY POINTS:  
+- Online service requests available for credit card statements, PIN, dispatch issues, and more  
+- Requires Net Banking login credentials for access  
+- Option to generate User ID and Password online if not available  
+- Customer Care helpline: 1800 1080  
+
+URL: https://www.icicibank.com/personal-banking/cards/credit-card/service-requests

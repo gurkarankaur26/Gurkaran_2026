@@ -1,0 +1,57 @@
+TITLE: Gold Loan Per Gram Calculator – How It Works  
+SOURCE: ICICI Bank  
+CATEGORY: Loans, Gold Loan  
+TAGS: Gold Loan, Loan-to-Value, Gold Purity, Interest Rates, Processing Fees, Loan Calculation  
+
+CONTENT:  
+When applying for a Gold Loan at ICICI Bank, the value of your gold is a crucial factor in determining the loan amount. Gold Loans are secured loans where you pledge your physical gold (jewellery or coins) as collateral to receive funds. The loan amount you can avail depends on the weight, purity, and current market price of your gold, as well as the Loan-to-Value (LTV) ratio set by the bank.
+
+**What is Gold Loan per gram?**  
+Gold Loan per gram refers to the loan amount you can receive for each gram of gold pledged. It is calculated based on the purity of gold, the current market price, and the LTV ratio.
+
+**Key Factors Affecting Gold Loan per Gram:**  
+1. **Gold Purity:**  
+   - Measured in carats; pure gold is 24 carats. Jewellery is usually 22 or 18 carats.  
+   - Higher purity means a higher loan amount per gram.  
+
+2. **Current Market Price of Gold:**  
+   - The loan amount fluctuates with the prevailing gold price.  
+
+3. **Loan-to-Value (LTV) Ratio:**  
+   - The percentage of gold value offered as a loan.  
+   - RBI guidelines allow a maximum LTV of 75%. ICICI Bank offers up to this limit depending on policies.  
+
+4. **Processing Fees:**  
+   - Fees charged by the bank reduce the net amount disbursed but do not affect the per gram loan calculation directly.  
+
+5. **Type of Gold Accepted:**  
+   - Only physical gold such as jewellery and coins are accepted.  
+   - Gold bars and Gold ETFs are not accepted as collateral.  
+
+**How to Calculate Gold Loan per Gram:**  
+Formula:  
+Loan Amount per gram = (Purity / 24) × Market Price × LTV Ratio  
+
+**Example Calculation:**  
+- Gold Purity: 22 carats  
+- Market Price: ₹5,000 per gram  
+- LTV Ratio: 75% (0.75)  
+
+Calculation:  
+(22 / 24) × 5,000 × 0.75 = 0.916 × 5,000 × 0.75 = ₹3,435 per gram  
+
+This means for each gram of 22-carat gold, you can get a loan of ₹3,435.  
+
+**Additional Information:**  
+- Always consider processing fees and other charges when calculating the net loan amount.  
+- The loan amount is subject to verification of gold purity and weight by the bank’s experts.  
+
+KEY POINTS:  
+- Gold Loan is a secured loan against physical gold (jewellery/coins).  
+- Loan amount depends on gold purity, market price, and LTV ratio (max 75%).  
+- Formula: Loan per gram = (Purity/24) × Market Price × LTV.  
+- Example: For 22 carat gold at ₹5,000/gram and 75% LTV, loan per gram = ₹3,435.  
+- Processing fees reduce net disbursed amount.  
+- Gold bars and ETFs are not accepted as collateral.  
+
+URL: https://www.icicibank.com/blogs/gold-loan/how-to-calculate-gold-loan-per-gram

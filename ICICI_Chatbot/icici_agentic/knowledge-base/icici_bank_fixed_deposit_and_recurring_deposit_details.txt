@@ -1,0 +1,40 @@
+TITLE: ICICI Bank Fixed Deposit and Recurring Deposit Details  
+SOURCE: ICICI Bank  
+CATEGORY: Fixed Deposits, Recurring Deposits, Investment Products  
+TAGS: Fixed Deposit, Recurring Deposit, FD Calculator, Interest Rates, Tenure, Eligibility, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers Fixed Deposits (FD) and Recurring Deposits (RD) with flexible tenures and competitive interest rates to help customers grow their savings efficiently. The bank provides an FD Calculator tool to assist customers in estimating returns based on tenure and prevailing interest rates, enabling better financial planning.
+
+**Types of Interest Payment Options for FD:**  
+- **Cumulative FD:** Interest is compounded quarterly and reinvested into the principal.  
+- **Quarterly Payout FD:** Simple interest is paid at the end of each quarter.  
+- **Monthly Payout FD:** Interest is paid monthly at a discounted value.  
+- **Short-term FD:** Interest is calculated and paid on a simple interest basis.
+
+**Minimum Deposit Amounts:**  
+- Fixed Deposit: ₹10,000 minimum to open.  
+- Recurring Deposit: ₹500 minimum to open, with subsequent monthly deposits in multiples of ₹100.
+
+**Tenure:**  
+- Flexible tenures ranging from 7 days up to 10 years.
+
+**Eligibility:**  
+- **Individuals:** Residents, Non-Resident Indians (NRIs), and Minors (with guardianship).  
+- **Entities:** Sole Proprietorship Firms, Hindu Undivided Families (HUFs), Partnership Firms, Limited Companies, and Trust Accounts.
+
+**How to Open an FD:**  
+- Through ICICI Bank’s iMobile app or Net Banking.  
+- By visiting any ICICI Bank branch or ATM.  
+- By calling Customer Care at 1800 1080.
+
+KEY POINTS:  
+- Minimum FD amount: ₹10,000  
+- Minimum RD amount: ₹500 (subsequent deposits in multiples of ₹100)  
+- Tenure range: 7 days to 10 years  
+- Interest options: Cumulative (compounded quarterly), Quarterly payout, Monthly payout, Short-term (simple interest)  
+- Eligible applicants include individuals (residents, NRIs, minors) and various entities (sole proprietorship, HUF, partnership, companies, trusts)  
+- Multiple convenient channels to open FD: mobile app, net banking, branch, ATM, phone  
+- Customer Care number: 1800 1080  
+
+URL: https://www.icicibank.com/personal-banking/investments/fixed-deposit.page

@@ -1,0 +1,12 @@
+TITLE: Currency Exchange Limits and Guidelines  
+SOURCE: ICICI Bank  
+CATEGORY: Foreign Exchange / Currency Exchange  
+TAGS: Currency Exchange, Exchange Limits, Foreign Currency, Banking Services  
+CONTENT:  
+ICICI Bank provides currency exchange services with specific limits on the amount that can be exchanged. The standard amount considered for currency exchange is Rs. 20,00,000. However, the actual exchange limit applicable for a transaction is Rs. 10,00,000. Customers should be aware of these limits when planning their currency exchange transactions. For amounts exceeding these limits, additional documentation or approvals may be required as per regulatory guidelines.  
+KEY POINTS:  
+- Standard amount considered for currency exchange: Rs. 20,00,000  
+- Actual exchange limit per transaction: Rs. 10,00,000  
+- Additional documentation may be required for amounts exceeding the limit  
+- Applicable for foreign currency exchange services at ICICI Bank  
+URL: https://www.icicibank.com/foreign-exchange-services

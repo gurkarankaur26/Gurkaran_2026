@@ -1,0 +1,43 @@
+TITLE: Demat and Trading Account FAQs - ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Account Opening, Demat Account, Trading Account  
+TAGS: Demat Account, Trading Account, NRI, Securities, Investment, Fees, Security, Depository Participant  
+
+CONTENT:  
+A Demat Account holds all your securities such as shares, bonds, and other financial instruments in electronic format, eliminating the need for physical certificates. It is essential for trading and investing in the securities market, enabling easy buying, selling, and storage of securities.
+
+**Opening a Demat Account:**  
+- You can open a Demat Account online via ICICI Bank’s website or download the account opening form (Individual or Corporate) and submit it along with the required documents at any ICICI Bank branch offering Demat services.  
+- There is no fee for opening a Demat Account. However, nominal fees for services are charged as per the Standard Rate Card.  
+- There is no restriction on the number of Demat Accounts you can open with ICICI Bank.  
+- No minimum balance or minimum holding requirement is prescribed.  
+
+**Security:**  
+- ICICI Bank’s Demat Account offers multi-layer authentication, encryption, and advanced security protocols.  
+- The bank complies with SEBI guidelines to ensure the safety of your holdings.  
+- Secure access is available through Net Banking and the ICICI Bank iMobile app.  
+
+**NRI Demat Account:**  
+- NRIs can open a Demat Account and invest in Indian stock markets through the Portfolio Investment Scheme (PIS), following RBI and SEBI regulations.  
+
+**Trading Account:**  
+- A Trading Account allows you to buy and sell financial securities like stocks, bonds, mutual funds, and derivatives on the stock market.  
+- It is usually linked to a Demat Account (which holds your securities in digital form) and a Bank Account (to fund your trades).  
+- The Trading Account executes trades, the Demat Account stores securities, and the Bank Account handles the money.  
+- Demat and Trading Accounts serve different purposes: Demat Account holds securities, Trading Account facilitates buying and selling.  
+
+**Depository and Depository Participant (DP):**  
+- A Depository holds securities in electronic (dematerialised) form. In India, the two depositories are National Securities Depositories Limited (NSDL) and Central Depository Services Limited (CDSL).  
+- Investors avail services of the Depositories through Depository Participants (DP) such as ICICI Bank.  
+- DPs act like bank branches where physical shares are deposited for conversion into electronic form.  
+
+KEY POINTS:  
+- Demat Account holds securities electronically; essential for trading and investing.  
+- No fee for opening Demat Account; nominal service fees apply.  
+- Multiple Demat Accounts allowed; no minimum balance required.  
+- Secure access with multi-layer authentication and SEBI compliance.  
+- NRIs eligible to open Demat Account under PIS scheme.  
+- Trading Account linked to Demat and Bank Account for executing trades.  
+- Depositories (NSDL, CDSL) hold securities electronically; ICICI Bank acts as DP.  
+
+URL: https://www.icicibank.com/personal-banking/demat/account-opening-faqs

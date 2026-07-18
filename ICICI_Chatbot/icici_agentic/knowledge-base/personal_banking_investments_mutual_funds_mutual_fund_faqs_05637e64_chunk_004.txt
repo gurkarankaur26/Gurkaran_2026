@@ -1,0 +1,72 @@
+TITLE:  
+Taxation on Capital Gains from Mutual Funds
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Mutual Funds, Taxation, Investments
+
+TAGS:  
+Capital Gains Tax, Mutual Funds, Equity Mutual Funds, Debt Mutual Funds, Hybrid Funds, Tax Rates, Investment Tenure, STCG, LTCG
+
+CONTENT:  
+The tax on capital gains from mutual funds depends on the type of mutual fund, the holding period, and the date of investment and redemption. The classification of short-term and long-term capital gains varies between equity and debt-oriented funds.
+
+**1. Equity Mutual Funds (including Equity Index Funds, Equity ETFs, Equity FoFs):**  
+- **Holding Period:**  
+  - Short-term: Less than 12 months  
+  - Long-term: More than 12 months  
+- **Tax Rates (Pre-Budget Redemption up to July 22, 2024):**  
+  - Short-term Capital Gains (STCG): 15%  
+  - Long-term Capital Gains (LTCG): 10% on gains exceeding ₹1 lakh  
+- **Tax Rates (Post-Budget Redemption on or after July 23, 2024):**  
+  - STCG: 20%  
+  - LTCG: 12.5% on gains exceeding ₹1.25 lakh  
+- **Additional Information:** Securities Transaction Tax (STT) is applicable as these funds invest ≥65% in domestic equity shares. Balanced Advantage Funds (BAF) are considered equity funds if they maintain gross equity exposure of 65% or more.
+
+**2. Debt Oriented Funds:**  
+- **Holding Period:**  
+  - Pre-Budget (Investment before April 1, 2023):  
+    - STCG: Less than 36 months  
+    - LTCG: More than 36 months  
+  - Post-Budget (Investment before April 1, 2023):  
+    - STCG: Less than 24 months  
+    - LTCG: More than 24 months  
+- **Tax Rates:**  
+  - Pre-Budget STCG: Taxed as per individual slab rate  
+  - Pre-Budget LTCG: 20% with indexation benefit  
+  - Post-Budget STCG: Taxed as per slab rate  
+  - Post-Budget LTCG: 12.5% without indexation  
+- **For investments made on or after April 1, 2023:**  
+  - Only STCG applies and is taxed as per slab rate; LTCG is not applicable.
+
+**3. Other Funds (Gold ETFs, Silver ETFs, Fund of Funds, Multi-Asset Allocation Funds, International FoFs, Hybrid Mutual Funds with ≤35% equity):**  
+- **Holding Period:**  
+  - Short-term: Less than 12 months  
+  - Long-term: More than 12 months  
+- **Tax Rates:**  
+  - STCG: Taxed as per slab rate  
+  - LTCG: 12.5%  
+- **Investment and Redemption Dates:**  
+  - For investments prior to April 1, 2023, and redemption after July 23, 2024, LTCG is taxed at 12.5%.  
+  - For investments after April 1, 2023, and redemption on or after April 1, 2025, LTCG is taxed at 12.5%.  
+  - For redemption between July 23, 2024, and March 31, 2025, LTCG is not applicable.
+
+**Key Abbreviations:**  
+- STCG: Short-Term Capital Gains  
+- LTCG: Long-Term Capital Gains  
+- ETF: Exchange Traded Fund  
+- FoF: Fund of Funds  
+- BAF: Balanced Advantage Fund  
+- STT: Securities Transaction Tax
+
+KEY POINTS:  
+- Equity mutual funds have a 12-month threshold for short-term vs long-term capital gains; debt funds have 24 or 36 months depending on investment date.  
+- Post-Budget changes (effective July 23, 2024) have increased tax rates on equity mutual fund gains and altered holding periods for debt funds.  
+- STCG on equity funds is taxed at 20% post-budget; LTCG at 12.5% on gains above ₹1.25 lakh.  
+- Debt fund LTCG post-budget is taxed at 12.5% without indexation; STCG is taxed as per slab rate.  
+- Hybrid funds with less than or equal to 35% equity are taxed like debt funds.  
+- STT applies to equity-oriented funds.  
+- Indexation benefit is available only for pre-budget debt fund LTCG.  
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds/taxation-on-capital-gains-from-mutual-funds

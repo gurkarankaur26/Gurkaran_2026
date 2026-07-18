@@ -1,0 +1,43 @@
+TITLE:  
+Documents Required for FASTag in 2026
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Electronic Toll Payment, Vehicle Services
+
+TAGS:  
+FASTag, NETC, Toll Payment, Vehicle Registration, KYC, ICICI Bank, RFID, Online Application
+
+CONTENT:  
+FASTag is an electronic toll collection system that enables seamless payment at toll plazas on National Highways using Radio-Frequency Identification (RFID) technology. It is affixed to the vehicle’s windscreen and linked to a prepaid account, allowing vehicles to pass through toll plazas without stopping for cash transactions. The Ministry of Road Transport and Highways mandated FASTag usage for all vehicles from December 1, 2019, under the National Electronic Toll Collection (NETC) Programme.
+
+**How to Apply for FASTag through ICICI Bank:**  
+- Visit the ICICI Bank website or use digital channels such as SMS, iMobile app, InstaBIZ app, Pocket app, or Internet Banking.  
+- Fill in essential details including name, mobile number, and upload ID proof.  
+- Pay the applicable fees online based on your vehicle type.  
+- After payment, you will receive a FASTag receipt and reference number.  
+- Upon verification, the FASTag will be delivered to your registered address.
+
+Alternatively, you can apply offline by visiting NETC-operated toll plazas, filling out the application form, and submitting documents at the Point of Sale (POS) counter.
+
+**Documents Required to Apply for FASTag:**  
+- Vehicle Registration Certificate (RC)  
+- Passport size photograph of the vehicle owner  
+- KYC documents for ID and address proof (Driving Licence, PAN Card, or Passport)  
+- Completed application form provided by the bank representative
+
+All documents must be in the name of the vehicle owner. If the owner is not present during application, the driver cannot apply on their behalf.
+
+KEY POINTS:  
+- FASTag is mandatory for all vehicles on National Highways as per government mandate since Dec 1, 2019.  
+- It uses RFID technology for electronic toll payments, enabling faster and contactless transactions.  
+- ICICI Bank offers multiple online and offline channels to apply for FASTag.  
+- Required documents include Vehicle Registration Certificate, owner’s photo, and valid KYC proofs (Driving Licence, PAN, or Passport).  
+- Fees vary depending on vehicle type and are payable online during application.  
+- FASTag is delivered to the applicant’s address after verification.  
+- Only the vehicle owner can apply for FASTag; drivers cannot apply on behalf of owners.
+
+URL:  
+https://www.icicibank.com/blogs/fastag/documents-required-to-buy-fastag

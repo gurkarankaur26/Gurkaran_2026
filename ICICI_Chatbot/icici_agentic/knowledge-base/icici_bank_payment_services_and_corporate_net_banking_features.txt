@@ -1,0 +1,36 @@
+TITLE: ICICI Bank Payment Services and Corporate Net Banking Features  
+SOURCE: ICICI Bank  
+CATEGORY: Corporate Banking, Payment Solutions  
+TAGS: NEFT, RTGS, IMPS, Payment Integration, Corporate Net Banking, InstaBIZ, Transaction Tracking, ERP Integration  
+
+CONTENT:  
+ICICI Bank offers comprehensive payment services including NEFT, RTGS, and IMPS with defined transaction limits and timings. The bank supports integration of payment, collection, and reconciliation APIs with ERP systems, facilitating seamless host-to-host connectivity through Corporate Net Banking (CNB).  
+
+Key features of ICICI Bank’s Corporate Net Banking include:  
+- Real-time transaction tracking  
+- Downloadable transaction reports  
+- Instant SMS and email confirmations  
+- Reverse MIS reports for easy reconciliation  
+
+Additionally, ICICI Bank provides InstaBIZ, a dedicated mobile application for CNB users. InstaBIZ enables account management, payments, approvals, and transaction tracking on-the-go with enhanced security through mobile binding and advanced login features.  
+
+Transaction Limits and Timings:  
+- NEFT, RTGS, and IMPS transactions are available with limits such as ₹10 lakhs, ₹20 lakhs, and up to ₹1 crore depending on the service and timing.  
+- Transactions can be processed from early morning until midnight (12:00 a.m.).  
+- Transactions are not processed on 2nd and 4th Saturdays, Sundays, and bank holidays.  
+
+For detailed charges, timings, and limits related to NEFT, RTGS, and IMPS, ICICI Bank provides dedicated information resources.  
+
+KEY POINTS:  
+- Payment services include NEFT, RTGS, IMPS with specific transaction limits (₹10 lakhs, ₹20 lakhs, ₹1 crore)  
+- Transactions available from early morning to 12:00 a.m., excluding 2nd & 4th Saturdays, Sundays, and holidays  
+- API integration available for payments, collections, and reconciliation with ERP systems  
+- Host-to-host integration facility through Corporate Net Banking (CNB)  
+- Real-time transaction tracking and downloadable reports via CNB  
+- Instant SMS and email transaction confirmations  
+- Reverse MIS reports for reconciliation  
+- InstaBIZ mobile app for CNB users with account management, payments, approvals, and tracking  
+- Advanced login security with mobile binding on InstaBIZ  
+
+URL:  
+https://www.icicibank.com/business-banking/payment-services.page

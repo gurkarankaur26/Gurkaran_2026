@@ -1,0 +1,54 @@
+TITLE: iMobile: Demat Services  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Services  
+TAGS: Demat Account, iMobile, ICICI Bank, Investments, Shares, Securities, Digital Banking  
+
+CONTENT:  
+ICICI Bank offers Demat account services through its iMobile app, enabling customers to manage their securities and investments conveniently. The Demat account allows seamless holding and trading of shares and other securities in electronic form.  
+
+Key features and benefits of ICICI Bank Demat services via iMobile include:  
+- Easy access to your Demat account anytime, anywhere through the iMobile app.  
+- Ability to view holdings, transaction history, and portfolio performance in real-time.  
+- Secure and paperless transactions for buying and selling shares.  
+- Integration with trading accounts for smooth investment management.  
+- Instant updates and alerts on market movements and portfolio changes.  
+
+Eligibility:  
+- Must be an ICICI Bank customer with a valid savings or current account.  
+- KYC (Know Your Customer) compliance is mandatory for opening a Demat account.  
+
+Fees and Charges:  
+- Demat account opening charges may apply as per the latest ICICI Bank tariff.  
+- Annual maintenance charges (AMC) are applicable for Demat accounts.  
+- Transaction charges are levied on buying and selling securities as per ICICI Bank’s schedule of charges.  
+
+Process to Open a Demat Account via iMobile:  
+1. Download and log in to the iMobile app.  
+2. Navigate to the Demat account section.  
+3. Complete the online application form with personal and KYC details.  
+4. Upload necessary documents such as PAN card, Aadhaar, and address proof.  
+5. Submit the application and e-sign using Aadhaar OTP or digital signature.  
+6. Once verified, the Demat account will be activated and linked to your trading account.  
+
+FAQs:  
+Q: Can I open a Demat account without a trading account?  
+A: Yes, you can open a Demat account independently; however, to trade shares, a linked trading account is required.  
+
+Q: How do I check my Demat account balance?  
+A: You can check your holdings and balance anytime via the iMobile app under the Demat section.  
+
+Q: What documents are required to open a Demat account?  
+A: PAN card, Aadhaar card, address proof, passport-sized photograph, and bank account details.  
+
+Q: Are there any charges for transferring shares?  
+A: Yes, transfer charges apply as per ICICI Bank’s tariff schedule.  
+
+KEY POINTS:  
+- Demat account management available via iMobile app.  
+- Secure, paperless transactions and real-time portfolio tracking.  
+- Requires ICICI Bank account and KYC compliance.  
+- Charges include account opening fees, AMC, and transaction fees.  
+- Simple online application and e-sign process.  
+- Supports independent Demat account opening; trading account needed for share transactions.  
+
+URL: https://www.icicibank.com/videos/manage-your-demat-account-services

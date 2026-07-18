@@ -1,0 +1,57 @@
+TITLE:  
+Education Loan EMI Calculator - Calculate Education Loan EMI
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Education Loan, Loan Calculator, EMI Calculation
+
+TAGS:  
+Education Loan, EMI Calculator, Student Loan, Interest Rate, Loan Tenure, Moratorium Period, Loan Eligibility, Loan Planning
+
+CONTENT:  
+The ICICI Bank Education Loan EMI Calculator helps you estimate monthly EMIs based on loan amount, interest rate, and tenure. This tool instantly shows your monthly outflow and total interest payable across the repayment term, enabling borrowers and co-applicants to compare repayment scenarios before committing to a loan.
+
+It is suitable for funding undergraduate, postgraduate, engineering, management, or medical courses in India or abroad. The calculator provides clarity on affordability, helping you plan repayment around your moratorium period and post-course income, and choose the most suitable loan tenure.
+
+Key features include:  
+- Accurate EMI estimation using an RBI-standard formula.  
+- Ability to compare multiple scenarios by adjusting loan amount, interest rate, or tenure.  
+- Planning for higher studies in India or abroad.  
+- Helps students and parents understand monthly cash flows before applying.  
+- Assists in choosing between short-term loans (higher EMIs) and long-term loans (lower EMIs).  
+- Shows how interest accumulates over time, including during the moratorium period.  
+- Transparent and user-friendly interface requiring no manual calculations.
+
+Important factors affecting EMI:  
+- Loan Amount: Higher loan amounts lead to higher EMIs.  
+- Interest Rate: Varies based on the institute, course, co-applicant’s profile, and collateral offered.  
+- Loan Tenure: Longer tenure lowers EMI but increases total interest outflow.  
+- Moratorium Period: Interest continues accruing during this period, impacting total repayment.
+
+Eligibility and Additional Tools:  
+The calculator supports students in comparing collateral-free education loan offers by estimating EMI, total interest payable, and overall repayment cost. When comparing education loans, students should consider interest rate, repayment tenure, moratorium period, processing fees, and prepayment or foreclosure charges, not just the headline interest rate.
+
+ICICI Bank also offers complementary tools such as:  
+- Eligibility Calculator  
+- Interest Calculator  
+- Tax Benefit Calculator  
+- Loan vs Self-Funding Comparison Tool  
+
+These tools help students make informed borrowing decisions.
+
+KEY POINTS:  
+- Calculates monthly EMI and total interest payable for education loans.  
+- Uses RBI-standard formula for accurate EMI estimation.  
+- Allows adjustment of loan amount, interest rate, and tenure to compare scenarios.  
+- Suitable for domestic and international education funding.  
+- Helps plan repayment considering moratorium period and post-course income.  
+- Interest accrues during moratorium period, increasing total repayment.  
+- Loan tenure impacts EMI and total interest: longer tenure = lower EMI but higher interest.  
+- Eligibility depends on course, institute, co-applicant profile, and collateral.  
+- Additional calculators available for eligibility, interest, tax benefits, and funding comparison.  
+- Encourages evaluation of processing fees and prepayment charges alongside interest rates.
+
+URL:  
+https://www.icicibank.com/campus-power/education-loan-calculator

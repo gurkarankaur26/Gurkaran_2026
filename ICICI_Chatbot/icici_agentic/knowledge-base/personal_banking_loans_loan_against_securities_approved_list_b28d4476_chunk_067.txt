@@ -1,0 +1,66 @@
+TITLE:  
+HDFC Debt and Liquid Funds – Scheme Details
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Debt Funds  
+TAGS: HDFC Mutual Funds, Debt Funds, Liquid Funds, Growth, IDCW, Investment Options
+
+CONTENT:  
+This document provides a comprehensive list of HDFC Mutual Fund schemes focusing on debt and liquid funds, including their plan types, dividend options, and unique scheme codes. These funds cater to investors seeking various income and growth options through different dividend payout frequencies and growth plans.
+
+Key HDFC Debt and Liquid Fund Schemes:
+
+1. **HDFC Credit Risk Debt Fund**  
+   - Plan: Regular  
+   - Dividend Option: Quarterly IDCW (Income Distribution cum Capital Withdrawal)  
+   - Scheme Code: 128052
+
+2. **HDFC Floating Rate Debt Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: Daily, Monthly, Weekly IDCW, and Growth  
+   - Scheme Codes: 106838, 118960, 118961, 106839, 106840
+
+3. **HDFC Gilt Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: IDCW and Growth  
+   - Scheme Codes: 119115, 119116, 101083, 101084
+
+4. **HDFC Income Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: IDCW and Growth  
+   - Scheme Codes: 119069, 133365, 100124, 133366
+
+5. **HDFC Liquid Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: Daily, Monthly, Weekly IDCW, and Growth  
+   - Scheme Codes: 119089, 119090, 100875, 100868, 100876, 100874
+
+6. **HDFC Long Duration Debt Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: IDCW and Growth  
+   - Scheme Codes: 151311, 151312, 151313, 151314
+
+7. **HDFC Low Duration Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: Daily, Monthly, Weekly IDCW, and Growth  
+   - Scheme Codes: 118942, 118943, 105548, 102452, 105543, 102453
+
+8. **HDFC Medium Term Debt Fund**  
+   - Plans: Direct and Regular  
+   - Dividend Options: Fortnightly IDCW and Growth  
+   - Scheme Codes: 119080, 119081, 132852, 132853, 101989, 101990
+
+9. **HDFC Money Market Fund**  
+   - Plans: Direct  
+   - Dividend Options: Daily IDCW and Growth  
+   - Scheme Codes: 119093, 119092
+
+KEY POINTS:  
+- Multiple dividend payout options available: Daily, Weekly, Monthly, Fortnightly, Quarterly IDCW, and Growth plans.  
+- Both Direct and Regular plans are offered for most schemes, allowing investors to choose based on their preference for distributor involvement.  
+- Scheme codes are unique identifiers for each plan and dividend option, useful for transactions and tracking.  
+- These funds primarily invest in debt instruments, gilt securities, and money market instruments, catering to different risk and return profiles.  
+- Suitable for investors seeking regular income (via IDCW) or capital appreciation (via Growth option).  
+
+URL:  
+https://www.icicibank.com/wealth-management/mutual-funds/hdfc-mutual-funds.page

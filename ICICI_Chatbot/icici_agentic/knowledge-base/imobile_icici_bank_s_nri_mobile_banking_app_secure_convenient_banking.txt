@@ -1,0 +1,31 @@
+TITLE: iMobile: ICICI Bank’s NRI Mobile Banking App | Secure & Convenient Banking  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Mobile Banking, Digital Banking  
+TAGS: iMobile, NRI Banking, Mobile App, Secure Login, SIM Binding, ICICI Bank  
+
+CONTENT:  
+iMobile is ICICI Bank’s dedicated mobile banking app designed for NRI customers, offering secure and convenient banking services. The app enables users to perform a wide range of banking transactions on the go with enhanced security features.
+
+Key Features and Requirements:  
+- **SIM Binding:** Registration on iMobile requires the SIM card linked to your ICICI Bank account. This ensures secure access and prevents unauthorized use.  
+- **Active Mobile Number:** The registered SIM must be active and capable of sending SMS for verification and transaction purposes.  
+- **Secure Login Options:** Users can log in using MPIN, Internet Banking ID, or biometric authentication such as fingerprint recognition, ensuring multiple layers of security.  
+- **Operating System Compatibility:** iMobile supports devices running Android 9 or higher and iOS 17 or higher.  
+- **Single Device Access:** The app can be accessed on only one device per user to maintain account security.  
+- **No Charges from ICICI Bank:** The app is free to download and use. However, standard operator data and SMS charges may apply as per your mobile service provider.  
+
+Benefits:  
+- Convenient access to banking services anytime, anywhere.  
+- Enhanced security with SIM binding and multiple login options.  
+- Seamless integration with ICICI Bank’s NRI banking services.  
+- User-friendly interface compatible with latest mobile OS versions.  
+
+KEY POINTS:  
+- SIM binding mandatory for registration.  
+- Registered mobile number must be active and SMS-enabled.  
+- Login via MPIN, Internet Banking ID, or fingerprint.  
+- Compatible with Android 9+ and iOS 17+ only.  
+- Single device access per user.  
+- No charges from ICICI Bank; operator charges may apply.  
+
+URL: https://www.icicibank.com/nri-banking/mobile-banking/imobile

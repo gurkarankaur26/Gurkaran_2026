@@ -1,0 +1,57 @@
+TITLE:  
+ICICI Bank FASTag - Features, Usage, Security, and Account Management
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Electronic Toll Collection, Banking Services
+
+TAGS:  
+FASTag, Toll Payments, RFID, Auto-Recharge, Wallet Limit, Security, Customer Care, Account Closure
+
+CONTENT:  
+ICICI Bank FASTag is an electronic toll collection system that uses RFID technology to enable automatic toll payments at toll plazas. To ensure smooth passage through electronic lanes, maintain a minimum wallet balance (usually ₹100–₹200 for cars). Insufficient balance may result in paying double toll charges in cash and possible blacklisting.
+
+**Wallet Limits:**  
+- Limited KYC accounts: Maximum wallet balance ₹20,000  
+- Full KYC accounts: Maximum wallet balance ₹2,00,000
+
+**Auto-Recharge:**  
+Customers can set up Auto-Recharge via their ICICI Bank account to avoid insufficient balance issues. Balance can also be checked through the iMobile Pay app or by giving a missed call to the bank’s dedicated number.
+
+**Monthly Passes:**  
+FASTag users can avail monthly passes for specific toll plazas, ideal for frequent commuters. These passes can be applied for through the NHAI website or the respective toll plaza’s portal and will be linked to the ICICI Bank FASTag ID.
+
+**Security:**  
+- FASTag uses passive RFID technology, which transmits data only when near a powered toll scanner.  
+- It cannot be used to track vehicle location remotely or steal personal financial data.  
+- RFID readers operate on specific frequencies with encryption protocols, preventing unauthorized skimming or deductions.  
+- Toll deductions occur only through authorized NETC-linked merchant terminals.  
+- SMS notifications are sent for every transaction to the registered mobile number. Discrepancies can be reported via the customer portal or customer care.
+
+**In Case of Vehicle Theft:**  
+Immediately call ICICI Bank FASTag customer care at 1800 2100 104 to block the tag and prevent unauthorized toll deductions. Also, report the theft to local police authorities.
+
+**Tag Usage Guidelines:**  
+- Do not peel off or transfer the FASTag to another vehicle; it is tamper-evident and will become unusable if removed.  
+- Using a tag on a vehicle class other than the one it is registered for violates NHAI rules.  
+- If the tag is correctly affixed but fails to scan, it may be a technical fault. Request a replacement via the ICICI Bank customer portal.
+
+**Account Closure:**  
+To close a FASTag account, log into the ICICI Bank FASTag portal, go to "Service Request," and select "Tag Closure." Provide the reason for closure and bank account details for refund. Upon closure, the remaining wallet balance and refundable security deposit will be credited back to the linked bank account, typically within 15 working days.
+
+KEY POINTS:  
+- Maintain minimum wallet balance (₹100–₹200) to avoid double toll charges and blacklisting.  
+- Wallet limits: ₹20,000 for Limited KYC, ₹2,00,000 for Full KYC accounts.  
+- Auto-Recharge available via ICICI Bank account and iMobile Pay app.  
+- Monthly passes available through NHAI or toll plaza portals.  
+- FASTag uses secure passive RFID technology with encrypted toll deductions.  
+- SMS alerts for every transaction; disputes can be raised via customer care.  
+- In case of vehicle theft, call 1800 2100 104 immediately to block the tag.  
+- Do not transfer or tamper with the FASTag; it is vehicle-specific.  
+- Tag replacement available through customer portal if scanning issues occur.  
+- FASTag account closure process refunds balance and security deposit within 15 working days.
+
+URL:  
+https://www.icicibank.com/fastag

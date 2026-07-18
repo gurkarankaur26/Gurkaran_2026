@@ -1,0 +1,49 @@
+TITLE:  
+Mutual Funds Investment Guide and Key Terms
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Investments / Mutual Funds
+
+TAGS:  
+Mutual Funds, NAV, AUM, SIP, Lump Sum, Diversification, Capital Gains, Dividend Reinvestment, Risk Profile, Investment Process
+
+CONTENT:  
+Mutual Funds (MFs) are a popular investment choice that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities. Understanding key terms and investment methods is essential for making informed decisions.
+
+Key Terms:  
+- **Net Asset Value (NAV):** Calculated by dividing the total net assets of a scheme by the units issued. NAV changes daily based on the market value of the securities held.  
+- **Assets Under Management (AUM):** Reflects the current value of an MF scheme's assets. A higher AUM generally indicates a larger client base and greater investor trust.  
+- **Portfolio:** The collection of stocks, bonds, or other securities that an investor or fund manager invests in.  
+- **Financial Year:** A one-year period used by companies and governments for financial reporting and budgeting.  
+- **Load:** Commission or sales charge applied when buying or selling MF units. Types include:  
+  - Front-end load: Charged when buying shares  
+  - Back-end load: Charged when selling shares  
+  - No load: No sales charge  
+- **Diversification:** Holding a variety of investments across different sectors or asset classes to reduce risk.  
+- **Redemption:** The process of selling MF units back to the fund. Redemptions are usually processed within a few days.  
+- **Benchmark:** A standard index against which the performance of an MF is measured.  
+- **Capital Gains:** Payments made to shareholders from profits realized on the sale of securities in the fund’s portfolio. These can be short-term or long-term and are subject to capital gains tax.  
+- **Dividend Reinvestment:** An option allowing investors to use dividend payouts to purchase additional shares in the fund.  
+- **Total Return:** A measure of an MF’s performance including changes in NAV, dividends, and capital gain distributions.  
+- **Risk Profile:** An investor’s capacity to endure loss. Different MFs have varying risk levels suited to different investor profiles.
+
+Investment Methods:  
+- **Lump Sum Investment:** Investing a large sum of money at once. Suitable for investors expecting favorable market conditions and seeking high returns. This method carries risk due to market fluctuations.  
+- **Systematic Investment Plan (SIP):** Investing small amounts regularly (monthly or quarterly). SIPs reduce the impact of market volatility and allow investors to buy more units when prices are low.
+
+How to Invest:  
+Investing in Mutual Funds with ICICI Bank is easy and can be done online via ICICI Bank Internet Banking or the iMobile App. Both platforms provide convenient access to invest in various mutual fund schemes.
+
+KEY POINTS:  
+- NAV and AUM are critical indicators of mutual fund value and trust.  
+- Loads affect the cost of buying or selling mutual fund units.  
+- Diversification helps reduce investment risk.  
+- Capital gains from mutual funds are taxable.  
+- SIPs help mitigate market volatility compared to lump sum investments.  
+- Mutual fund investments can be managed online through ICICI Bank’s digital platforms.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

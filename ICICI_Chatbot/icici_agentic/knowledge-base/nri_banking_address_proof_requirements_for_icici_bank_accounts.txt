@@ -1,0 +1,26 @@
+TITLE: NRI Banking: Address Proof Requirements for ICICI Bank Accounts  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Account Opening, Documentation  
+TAGS: NRI Banking, Address Proof, Account Opening, OCI, PIO, India Connect, Documentation Requirements  
+
+CONTENT:  
+To open or maintain an NRI account with ICICI Bank, applicants must submit valid address proofs as per the following requirements:
+
+1. **Permanent Address Proof (Any one Officially Valid Document - OVD):**  
+   - Documents accepted as permanent address proof include government-issued documents that officially validate the applicant’s permanent address.
+
+2. **Communication Address Proof (Any one):**  
+   - Applicants must provide a communication address proof document. This can be the same as the permanent address proof or a different document evidencing the current communication address.
+
+3. **Non-Residential Status Proof (Any one):**  
+   - Proof of non-residential status is mandatory for NRI accounts.  
+   - Acceptable documents include OCI (Overseas Citizen of India) Card, PIO (Person of Indian Origin) Card, or other documents evidencing the applicant’s connection to India.  
+   - In the absence of OCI/PIO Card, any of the following documents evidencing India connect will be required (specific documents are not listed here but typically include Indian passport, Indian voter ID, or other government-issued documents).
+
+KEY POINTS:  
+- Separate address proofs are required for permanent and communication addresses.  
+- Non-residential status proof is mandatory for NRI account holders.  
+- OCI/PIO cards are preferred proofs for non-residential status; alternative documents evidencing India connection are accepted if OCI/PIO cards are not available.  
+- All documents must be officially valid and in the name of the applicant.  
+
+URL: https://www.icicibank.com/nri-banking/bankaccounts/addressproof

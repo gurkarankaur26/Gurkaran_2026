@@ -1,0 +1,36 @@
+TITLE: SBI Magnum Mutual Fund Schemes  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, SBI Magnum, Investment, Growth, IDCW, Income Fund, Gilt Fund, Low Duration Fund  
+
+CONTENT:  
+This document provides a comprehensive list of SBI Magnum mutual fund schemes available for investment. The schemes include various fund types such as Constant Maturity Fund, Gilt Fund, Income Fund, and Low Duration Fund, each with different options like Growth, IDCW (Income Distribution cum Capital Withdrawal), Bonus, and Fixed Period plans.
+
+Key SBI Magnum Fund Schemes:  
+
+1. **SBI Magnum Constant Maturity Fund**  
+   - Options: Direct - IDCW, Growth  
+   - Codes: 120136 (Dir - IDCW), 101002 (Growth), 101003 (IDCW)  
+
+2. **SBI Magnum Gilt Fund**  
+   - Options: Direct - Growth, Direct - Quarterly IDCW, Growth, IDCW  
+   - Fixed Period Plans: 1 year, 2 year, 3 year with IDCW and Growth options  
+   - Codes: 119707 (Dir - Growth), 119706 (Dir - Quarterly IDCW), 101001 (Growth), 100999 (IDCW), 101950 (1 year IDCW), 101951 (2 year IDCW), 101934 (3 year Growth), 101952 (3 year IDCW)  
+
+3. **SBI Magnum Income Fund**  
+   - Options: Quarterly IDCW, Bonus, Direct Bonus, Direct Growth, Direct Half Yearly IDCW, Direct Quarterly IDCW, Growth, Half Yearly IDCW  
+   - Codes: 121944 (Qtly IDCW), 100640 (Bonus), 119712 (Dir Bonus), 119714 (Dir Growth), 119713 (Dir Half Yly IDCW), 121940 (Dir Qtly IDCW), 100639 (Growth), 100638 (Half Yly IDCW)  
+
+4. **SBI Magnum Low Duration Fund**  
+   - Options: Direct Daily IDCW, Direct Fortnightly IDCW, Direct Growth, Direct Monthly IDCW, Direct Weekly IDCW, Daily IDCW, Fortnightly IDCW, Growth, IP (Investment Plan) Daily IDCW, IP Growth, IP Weekly IDCW, Monthly IDCW  
+   - Codes: 119810 (Dir Dly IDCW), 119811 (Dir Fortntly IDCW), 119812 (Dir Growth), 119818 (Dir Mthly IDCW), 119819 (Dir Wkly IDCW), 106213 (Dly IDCW), 106215 (Fortntly IDCW), 106212 (Growth), 106221 (IP Dly IDCW), 106217 (IP Growth), 106222 (IP Wkly IDCW), 106216 (Mthly IDCW)  
+
+KEY POINTS:  
+- SBI Magnum offers a variety of mutual fund schemes catering to different investment needs including growth, income distribution, and fixed period investments.  
+- IDCW options provide periodic income distribution to investors.  
+- Fixed period plans in Gilt Fund offer investment options locked for 1, 2, or 3 years with growth or IDCW benefits.  
+- Income Fund schemes offer multiple payout frequencies including quarterly, half yearly, and bonus options.  
+- Low Duration Fund schemes provide options for daily, weekly, fortnightly, and monthly income distributions, suitable for investors seeking short-term investments.  
+- Each scheme has a unique code for identification and investment purposes.  
+
+URL: https://www.icicibank.com/wealth/investments/mutual-funds.page

@@ -1,0 +1,56 @@
+TITLE:  
+ICICI Bank FASTag Auto Recharge and Standing Instructions via UPI
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Auto Recharge, UPI Standing Instructions, Digital Payments
+
+TAGS:  
+FASTag, Auto Recharge, UPI Mandate, Standing Instructions, Toll Payments, ICICI Bank, Digital Wallet, Payment Frequency
+
+CONTENT:  
+ICICI Bank offers a convenient and quick process to set up auto recharge for your FASTag through Standing Instructions via UPI. This facility can be enabled or disabled anytime as per your requirement and can be set up for both CUG (Closed User Group) or wallet and Tag.
+
+**How to Enable Standing Instructions for FASTag Auto Recharge via UPI:**  
+1. Login to the ICICI Bank FASTag Customer portal.  
+2. Navigate to ‘Payments’ → ‘Standing Instructions for UPI’ from the top menu.  
+3. Enter the required details:  
+   - Select 'Payment Frequency' from the drop-down menu (e.g., daily, weekly).  
+   - Enter your Virtual Payment Address (VPA) linked to your bank account.  
+   - Enter the 'Top-up Amount' (minimum INR 100).  
+   - Select the 'Start Date' and click 'Submit'.  
+4. On the same day, go to the UPI Mandate section in your linked UPI app to accept the authorization request.  
+5. You will receive a pre-debit notification from the respective app where the UPI Mandate is set.  
+6. Accept the notification and enter your PIN if required (PIN is requested only if the recharge amount exceeds INR 15,000).  
+7. The UPI Mandate will be triggered within 24 hours of accepting the pre-debit notification, and the amount will be deducted from your bank account automatically.
+
+**Example Scenario:**  
+If you set the Standing Instructions on 15 March 2023 with a daily payment frequency, you will receive the authorization request on 15 March and the pre-debit notification on 16 March. After accepting and entering the PIN, the auto recharge will start from 16 March 2023, with the specified amount deducted daily to recharge your FASTag automatically.
+
+**FASTag Recharge Limits and Charges:**  
+- Minimum recharge amount: ₹100  
+- Maximum recharge amount: ₹1,00,000  
+- No charges for recharging your FASTag account.  
+- Charges may apply for obtaining the FASTag initially (refer to ICICI Bank for current issuance fees).  
+
+**Important Notes:**  
+- FASTag is mandatory for vehicles using electronic toll collection lanes as per regulatory guidelines.  
+- Maintaining sufficient balance in your FASTag wallet ensures uninterrupted toll payments.  
+- Recharge your FASTag by logging into the ICICI Bank FASTag portal or supported digital platforms, entering your registered vehicle number, selecting the recharge amount, and completing the payment.  
+- Recharge is usually reflected shortly after a successful transaction, subject to system processing timelines.  
+- FASTag recharge may also be available at authorized toll plaza counters or points of sale.  
+- In case the amount is debited from your bank account but not credited to your FASTag, contact ICICI Bank Customer Service Centre immediately to initiate a reversal and ensure funds are credited correctly.
+
+KEY POINTS:  
+- Auto recharge via UPI Standing Instructions can be set up easily through ICICI Bank FASTag portal.  
+- Minimum recharge amount is ₹100; maximum is ₹1,00,000.  
+- No recharge fees; initial FASTag issuance may have charges.  
+- PIN required only if recharge amount exceeds ₹15,000.  
+- FASTag mandatory for electronic toll lanes; maintain sufficient balance to avoid disruption.  
+- Recharge reflected shortly after payment; support available for transaction issues.  
+- Facility can be enabled or disabled anytime.  
+
+URL:  
+https://www.icicibank.com/fastag/auto-recharge

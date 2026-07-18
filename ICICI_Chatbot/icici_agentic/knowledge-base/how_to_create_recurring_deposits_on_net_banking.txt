@@ -1,0 +1,58 @@
+TITLE: How to Create Recurring Deposits on Net Banking  
+SOURCE: ICICI Bank  
+CATEGORY: Deposits / Recurring Deposits / Net Banking  
+TAGS: Recurring Deposit, RD, Net Banking, ICICI Bank, Savings, Investment, Interest Rates, Online Banking  
+
+CONTENT:  
+ICICI Bank offers a convenient way to create Recurring Deposits (RD) through its Net Banking platform. Recurring Deposits are a disciplined savings instrument where you can deposit a fixed amount every month and earn interest on the accumulated amount. This facility allows customers to open and manage RDs online without visiting the branch.
+
+**Eligibility:**  
+- ICICI Bank savings account holders with Net Banking access.  
+- Resident individuals including salaried and self-employed customers.
+
+**Process to Create Recurring Deposit on Net Banking:**  
+1. Log in to your ICICI Bank Net Banking account using your User ID and Password.  
+2. Navigate to the 'Deposits' section and select 'Recurring Deposit'.  
+3. Choose the savings account from which the monthly installment will be debited.  
+4. Enter the monthly installment amount, tenure (minimum 6 months to maximum 120 months), and preferred interest payout option (cumulative or monthly).  
+5. Review the details and confirm the RD creation.  
+6. The monthly installment will be automatically debited from your savings account on the chosen date.
+
+**Interest Rates:**  
+- Interest rates on Recurring Deposits vary based on the tenure and prevailing bank rates.  
+- Rates are compounded quarterly and credited at maturity or monthly as per the chosen payout option.  
+- For the latest interest rates, customers should refer to the official ICICI Bank website or Net Banking portal.
+
+**Benefits of Creating RD via Net Banking:**  
+- Convenience of opening and managing RD anytime, anywhere.  
+- Automatic monthly debit from savings account ensures disciplined savings.  
+- Flexible tenure options from 6 months to 10 years.  
+- Competitive interest rates with quarterly compounding.  
+- Option to choose interest payout frequency.  
+- No need to visit the branch, saving time and effort.
+
+**Fees and Charges:**  
+- No charges for opening or maintaining Recurring Deposits via Net Banking.  
+- Premature withdrawal may attract penalties as per bank policy.
+
+**FAQs:**  
+- *Can I open multiple RDs through Net Banking?*  
+  Yes, you can open multiple Recurring Deposits with different amounts and tenures.  
+- *Is it possible to change the installment amount after RD creation?*  
+  No, the installment amount is fixed at the time of RD creation. For changes, you need to close the existing RD and open a new one.  
+- *What happens if the monthly installment is not debited?*  
+  If the installment is not debited due to insufficient balance, the RD may be considered as discontinued or premature closure may apply.  
+- *Can NRIs open Recurring Deposits via Net Banking?*  
+  NRIs can open FCNR or NRE term deposits but should check eligibility for RDs specifically.
+
+KEY POINTS:  
+- Recurring Deposits can be created online via ICICI Bank Net Banking.  
+- Minimum tenure: 6 months; Maximum tenure: 120 months.  
+- Monthly installment amount is fixed and debited automatically.  
+- Interest compounded quarterly, payout monthly or at maturity.  
+- No charges for RD creation via Net Banking.  
+- Premature withdrawal penalties applicable.  
+- Multiple RDs can be opened.  
+- Suitable for disciplined savings with flexible tenure options.
+
+URL: https://www.icicibank.com/videos/create-recurring-deposits-on-internet-banking

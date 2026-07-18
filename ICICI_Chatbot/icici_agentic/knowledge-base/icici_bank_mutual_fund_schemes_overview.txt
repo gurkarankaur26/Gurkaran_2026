@@ -1,0 +1,29 @@
+TITLE: ICICI Bank Mutual Fund Schemes Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Investment, Debt Funds, Equity Funds, IDCW, Growth, Banking  
+
+CONTENT:  
+This document provides an overview of various mutual fund schemes available through ICICI Bank, focusing on fund names, types, and dividend options. The schemes include a range of debt and equity funds managed by different asset management companies such as Canara Robeco and DSP Mutual Fund. The funds are categorized by investment style (Direct or Regular), dividend payout frequency (Monthly, Quarterly, Weekly, Daily), and growth options.
+
+Key Mutual Fund Schemes:  
+- Canara Robeco Savings Fund (Regular, Monthly IDCW and Weekly IDCW)  
+- Canara Robeco Short Duration Fund (Direct Growth, Regular Growth)  
+- Canara Robeco Ultra Short Term Fund (Direct Growth, Regular Growth, Regular IDCW)  
+- DSP Banking & PSU Debt Fund (Direct and Regular options with Daily, Monthly, Quarterly, Weekly IDCW and Growth)  
+- DSP Corporate Bond Fund (Direct and Regular options with Growth, Monthly, Quarterly IDCW)  
+- DSP Floater Fund (Direct and Regular Growth and IDCW)  
+- DSP Gilt Fund (Direct and Regular Growth and IDCW, Monthly IDCW)  
+- DSP BSE Liquid Rate ETF  
+
+The dividend options include IDCW (Income Distribution cum Capital Withdrawal) with frequencies such as Monthly, Quarterly, Weekly, and Daily, as well as Growth options where returns are reinvested.
+
+KEY POINTS:  
+- Mutual funds are available in Direct and Regular plans.  
+- Dividend payout options include Monthly, Quarterly, Weekly, and Daily IDCW.  
+- Growth option allows reinvestment of returns.  
+- Funds cover various categories including savings, short duration, ultra-short term, banking & PSU debt, corporate bonds, floater, gilt, and liquid ETFs.  
+- Each fund has a unique identification number (e.g., Canara Robeco Savings Fund - Reg - Mthly IDCW: 113144).  
+- Suitable for investors seeking diversified investment options with different risk and return profiles.  
+
+URL: https://www.icicibank.com/wealth-management/mutual-funds.page

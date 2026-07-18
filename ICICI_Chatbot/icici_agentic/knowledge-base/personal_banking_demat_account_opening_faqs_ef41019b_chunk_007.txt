@@ -1,0 +1,54 @@
+TITLE:  
+ICICI Bank Demat Account Services – Pledge, Sale, Delivery, and Transfer of Securities
+
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / Demat Account / Securities Trading  
+TAGS: Demat Account, Securities Trading, Pledge, Transfer of Securities, NSDL, CDSL, Instruction Slips, Market Trades, Off Market Trades, Account Freeze, Fraud Prevention  
+
+CONTENT:  
+ICICI Bank provides comprehensive services related to dematerialised securities including pledging, sale, delivery, and transfer of securities through NSDL and CDSL. The bank facilitates smooth execution of instructions related to securities transactions and offers options to safeguard your demat account.
+
+**1. Pledge of Securities**  
+- Pledge requests are executed at the Central Processing Office of ICICI Bank.  
+- Upon execution, balances move as per the instruction.  
+- Rejection of pledge requests can occur either at the Central Processing Office or by the counter-party.  
+- If rejected by the Central Processing Office, the client will be informed of the reason and can submit a fresh request after resolving the issue.  
+- If rejected by the counter-party, the pledged balance is transferred back to the free balance.  
+
+**2. Account Freeze Option**  
+- Clients can freeze their demat account to prevent unauthorized transactions and fraud.  
+- Once frozen, the account can only be defreezed upon instruction from the account holder.  
+
+**3. Sale and Delivery of Securities**  
+- Securities transactions on stock exchanges connected to NSDL/CDSL are settled in demat form.  
+- Trading in dematerialised securities is done through your broker, similar to physical securities trading.  
+- To deliver securities electronically, you must authorize the Depository Participant (DP) to transfer balances from your account.  
+
+**4. Instruction Slips (TIFD/IDT Booklets)**  
+- Transfer of securities requires filling appropriate instruction slips:  
+  - TIFD slips for transfers within NSDL accounts.  
+  - IDT slips for transfers from NSDL to CDSL accounts.  
+- Types of accounts:  
+  - Beneficiary Accounts (for normal investors)  
+  - Clearing Member Pool Accounts (for brokers)  
+- Types of transfers using TIFD slips:  
+  - Market TIFD: Transfer from Beneficiary Account to Clearing Member Account for settlement of stock exchange trades.  
+  - Off Market TIFD: Transfer between two Beneficiary Accounts for off-market trades.  
+
+**5. Important Points for Instruction Slips**  
+- Details must be filled only for Market Trades on TIFD slips.  
+- Submit slips by 4 p.m. on the business day prior to the execution date.  
+- Slips received after 4 p.m. are accepted on a 'Best Effort' basis without liability from ICICI Bank and may attract late charges (refer to the rate card).  
+- Ensure the execution date is specified correctly for market trades.  
+
+KEY POINTS:  
+- Pledge requests processed centrally; rejection reasons communicated.  
+- Account freeze option available for fraud prevention.  
+- Demat securities trading and settlement through NSDL/CDSL.  
+- Use TIFD slips for NSDL transfers; IDT slips for NSDL to CDSL transfers.  
+- Market TIFD for broker-related transfers; Off Market TIFD for beneficiary-to-beneficiary transfers.  
+- Instruction slips must be submitted by 4 p.m. on the prior business day; late submissions may incur charges and are not guaranteed execution.  
+
+URL:  
+https://www.icicibank.com/  
+

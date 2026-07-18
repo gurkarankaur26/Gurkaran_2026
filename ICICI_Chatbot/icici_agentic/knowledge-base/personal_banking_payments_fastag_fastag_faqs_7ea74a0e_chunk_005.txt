@@ -1,0 +1,45 @@
+TITLE:  
+ICICI Bank FASTag - Features, Management, and Customer Support
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag Services
+
+TAGS:  
+FASTag, Toll Payments, ICICI Bank, Vehicle Tagging, Customer Support, Recharge, Dispute Resolution
+
+CONTENT:  
+ICICI Bank FASTag is an electronic toll collection system that allows seamless toll payments on national highways. The FASTag is linked to your bank account or wallet and enables automatic deduction of toll charges, eliminating the need to stop at toll plazas.
+
+**Key Features and Services:**  
+- **FASTag Cancellation:** You must cancel your FASTag before transferring your vehicle to a new owner. Since the tag is linked to your account, you remain liable for tolls incurred by the new owner unless the tag is physically removed and the account is closed via the ICICI Bank portal.  
+- **Balance Transfer:** Direct balance transfer between two different FASTag accounts is generally not permitted, even if both accounts are with ICICI Bank. To transfer funds, close the old account to get a refund and recharge the new account separately.  
+- **Login and Access:** Access your FASTag account by visiting the ICICI Bank FASTag website and logging in with your registered mobile number or User ID. An OTP will be sent to your registered mobile number for authentication.  
+- **Statements and Reports:** You can view or download your FASTag transaction statements in PDF or Excel format from the "Statements" or "Reports" section on the customer portal. This helps in tracking travel expenses and tax filings.  
+- **Mobile Number Update:** To change your registered mobile number, submit a request at an ICICI Bank branch or contact customer care. This process may require re-verification of your KYC documents for security purposes.  
+- **Vehicle Class Correction:** If your vehicle class is incorrect (e.g., a car tagged as a truck), raise a "Change of Vehicle Class" request through the portal by uploading your RC copy and vehicle photos for verification and update.  
+- **WhatsApp Banking:** ICICI Bank offers WhatsApp Banking for FASTag services. Save the official number (86400 86400) and send "Hi" to check your FASTag balance, view recent transactions, and receive recharge links.  
+- **Mobile App Integration:** FASTag services are integrated into the iMobile Pay app under the 'Payments & FASTag' section, allowing users to manage tags, recharge, and view transaction history.  
+- **Customer Care:** For FASTag-related queries, blocking requests, and transaction disputes, contact ICICI Bank FASTag customer care at 1800 2100 104, available 24/7.  
+- **Dispute Resolution:** Report disputes by calling the toll-free number or logging into the customer portal. Provide Transaction ID, Plaza Name, and Date. ICICI Bank coordinates with NETC and toll plazas to investigate and process refunds if claims are valid.  
+- **Email Support:** For queries or complaints, email fastag.support@icicibank.com with your Tag ID or Vehicle Registration Number and a detailed description of the issue for faster resolution.  
+- **Double Charge Refunds:** If charged twice for a single toll crossing, contact customer care with transaction details. ICICI Bank will raise a "Chargeback" with the acquiring bank. Upon verification, the excess amount is credited back to your wallet.
+
+KEY POINTS:  
+- FASTag must be cancelled before vehicle transfer to avoid liability for new owner’s tolls.  
+- No direct balance transfer between FASTag accounts; close old account for refund.  
+- Login via ICICI Bank FASTag website using registered mobile number/User ID with OTP authentication.  
+- Statements available for download in PDF/Excel for expense tracking.  
+- Mobile number changes require branch request and KYC re-verification.  
+- Vehicle class corrections can be requested online with RC and vehicle photos.  
+- WhatsApp Banking available at 86400 86400 for balance checks and recharges.  
+- FASTag services integrated into iMobile Pay app.  
+- 24/7 customer care at 1800 2100 104 for support and dispute resolution.  
+- Disputes can be reported via phone or portal with transaction details.  
+- Email support at fastag.support@icicibank.com for faster issue resolution.  
+- Double toll charges can be refunded after verification through chargeback process.
+
+URL:  
+https://www.icicibank.com/fastag

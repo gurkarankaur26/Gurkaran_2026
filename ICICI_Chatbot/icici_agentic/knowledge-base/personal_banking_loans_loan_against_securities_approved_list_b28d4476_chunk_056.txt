@@ -1,0 +1,52 @@
+TITLE:  
+Axis Mutual Fund Schemes – Key Details and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Mutual Funds, Axis Mutual Fund, Investment, Bond Funds, Liquid Funds, Growth, Dividend, IDCW, Fund Codes  
+
+CONTENT:  
+This document provides a structured list of various Axis Mutual Fund schemes along with their unique identification codes. The schemes include different categories such as Corporate Bond Funds, Credit Risk Funds, Index Funds, Dynamic Bond Funds, Floater Funds, and Liquid Funds. Each scheme is available in multiple options like Direct (Dir) and Regular (Reg) plans, with different dividend payout frequencies such as Monthly (Mtly), Weekly (Wkly), Daily (Dly), Quarterly (Qtly), Half Yearly (Half Yly), and Growth options.
+
+Key scheme types and their variants include:
+
+- **Axis Corporate Bond Fund**  
+  - Direct and Regular plans  
+  - Dividend options: Monthly IDCW, Weekly IDCW, Daily IDCW, Growth  
+
+- **Axis Credit Risk Fund**  
+  - Direct and Regular plans  
+  - Growth option  
+
+- **Axis CRISIL IBX SDL May 2027 Index Fund**  
+  - Direct and Regular plans  
+  - Dividend and Growth options  
+
+- **Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund**  
+  - Direct and Regular plans  
+  - Dividend and Growth options  
+
+- **Axis Dynamic Bond Fund**  
+  - Direct and Regular plans  
+  - Dividend payout frequencies: Half Yearly IDCW, Quarterly IDCW  
+
+- **Axis Floater Fund**  
+  - Direct and Regular plans  
+  - Growth option  
+
+- **Axis Liquid Fund**  
+  - Direct and Regular plans  
+  - Dividend payout frequencies: Daily IDCW, Monthly IDCW, Weekly IDCW  
+  - Growth option  
+
+Each scheme is identified by a unique numeric code for easy reference and transaction processing.
+
+KEY POINTS:  
+- Multiple Axis Mutual Fund schemes are available with various dividend payout options and growth plans.  
+- Schemes are offered in Direct and Regular plans.  
+- Dividend payout frequencies include Daily, Weekly, Monthly, Quarterly, and Half Yearly IDCW (Income Distribution cum Capital Withdrawal).  
+- Unique scheme codes are provided for each variant to facilitate transactions and identification.  
+- Fund categories include Corporate Bond Funds, Credit Risk Funds, Index Funds, Dynamic Bond Funds, Floater Funds, and Liquid Funds.  
+
+URL:  
+https://www.icicibank.com/wealth/investments/mutual-funds.page

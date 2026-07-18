@@ -1,0 +1,73 @@
+TITLE:  
+ICICI Bank NRI Account - Taxation, Account Opening, and Related Information
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRI Banking, Account Opening, Taxation
+
+TAGS:  
+NRI Account, NRE Account, NRO Account, Taxation, DTAA, KYC, Account Opening Process, Interest Rates, ICICI Bank
+
+CONTENT:  
+**Taxation on NRI Accounts:**  
+- No tax is applicable in India on funds lying in NRE (Non-Resident External) accounts.  
+- Interest earned on NRO (Non-Resident Ordinary) accounts is taxable at 30% plus applicable cess and surcharge.  
+- If interest exceeds Rs. 5 million during the financial year, an additional surcharge of 10% applies.  
+- Tax withholding percentages may vary; customers should check the latest details.  
+- Tax regulations in the country of residence may also apply.  
+
+**Double Taxation Avoidance Agreement (DTAA):**  
+- DTAA helps avoid double taxation on income earned in India and the home country.  
+- Under DTAA, income may be taxed at a lower or nil rate in the source country (India).  
+- To avail DTAA benefits in India, the following documents must be furnished:  
+  - Tax Residency Certificate (TRC)  
+  - Form 10F  
+  - Permanent Account Number (PAN)  
+- If PAN is not furnished, concessional DTAA rates will not be applicable.  
+- Income tax rates will be as per the DTAA agreement between India and the respective country.  
+
+**Opening an NRI Account with ICICI Bank:**  
+- NRI accounts can be opened by visiting ICICI Bank branches or representative offices in Singapore, United Kingdom, Bahrain, Hong Kong, or UAE.  
+- Alternatively, accounts can be opened through an online application process.  
+
+**Documents Required for Account Opening:**  
+- Customer’s photograph  
+- Identity proof  
+- Address proof  
+- Additional documents as per the account type and regulatory requirements (refer to ICICI Bank for detailed list).  
+
+**Account Opening Process:**  
+- When opening an account through an overseas branch, submit the required documents at the branch.  
+- Account opening is typically completed within 7 working days if documents are in order.  
+- For online applications, download the account opening form from ICICI Bank’s website, fill it completely, attach all required documents, and send it to:  
+  ICICI Bank Limited  
+  NRI Remote RM Channel  
+  1st Floor, A wing  
+  "Autumn Estate"  
+  Chandivali Farm Road  
+  Chandivali  
+  Andheri (East)  
+  Mumbai-400072  
+
+**Checking Account Opening Status:**  
+- For branch submissions, contact the branch where documents were submitted.  
+- For online applications, call ICICI Bank’s 24-hour Phone Banking Services to inquire about application status.  
+
+**Additional Information:**  
+- KYC (Know Your Customer) details can be updated by submitting identification data including photograph, identity proof, and address proof.  
+- ICICI Bank operates under regulatory frameworks such as FEMA (Foreign Exchange Management Act), LRS (Liberalised Remittance Scheme), and IFSCA (International Financial Services Centres Authority).  
+- GIFT City (Gujarat International Finance Tec-City) and IBU (IFSC Banking Unit) are relevant financial hubs for NRI banking services.  
+
+KEY POINTS:  
+- NRE account funds are tax-free in India; NRO account interest is taxable at 30% plus cess and surcharge.  
+- Additional 10% surcharge applies if interest exceeds Rs. 5 million in a financial year.  
+- DTAA benefits require TRC, Form 10F, and PAN; no PAN means no concessional DTAA rates.  
+- NRI accounts can be opened at ICICI Bank branches overseas or via online application.  
+- Account opening takes up to 7 working days if documents are complete.  
+- Status can be checked via branch contact or 24-hour Phone Banking.  
+- KYC updates require submission of photograph, identity, and address proofs.  
+
+URL:  
+https://www.icicibank.com/nri-banking/account-opening.page

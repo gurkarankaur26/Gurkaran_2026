@@ -1,0 +1,51 @@
+TITLE: ICICI Bank FASTag - Application, Fees, and Usage Details  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / FASTag  
+TAGS: FASTag, Vehicle Toll Payment, KYC, Fees, Security Deposit, Recharge, ICICI Bank  
+
+CONTENT:  
+ICICI Bank FASTag is an electronic toll collection system that allows seamless toll payments for vehicles on national highways. The FASTag is linked to a prepaid wallet from which toll charges are deducted automatically when the vehicle passes through toll plazas.
+
+**Eligibility and Documentation:**  
+- Applicable for vehicles including cars, jeeps, vans, light commercial vehicles, trucks, buses, and earth-moving machinery.  
+- The applicant must have a valid Registration Certificate (RC) for the vehicle.  
+- Individual customers must provide:  
+  - Copy of the vehicle’s RC  
+  - Passport-sized photograph  
+  - Valid KYC document (PAN Card, Aadhaar Card, Passport, Voter ID, or Driving License) with address ideally matching the delivery address.  
+- Corporate entities must provide:  
+  - Firm’s PAN Card  
+  - Registration Certificate/Partnership Deed/Certificate of Incorporation  
+  - ID proof of authorized signatory  
+  - Board Resolution or Power of Attorney authorizing the operator (for public/private limited companies).  
+- Application can be made by the vehicle owner or by a person with the RC copy and valid KYC documents. For leased vehicles, additional authorization documents may be required.  
+- PAN Card is generally mandatory for KYC; if unavailable, Form 60 along with other valid identity and address proofs can be submitted as per RBI guidelines.  
+- Physical vehicle inspection is generally not required for online or branch applications but may be conducted at POS locations like toll plazas to verify vehicle class and tag placement.  
+- FASTag can be applied using the vehicle’s Chassis Number initially; once the permanent Registration Number (VRN) is received, it must be updated on the ICICI Bank FASTag portal with the new RC copy.  
+
+**Fees and Charges:**  
+- One-time joining fee: ₹99.12 (includes base fee plus applicable GST). This fee is non-refundable and covers tag issuance and registration.  
+- Security deposit varies by vehicle class:  
+  - Class 4 (cars, jeeps, vans): ₹200  
+  - Light commercial vehicles: ₹300  
+  - Heavy trucks or buses: ₹500  
+- The security deposit is refundable upon account closure, provided the tag is not blacklisted.  
+- Minimum initial top-up to activate the FASTag account:  
+  - For Class 4 vehicles, typically ₹200. This amount is credited to the FASTag wallet and is available for toll payments immediately after activation.  
+- Recharge payments via ICICI Bank portal using Net Banking or UPI generally incur no convenience fees.  
+- Payments made via Credit Card or certain third-party gateways may attract a small convenience fee plus GST as per the payment provider’s terms.  
+
+**Usage and Account Management:**  
+- The FASTag wallet balance is used for toll payments at all participating toll plazas.  
+- Users must keep their FASTag account sufficiently topped up to avoid toll payment failures.  
+- Tag details and vehicle information can be updated on the ICICI Bank FASTag portal as needed.  
+
+KEY POINTS:  
+- Valid RC and KYC documents are mandatory for FASTag application.  
+- One-time joining fee of ₹99.12 plus refundable security deposit based on vehicle class.  
+- Minimum initial wallet top-up required for activation (₹200 for cars).  
+- Recharge via Net Banking/UPI usually free of convenience fees; credit card payments may incur fees.  
+- FASTag can be applied using chassis number initially and updated later with permanent registration details.  
+- Security deposit refundable on account closure if tag is in good standing.  
+
+URL: https://www.icicibank.com/fastag

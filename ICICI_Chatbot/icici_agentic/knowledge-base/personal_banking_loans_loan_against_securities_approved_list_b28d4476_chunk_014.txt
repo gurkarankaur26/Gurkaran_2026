@@ -1,0 +1,31 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment Options and Details
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment  
+TAGS: Mutual Funds, Investment Options, Fund Codes, Growth, IDCW, Direct Plan, Regular Plan
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes available through ICICI Bank, including fund names, plan types, dividend options, and unique identification codes. The funds cover various asset classes such as multi-asset allocation, multicap, natural resources, index funds, small cap, value funds, and overseas equity funds.
+
+Each fund is available in different plan types:  
+- Direct Plan (Dir)  
+- Regular Plan (Reg)  
+
+Dividend options include:  
+- Growth (Gth or Growth)  
+- IDCW (Income Distribution cum Capital Withdrawal)
+
+The document lists the fund names along with their corresponding unique codes, which are essential for investment and transaction purposes.
+
+KEY POINTS:  
+- Mutual funds are categorized by fund house (e.g., DSP) and fund type (e.g., Multi Asset Allocation, Multicap, Small Cap).  
+- Each fund has a unique code for identification during transactions.  
+- Plans are available in Direct and Regular options.  
+- Dividend options include Growth and IDCW.  
+- Investors can choose funds based on their investment goals and risk appetite.  
+- The list includes both domestic and overseas equity funds.  
+- Important for investors to use the correct fund code when investing or redeeming units.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

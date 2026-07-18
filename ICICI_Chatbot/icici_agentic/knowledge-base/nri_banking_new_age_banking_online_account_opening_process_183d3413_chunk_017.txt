@@ -1,0 +1,55 @@
+TITLE:  
+ICICI Bank NRO Account - Features, Conversion, Repatriation, and Usage Guidelines
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+NRI Banking, NRO Account, Account Conversion, Repatriation, Banking Services  
+
+TAGS:  
+NRO Account, Non-Resident Indian, Account Conversion, Repatriation, Interest, Joint Account, Cash Withdrawal, FEMA Guidelines  
+
+CONTENT:  
+The Non-Resident Ordinary (NRO) account is designed for Non-Resident Indians (NRIs) to manage income earned in India such as rent, dividends, pensions, and other current incomes. The principal amount in the NRO account is not repatriable and can only be used for local payments within India. However, the interest earned on the NRO account is fully repatriable, subject to documentation requirements.
+
+**Repatriation Limits and Conditions:**  
+- Funds up to USD 1 million (or equivalent) per financial year can be repatriated from the NRO account for any bonafide purpose, provided the necessary documentation is submitted.  
+- Other current incomes like pensions, dividends, and rent are repatriable upon producing a certificate from a chartered accountant.
+
+**Cash Withdrawal and Transaction Limits:**  
+- Cash withdrawal limit: Rs. 25,000 per day.  
+- Transaction limit at merchant establishments: Rs. 35,000 per day (effective from October 1, 2011).
+
+**Joint Holding and Mandate Holder Rules:**  
+- NRO accounts can be held jointly by NRIs and Resident Indians.  
+- If the remittance is initiated by a resident joint account-holder or mandate holder, the beneficiary must be the account holder(s).  
+- Mandate holders can only repatriate the current income from the NRO account.
+
+**Conversion from Resident to NRO Account:**  
+- As per FEMA guidelines, when an individual changes residential status from 'Resident' to 'Non-Resident', the resident savings account must be re-designated as an NRO account.  
+- Along with the NRO account, an NRE account can also be opened.  
+- To convert, fill out the account opening form and submit relevant documents including current overseas address proof to ICICI Bank’s NRI Remote RM Channel at the Mumbai address or local P.O. Boxes in USA, UK, Canada, Australia, Singapore, and UAE.  
+- The account number remains the same after conversion, and funds from the resident savings account are automatically transferred to the NRO account.  
+- A minimum balance of Rs. 25,000 is required; if the total balance is less, an account opening cheque of at least Rs. 15,000 must be submitted.  
+- If the Indian address has changed, address proof must be submitted; otherwise, it is not required.  
+- Customers can also visit any ICICI Bank branch in India to submit the conversion request.
+
+**Nomination Facility:**  
+- Nomination can be registered for NRO savings accounts.
+
+**Customer Support:**  
+- For queries, customers can contact ICICI Bank’s 24-hour Phone Banking Services or email support.
+
+KEY POINTS:  
+- NRO account principal is non-repatriable; interest is fully repatriable.  
+- USD 1 million repatriation limit per financial year from NRO account.  
+- Cash withdrawal limit: Rs. 25,000/day; merchant transaction limit: Rs. 35,000/day.  
+- Joint holding allowed with NRIs and Resident Indians.  
+- Resident accounts must be converted to NRO accounts upon change of residential status.  
+- Conversion requires submission of forms, documents, and address proof.  
+- Account number remains unchanged after conversion; funds transfer automatic.  
+- Minimum balance requirements apply during conversion.  
+- Nomination facility available.  
+- 24-hour customer support available for assistance.
+
+URL:  
+https://www.icicibank.com/nri-banking/nro-account.page

@@ -1,0 +1,19 @@
+TITLE: NRI Internet Banking – Easy, Secure, Anytime Access  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Internet Banking  
+TAGS: NRI Banking, Internet Banking, Security, Fund Transfer, Two-Factor Authentication, Password Policy  
+
+CONTENT:  
+ICICI Bank offers a secure and convenient NRI Internet Banking platform designed to provide easy access to banking services anytime and anywhere. The service is free of charge for all NRI customers, ensuring cost-effective management of accounts. Security is a top priority, with two-factor authentication implemented for all sensitive transactions, requiring Debit Card grid and OTP validation. The platform is protected by 256-bit encryption and ICICI Bank’s proprietary i-Safe technology to safeguard customer data and transactions.
+
+Certain fund transfers and service requests are subject to limited daily transaction caps to enhance security. Customers must ensure their international mobile numbers are registered with ICICI Bank to receive timely alerts and notifications. For enhanced security, it is recommended that users update their passwords every 90 days.
+
+KEY POINTS:  
+- No additional fees for NRI Internet Banking usage  
+- Two-factor authentication using Debit Card grid and OTP for sensitive actions  
+- 256-bit encryption and i-Safe technology for secure access  
+- Limited daily transaction limits on certain fund transfers and service requests  
+- Mandatory registration of international mobile number for alerts  
+- Recommended password change every 90 days for security  
+
+URL: https://www.icicibank.com/nri-banking/rhstemp/internet-banking

@@ -1,0 +1,58 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment Guidelines and Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Services, Customer Support
+
+TAGS:  
+Mutual Funds, SIP, Folio Management, Nominee Process, Investment Security, Account Update, Refunds, Portfolio Tracking
+
+CONTENT:  
+- **Investment and Folio Management:**  
+  - Additional investments can be made through lumpsum into an existing folio number.  
+  - Mutual fund folios cannot be closed like bank accounts; once all units are redeemed and no outstanding investments remain, the folio becomes inactive.  
+  - Folios can be consolidated or merged via iMobile, MF central, or by placing a request with the AMC/registrar.  
+  - Existing holdings can be transferred by submitting a unit transfer or broker change request through AMC or registrar (CAMS/KFin). Units remain intact and are mapped to the new platform after broker code change execution.  
+  - If you close or change your ICICI Bank account, update your registered bank mandate with the mutual fund to ensure seamless redemption proceeds and SIP debits. Mutual fund units remain secure even if you move to another bank.  
+
+- **Payment and Refunds:**  
+  - If a purchase fails due to payment issues, system errors, or incorrect mandates, units will not be allotted. Any debited amount is automatically reversed to the source account, typically within standard banking timelines.  
+  - Refunds are credited back to the registered bank account through NEFT/IMPS.  
+  - Once an SIP is created, customers can change the bank mandate through MF central (www.mfcentral.com) but cannot change the payment mode.  
+
+- **Nominee and Transmission Process:**  
+  - Nominees or legal heirs must submit the following documents for unit transmission:  
+    - Death certificate  
+    - KYC documents  
+    - Transmission request form  
+    - Bank details for credit  
+  - After verification, units are transmitted to the nominee or rightful heir following SEBI-mandated procedures. Document requirements may vary with different AMC/registrar.  
+
+- **Security Measures:**  
+  - ICICI Bank’s investment platforms use encryption, multi-factor authentication, secure payment gateways, and transaction monitoring to ensure safe and seamless investment execution.  
+  - In case of suspicious activity, customers should immediately contact ICICI Bank Customer Care or their Relationship Manager to secure the account, block suspicious activities, and initiate dispute resolution.  
+
+- **Portfolio Tracking and Updates:**  
+  - Customers can view and track their portfolio through:  
+    - ICICI Bank Net Banking  
+    - iMobile app  
+    - Consolidated Account Statement (CAS)  
+    - AMC or registrar platforms or MF central  
+  - These channels provide real-time NAV updates, SIP status, capital gains information, and performance analytics.  
+  - Updates to personal details or nominee information can be made via ICICI Bank’s digital channels (iMobile: Login > Invest > Mutual Fund > Hamburger menu > MF Services > Mobile/Nominee updation) or directly through AMC/registrar/MF central. Mandatory KYC/verification may be required.  
+  - ICICI Bank iMobile app offers downloadable investment statements, SIP summaries, and capital gains reports.  
+
+KEY POINTS:  
+- Folios become inactive after full redemption; they cannot be closed like bank accounts.  
+- SIP bank mandate can be changed via MF central but payment mode cannot be changed post-creation.  
+- Refunds for failed transactions are processed via NEFT/IMPS within standard timelines.  
+- Nominee transmission requires death certificate, KYC, transmission form, and bank details.  
+- Security includes encryption, multi-factor authentication, and transaction monitoring.  
+- Portfolio tracking available on multiple digital platforms with real-time updates.  
+- Immediate reporting of suspicious activity is essential for safeguarding assets.  
+
+URL:  
+https://www.icicibank.com/ (Refer to Mutual Fund Investment section)

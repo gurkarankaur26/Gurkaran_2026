@@ -1,0 +1,20 @@
+TITLE:  
+Mutual Fund Schemes and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Tata Mutual Funds, UTI Mutual Funds, TRUST Mutual Funds, Investment  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their respective scheme codes. The schemes include various fund types such as Growth and IDCW (Income Distribution cum Capital Withdrawal) options, offered by multiple fund houses including Tata Mutual Fund, TRUST Mutual Fund, and UTI Mutual Fund. The list covers direct and regular plans across different fund categories such as Multicap, Nifty 50 Index, Midcap, Small Cap, Value, Flexi Cap, Aggressive Hybrid, Arbitrage, Balanced Advantage, and Banking and Financial Services funds.
+
+KEY POINTS:  
+- Tata Mutual Fund schemes include Multicap, Nifty 50 Index, Midcap 150 Momentum 50 Index, Small Cap, and Value Funds with both Direct and Regular plans available in Growth and IDCW options.  
+- TRUST Mutual Fund schemes include Flexi Cap and Small Cap Funds with Direct and Regular plans in Growth and IDCW options.  
+- UTI Mutual Fund schemes include Aggressive Hybrid, Arbitrage, Balanced Advantage, and Banking and Financial Services Funds with Direct and Regular plans in Growth and IDCW options.  
+- Each scheme is identified by a unique code for easy reference and transaction processing.  
+- IDCW options indicate periodic income distribution, while Growth options reinvest earnings to increase the NAV.  
+- Direct plans typically have lower expense ratios compared to Regular plans.  
+
+URL:  
+https://www.icicibank.com/ (Refer to Mutual Funds section)

@@ -1,0 +1,43 @@
+TITLE: Specialized Investment Fund (SIF) – A New Investment Product by SEBI  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Specialized Investment Fund, SIF, SEBI, Mutual Funds, Portfolio Flexibility, Equity, Debt, Hybrid Funds, Investment Strategies, High Net Worth Investors  
+
+CONTENT:  
+Specialized Investment Fund (SIF) is a newly introduced regulated investment vehicle under SEBI (Securities and Exchange Board of India) regulations, aimed at bridging the gap between traditional Mutual Funds (MFs) and Portfolio Management Services (PMS). The regulatory framework for SIFs was established under SEBI/HO/IMD/IMD-PoD-1/P/CIR/2025/26 dated February 27, 2025.
+
+SIFs allow investors to invest a minimum of ₹10 lakh and provide exposure to multiple asset classes including equity, debt, REITs/InvITs, and derivatives. They offer more portfolio flexibility than traditional mutual funds and are designed for experienced, institutional, and high net worth investors who may not meet the higher minimum investment requirements of PMS.
+
+**Investment Strategies of SIFs:**  
+SEBI has categorized permissible investment strategies for SIFs into three broad types:
+
+1. **Equity-Oriented Strategies:**  
+   - *Equity Long-Short Fund:* Minimum 80% investment in equities and equity-related instruments, with up to 25% unhedged short exposure via derivatives.  
+   - *Equity Ex-Top 100 Long-Short Fund:* At least 65% invested in stocks outside the top 100 by market capitalization; up to 25% short derivative exposure.  
+   - *Sector Rotation Long-Short Fund:* 80% investment in up to 4 sectors, with 25% short exposure allowed at the sector level.
+
+2. **Debt-Oriented Strategies:**  
+   - *Debt Long-Short Fund:* Invests in various debt instruments and can take unhedged short positions through debt derivatives. Typically offers weekly redemption frequency.  
+   - *Sectoral Debt Long-Short Fund:* Focuses on at least two debt sectors, with a 75% limit per sector; can take short positions up to 25% of NAV in debt.
+
+3. **Hybrid Investment Strategies:**  
+   - *Active Asset Allocator Long-Short Fund:* Dynamically allocates between equity, debt, derivatives, REITs/InvITs, and commodities; allows 25% short exposure.  
+   - *Hybrid Long-Short Fund:* At least 25% each in equity and debt, with up to 25% short exposure.
+
+**Benefits of Investing in SIF:**  
+- **Minimum Investment Threshold:** ₹10 lakh, making it suitable for experienced, institutional, and HNI investors.  
+- **Diversified Portfolio:** Exposure to multiple asset classes reduces dependence on a single market segment.  
+- **Advanced Strategies:** Access to dynamic, research-driven approaches such as long-short and hybrid allocation within a regulated framework.  
+- **Transparency and Regulation:** Managed by SEBI-registered Asset Management Companies (AMCs), SIFs comply with SEBI’s compliance, reporting, and disclosure standards.  
+- **Professional Management:** Funds are managed by experienced professionals ensuring adherence to regulatory norms and investment objectives.
+
+KEY POINTS:  
+- SIF is a SEBI-regulated investment product introduced in 2025.  
+- Minimum investment amount is ₹10 lakh.  
+- Offers equity, debt, hybrid investment strategies with long-short and sector rotation options.  
+- Suitable for experienced, institutional, and HNI investors.  
+- Provides portfolio diversification across multiple asset classes.  
+- Managed by SEBI-registered AMCs with strict compliance and transparency.  
+- Enables access to advanced investment strategies not typically available in traditional mutual funds.
+
+URL: https://www.icicibank.com/personal-banking/investments/mutual-funds

@@ -1,0 +1,39 @@
+TITLE: iMobile Banking Services App for NRI Banking  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking, NRI Banking, Digital Banking Services  
+TAGS: iMobile, NRI Banking, Mobile App, Fund Transfer, Bill Payment, UPI, Fixed Deposit, Recurring Deposit, Credit Cards, Loans, Investments, Insurance  
+
+CONTENT:  
+The ICICI Bank iMobile Banking app offers a comprehensive suite of banking services tailored for NRIs, enabling convenient management of accounts and financial transactions anytime, anywhere. The app consolidates multiple banking functions into a single platform, facilitating seamless banking experiences.
+
+Key features include:
+
+- **Accounts & Deposits:** Manage existing ICICI Bank accounts and open additional NRE/NRO accounts, savings accounts, loans, and credit cards. Users can also open Fixed Deposits (FDs) and Recurring Deposits (RDs) directly through the app.
+
+- **Send Money:** Transfer funds instantly to any ICICI Bank account. The recipient must be registered on the iMobile app to receive money.
+
+- **Global UPI Payments:** Make payments via UPI from overseas mobile numbers registered in countries such as Australia, Malaysia, Canada, France, Hong Kong, Oman, Qatar, Saudi Arabia, Singapore, UAE, UK, and USA.
+
+- **Recharge:** Recharge mobile phones, DTH, or data connections directly through the app.
+
+- **Bill Payments:** Pay utility bills quickly after registering the biller once via Internet Banking.
+
+- **Cards & Loans:** Monitor credit card and loan accounts in real-time.
+
+- **Investments & Insurance:** Manage insurance policies and Demat accounts conveniently.
+
+- **Other Services:** Access additional features such as Smartlock, ReKYC updates, communication address updates, FATCA/CRS declarations, opening additional NRE/NRO accounts, card blocking, cheque stopping, and tracking of deliverables.
+
+Terms and conditions apply.
+
+KEY POINTS:  
+- Open and manage NRE/NRO accounts, savings, loans, credit cards, FDs, and RDs via the app.  
+- Instant fund transfers to ICICI Bank accounts with recipient registration on iMobile.  
+- Global UPI payments supported from multiple countries for NRIs.  
+- Recharge mobile, DTH, and data connections.  
+- Utility bill payments after one-time biller registration.  
+- Real-time tracking of credit cards and loans.  
+- Manage investments including insurance and Demat accounts.  
+- Additional services: Smartlock, ReKYC, address updates, FATCA/CRS declarations, card blocking, cheque stop requests.  
+
+URL: https://www.icicibank.com/mobile-banking/imobile/services-offered-by-imobile

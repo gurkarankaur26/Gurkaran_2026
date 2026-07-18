@@ -1,0 +1,53 @@
+TITLE:  
+ICICI Bank Fixed Deposits (FD) – Monthly Interest Payouts and Calculator Guide
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Fixed Deposits, Savings, Investment, Banking Products
+
+TAGS:  
+Fixed Deposit, FD Calculator, Monthly Interest, Non-Cumulative FD, Interest Rates, Taxation, Financial Planning
+
+CONTENT:  
+Fixed Deposits (FDs) at ICICI Bank offer a secure and reliable way to earn steady income through interest payouts. Individuals seeking regular income can benefit from monthly interest payouts, which provide consistent cash inflows to support budgeting, daily expenses, planned financial goals, and emergencies. The accrued interest can also be reinvested strategically to maximize wealth growth and diversification.
+
+**Monthly Interest Payouts on FDs:**  
+- ICICI Bank offers non-cumulative Fixed Deposits where interest is paid out periodically—monthly, quarterly, or annually—while the principal amount remains locked until maturity.  
+- Monthly interest payouts provide liquidity and flexibility, making it easier to manage cash flow without breaking the FD.  
+
+**Using the ICICI Bank FD Calculator:**  
+1. Visit the ICICI Bank FD calculator online.  
+2. Select the customer type: General or Senior Citizen.  
+3. Choose the Fixed Deposit interest payout type: cumulative, quarterly, monthly, or short-term FD. For monthly interest, select ‘Monthly’.  
+4. The FD start date defaults to the current date but can be adjusted.  
+5. Enter the FD amount and tenure (minimum 90 days for monthly interest payouts). Tenure can be specified in years, months, or days.  
+6. The calculator displays the applicable interest rate, EMI (if applicable), and maturity date simultaneously for convenience.
+
+**Converting Annual Interest Rate to Monthly Interest Rate:**  
+- Divide the annual interest rate by 100 to convert to decimal.  
+- Divide the decimal by 12 to get the monthly rate.  
+- Optionally, multiply by 100 to convert back to percentage.  
+Example: 6% annual interest = 0.06 decimal ÷ 12 = 0.005 = 0.5% monthly interest rate.
+
+**Taxation on FD Interest:**  
+- Interest earned on Fixed Deposits is taxable as per the individual’s income tax slab.  
+- Tax Deducted at Source (TDS) is applicable if total interest income exceeds ₹50,000 in a financial year for general customers and ₹1,00,000 for senior citizens.  
+- TDS is deducted even if interest is paid periodically (monthly, quarterly, or annually), but tax liability is calculated on the total annual interest earned.
+
+**Benefits of ICICI Bank Fixed Deposits with Monthly Interest:**  
+- Steady and reliable income stream.  
+- Flexibility to meet regular expenses without breaking the FD.  
+- Helps in disciplined financial planning and budgeting.  
+- Opportunity to reinvest interest for wealth growth.  
+- Safe and secure investment option.
+
+KEY POINTS:  
+- Non-cumulative FDs allow monthly, quarterly, or annual interest payouts; principal locked till maturity.  
+- Minimum tenure for monthly interest payout FD is 90 days.  
+- Use ICICI Bank FD calculator to estimate interest, maturity, and EMI details.  
+- Annual interest rate can be converted to monthly interest rate by dividing by 12.  
+- Interest income is taxable; TDS applicable above ₹50,000 (₹1,00,000 for senior citizens) per annum.  
+- Monthly interest payouts improve liquidity and financial discipline.
+
+URL:  
+https://www.icicibank.com/Personal-Banking/investments/fixed-deposit.page

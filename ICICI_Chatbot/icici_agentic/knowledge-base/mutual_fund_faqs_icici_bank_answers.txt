@@ -1,0 +1,56 @@
+TITLE: Mutual Fund FAQs - ICICI Bank Answers  
+SOURCE: ICICI Bank  
+CATEGORY: Investments / Mutual Funds  
+TAGS: Mutual Funds, SIP, NAV, Redemption, Investment, SEBI, Expense Ratio, Fund Manager, IDCW, Growth Option  
+
+CONTENT:  
+A mutual fund is an investment vehicle that pools money from multiple investors to invest in a diversified portfolio of equities, debt instruments, gold, or other securities. Managed by professional fund managers, mutual funds provide access to expert management, diversification, and market opportunities even with modest investment amounts.
+
+**Structure of a Mutual Fund:**  
+- **Sponsor(s):** Promoters of the fund  
+- **Trustees:** Custodians of investor interests  
+- **Asset Management Company (AMC):** Manages the fund professionally  
+- **Custodian:** Holds underlying securities  
+
+This structure ensures transparency, regulatory oversight, and strong governance for investor protection under SEBI regulations.
+
+**Systematic Investment Plan (SIP):**  
+A SIP allows investors to invest a fixed amount regularly (typically monthly) into a mutual fund scheme. Units are purchased at the prevailing Net Asset Value (NAV) on each SIP date, enabling rupee-cost averaging and promoting disciplined investing. SIPs help mitigate market volatility and are ideal for long-term wealth creation.
+
+**Net Asset Value (NAV):**  
+NAV represents the per-unit value of a mutual fund scheme and is calculated as:  
+NAV = (Total Market Value of Scheme’s Investments – Liabilities) ÷ Number of Units Outstanding  
+
+NAV determines the purchase or sale price of mutual fund units and reflects the fund’s daily performance. It is updated and declared at the end of every business day and published on AMC websites and AMFI/SEBI platforms.
+
+**Redemption Price:**  
+The redemption price is the amount an investor receives when selling mutual fund units. It is typically based on the applicable NAV minus any exit load, if applicable. Certain funds such as ELSS, Children’s Funds, or Retirement Funds may have lock-in periods during which redemption is not allowed. Once redeemed, proceeds are credited to the investor’s registered bank account within standard settlement timelines.
+
+**Charges and Fees:**  
+- Entry loads have been abolished since 1 August 2009 as per SEBI regulations; investors do not pay any upfront charges while purchasing units.  
+- Investors bear fund-level expenses (expense ratio) and applicable exit loads, if any.
+
+**Factors to Consider When Choosing a Mutual Fund Scheme:**  
+- Your risk profile  
+- Your investment goal  
+- Investment horizon  
+- Past performance of the fund  
+- Fund manager track record  
+- Expense ratio  
+
+**Investment Options:**  
+- **Growth Option:** Profits are reinvested, allowing wealth to compound over time. No periodic payouts are made.  
+- **IDCW (Income Distribution cum Capital Withdrawal) Option:** Investors may receive periodic payouts depending on fund performance and AMC’s declaration. NAV reduces to reflect the payout.  
+
+Choice depends on whether you prefer capital appreciation (Growth Option) or periodic income (IDCW Option).
+
+KEY POINTS:  
+- Mutual funds pool money from investors to invest in diversified assets managed by professionals.  
+- SIPs enable regular, disciplined investing with rupee-cost averaging.  
+- NAV is the daily per-unit value of the fund, used for buying and selling units.  
+- Redemption price is NAV minus exit load; some funds have lock-in periods.  
+- No entry load charges since August 2009; only expense ratio and exit loads apply.  
+- Choose funds based on risk profile, goals, horizon, past performance, fund manager, and expense ratio.  
+- Growth option reinvests profits; IDCW option provides periodic payouts.  
+
+URL: https://www.icicibank.com/personal-banking/investments/mutual-funds/mutual-fund-faqs

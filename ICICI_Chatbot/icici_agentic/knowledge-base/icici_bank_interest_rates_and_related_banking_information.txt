@@ -1,0 +1,16 @@
+TITLE: ICICI Bank Interest Rates and Related Banking Information  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Products and Services  
+TAGS: Interest Rates, Repo Rate, Banking, ICICI Bank, Validity, Customer Profile  
+
+CONTENT:  
+- All interest rates offered by ICICI Bank are linked to the repo rate.  
+- The interest rates mentioned are valid until 30th June 2026.  
+- Interest rates may vary based on customer profile and other eligibility criteria.  
+
+KEY POINTS:  
+- Interest rates are directly linked to the repo rate.  
+- Validity of current interest rates is up to 30th June 2026.  
+- Customer profile influences applicable interest rates.  
+
+URL: [Official ICICI Bank Website]

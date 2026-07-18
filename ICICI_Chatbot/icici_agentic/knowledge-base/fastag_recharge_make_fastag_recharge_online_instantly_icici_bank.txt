@@ -1,0 +1,54 @@
+TITLE: FASTag Recharge - Make FASTag Recharge Online Instantly | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Prepaid Cards / FASTag / Toll Payments  
+TAGS: FASTag, Recharge, Toll Payment, ICICI Bank, UPI, Net Banking, Standing Instruction  
+
+CONTENT:  
+ICICI Bank's FASTag is a reloadable electronic toll collection tag that enables seamless and instant toll payments without stopping at toll plazas. Affixed on your vehicle, FASTag allows you to pay toll charges electronically, eliminating the need for cash transactions and long queues.
+
+**Key Features and Benefits:**  
+- Enables cashless toll payments for faster travel through toll plazas.  
+- Recharge your FASTag account online via multiple convenient methods.  
+- Set up Standing Instructions (SI) through ICICI Bank Retail Net Banking or iMobile app to auto-recharge your FASTag when the balance falls below a threshold, ensuring uninterrupted toll payments.  
+- Recharge options include ICICI Bank iMobile app and UPI-enabled apps like Google Pay, PhonePe, and Paytm.  
+
+**Recharge Methods:**  
+1. **Using ICICI Bank iMobile App:**  
+   - Log in to the app and recharge your FASTag account directly.  
+2. **Using UPI Payments:**  
+   - Open any UPI-enabled app (Google Pay, PhonePe, Paytm, etc.).  
+   - Use the FASTag-linked UPI ID or payee details to transfer funds instantly.  
+
+**Adding Payee Details for FASTag Recharge via Net Banking or Mobile Banking (ICICI or Non-ICICI Bank):**  
+To add a new payee for FASTag recharge, use the following details based on the FASTag code type. Replace XXXXXXXX with your 8-digit FASTag number.
+
+- For **ETOL Code**:  
+  - Beneficiary Type: NEFT/IMPS/RTGS  
+  - Beneficiary Account Number: ETOLXXXXXXXX  
+  - IFSC Code: ICIC0000104  
+  - Beneficiary Account Name: ETCPOOL  
+
+- For **ETCCUG Code**:  
+  - Beneficiary Type: NEFT/IMPS/RTGS  
+  - Beneficiary Account Number: ETCCUGXXXXXXXX  
+  - IFSC Code: ICIC0000106  
+  - Beneficiary Account Name: ETCPOOL  
+
+- For **FTIM Code**:  
+  - Beneficiary Type: NEFT/IMPS/RTGS  
+  - Beneficiary Account Number: FTIMXXXXXXXX  
+  - IFSC Code: ICIC0000104  
+  - Beneficiary Account Name: ETCPOOL  
+
+**Note:**  
+- Ensure your FASTag account is sufficiently funded to avoid toll payment failures.  
+- Standing Instructions help automate recharges, reducing manual intervention.  
+
+KEY POINTS:  
+- FASTag enables electronic toll payments without stopping at toll plazas.  
+- Recharge via ICICI iMobile app or any UPI-enabled app.  
+- Standing Instruction facility available for automatic recharge below threshold balance.  
+- Payee details for NEFT/IMPS/RTGS transfers vary by FASTag code type (ETOL, ETCCUG, FTIM).  
+- Replace XXXXXXXX with your unique 8-digit FASTag number when adding payee.  
+
+URL: https://www.icicibank.com/personal-banking/cards/prepaid-card/fastag/recharge-fastag

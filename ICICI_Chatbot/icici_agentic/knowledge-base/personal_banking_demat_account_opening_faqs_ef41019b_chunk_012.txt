@@ -1,0 +1,41 @@
+TITLE:  
+Demat Account Nomination, Transmission of Shares, and NRI Guidelines
+
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Services / NRI Banking / Share Transmission  
+TAGS: Demat Account, Nomination, NRI, Transmission of Shares, Inheritance, FEMA, NRO Account, PINS, RBI Approval  
+
+CONTENT:  
+1. **Change of Bank Details for Demat Account**  
+- Customers must update their bank account details for debit of demat charges and credit of dividends, interest, IPO credits, etc.  
+- To modify bank details, customers need to submit the "Change in Bank Details Form."  
+
+2. **Nomination in Demat Accounts**  
+- Nomination is mandatory for all High Net Worth Individual (HNI) customers.  
+- Customers are strongly advised to have a nominee in their Demat accounts at the time of account opening.  
+- The nominee or legal heir should have an active Demat account.  
+- If the nominee is an NRI, they must open a Non-PINS Non-repatriable Demat Account.  
+
+3. **Transmission of Shares (When Nomination is in Place)**  
+- The nominee must submit a written request to the Depository Participant (DP) along with a certified true copy of the death certificate issued by a competent authority.  
+- Shares will be transmitted to the nominee’s Demat account held with any depository.  
+- For NRIs, shares transmitted to a Non-PINS Non-repatriable Demat Account can be sold in the secondary market without PINS or RBI permission.  
+- PINS approval is only required for secondary market transactions, not for selling inherited shares.  
+
+4. **NRI Guidelines on Holding and Transferring Shares**  
+- As per FEMA guidelines, NRIs can hold, own, and transfer securities acquired while resident in India or inherited from a resident Indian without RBI permission.  
+- Shares held on a non-repatriable basis will have sale proceeds credited to the NRO bank account.  
+- NRIs can remit up to US $1 million per financial year from NRO accounts or sale proceeds of inherited assets, subject to documentary proof.  
+- For remittances exceeding US $1 million, prior RBI approval is required along with supporting documents as per FEMA (Remittance of Assets) Regulation, 2000.  
+
+KEY POINTS:  
+- Mandatory nomination for HNI Demat accounts.  
+- Change in bank details requires submission of a specific form.  
+- Transmission of shares requires death certificate and written request.  
+- NRIs must open Non-PINS Non-repatriable Demat accounts for nomination.  
+- No RBI permission needed for NRIs to sell inherited shares in secondary market.  
+- Sale proceeds credited to NRO account; remittance limits apply (US $1 million per financial year).  
+- RBI approval required for remittance beyond prescribed limits.  
+
+URL:  
+https://www.icicibank.com/ (Refer to Demat Account and NRI Banking sections)

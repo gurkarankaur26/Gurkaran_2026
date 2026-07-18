@@ -1,0 +1,41 @@
+TITLE: Internet Banking Security and Safety Measures  
+SOURCE: ICICI Bank  
+CATEGORY: Internet Banking, Security, Fraud Prevention  
+TAGS: Internet Banking, Fraud Prevention, Cybersecurity, Phishing, Vishing, Skimming, OTP, Mobile Banking, Aadhaar Safety  
+
+CONTENT:  
+Internet Banking is a convenient and secure way to manage your finances, but it is important to be aware of various types of fraud and cyber threats to protect your account and personal information. ICICI Bank provides guidelines and safety measures to help customers minimize the risk of fraud while using Internet Banking and related digital channels.
+
+**Types of Fraud and Cyber Threats:**  
+- **Phishing:** Fraudsters send emails or messages pretending to be from the bank to steal sensitive information.  
+- **Vishing:** Fraudsters attempt to obtain confidential details over phone calls.  
+- **Website Spoofing:** Creating fake websites to deceive users into sharing personal information.  
+- **Money Mule:** Innocent victims are tricked into laundering stolen money through their bank accounts.  
+- **Cyberstalking:** Harassment or threats using internet or electronic methods.  
+- **Skimming:** Capturing card information illegally from credit/debit cards.  
+- **Smishing:** Combination of SMS and phishing to obtain personal information.  
+- **Spear Phishing:** Targeted email fraud aimed at specific organizations or individuals.  
+
+**Safety Measures for Internet Banking and Mobile Banking:**  
+- Always verify the website address before entering any credentials.  
+- ICICI Bank will never send emails asking for your PIN, password, or account number. Do not respond to such requests.  
+- Use One Time Passwords (OTP), Unique Registration Numbers (URN), and 3D Secure codes for transaction authentication.  
+- Mobile phones can be used for receiving account alerts and conducting financial inquiries securely.  
+- Be cautious of attractive offers received via letters, emails, calls, or SMS asking for money deposits; these may be scams.  
+- Protect your Aadhaar card details as it contains sensitive demographic and biometric information.  
+- Maintain strong PINs and passwords and do not share them with anyone.  
+- Be vigilant on social media platforms, especially during festive or special occasions when fraudsters may increase their activities.  
+
+**WhatsApp Banking:**  
+- Use WhatsApp Banking services cautiously and follow safety guidelines provided by the bank to avoid fraud.  
+
+KEY POINTS:  
+- ICICI Bank never requests confidential information via email or phone.  
+- Always confirm website authenticity before logging in.  
+- Use OTP, URN, and 3D Secure codes for secure transactions.  
+- Beware of phishing, vishing, smishing, and spoofing attempts.  
+- Protect Aadhaar and personal information carefully.  
+- Avoid responding to suspicious offers or requests for money deposits.  
+- Use mobile banking alerts and notifications to monitor account activity.  
+
+URL: https://www.icicibank.com/online-safe-banking/internet-banking

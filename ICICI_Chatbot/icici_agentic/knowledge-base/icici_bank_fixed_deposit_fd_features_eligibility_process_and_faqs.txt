@@ -1,0 +1,47 @@
+TITLE: ICICI Bank Fixed Deposit (FD) - Features, Eligibility, Process, and FAQs  
+SOURCE: ICICI Bank  
+CATEGORY: Fixed Deposits  
+TAGS: Fixed Deposit, FD, ICICI Bank, Interest Rates, Senior Citizen, Tax Saver FD, KYC, Premature Withdrawal, Online Banking  
+
+CONTENT:  
+ICICI Bank Fixed Deposit (FD) offers a secure and flexible investment option for various customer segments including citizens, joint account holders, NRIs/OCIs (NRE or NRO FDs), sole proprietorships, partnerships, companies, and trusts (subject to documentation). Existing ICICI Bank customers with completed KYC can open FDs instantly via the iMobile app or Net Banking without additional documents.
+
+**Eligibility and Documentation:**  
+- FDs can be opened by individuals, joint holders, minors (under guardianship), NRIs/OCIs, and business entities with proper documentation.  
+- Minors can open FDs under a guardian; the FD converts to a major’s account after the minor turns 18 with a KYC update.  
+- KYC is mandatory before opening an FD, which can be completed via Video KYC, Aadhaar-based eKYC, or CKYC verification.  
+- Required documents include age proof such as Aadhaar, PAN, Passport, or Senior Citizen card (for preferential rates).  
+
+**Opening and Managing FDs:**  
+- FDs can be opened instantly online through ICICI Bank’s iMobile app (Accounts & FD/RD → Deposits → Create new FD) or Net Banking (Deposits → Fixed Deposits).  
+- The deposit amount is debited from the linked account immediately, and the FD is activated instantly online or within the same working day if done at a branch.  
+- Multiple FDs can be created under the same Customer ID for different tenures, payout options, or financial goals.  
+- The iMobile app and Net Banking allow opening, renewing, modifying, or closing FDs anytime, checking interest rates, and tracking maturity details.  
+
+**Tax Saver Fixed Deposit:**  
+- Can be opened jointly, but tax benefits apply only to the first holder.  
+- Available through Net Banking, iMobile app, or branch.  
+
+**Interest Rates and Payout Options:**  
+- Interest rates vary by tenure, deposit amount, and customer segment (regular vs senior citizen).  
+- Senior citizens receive preferential interest rates higher than standard rates for most tenures.  
+- Interest payout options for non-cumulative FDs include monthly or quarterly payments credited directly to the linked Savings or Current Account.  
+
+**Charges and Penalties:**  
+- No charges for opening or renewing an FD.  
+- Premature withdrawal penalty of up to 1% on the applicable interest rate applies for the period the FD was held, except for certain categories like FD-linked overdrafts or specific schemes.  
+- Tax Deducted at Source (TDS) is applicable on FD interest as per the Income Tax Act.  
+
+KEY POINTS:  
+- Eligibility: Citizens, joint holders, minors (with guardian), NRIs/OCIs, businesses (with documentation)  
+- KYC mandatory; can be completed via Video KYC, Aadhaar eKYC, or CKYC  
+- Instant FD opening via iMobile app and Net Banking  
+- Multiple FDs allowed under one Customer ID  
+- Senior citizens get higher interest rates  
+- Interest payout: monthly or quarterly for non-cumulative FDs  
+- No charges for opening or renewal  
+- Premature withdrawal penalty up to 1% on interest rate  
+- Tax Saver FD can be jointly held; tax benefit only for first holder  
+- TDS applicable on interest income  
+
+URL: https://www.icicibank.com/personal-banking/deposits/fixed-deposit.page

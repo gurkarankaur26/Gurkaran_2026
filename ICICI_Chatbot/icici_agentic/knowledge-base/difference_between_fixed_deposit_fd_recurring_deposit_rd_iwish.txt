@@ -1,0 +1,47 @@
+TITLE: Difference Between Fixed Deposit (FD), Recurring Deposit (RD) & iWish  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Products, Deposits, Investment Options  
+TAGS: Fixed Deposit, Recurring Deposit, iWish, Interest Rates, Taxation, Investment, Banking, ICICI Bank  
+
+CONTENT:  
+Fixed Deposit (FD) and Recurring Deposit (RD) are fixed income investment products offered by banks, including ICICI Bank. Both provide fixed returns with safety of the invested capital. The interest rate on these products remains fixed for the entire tenure once invested, despite changes in market interest rates.
+
+**Features:**  
+- FD involves investing a lump sum amount for a fixed tenure at a fixed interest rate.  
+- RD involves investing a fixed amount every month for a fixed tenure at a fixed interest rate.  
+- Interest is paid either periodically or on maturity, depending on the product terms.  
+- Interest rates on FD and RD are compounded quarterly.  
+
+**Interest Earnings Comparison:**  
+- FD generally yields higher returns than RD for the same interest rate and tenure because the entire principal amount earns interest for the full tenure.  
+- In RD, each monthly installment earns interest for a decreasing number of months (first installment for full tenure, last installment for one month).  
+
+Example (at 9% interest compounded quarterly for 1 year):  
+| Parameter                  | Fixed Deposit (FD) | Recurring Deposit (RD)  |  
+|----------------------------|--------------------|-------------------------|  
+| Invested Amount            | Rs. 24,000 (lump sum) | Rs. 2,000 per month     |  
+| Interest Rate (p.a.)       | 9% compounded quarterly | 9% compounded quarterly |  
+| Total Interest Earned      | Rs. 2,234          | Rs. 1,195               |  
+| Total Maturity Amount      | Rs. 26,324         | Rs. 25,195              |  
+| Difference in Returns      | Rs. 1,039 more in FD|                         |  
+
+**Taxability:**  
+- Interest earned on both FD and RD is taxable as per the investor’s income tax slab.  
+- Tax Deducted at Source (TDS) is applicable on FD interest if it exceeds Rs. 10,000 in a financial year.  
+- No TDS is deducted on RD interest, though the interest is still taxable.  
+
+**Benefits:**  
+- Both FD and RD offer safety of principal and assured returns.  
+- FD is suitable for investors with lump sum funds looking for higher returns.  
+- RD is ideal for investors who want to save regularly with smaller amounts.  
+- Both products help inculcate disciplined savings habits.  
+
+KEY POINTS:  
+- FD and RD are fixed income products with fixed interest rates for the tenure.  
+- FD requires lump sum investment; RD requires monthly installments.  
+- FD generally yields higher returns than RD for the same interest rate and tenure.  
+- Interest on both is taxable; TDS applies only on FD interest exceeding Rs. 10,000 annually.  
+- RD does not have TDS deduction but interest is taxable.  
+- Both products are safe and suitable for conservative investors.  
+
+URL: https://www.icicibank.com/blogs/iwish/what-is-the-difference-between-fd-rd-iwish

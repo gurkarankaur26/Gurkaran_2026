@@ -1,0 +1,48 @@
+TITLE: Home Loan Eligibility Calculator - Check Housing Loan Eligibility  
+SOURCE: ICICI Bank  
+CATEGORY: Home Loans  
+TAGS: Home Loan, Eligibility, EMI, Interest Rate, Loan Tenure, Co-applicant, Part Payment  
+
+CONTENT:  
+ICICI Bank offers an online Home Loan Eligibility Calculator to help prospective borrowers estimate the loan amount they are eligible for based on their income, age, and repayment capacity. This tool assists in planning finances effectively for purchasing a home.
+
+**How the Home Loan Eligibility Calculator Works:**  
+- The calculator uses the formula:  
+  EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]  
+  Where:  
+  - P = Principal loan amount  
+  - R = Monthly interest rate (annual interest rate divided by 12 and then by 100)  
+  - N = Loan tenure in months  
+
+- Example: For a ₹10,00,000 loan at an annual interest rate of 9% over 120 months (10 years), the EMI would be approximately ₹26,602 per month.
+
+**Using the Calculator:**  
+- Enter your income, age, loan amount, interest rate, and tenure to get an indicative EMI and eligible loan amount.  
+- The results are indicative and subject to ICICI Bank’s detailed credit evaluation, verification, and policy norms.
+
+**Factors Affecting Home Loan Eligibility:**  
+- Income stability and repayment capacity  
+- Existing financial obligations  
+- Business continuity and cash flows (for self-employed applicants)  
+- Supporting financial documents  
+- Adding a co-applicant with an independent income source can improve eligibility, subject to internal assessment.
+
+**Benefits of Using the Calculator:**  
+- Quick estimation of loan eligibility and EMI  
+- Helps in financial planning and budgeting  
+- Understand impact of interest rates and tenure on EMIs  
+
+**Additional Information on EMI and Part Payments:**  
+- EMI is a fixed monthly repayment amount based on a pre-defined amortisation schedule.  
+- Part payments reduce the outstanding principal, thereby lowering the total interest payable.  
+- Borrowers can choose to either reduce the EMI amount while keeping the tenure same or reduce the tenure while keeping the EMI amount constant after part payments.
+
+KEY POINTS:  
+- EMI formula and calculation method explained  
+- Example EMI for ₹10,00,000 loan at 9% interest over 10 years: ₹26,602/month  
+- Eligibility depends on income, age, repayment capacity, and financial obligations  
+- Co-applicant can improve eligibility  
+- Part payments reduce interest and can adjust EMI or tenure  
+- Results from the calculator are indicative and subject to bank’s approval  
+
+URL: https://www.icicibank.com/personal-banking/loans/home-loan/eligibility-calculator

@@ -1,0 +1,45 @@
+TITLE:  
+SIP in Mutual Funds: Meaning, Benefits & How It Works
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment, Systematic Investment Plan (SIP)
+
+TAGS:  
+SIP, Mutual Funds, Investment, Rupee Cost Averaging, Compounding, Wealth Creation, Financial Goals
+
+CONTENT:  
+A Systematic Investment Plan (SIP) is a method of investing in mutual funds by regularly investing a predetermined amount at fixed intervals such as weekly, monthly, or quarterly. SIPs are designed to help investors build wealth over time by spreading investments, ensuring market participation, and leveraging the benefits of compounding returns.
+
+SIPs are flexible, allowing investors to adjust the investment amount according to their financial situation. The investment amount is auto-debited from the investor’s bank account and invested in the chosen mutual fund scheme. The number of units allotted depends on the Net Asset Value (NAV) of the scheme on the day of investment. When the NAV is low, more units are purchased; when the NAV is high, fewer units are bought. This process is known as Rupee Cost Averaging.
+
+Key benefits of SIP include:
+
+- **Power of Compounding:** Regular investments generate returns, which in turn earn returns, growing the investment corpus significantly over time. The longer the investment duration, the greater the compounding effect.
+  
+- **Rupee Cost Averaging:** By investing a fixed amount regularly, investors buy more units when prices are low and fewer units when prices are high. This balances the average cost per unit and reduces the risk of investing a lump sum at an inopportune time.
+
+SIPs are suitable for both new and experienced investors who want to achieve financial goals progressively without worrying about market timing.
+
+Example of SIP vs Lump Sum Investment:
+
+| Month | NAV (Rs) | SIP Investment (Rs) | No. of Units (SIP) | Average Cost per Unit (SIP) (Rs) | Lump Sum Investment (Rs) | No. of Units (Lump Sum) | Average Cost per Unit (Lump Sum) (Rs) |
+|-------|----------|---------------------|--------------------|---------------------------------|--------------------------|-------------------------|-------------------------------------|
+| 1     | 15       | 600                 | 40                 | 12                              | 3,600                    | 240                     | 15                                  |
+| 2     | 10       | 600                 | 60                 |                                 |                          |                         |                                     |
+| 3     | 12       | 600                 | 50                 |                                 |                          |                         |                                     |
+
+KEY POINTS:  
+- SIP is a disciplined way to invest in mutual funds regularly.  
+- Investment frequency can be weekly, monthly, or quarterly.  
+- SIP amount is auto-debited from the bank account.  
+- Units allotted depend on the NAV on the investment date.  
+- Benefits include Rupee Cost Averaging and Power of Compounding.  
+- SIP reduces the risk of market timing and smoothens investment cost.  
+- Suitable for both new and experienced investors aiming for long-term financial goals.  
+- Flexibility to increase, decrease, or stop SIP investments as per financial needs.
+
+URL:  
+https://www.icicibank.com/blogs/sip/what-is-sip-and-how-does-it-work

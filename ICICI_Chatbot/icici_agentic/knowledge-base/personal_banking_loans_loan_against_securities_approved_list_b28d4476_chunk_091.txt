@@ -1,0 +1,76 @@
+TITLE:  
+List of Mutual Fund Schemes and Their Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Tata Mutual Funds, UTI Mutual Funds, Investment  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their respective plan types and unique identification codes. The schemes include various plans from Tata Mutual Funds and UTI Mutual Funds, categorized by dividend options such as Daily IDCW (Income Distribution cum Capital Withdrawal), Weekly IDCW, Monthly IDCW, Growth, and Annual IDCW. Both Direct and Regular plans are listed.
+
+Key Mutual Fund Schemes and Codes:
+
+- Tata Liquid Fund  
+  - Direct Plan - Daily IDCW: 119862  
+  - Direct Plan - Growth: 119861  
+  - Direct Plan - Weekly IDCW: 153689  
+  - Regular Plan - Daily IDCW: 101714  
+  - Regular Plan - Growth: 102672  
+  - Regular Plan - Weekly IDCW: 153688  
+
+- Tata Money Market Fund  
+  - Direct Plan - Daily IDCW: 119421  
+  - Direct Plan - Growth: 119424  
+  - Regular Plan - Daily IDCW: 101986  
+  - Regular Plan - Growth: 101847  
+
+- Tata Overnight Fund  
+  - Direct Plan - Growth: 146980  
+  - Direct Plan - IDCW: 146978  
+  - Regular Plan - Growth: 146977  
+  - Regular Plan - IDCW: 146979  
+
+- Tata Short Term Bond Fund  
+  - Direct Plan - Growth: 119949  
+  - Direct Plan - IDCW: 133974  
+  - Direct Plan - Monthly IDCW: 119950  
+  - Regular Plan - Growth: 101548  
+  - Regular Plan - IDCW: 133975  
+  - Regular Plan - Monthly IDCW: 101547  
+
+- Tata Treasury Advantage Fund  
+  - Direct Plan - Daily IDCW: 119864  
+  - Direct Plan - Growth: 119863  
+  - Direct Plan - IDCW: 119957  
+  - Direct Plan - Weekly IDCW: 119865  
+  - Regular Plan - Daily IDCW: 103160  
+  - Regular Plan - Growth: 103159  
+  - Regular Plan - IDCW: 115464  
+  - Regular Plan - Weekly IDCW: 103158  
+
+- Tata Ultra Short Term Fund  
+  - Direct Plan - Growth: 146075  
+  - Direct Plan - Monthly IDCW: 146069  
+  - Direct Plan - Weekly IDCW: 146068  
+  - Regular Plan - Growth: 146070  
+  - Regular Plan - Monthly IDCW: 146072  
+  - Regular Plan - Weekly IDCW: 146071  
+
+- UTI Banking & PSU Fund  
+  - Regular Plan - Growth: 126939  
+
+- UTI Corporate Bond Fund  
+  - Direct Plan - Annual IDCW: 144344  
+  - Direct Plan - Flexi IDCW: 144341  
+
+This list is useful for investors and banking professionals to identify and transact in specific mutual fund schemes offered by Tata and UTI through ICICI Bank.
+
+KEY POINTS:  
+- Includes mutual fund schemes from Tata and UTI Mutual Funds.  
+- Provides plan types: Direct and Regular.  
+- Dividend options include Daily, Weekly, Monthly, Annual IDCW, and Growth.  
+- Each scheme has a unique code for identification and transaction purposes.  
+- Useful for investors to select and invest in specific mutual fund plans.  
+
+URL:  
+https://www.icicibank.com/ (Mutual Funds Section)

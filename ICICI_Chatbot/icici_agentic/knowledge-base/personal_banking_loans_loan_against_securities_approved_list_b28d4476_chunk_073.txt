@@ -1,0 +1,58 @@
+TITLE:  
+ICICI Prudential Mutual Fund Schemes Overview
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Products
+
+TAGS:  
+ICICI Prudential, Mutual Funds, Money Market Fund, Bond Fund, Overnight Fund, Savings Fund, Index Fund, Dividend, Growth, IDCW
+
+CONTENT:  
+This document provides a structured overview of various ICICI Prudential Mutual Fund schemes available for investment. The schemes include Money Market Funds, Bond Funds, Index Funds, Overnight Funds, and Savings Funds, each offering different plans such as Direct and Regular, with options for Growth and Income Distribution cum Capital Withdrawal (IDCW) frequencies (Daily, Weekly, Fortnightly, Quarterly, Annual).
+
+Key Mutual Fund Schemes:
+
+1. **ICICI Prudential Money Market Fund**  
+   - Plans: Direct and Regular  
+   - Options: Growth, Daily IDCW, Weekly IDCW, IDCW Others  
+   - Suitable for investors seeking liquidity and low risk.
+
+2. **ICICI Prudential Medium Term Bond Fund**  
+   - Quarterly IDCW option  
+   - Suitable for investors looking for medium-term fixed income.
+
+3. **ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund**  
+   - Plans: Direct and Regular  
+   - Options: Growth, Annual IDCW  
+   - Invests in PSU bonds and State Development Loans (SDL) with a 40:60 allocation.
+
+4. **ICICI Prudential Nifty SDL Sep 2027 Index Fund**  
+   - Plans: Direct and Regular  
+   - Options: Growth, Annual IDCW  
+   - Focuses on State Development Loans maturing in September 2027.
+
+5. **ICICI Prudential Overnight Fund**  
+   - Plans: Direct and Regular  
+   - Options: Growth, Daily IDCW, Weekly IDCW  
+   - Includes unclaimed IDCW and redemption schemes for stable and transitory schemes.  
+   - Suitable for investors seeking overnight liquidity with minimal risk.
+
+6. **ICICI Prudential Savings Fund**  
+   - Plans: Direct  
+   - Options: Growth, Daily IDCW, Fortnightly IDCW  
+   - Designed for investors looking for savings with regular income.
+
+KEY POINTS:  
+- Multiple fund options catering to different risk profiles and investment horizons.  
+- Availability of Direct and Regular plans to suit investor preferences.  
+- IDCW (Income Distribution cum Capital Withdrawal) options available in various frequencies: Daily, Weekly, Fortnightly, Quarterly, Annual.  
+- Growth option available for capital appreciation.  
+- Specific funds focus on PSU bonds, SDLs, and money market instruments.  
+- Overnight funds provide high liquidity with low risk.  
+- Unclaimed IDCW and redemption schemes available for certain funds ensuring investor benefits are maintained.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

@@ -1,0 +1,15 @@
+TITLE: Secure Online Banking with ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Online Banking Security  
+TAGS: Security, SSL, Online Banking, Data Protection, Encryption  
+
+CONTENT:  
+ICICI Bank ensures that all your private information transmitted through its online banking platform is encrypted and secured. Any data sent from addresses beginning with "https" is protected using Secure Socket Layer (SSL) technology. This encryption safeguards your sensitive information from unauthorized access during online transactions, providing a secure banking experience.
+
+KEY POINTS:  
+- All private information transmitted via ICICI Bank’s online platform is encrypted.  
+- SSL (Secure Socket Layer) technology is used for data security.  
+- Only web addresses starting with "https" indicate a secure connection.  
+- Ensures protection against unauthorized access during online banking.  
+
+URL: https://www.icicibank.com

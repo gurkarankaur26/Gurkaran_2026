@@ -1,0 +1,63 @@
+TITLE:  
+ICICI Bank Current Account Opening and Business Banking Information
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Business Banking, Current Accounts, Account Opening
+
+TAGS:  
+Current Account, Business Banking, KYC, Documentation, Eligibility, Digital Onboarding, Trade Finance, GST, FATCA, MSME, Startups
+
+CONTENT:  
+ICICI Bank offers a range of current accounts tailored to various business types including private/public limited companies, LLPs, partnerships, proprietorships, trusts, societies, exporters, government-tender entities, startups, and MSMEs. The bank provides specialized current account variants such as GEM, RERA, and escrow accounts to meet sector-specific requirements.
+
+**Eligibility:**  
+- Private/public limited companies  
+- LLPs  
+- Partnerships  
+- Proprietorships  
+- Trusts and societies (registered)  
+- Exporters and importers  
+- Government-tender entities  
+- Startups and MSMEs  
+
+**Documentation Requirements:**  
+- KYC documents of promoters/directors (PAN, passport, Aadhaar)  
+- Proof of business address  
+- GST registration certificate (if applicable)  
+- Board resolution or authorization letter  
+- Bankers’ reference  
+- Recent photographs  
+- Proprietorships require proprietor’s personal KYC, proof of business address, firm registration (if any), and business proofs such as invoices or trade licenses  
+- Exporters/importers must provide Import Export Code (IEC), customs registration, past export documents or foreign inward remittance proofs, and trade-specific licenses  
+- FATCA/CRS self-declarations for global tax compliance where applicable  
+- Alternate business proofs accepted for GST-exempt or new businesses without GST  
+
+**Account Opening Process:**  
+- Digital onboarding available for many business customers, subject to regulatory and customer-type conditions  
+- Digital onboarding includes e-KYC, scanned document uploads, and Relationship Manager (RM) assistance  
+- Most documentation and verification take place offline at the branch or through the RM  
+- Account activation typically takes a few business days depending on document completeness and regulatory checks  
+
+**Features and Benefits:**  
+- Multiple current accounts allowed for companies and firms to segregate cash flows (e.g., payroll, collections, project accounts)  
+- Integrated solutions for startups and MSMEs including payroll, collections, and merchant onboarding  
+- Consolidated reporting and reconciliation support by Business Banking team  
+- Product variants matched to business scale and turnover with fixed minimum turnover/eligibility criteria applied  
+- Guidance provided by ICICI Bank RM on the best current account type based on legal form and transaction profile  
+
+KEY POINTS:  
+- Comprehensive current account options for diverse business types  
+- Simplified documentation for proprietorships, startups, and MSMEs  
+- Digital onboarding reduces paperwork and speeds up account activation  
+- Exporters/importers have specialized documentation and trade finance support  
+- GST registration required if applicable; alternatives accepted for GST-exempt businesses  
+- FATCA/CRS compliance mandatory for applicable entities  
+- Multiple current accounts allowed for better cash flow management  
+- Account activation within a few business days after document submission  
+- Dedicated RM support for product selection and account management  
+
+URL:  
+https://www.icicibank.com/business-banking/current-account.page

@@ -1,0 +1,57 @@
+TITLE:  
+ICICI Bank GIFT City USD Debit Card and Fixed Deposit Information
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Banking Products and Services
+
+TAGS:  
+GIFT City, USD Debit Card, Fixed Deposit, NRI Banking, Foreign Currency, Net Banking, Fund Transfer, Security Features
+
+CONTENT:  
+**ICICI Bank GIFT City USD Debit Card Features and Usage**  
+- The ICICI Bank GIFT City USD Debit Card includes EMV chip security, OTP-based authentication, and PIN protection.  
+- You can instantly block your Debit Card through the ICICI Bank IBU GIFT City Net Banking platform.  
+- For POS transactions outside India:  
+  - If the card is inserted into a PIN-enabled terminal, you must enter your Debit Card PIN to complete the transaction.  
+  - For contactless transactions, the terminal will not ask for your PIN. You can enable contactless payments and set limits via the ICICI Bank IBU GIFT City Net Banking platform. Contactless limits vary by country.  
+- Online transactions are allowed with the GIFT City USD Debit Card once enabled and limits are set through the Net Banking platform.  
+- Security: The card will be blocked after 3 consecutive wrong PIN attempts but will automatically reactivate after 24 hours.  
+- If you forget your Debit Card PIN, you can regenerate a new PIN via the Net Banking platform (Dashboard -> Debit Card -> Debit Card PIN Generation).  
+
+**Fixed Deposit (FD) at ICICI Bank IBU GIFT City**  
+- Fixed Deposit is a deposit product offering a fixed interest rate for a fixed term, providing stable returns with minimal risk.  
+- Currencies available for Fixed Deposits include USD, GBP, EUR, CAD, AED, AUD, HKD, and SGD.  
+- Tenure:  
+  - For NRIs: Minimum 7 days, maximum 39 months.  
+  - For Resident Indians (RI): Minimum 7 days, maximum 180 days.  
+- Fixed Deposits at ICICI Bank IBU GIFT City are not covered under the deposit insurance scheme.  
+- Nomination facility is available for all Fixed Deposits.  
+- Short-term tenure FDs (less than 180 days) provide liquidity and flexibility.  
+- Fixed Deposits can be set for auto renewal or auto closure. In auto closure, maturity proceeds are credited automatically to the Savings Account.  
+- Latest Fixed Deposit interest rates are available on the GIFT City website for both individuals and non-individuals.  
+
+**Fund Transfers and Account Features**  
+- Funds can be transferred in and out of Current and Savings Accounts maintained with ICICI-IBU Branch.  
+- Fund transfers are conducted via SWIFT, a secure global messaging network used by financial institutions.  
+- Accounts maintained with ICICI-IBU Branch support foreign currency transactions for trade finance, treasury operations, and cross-border investments.  
+
+**Contact**  
+For any queries, you may write to contactgiftcity@icici.bank.in or contact your Relationship Manager.
+
+KEY POINTS:  
+- ICICI Bank GIFT City USD Debit Card offers EMV chip, OTP, and PIN security.  
+- Contactless payments can be enabled with country-specific limits.  
+- Card blocks after 3 wrong PIN attempts, auto-reactivates after 24 hours.  
+- PIN regeneration available via Net Banking.  
+- Fixed Deposits available in multiple foreign currencies with tenures from 7 days to 39 months (NRI) and 180 days (RI).  
+- No deposit insurance coverage on GIFT City Fixed Deposits.  
+- Nomination facility available on all Fixed Deposits.  
+- Auto renewal and auto closure options for Fixed Deposits.  
+- Fund transfers via SWIFT supported for Current and Savings Accounts.  
+- Foreign currency transactions supported for trade finance and investments.  
+
+URL:  
+https://www.icicibank.com/gift-city

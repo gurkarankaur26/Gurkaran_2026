@@ -1,0 +1,26 @@
+TITLE: ICICI Bank FASTag Now Available on Google Pay  
+SOURCE: ICICI Bank  
+CATEGORY: Digital Payments, FASTag, Toll Payments  
+TAGS: FASTag, ICICI Bank, Google Pay, UPI, Digital Toll Payments, NPCI, IHMCL, NHAI  
+
+CONTENT:  
+ICICI Bank has partnered with Google Pay to enable users to order, track, and recharge ICICI Bank FASTag digitally through UPI on the Google Pay app. This collaboration allows customers to obtain FASTag without visiting merchants or toll plazas, ensuring a safe and contactless experience. ICICI Bank is the first bank to offer FASTag issuance via Google Pay.
+
+FASTag is a product owned by Indian Highways Management Company Ltd. (IHMCL) and is part of the National Payments Corporation of India (NPCI) and National Highway Authorities of India (NHAI) initiative to digitize toll payments on national and state highways.
+
+ICICI Bank has integrated FASTag at Mumbai toll plazas and the parking zone at GMR Hyderabad International Airport to promote contactless and hassle-free transactions. The bank was the first to launch FASTag nationally on the Mumbai – Vadodara corridor in 2013.
+
+Key benefits of this collaboration include doorstep delivery of FASTag free of cost, seamless application through UPI, and interoperability between banks on a digital payments platform. This initiative supports increased adoption of FASTag for toll payments, especially useful during the pandemic.
+
+Statements from key officials highlight the importance of this partnership in enhancing digital payment efficiency in transit and making interstate travel frictionless.
+
+KEY POINTS:  
+- ICICI Bank FASTag can now be ordered, tracked, and recharged via Google Pay using UPI.  
+- No need to visit merchants or toll plazas; FASTag is delivered free of cost to the customer’s doorstep.  
+- FASTag is owned by IHMCL and is part of NPCI and NHAI’s digital toll payment ecosystem.  
+- ICICI Bank was the first to launch FASTag nationally in 2013.  
+- FASTag is integrated at Mumbai toll plazas and GMR Hyderabad International Airport parking.  
+- The collaboration promotes contactless, hassle-free toll payments and supports interoperability between banks.  
+- This initiative is aimed at increasing FASTag adoption and enhancing digital payment convenience for commuters.  
+
+URL: https://www.icicibank.com/about-us/news-room/2020/news-icici-bank-fastag-is-now-available-on-google-pay

@@ -1,0 +1,25 @@
+TITLE: Mutual Fund Schemes List  
+SOURCE: ICICI Bank  
+CATEGORY: Investment Products  
+TAGS: Mutual Funds, Investment, Fund Schemes, Growth, IDCW, Hybrid Funds, Arbitrage Funds, Balanced Funds, Equity Funds, ESG Funds  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes available for investment, including scheme names, plan types (Direct/Regular), and option types (Growth/IDCW - Income Distribution cum Capital Withdrawal). The schemes cover various categories such as aggressive hybrid funds, arbitrage funds, balanced advantage funds, business cycles funds, consumption funds, equity savings funds, and ESG integration strategy funds. Each scheme is identified by a unique code for easy reference.
+
+KEY POINTS:  
+- Schemes include both Direct and Regular plans.  
+- Options available are Growth and IDCW (Income Distribution cum Capital Withdrawal), with IDCW further divided into monthly and quarterly payout options.  
+- Fund categories include:  
+  - Aggressive Hybrid Funds  
+  - Arbitrage Funds  
+  - Balanced Advantage Funds  
+  - Business Cycles Funds  
+  - Consumption Funds  
+  - Equity Savings Funds  
+  - ESG Integration Strategy Funds  
+- Each scheme has a unique identification number (e.g., Axis Aggressive Hybrid Fund - Dir - Growth: 144394).  
+- IDCW options provide periodic income distribution to investors.  
+- Growth options reinvest earnings to increase the NAV (Net Asset Value).  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/mutual-fund-schemes.page

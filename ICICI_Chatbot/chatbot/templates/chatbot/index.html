@@ -1,0 +1,414 @@
+
+  {% load static %}
+  <!DOCTYPE html>
+<html>
+<head>
+
+    <title>ICICI Banking Assistant</title>
+
+    <style>
+
+        body{
+            margin:0;
+            font-family: Arial;
+            background:#f5f5f5;
+        }
+
+        .chat-container{
+            width:800px;
+            height:90vh;
+            margin:20px auto;
+            background:white;
+            border-radius:15px;
+            display:flex;
+            flex-direction:column;
+            box-shadow:0px 2px 10px rgba(0,0,0,0.2);
+        }
+
+        .header{
+            background:#f58220;
+            color:white;
+            padding:20px;
+            border-radius:15px 15px 0 0;
+        }
+
+        .header h2{
+            margin:0;
+        }
+
+        .header p{
+            margin:5px 0 0 0;
+        }
+
+        .messages{
+            flex:1;
+            overflow-y:auto;
+            padding:20px;
+        }
+
+        .user-message{
+            text-align:right;
+            margin-bottom:15px;
+        }
+
+        .bot-message{
+            text-align:left;
+            margin-bottom:15px;
+        }
+
+       .bubble{
+            display:inline-block;
+            padding:14px 18px;
+            border-radius:18px;
+            max-width:75%;
+            word-wrap: break-word;
+            box-shadow:0 1px 4px rgba(0,0,0,0.1);
+        }
+
+       .user{
+        background:#f58220;
+        color:white;
+        border-bottom-right-radius:4px;
+    }
+
+       .bot{
+    background:#f4f4f4;
+    color:#333;
+    border-bottom-left-radius:4px;
+    white-space: pre-line;
+    line-height:1.6;
+}
+        .input-area{
+            display:flex;
+            padding:15px;
+            border-top:1px solid #ddd;
+        }
+
+        #message{
+            flex:1;
+            padding:12px;
+            border-radius:8px;
+            border:1px solid #ccc;
+        }
+
+       #send-btn{
+    margin-left:10px;
+    width:100px;
+    border:none;
+    background:#f58220;
+    color:white;
+    border-radius:8px;
+    cursor:pointer;
+}
+         .typing-bubble {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    width: fit-content;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #888;
+    animation: bounce 1.4s infinite ease-in-out;
+}
+
+.dot:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.dot:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.dot:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+    0%, 80%, 100% {
+        transform: scale(0.6);
+        opacity: 0.5;
+    }
+
+    40% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.suggestions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 15px 0;
+}
+
+.suggestion-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+
+    padding: 10px 16px;
+    border: 1px solid #f58220;
+    background: white;
+    color: #f58220;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+
+    white-space: nowrap;
+}
+.suggestion-btn:hover {
+    background: #f58220;
+    color: white;
+}
+
+.header{
+    background:#f58220;
+    color:white;
+    padding:20px;
+    border-radius:15px 15px 0 0;
+}
+
+.header-content{
+    display:flex;
+    align-items:center;
+    gap:18px;
+}
+
+.logo{
+    width:60px;
+    height:60px;
+    object-fit:contain;
+    background:white;
+    border-radius:10px;
+    padding:6px;
+}
+
+.header h2{
+    margin:0;
+    font-size:40px;
+}
+
+.header p{
+    margin-top:6px;
+    font-size:18px;
+}
+    </style>
+
+</head>
+
+<body>
+
+<div class="chat-container">
+
+    <div class="header">
+
+    <div class="header-content">
+       
+        <img src="{% static 'images/icici-logo.png' %}"
+     alt="ICICI Bank Logo"
+     class="logo">
+            
+
+
+
+        <div>
+            <h2>ICICI Banking Assistant</h2>
+            <p>Your Digital Banking Companion</p>
+        </div>
+    </div>
+
+</div>
+
+    <div id="messages" class="messages">
+        <div id="suggestions" class="suggestions">
+
+            <button class="suggestion-btn"
+                onclick="sendSuggestion('How can I open a savings account?')">
+            Savings Account 🏦
+        </button>
+
+        <button class="suggestion-btn"
+                onclick="sendSuggestion('How can I create a fixed deposit?')">
+            Fixed Deposit 📈
+        </button>
+
+        <button class="suggestion-btn"
+                onclick="sendSuggestion('Tell me about ICICI home loans.')">
+            Home Loan 🏠
+        </button>
+
+        <button class="suggestion-btn"
+                onclick="sendSuggestion('What credit cards are available?')">
+            Credit Cards 💳
+        </button>
+
+        <button class="suggestion-btn"
+                onclick="sendSuggestion('How can I apply for a personal loan?')">
+            Personal Loan 💰
+        </button>
+
+        <button class="suggestion-btn"
+                onclick="sendSuggestion('How do I register for internet banking?')">
+            Internet Banking 🌐
+        </button>
+        </div>
+
+        <div class="bot-message">
+            <div class="bubble bot">
+                Hi!! I am Kajal, your ICICI Banking Assistant.
+                How may I help you today?
+            </div>
+        </div>
+
+    </div>
+
+    <div class="input-area">
+
+        <input
+                type="text"
+                id="message"
+                placeholder="Ask about FD, loans, cards, savings account..."
+        >
+
+        <button id="send-btn" onclick="sendMessage()">
+            Send
+        </button>
+
+    </div>
+
+</div>
+
+<script>
+
+async function sendMessage(){
+
+
+    let input = document.getElementById("message");
+
+    let message = input.value.trim();
+
+    if(message==="")
+        return;
+    
+    document.getElementById("suggestions").style.display = "none";
+
+    let messages = document.getElementById("messages");
+
+    messages.innerHTML += `
+            <div class="user-message">
+                <div style="margin-bottom:5px;font-size:12px;color:#666;">
+                    You
+                </div>
+                <div class="bubble user">
+                    ${message}
+                </div>
+            </div>
+            `;
+    input.value="";
+
+    const typingId = "typing-message";
+
+        messages.innerHTML += `
+        <div class="bot-message" id="${typingId}">
+            <div style="margin-bottom:5px;font-size:12px;color:#666;">
+                Kajal • ICICI Banking Assistant
+            </div>
+           <div class="bubble bot typing-bubble">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+            </div>
+        </div>
+        `;
+
+        messages.scrollTop = messages.scrollHeight;
+    document.getElementById("suggestions").style.display = "flex";
+    const sendButton = document.getElementById("send-btn");
+
+    sendButton.disabled = true;
+    input.disabled = true;
+
+    sendButton.innerText = "Sending...";
+ try
+    {
+    let response = await fetch("/chat/",{
+        method:"POST",
+        headers:{
+            "Content-Type":"application/json"
+        },
+        body:JSON.stringify({
+            message:message
+        })
+    });
+
+    let data = await response.json();
+    document.getElementById(typingId)?.remove();    
+
+   messages.innerHTML += `
+            <div class="bot-message">
+                <div style="margin-bottom:5px;font-size:12px;color:#666;">
+                    Kajal • ICICI Banking Assistant
+                </div>
+                <div class="bubble bot">
+                    ${data.answer}
+                </div>
+            </div>
+            `;
+
+    messages.scrollTop = messages.scrollHeight;
+    sendButton.disabled = false;
+    input.disabled = false;
+
+    sendButton.innerText = "Send";
+
+    input.focus();
+}
+catch(error){
+    messages.innerHTML += `
+        <div class="bot-message">
+            <div class="bubble bot">
+                Sorry, I am unable to process your request at the moment.
+            </div>
+        </div>
+    `;
+}
+finally{
+    sendButton.disabled = false;
+    input.disabled = false;
+    sendButton.innerText = "Send";
+    input.focus();
+}
+
+}
+
+ function sendSuggestion(question) {
+
+    document.getElementById("message").value = question;
+
+    sendMessage();
+}
+
+document.getElementById("message").addEventListener(
+    "keypress",
+    function(event) {
+
+        if (event.key === "Enter") {
+            event.preventDefault();
+            sendMessage();
+        }
+
+    }
+);
+
+document.getElementById("message").focus();
+
+</script>
+
+</body>
+</html>

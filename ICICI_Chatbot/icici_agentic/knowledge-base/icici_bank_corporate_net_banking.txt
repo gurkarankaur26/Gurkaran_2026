@@ -1,0 +1,49 @@
+TITLE: ICICI Bank Corporate Net Banking  
+SOURCE: ICICI Bank  
+CATEGORY: Corporate Banking, Net Banking  
+TAGS: Corporate Net Banking, Business Banking, Fund Transfer, Payment Solutions, API Integration, SME Banking  
+
+CONTENT:  
+ICICI Bank Corporate Net Banking (CNB) is a comprehensive online banking platform designed for corporate and business customers, including Small and Medium-sized Enterprises (SMEs), large enterprises, institutions, and business entities. It enables seamless 24/7 access to essential banking features through a fast and intuitive interface, allowing businesses to manage multiple accounts and transactions efficiently.
+
+Key Features and Benefits:  
+- **Multiple Account Management:** Manage several business accounts from a single platform.  
+- **Payments and Collections:** Initiate single or bulk payments instantly with real-time tracking and instant reports. Supports tax payments and bill payments.  
+- **Customized Approvals and Access Control:** Create personalized payment rules, reports, and access roles tailored to different business types.  
+- **API and Host-to-Host (H2H) Integration:** Connect your ERP system with CNB via APIs or H2H for smarter, faster, and safer banking backed by enterprise-grade security.  
+- **Instant Notifications:** Receive SMS and email alerts to track every stage of financial operations.  
+- **Bulk File Upload:** Transfer funds to multiple beneficiaries simultaneously using bulk upload.  
+- **Fund Transfers:** One-to-one fund transfers to ICICI Bank and non-ICICI Bank accounts within India.  
+
+Fund Transfer Limits and Timings:  
+| Time and Payment Mode | NEFT | RTGS | IMPS |  
+|----------------------|------|------|------|  
+| 1:00 a.m. to 7:00 p.m. | Corporate workflow limit | Corporate workflow limit | ₹20 Lakhs |  
+| 12:00 a.m. to 1:00 a.m. and 7:00 p.m. onwards | Not available | Not available | Not available |  
+
+Note: International fund transfers are not supported via CNB. Customers must visit the nearest ICICI Bank branch for such requests.
+
+Login and Security:  
+- Users can generate their Login ID and Password via the ICICI Bank website.  
+- In case of incorrect password or locked account, users can reset their password online through the password reset process.  
+- User ID activation is done by resetting the password.  
+
+Additional Services:  
+- Manage Fixed Deposits through CNB.  
+- Generate Inquiry Card/Debit Card PIN online.  
+- Register billers and track bill payments easily.  
+- Instant transfers to own accounts.  
+
+CNB is designed to simplify business banking by integrating payments, loans, trade, tax, collections, treasury, and accounts management into one powerful platform.
+
+KEY POINTS:  
+- Corporate Net Banking is available 24/7 with real-time transaction tracking.  
+- Supports single and bulk payments with customizable access controls.  
+- API and H2H integration for ERP connectivity.  
+- Fund transfer limits: IMPS up to ₹20 Lakhs; NEFT and RTGS as per corporate workflow limits.  
+- Only domestic fund transfers supported; international transfers require branch visit.  
+- Password reset available online for login issues.  
+- SMS and email notifications for transaction updates.  
+- Additional features include Fixed Deposit management and biller registration.  
+
+URL: https://www.icicibank.com/corporate/corporate-isafe

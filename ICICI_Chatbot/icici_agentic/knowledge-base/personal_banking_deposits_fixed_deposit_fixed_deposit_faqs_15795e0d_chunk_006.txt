@@ -1,0 +1,66 @@
+TITLE:  
+ICICI Bank Fixed Deposit (FD) - Features, Processes, and FAQs
+
+SOURCE: ICICI Bank  
+CATEGORY: Banking - Fixed Deposits  
+TAGS: Fixed Deposit, FD, ICICI Bank, Interest Rates, Maturity, Tax Saver FD, Premature Withdrawal, Nominee, KYC, Deposit Insurance  
+
+CONTENT:  
+ICICI Bank Fixed Deposits (FDs) offer a secure and flexible investment option with guaranteed returns regulated by the Reserve Bank of India (RBI). Deposits (principal + interest) are insured up to ₹5 lakh per depositor per bank under the Deposit Insurance and Credit Guarantee Corporation (DICGC) guidelines.
+
+**Types of Fixed Deposits:**  
+- **Regular FD:** Flexible tenures ranging from 7 days to 10 years. Allows premature withdrawal.  
+- **Tax Saver FD:** Has a mandatory 5-year lock-in period and qualifies for tax deduction under Section 80C (up to ₹1.5 lakh per financial year). Premature withdrawal, partial withdrawal, or loan/overdraft facility is not permitted during the lock-in period.
+
+**Maturity and Renewal:**  
+- Maturity instructions can be changed any time prior to the FD maturity date.  
+- You can choose to auto-renew the FD or credit the maturity amount to your linked Savings or Current Account.  
+- If auto-renewal is enabled, the FD renews automatically on maturity.  
+- Maturity proceeds are typically credited immediately on the maturity date to the designated account.  
+- The FD continues to earn interest until settlement.
+
+**Nominee and Legal Heir Claims:**  
+- Nominees or legal heirs can claim FD funds by submitting:  
+  - Death certificate  
+  - Claim form  
+  - KYC documents of the claimant  
+  - Relationship proof (if required)  
+- If no nominee is registered, legal heirs must submit:  
+  - Death certificate  
+  - Claim form  
+  - KYC documents  
+  - Succession certificate or will or legal heir certificate  
+- Once verified, funds are released to the rightful claimant.
+
+**Security Features:**  
+- Online FD creation and management are protected by multiple security layers including two-factor authentication (OTP based), SSL encryption, and device-level security.  
+- OTP is mandatory for opening, closing, modifying maturity instructions, or updating nominee details.
+
+**Account and FD Management:**  
+- FD summary, maturity date, and interest rate can be viewed via ICICI Bank’s iMobile app under Accounts & Deposits → Fixed Deposits.  
+- FD tenure cannot be modified once created. To change tenure, the FD must be closed prematurely and a new FD opened.  
+- Payout options cannot be changed after booking; premature closure and rebooking are required for changes.  
+- Nominee details can be updated through the iMobile app, Net Banking, or by visiting a branch.  
+- Address or PAN updates require submission of KYC documents via iMobile app (eligible customers), Net Banking (for PAN), or at any ICICI Bank branch. Updates reflect across all accounts linked to the Customer ID.
+
+**Mobile Number Changes:**  
+- Can be done by visiting an ICICI Bank branch with valid KYC documents or via iMobile app/Net Banking for eligible customers with updated KYC.
+
+**In Case of Fraud or Unauthorized Access:**  
+- Contact ICICI Phone Banking immediately.  
+- Block online access if needed.  
+- Visit the nearest branch and provide details to initiate an investigation.
+
+KEY POINTS:  
+- FD deposits insured up to ₹5 lakh per depositor per bank under DICGC.  
+- Regular FD tenure: 7 days to 10 years; Tax Saver FD tenure: 5 years mandatory lock-in.  
+- Tax Saver FD eligible for Section 80C deduction up to ₹1.5 lakh per financial year.  
+- Premature withdrawal allowed only for Regular FD; not allowed for Tax Saver FD during lock-in.  
+- Maturity instructions can be changed before maturity; tenure and payout mode cannot be changed post booking.  
+- Nominee and legal heir claim process clearly defined with required documents.  
+- Multiple secure channels for FD creation and management with OTP and encryption.  
+- Mobile number, nominee, address, and PAN updates supported via app, net banking, or branch.  
+- Immediate action recommended in case of suspected fraud.
+
+URL:  
+https://www.icicibank.com/Personal-Banking/deposits/fixed-deposit/index.page

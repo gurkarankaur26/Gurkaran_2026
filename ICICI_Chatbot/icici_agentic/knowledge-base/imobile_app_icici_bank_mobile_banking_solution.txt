@@ -1,0 +1,17 @@
+TITLE: iMobile App - ICICI Bank Mobile Banking Solution  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking, Digital Banking  
+TAGS: iMobile app, UPI, Mobile Banking, Account Linking, Transactions, ICICI Bank  
+
+CONTENT:  
+The iMobile app by ICICI Bank offers a comprehensive mobile banking solution that allows customers to manage their banking needs from a single platform. By downloading the iMobile app on your mobile device, you can instantly link your ICICI Bank account, generate a UPI ID, and start conducting transactions quickly and securely. The app is designed to provide ease of use and speed for all your banking activities, including fund transfers, bill payments, and account management.
+
+KEY POINTS:  
+- Download the iMobile app on your mobile device to access ICICI Bank services.  
+- Instantly link your ICICI Bank account through the app.  
+- Generate a UPI ID within the app for seamless digital payments.  
+- Perform transactions with ease and speed using the app’s interface.  
+- Manage multiple banking needs from a single platform.  
+
+URL:  
+https://www.icicibank.com/mobile-banking/imobile-app.page

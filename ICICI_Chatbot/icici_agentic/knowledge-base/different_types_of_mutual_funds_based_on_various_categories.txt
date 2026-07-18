@@ -1,0 +1,35 @@
+TITLE: Different Types of Mutual Funds Based on Various Categories  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Options  
+TAGS: Mutual Funds, Equity Funds, Debt Funds, Hybrid Funds, Tax-saving Funds, Investment Types, Portfolio Diversification  
+
+CONTENT:  
+Mutual funds are pooled investment vehicles managed by asset management companies (AMCs) that collect funds from individual and institutional investors with similar investment objectives. Fund managers actively manage these pooled investments, providing investors access to professionally managed portfolios.
+
+Mutual funds are categorized based on asset classes, investment objectives, risk profiles, and structures, offering diverse options to suit different investor needs.
+
+**Types of Mutual Funds by Asset Class:**  
+- **Equity Funds:** Invest primarily in company shares.  
+  - *Large-cap Equity Funds:* Target well-established, large companies.  
+  - *Small-cap Equity Funds:* Focus on smaller, high-growth companies.  
+- **Debt Funds:** Invest in bonds and fixed-income securities, providing steady income.  
+  - Includes Government Bond Funds and Corporate Bond Funds.  
+- **Money Market Funds:** Invest in low-risk, short-term securities such as Treasury bills and commercial paper, prioritizing liquidity and safety.  
+- **Hybrid Funds:** Combine stocks and bonds to balance growth and stability, such as balanced funds.
+
+**Types of Mutual Funds by Investment Objective:**  
+- **Growth Funds:** Aim for capital appreciation by investing in high-growth potential stocks; suitable for long-term investors seeking substantial returns.  
+- **Income Funds:** Focus on generating regular income through bonds, fixed-income securities, or dividend-paying stocks; ideal for investors seeking steady income.  
+- **Liquid Funds:** Invest in short-term debt instruments, offering high liquidity and low risk; suitable for investors needing quick access to funds.  
+- **Tax-saving Funds (ELSS):** Equity-linked savings schemes that provide tax benefits under Section 80C of the Income Tax Act; primarily invest in equities and serve as tax-efficient investment options.  
+- **Aggressive Growth Funds:** Target high capital appreciation with higher market risk tolerance; suitable for long-term investors with a risk-taking approach.  
+- **Capital Protection Funds:** Aim to safeguard the principal amount invested while providing some exposure to growth.
+
+KEY POINTS:  
+- Mutual funds pool money from multiple investors and are managed by professional fund managers.  
+- Various types of mutual funds cater to different asset classes: equity, debt, money market, and hybrid.  
+- Investment objectives include growth, income, liquidity, tax saving, aggressive growth, and capital protection.  
+- ELSS funds offer tax benefits under Section 80C.  
+- Investors can choose funds based on risk tolerance, investment horizon, and financial goals.
+
+URL: https://www.icicibank.com/blogs/mutual-fund/types-of-mutual-funds-in-india

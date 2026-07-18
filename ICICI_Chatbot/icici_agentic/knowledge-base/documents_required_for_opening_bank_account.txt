@@ -1,0 +1,30 @@
+TITLE: Documents Required for Opening Bank Account  
+SOURCE: ICICI Bank  
+CATEGORY: Account Opening  
+TAGS: KYC, Account Opening, Savings Account, Current Account, Identity Proof, Address Proof, PAN, Business Documents  
+CONTENT:  
+To open a bank account with ICICI Bank, customers must submit valid KYC (Know Your Customer) documents that include proof of identity and proof of address. The documentary requirements differ based on the type of account being opened:
+
+- **Savings Account:**  
+  Accepted identity proofs include:  
+  - Passport  
+  - Driving License issued by the Regional Transport Authority  
+  - Voter ID  
+  - Job card issued by NREGA signed by a State Government Officer  
+
+- **Current Account:**  
+  In addition to the identity and address proofs, the following documents are required:  
+  - PAN (Permanent Account Number)  
+  - Business registration documents  
+  - Address proof of the business  
+  - Recent photographs of authorised signatories  
+
+Customers must carry original documents at the time of account opening for verification purposes.  
+
+KEY POINTS:  
+- Valid KYC documents mandatory for account opening  
+- Savings Account requires government-issued identity proofs  
+- Current Account requires additional business-related documents and PAN  
+- Original documents must be presented during account opening  
+
+URL: https://www.icicibank.com/personal-banking/accounts/savings-account/documentation

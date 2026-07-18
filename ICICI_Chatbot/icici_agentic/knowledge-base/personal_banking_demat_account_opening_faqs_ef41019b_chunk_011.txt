@@ -1,0 +1,71 @@
+TITLE:  
+ICICI Bank Demat Account Services and Mobile Banking
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Demat Account Services, Mobile Banking, Account Management
+
+TAGS:  
+Demat Account, Mobile Banking, Transmission of Securities, Account Closure, Charges, Interest Rates, Legal Heir, Nominee, Customer Service
+
+CONTENT:  
+ICICI Bank offers convenient access to Demat account and related services through its iMobile app and Net Banking platform, enabling customers to manage their accounts anytime and anywhere without the need for phone calls or branch visits.
+
+**Linking Demat Account via Net Banking:**  
+- Login to Net Banking > Customer Service > Service Requests > Demat > Link Demat User ID to Existing User ID  
+- Enter required details and submit  
+- Processing time: 1 working day
+
+**Linking Demat Account via Branch:**  
+- Visit nearest ICICI Bank Demat servicing branch with original photo ID proof  
+- Branch locator: maps.icici.bank.in/mobile
+
+**Transmission of Securities:**  
+Transmission refers to transferring securities from one account to another due to the death of the sole or any holder of the original account. The transfer is done through the Depository Participant (DP) without approaching issuing companies or R&T agents.
+
+Transmission scenarios based on account type and details:  
+1. Transmission – Joint Holder Case  
+2. Transmission – Nominee Case  
+3. Transmission – No Nominee Case  
+4. Transmission – Legal Heir with holdings less than ₹15 lakhs  
+5. Transmission – Legal Heir with holdings more than ₹15 lakhs  
+
+- Transmission requests require a duly filled and signed Transmission Form by the legal heir(s).  
+- Key points must be checked before raising a transmission request.
+
+**Billing and Charges:**  
+- Bills are generated monthly for the previous month’s charges.  
+- Bill details include summary of charges and mode of recovery.  
+
+**Modes of Recovery:**  
+- **Direct Debit:** For ICICI Bank account holders with a mandate, charges are debited directly on or after the due date.  
+- **ECS:** For account holders with other banks who have given a mandate, charges are recovered similarly.  
+
+**Interest on Outstanding Amounts:**  
+- ICICI Bank charges interest at 24% per annum on amounts outstanding after the due date.
+
+**Demat Account Closure:**  
+- To close a Demat account, submit a duly filled closure form available at any ICICI Bank branch providing Demat services.  
+- Ensure all formalities and documentation are complete before submission.
+
+**Other Requests via Forms:**  
+- Change in Correspondence Address (Individuals and Non-Individuals)  
+- Change of Bank Details for receiving dividends  
+- Subscription/Unsubscription/Update for Mobile Alerts and Statements  
+
+**Documentation:**  
+- Proof of Address is required for changes related to the primary account.
+
+KEY POINTS:  
+- Demat account linking can be done via Net Banking or branch visit.  
+- Transmission of securities is handled by the DP and categorized into 5 scenarios based on account and holdings.  
+- Monthly billing with direct debit or ECS recovery options.  
+- Interest charged at 24% p.a. on overdue amounts.  
+- Demat account closure requires submission of a prescribed form at the branch.  
+- Various account update requests can be made through specific forms.  
+- Proof of address mandatory for address changes.
+
+URL:  
+https://www.icicibank.com

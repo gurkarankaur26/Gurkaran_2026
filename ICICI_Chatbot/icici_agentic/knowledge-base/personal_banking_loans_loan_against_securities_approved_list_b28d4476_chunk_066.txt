@@ -1,0 +1,45 @@
+TITLE:  
+Mutual Fund Schemes List and Details
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Debt Funds, Short Term Funds, Bond Funds, Investment, IDCW, Growth Option  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes available, focusing on various fund types such as short term funds, strategic bond funds, ultra short funds, banking and PSU debt funds, corporate bond funds, and credit risk debt funds. Each scheme is identified by its name, plan type (Direct or Regular), and option type (Growth, IDCW - Income Distribution cum Capital Withdrawal, Monthly IDCW, Weekly IDCW, Quarterly IDCW, Daily IDCW). The document includes scheme codes for easy reference.
+
+Key Mutual Fund Schemes and Options:
+
+1. DSP Short Term Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW, Monthly IDCW, Weekly IDCW  
+
+2. DSP Strategic Bond Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW, Monthly IDCW, Weekly IDCW, Daily IDCW Reinvest  
+
+3. DSP Ultra Short Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW, Monthly IDCW, Weekly IDCW, Daily IDCW  
+
+4. HDFC Banking and PSU Debt Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW  
+
+5. HDFC Corporate Bond Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW, Quarterly IDCW  
+
+6. HDFC Credit Risk Debt Fund  
+   - Options: Direct and Regular plans  
+   - Variants: Growth, IDCW, Quarterly IDCW  
+
+KEY POINTS:  
+- Mutual fund schemes are available in Direct and Regular plans.  
+- Income Distribution cum Capital Withdrawal (IDCW) options are offered in various frequencies: Daily, Weekly, Monthly, and Quarterly.  
+- Growth option is available for capital appreciation without periodic income distribution.  
+- Scheme codes are provided for each variant to facilitate transactions and inquiries.  
+- The funds cover a range of debt instruments including short term, strategic bonds, ultra short duration, banking and PSU debt, corporate bonds, and credit risk debt.  
+
+URL:  
+https://www.icicibank.com/wealth-management/mutual-funds.page

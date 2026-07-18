@@ -1,0 +1,73 @@
+TITLE: ICICI Bank Recurring Deposit (RD) Interest Rates and Features 2026  
+SOURCE: ICICI Bank  
+CATEGORY: Deposits / Recurring Deposits  
+TAGS: Recurring Deposit, RD Interest Rates, Senior Citizen Benefits, Premature Closure, TDS, Nomination, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers Recurring Deposit (RD) schemes with competitive interest rates applicable as of 29 December 2025. The RD tenure ranges from a minimum of 6 months to a maximum of 10 years, with tenure selectable in multiples of 3 months.  
+
+**Interest Rates by Tenure (p.a.):**  
+| Maturity Period               | General (%) | Senior Citizen (%) |  
+|------------------------------|-------------|--------------------|  
+| Up to 6 months               | 4.50        | 5.00               |  
+| Above 6 months up to 9 months| 5.50        | 6.00               |  
+| Above 9 months up to 15 months| 6.25       | 6.75               |  
+| Above 15 months up to 2 years| 6.30        | 6.80               |  
+| Above 2 years up to 3 years  | 6.45        | 6.95               |  
+| Above 3 years up to 5 years  | 6.50        | 7.10               |  
+| Above 5 years up to 10 years | 6.50        | 7.00               |  
+
+**Minimum Deposit:**  
+- ₹500 per month to open an RD account.  
+- Subsequent deposits can be increased in multiples of ₹100.  
+
+**Premature Closure:**  
+- Allowed before maturity.  
+- Interest paid will be at the applicable rate for the period the deposit was held.  
+- Penal interest rates may apply for premature closure.  
+- No interest is payable if RD is closed within 7 days of opening; however, no premature closure charges apply within this period.  
+
+**Penalty for Late Installments and Early Withdrawal:**  
+| Original Tenure              | Less than ₹5 crore* | ₹5 crore and above* |  
+|-----------------------------|--------------------|---------------------|  
+| Less than 1 year            | 0.50%              | 0.50%               |  
+| 1 year to less than 5 years | 1.00%              | 1.00%               |  
+| 5 years and above           | 1.00%              | 1.50%               |  
+
+**Maturity:**  
+- On maturity, the RD amount is automatically credited to the linked savings account.  
+- If not credited on maturity date, customers can contact ICICI Bank Customer Care for assistance.  
+
+**Senior Citizen Benefits:**  
+- Higher interest rates compared to general customers as detailed above.  
+
+**Delightful Deposits:**  
+- Special RD plans in collaboration with partners such as Croma, MakeMyTrip, Tanishq, and Thomas Cook.  
+- Can be opened via Internet Banking, iMobile app, branch visit, or Customer Care.  
+
+**Tax Deducted at Source (TDS):**  
+- TDS is applicable on interest earned from RDs.  
+- If total interest exceeds ₹40,000 in a financial year, TDS will be deducted.  
+- Providing PAN details is mandatory to avoid higher TDS deductions.  
+
+**Account Management:**  
+- RD accounts can be tracked via ICICI Bank Net Banking and iMobile app.  
+- Account summaries and statements are regularly provided.  
+
+**Nomination Facility:**  
+- Available for RD accounts to assign a nominee.  
+- Nominee details can be changed by submitting the required form.  
+
+KEY POINTS:  
+- RD tenure: 6 months to 10 years, in multiples of 3 months.  
+- Minimum monthly deposit: ₹500; increments in multiples of ₹100.  
+- Interest rates vary by tenure and senior citizen status, ranging from 4.50% to 7.10% p.a.  
+- Premature closure allowed with applicable penal interest; no interest if closed within 7 days.  
+- Penalty on late installments and early withdrawal varies by tenure and deposit amount.  
+- Automatic credit of maturity proceeds to linked savings account.  
+- TDS applicable if interest > ₹40,000 per year; PAN mandatory.  
+- Nomination facility available.  
+- Special Delightful Deposits available with partner collaborations.  
+- Account tracking via Net Banking and iMobile app.  
+
+URL: https://www.icicibank.com/personal-banking/deposits/recurring-deposits/rd-interest-rate

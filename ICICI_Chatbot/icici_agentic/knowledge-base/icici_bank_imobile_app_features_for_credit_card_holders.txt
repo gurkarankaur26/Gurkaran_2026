@@ -1,0 +1,42 @@
+TITLE: ICICI Bank iMobile App Features for Credit Card Holders  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking, Credit Cards  
+TAGS: ICICI Bank, iMobile App, Credit Card Management, Mobile Banking, EMI Conversion, Credit Limit, Card Blocking  
+
+CONTENT:  
+The ICICI Bank iMobile app is a comprehensive mobile banking solution designed to help ICICI Bank credit card holders manage their spends and payments conveniently. The app is available for download on both the App Store and Google Play Store and can be used by both ICICI Bank customers and non-customers.
+
+**Key Features for ICICI Bank Credit Card Holders:**  
+- **Credit Card Blocking:** Instantly block your credit card if it is lost or stolen to prevent unauthorized transactions.  
+- **Credit Limit Management:** Request an increase in your credit card limit directly through the app.  
+- **Online ATM Usage:** Enable or disable online ATM usage for enhanced security.  
+- **Statement Management:** View, download, and manage your credit card statements anytime.  
+- **PIN Management:** Change your credit card PIN securely via the app.  
+- **EMI Conversion:** Convert your credit card transactions into easy monthly installments (EMIs) for better financial management.  
+
+**Eligibility and Usage:**  
+- The app can be used by ICICI Bank credit card holders as well as non-ICICI Bank customers to manage credit card bills and statements.  
+- To activate the app for credit card use, users must have their mobile number registered with ICICI Bank.  
+
+**How to Download and Activate the iMobile App:**  
+1. Download the iMobile app from the App Store or Google Play Store.  
+2. Select “I already have an account.”  
+3. Click on “Activate Now.”  
+4. Choose the SIM card with the mobile number registered with ICICI Bank and verify the number.  
+5. Select a login method:  
+   - Fingerprint with 4-digit PIN  
+   - 4-digit login PIN  
+   - Existing Internet Banking User ID  
+6. Submit your choice.  
+7. Authenticate your credit card with a 4-digit PIN and submit.  
+
+The iMobile app combines payment and mobile banking features, making it a first-of-its-kind offering in the industry, enabling seamless management of credit card spends and payments from a single platform.
+
+KEY POINTS:  
+- iMobile app available for both ICICI Bank customers and non-customers.  
+- Features include card blocking, credit limit increase requests, online ATM usage control, statement viewing, PIN change, and EMI conversion.  
+- Activation requires mobile number verification and credit card PIN authentication.  
+- Downloadable from App Store and Google Play Store at no cost.  
+- Enables convenient and secure credit card management on the go.  
+
+URL: https://www.icicibank.com/blogs/mobile-banking/imobile-for-credit-card-holders

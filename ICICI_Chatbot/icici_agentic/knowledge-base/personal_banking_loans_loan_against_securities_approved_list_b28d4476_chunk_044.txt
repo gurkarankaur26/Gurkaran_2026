@@ -1,0 +1,81 @@
+TITLE:  
+SBI Mutual Fund Schemes – Key Details and Codes
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment
+
+TAGS:  
+SBI Mutual Fund, Fund Codes, IDCW, Growth, Equity Funds, ETFs, Nifty, PSU Fund, Smallcap Fund
+
+CONTENT:  
+This document provides a comprehensive list of SBI Mutual Fund schemes along with their respective scheme codes and types. The schemes include various fund categories such as Multi Asset Allocation, Multicap, Nifty Index Funds, Smallcap Funds, PSU Funds, and Quant Funds. Each scheme is available in different options like Direct (Dir) and Regular (Reg) plans, and payout options such as Growth, Monthly IDCW (Income Distribution cum Capital Withdrawal), Quarterly IDCW, and Annual IDCW.
+
+Key SBI Mutual Fund Schemes and Codes:
+
+- SBI Multi Asset Allocation Fund  
+  - Annual IDCW: 103409  
+  - Direct Annual IDCW: 119840  
+  - Direct Growth: 119843  
+  - Direct Monthly IDCW: 119841  
+  - Direct Quarterly IDCW: 119842  
+  - Growth: 103408  
+  - Monthly IDCW: 103400  
+  - Quarterly IDCW: 103401  
+
+- SBI Multicap Fund  
+  - Direct Growth: 149882  
+  - Direct IDCW: 149887  
+  - Regular Growth: 149886  
+  - Regular IDCW: 149883  
+
+- SBI Nifty 50 ETF: 135106  
+- SBI Nifty Bank ETF: 134008  
+
+- SBI Nifty Index Fund  
+  - Direct Growth: 119827  
+  - Direct IDCW: 119826  
+  - Growth: 102272  
+  - IDCW: 102273  
+
+- SBI Nifty Next 50 ETF: 134013  
+- SBI Nifty Next 50 Index Fund  
+  - Direct Growth: 148945  
+  - Direct IDCW: 148946  
+  - Regular Growth: 148943  
+  - Regular IDCW: 148944  
+
+- SBI Nifty Smallcap 250 Index Fund  
+  - Direct Growth: 150677  
+  - Direct IDCW: 150678  
+  - Regular Growth: 150676  
+  - Regular IDCW: 150679  
+
+- SBI Nifty50 Equal Weight Index Fund  
+  - Direct Growth: 152370  
+  - Direct IDCW: 152371  
+  - Regular Growth: 152372  
+  - Regular IDCW: 152373  
+
+- SBI PSU Fund  
+  - Direct Growth: 119732  
+  - Direct IDCW: 119733  
+  - Growth: 113099  
+  - IDCW: 112923  
+
+- SBI Quant Fund  
+  - Direct Growth: 153154  
+
+These codes are essential for investors to identify and transact in specific SBI Mutual Fund schemes through various platforms.
+
+KEY POINTS:  
+- SBI Mutual Fund schemes are available in Direct and Regular plans.  
+- Payout options include Growth, Monthly IDCW, Quarterly IDCW, and Annual IDCW.  
+- Each scheme has a unique code for identification and transactions.  
+- Fund categories cover Multi Asset Allocation, Multicap, Nifty Index Funds, Smallcap, PSU, and Quant Funds.  
+- ETFs like SBI Nifty 50 ETF and SBI Nifty Bank ETF are also part of the offerings.  
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds/sbi-mutual-fund-schemes

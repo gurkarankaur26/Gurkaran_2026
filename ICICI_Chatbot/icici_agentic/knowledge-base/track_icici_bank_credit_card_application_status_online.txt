@@ -1,0 +1,43 @@
+TITLE: Track ICICI Bank Credit Card Application Status Online  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards  
+TAGS: Credit Card, Application Status, Tracking, Customer Service, iMobile App  
+
+CONTENT:  
+You can easily check the status of your ICICI Bank Credit Card application online or via the iMobile app. After applying, you will receive an SMS containing your application reference number and application number, which are essential for tracking your application status. If you meet the eligibility criteria, you will receive a confirmation SMS indicating that your application is being processed.
+
+**How to Track Your Credit Card Application Status:**  
+
+1. **Online Tracking:**  
+   Visit the official ICICI Bank credit card application status page and enter your application reference number or registered mobile number to view real-time updates on your application.
+
+2. **Using iMobile App:**  
+   - Open the ICICI Bank iMobile app  
+   - Navigate to Services > Card Services > Track Application  
+   - The application status will be displayed in stages:  
+     - Application Initiated  
+     - Appointment Scheduled  
+     - Document Verification  
+     - Application Processing  
+     - Card Delivery  
+
+3. **Customer Care:**  
+   - Dial ICICI Bank's 24/7 Customer Care number  
+   - Connect with a representative  
+   - Provide your application details  
+   - Receive updates and guidance on your application status  
+
+**Application Status Stages Explained:**  
+- **Application Initiated:** Your credit card application has been received.  
+- **Appointment:** An appointment is scheduled for further processing.  
+- **Document Verification:** Submitted documents are verified by the bank.  
+- **Application Processing:** The application is under final review.  
+- **Card Delivery:** Upon approval, the credit card is dispatched to you.  
+
+KEY POINTS:  
+- Application reference number and registered mobile number are required for tracking.  
+- Status can be tracked online, via iMobile app, or through customer care.  
+- Real-time updates available at every stage of the application process.  
+- 24/7 customer care support for assistance.  
+
+URL: https://www.icicibank.com/personal-banking/cards/credit-card/application-status

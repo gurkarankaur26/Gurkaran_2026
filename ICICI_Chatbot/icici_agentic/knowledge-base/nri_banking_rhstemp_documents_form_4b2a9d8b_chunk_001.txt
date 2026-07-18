@@ -1,0 +1,84 @@
+TITLE:  
+Download NRI Account Forms & Documents - ICICI Bank
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRI Banking, Account Services, Forms & Documents
+
+TAGS:  
+NRI Account, Account Opening, Account Modification, Fixed Deposit, Repatriation, FATCA, KYC, Nomination, Account Closure, Internet Banking
+
+CONTENT:  
+ICICI Bank provides a comprehensive set of downloadable forms and documents for NRI customers to manage their accounts and related services. These forms are essential for various account-related requests including account opening, modifications, fixed deposits, repatriation, and KYC updates. Customers are required to send the completed forms along with a self-attested copy of a valid passport to the addresses mentioned on the respective forms. Modification requests must be couriered to the specified addresses.
+
+Available Forms and Services include:
+
+- **Account Opening & Related Forms:**  
+  - New Relationship Account Opening Form  
+  - Online Account Opening (Non face-to-face mode)  
+  - Foreign Account Tax Compliance Act (FATCA) Forms (to be submitted with account opening)  
+  - Joint Holder / Guardian Details Form  
+  - Signature Mismatch Verification  
+
+- **Account Modification & Updates:**  
+  - Request for Change of Existing Resident Account to NRO Account  
+  - Request for Addition/Deletion of Applicant in Existing Account  
+  - Request for Personal Detail Updation  
+  - Name, Signature, and Mode of Operation (MOP) Change  
+  - Updation of KYC Documents  
+  - Request for FATCA/CRS Updation  
+  - CKYC Form  
+
+- **Nomination & Legal Forms:**  
+  - Nomination Form  
+  - Application for Nomination (Form E)  
+  - Application for Cancellation or Change of Nomination (Form F)  
+  - Application for Closing the Account (Form G)  
+  - Application for Closing the Account by Nominee/Legal Heir of Deceased Depositor (Form H)  
+
+- **Fixed Deposits & Recurring Deposits:**  
+  - Closure of Term Deposits (NRE FD / NRO FD / NRE RD / NRO RD / FCNR(B) FD)  
+  - Request for Duplicate Fixed Deposit Receipt  
+  - Request for Renewal of Term Deposits  
+
+- **Repatriation & Fund Transfer:**  
+  - Request for Outward Repatriation of Funds  
+  - Repatriation from FCNR/NRE Fixed Deposits and NRE Savings Bank Account  
+  - Repatriation from NRO Fixed Deposits and Savings Bank Account  
+  - Request Letter for Transfer of Funds from NRO Account to NRE Account  
+  - Request Letter for Transfer of Funds from Non-ICICI Bank NRO Account to ICICI Bank NRE Account  
+
+- **Other Services:**  
+  - Mandate Holder Applications  
+  - Request for Additional Savings / Non-Interest Bearing Account / Fixed Deposit  
+  - Types of Forms under NRI Capital Gains Account Scheme (CGAS):  
+    - Form A: Application for Opening CGAS Account  
+    - Form B: Application for Conversion of Account (Type A and B)  
+    - Form C: Application for Withdrawal from Account A  
+    - Form D: Application for Subsequent Withdrawals from Account A  
+  - Request for Demand Draft / Duplicate Demand Draft  
+  - Request for Internet Banking / Mobile Banking Facility  
+  - Request for Reissue of Internet Banking User ID/Password, ATM/Debit Card and PIN, or New Cheque Book  
+  - Request for Stop Payment / Hot Listing Card  
+  - Transfer of Accounts for NRI Customers  
+  - Request for Double Taxation Avoidance Agreement (DTAA) - NRO Accounts  
+  - PIS (Portfolio Investment Scheme) Application Form and Cancellation Form  
+  - Non Solicitation Declaration  
+  - DEAF Refund Form  
+  - Conversion from Resident to NRO for Expats (Foreign Nationals)  
+  - ODFD (Outward Demand Draft) Application and Closure Forms (including closure through Phone Banking)  
+
+KEY POINTS:  
+- All forms must be submitted with a self-attested copy of a valid passport.  
+- Modification requests require courier submission to specified addresses.  
+- Wide range of forms available covering account opening, modification, fixed deposits, repatriation, nomination, and KYC updates.  
+- Specific forms for NRI Capital Gains Account Scheme (CGAS) are provided.  
+- Services include internet banking requests, demand drafts, and account transfers.  
+- Repatriation requests cover funds from FCNR, NRE, and NRO accounts.  
+- Legal heir and nominee forms are available for account closure in case of depositor’s demise.  
+- FATCA and CRS compliance forms are integrated with account opening and updation processes.  
+
+URL:  
+https://www.icicibank.com/nri-banking/rhstemp/documents-form

@@ -1,0 +1,23 @@
+TITLE: ICICI Bank FASTag - Features, Application, and Management  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / FASTag  
+TAGS: FASTag, Toll Payment, Electronic Toll Collection, ICICI Bank, Vehicle KYC, Toll Plaza, FASTag Wallet  
+
+CONTENT:  
+ICICI Bank offers FASTag services to enable automatic electronic toll payments at NETC-enabled toll plazas across India. Customers can apply for a FASTag through the ICICI Bank website, the FASTag Customer Portal, or authorized channels by submitting vehicle and KYC details.  
+
+If your FASTag status shows as “HEXTAGCLOSED,” “CLOSED,” “PENDING CLOSED,” “REFUND REQUESTED,” “SUSPENDED,” or “WRITE OFF,” you must create a new FASTag account. Existing accounts can be closed by following the FASTag wallet closure process.  
+
+To use FASTag, simply drive through the designated FASTag lane at toll plazas, where toll charges will be automatically deducted from your linked wallet or account.  
+
+In case of loss or theft, customers should immediately log in to the FASTag Customer Portal or contact the toll-free number to block the FASTag to prevent misuse.  
+
+KEY POINTS:  
+- FASTag enables automatic electronic toll deduction at NETC-enabled toll plazas across India.  
+- Application can be made via ICICI Bank website, FASTag Customer Portal, or authorized channels with vehicle and KYC documents.  
+- FASTag statuses requiring new account creation: HEXTAGCLOSED, CLOSED, PENDING CLOSED, REFUND REQUESTED, SUSPENDED, WRITE OFF.  
+- Existing FASTag accounts can be closed through the FASTag wallet closure process.  
+- Use designated FASTag lanes at toll plazas for seamless toll payments.  
+- Immediate blocking of FASTag is possible via Customer Portal or toll-free number in case of loss or theft.  
+
+URL: https://fastaglogin.icicibank.com/CUSTLOGIN/Default.aspx

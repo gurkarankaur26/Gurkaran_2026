@@ -1,0 +1,44 @@
+TITLE: iMobile Features for ICICI Bank Savings Account Holders  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking, Savings Account, Digital Payments  
+TAGS: iMobile, ICICI Bank, UPI, Mobile Banking App, Savings Account, Online Payments, Fund Transfer, Utility Bill Payment, Mutual Funds, Insurance, Fixed Deposits  
+
+CONTENT:  
+ICICI Bank’s iMobile app is a comprehensive mobile banking application designed to serve both ICICI Bank customers and customers of other banks. It combines UPI-enabled payment features with traditional banking services, allowing users to manage multiple bank accounts and perform a variety of financial transactions from a single app.
+
+Key Features of iMobile:  
+- Interoperability: Customers of any bank can link their accounts and use the app for online payments and fund transfers.  
+- UPI Integration: Users can scan QR codes, transfer money to any bank account or UPI ID, and use a single UPI ID to operate multiple bank accounts.  
+- Account Opening: New customers can instantly open an ICICI Bank Savings Account through the app.  
+- Utility Services: The app supports utility bill payments, mobile recharges, travel ticket bookings, and investments in mutual funds, insurance, and fixed deposits.  
+
+Activation Process for Existing ICICI Bank Savings Account Holders:  
+1. Download the iMobile app from Google Play Store or Apple App Store.  
+2. Select “I already have an account.”  
+3. Tap “Activate Now.”  
+4. Verify your registered mobile number via SMS verification.  
+5. Choose a login method: Fingerprint, 4-digit PIN, or Internet Banking User ID.  
+6. Submit and authenticate using your Debit Card or Internet Banking credentials.  
+7. Receive confirmation SMS on your registered mobile number.  
+
+Note: If your mobile number is not registered with ICICI Bank, you can register it at the nearest ICICI Bank ATM or branch.  
+
+Security:  
+The iMobile app uses advanced encryption technologies to ensure safe and secure transactions.  
+
+Benefits:  
+- Manage multiple bank accounts with a single app and UPI ID.  
+- Perform instant fund transfers and online payments.  
+- Access a wide range of banking and financial services on the go.  
+- Eliminate the need for multiple apps for different banking and payment services.  
+
+KEY POINTS:  
+- iMobile app supports customers of all banks with UPI and banking features.  
+- Instant Savings Account opening available via the app.  
+- Link multiple bank accounts and operate with a single UPI ID.  
+- Supports utility bill payments, mobile recharge, travel bookings, mutual funds, insurance, and fixed deposits.  
+- Activation requires mobile number verification and authentication via Debit Card or Internet Banking.  
+- Advanced encryption ensures transaction security.  
+- Mobile number registration required for activation if not already registered.  
+
+URL: https://www.icicibank.com/blogs/mobile-banking/imobile-for-savings-account-holders

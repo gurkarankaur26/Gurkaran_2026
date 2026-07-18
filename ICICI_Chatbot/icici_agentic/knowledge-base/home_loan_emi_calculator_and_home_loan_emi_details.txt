@@ -1,0 +1,43 @@
+TITLE: Home Loan EMI Calculator and Home Loan EMI Details  
+SOURCE: ICICI Bank  
+CATEGORY: Home Loans, Loan Calculators, Personal Finance  
+TAGS: Home Loan, EMI Calculator, Interest Rate, Loan Tenure, Loan Amount, Repayment, ICICI Bank  
+
+CONTENT:  
+ICICI Bank’s Home Loan EMI Calculator is a digital tool designed to help prospective home buyers estimate their monthly Equated Monthly Instalments (EMIs) for a home loan. It provides clarity on payments and affordability by calculating the EMI amount, total interest payable, and overall repayment amount based on the loan amount, interest rate, and tenure entered by the user.
+
+**Key Features and Benefits of the Home Loan EMI Calculator:**  
+- **Time-saving and Efficient:** Quickly calculates EMIs without manual effort or guesswork.  
+- **Accurate and Reliable:** Provides precise results useful especially for first-time home buyers.  
+- **Customisable Inputs:** Users can enter or adjust loan amount, interest rate, and tenure to explore different repayment scenarios.  
+- **Financial Planning:** Helps users compare various loan options and select one that fits their budget and financial goals.  
+
+**How to Use the ICICI Bank Home Loan EMI Calculator:**  
+1. Enter the loan amount, interest rate, and tenure in the specified fields.  
+2. Adjust the sliders to modify loan details if needed.  
+3. View instant results showing estimated EMI, total interest payable, and total repayment amount.  
+4. Customise loan parameters to find the best repayment plan suited to your financial situation.  
+
+**Important Notes:**  
+- The final loan amount, tenure, interest rate, and eligibility are subject to approval based on ICICI Bank’s policies and criteria.  
+- The EMI amount includes both principal and interest components.  
+
+**Factors Influencing Home Loan EMI:**  
+- **Interest Rate:** Lower interest rates reduce EMI amounts; higher rates increase EMIs.  
+- **Loan Tenure:** Shorter tenure results in higher EMIs but lower total interest paid; longer tenure lowers EMIs but increases total interest.  
+- **Loan Amount:** Higher loan amounts lead to higher EMIs and vice versa.  
+- **Credit Score:** A better credit score can help secure lower interest rates, thereby reducing EMIs.  
+
+**EMI Structure and Variations:**  
+- Initially, EMIs consist mostly of interest payments, with principal repayment increasing over time.  
+- For fixed interest rate loans, the EMI remains constant throughout the loan tenure.  
+- For floating interest rate loans, EMIs may vary based on market interest rate fluctuations and bank policies.  
+
+KEY POINTS:  
+- EMI includes principal + interest components.  
+- EMI depends on loan amount, interest rate, tenure, and credit score.  
+- Fixed rate loans have fixed EMIs; floating rate loans have variable EMIs.  
+- Using the EMI calculator helps in better financial planning and loan comparison.  
+- Final loan terms are subject to bank approval.  
+
+URL: https://www.icicibank.com/personal/loans/home-loan.page

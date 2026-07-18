@@ -1,0 +1,48 @@
+TITLE:  
+ICICI Bank FASTag – Features, Benefits, and FAQs
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Toll Payments, Digital Banking
+
+TAGS:  
+FASTag, Toll Payments, Cashless Transactions, Auto Recharge, Online Account Management, ICICI Bank
+
+CONTENT:  
+FASTag is an electronic toll collection system that enables cashless and seamless toll payments across national highways and select state highways in India. It is linked to your bank account or prepaid wallet, allowing automatic deduction of toll fees when your vehicle passes through toll plazas.
+
+Key Features and Benefits:  
+- **Convenience:** FASTag allows vehicles to pass through toll plazas without stopping for cash payments, saving time and effort.  
+- **Cashless Toll Payments:** Eliminates the need for cash transactions at toll plazas by automatically deducting toll fees from your linked account.  
+- **Online Account Management and Recharge:** Customers can manage and recharge their FASTag accounts online via multiple payment options such as mobile wallets, credit/debit cards, net banking, and UPI. Balance checks and transaction history are accessible through a mobile app or online portal.  
+- **Environmentally Friendly:** Reduced waiting times at toll plazas lead to smoother traffic flow, lower fuel consumption, and decreased vehicle emissions.  
+- **Auto Recharge:** ICICI Bank offers an Auto Recharge option through a UPI mandate, allowing frequent travelers to set automatic recharges on a chosen date and amount to avoid running out of balance.  
+- **Nationwide Acceptance:** FASTag is accepted at all toll plazas on national highways, some state highways, and select city roads across India, ensuring seamless travel nationwide.  
+- **Long Validity:** FASTag is valid for 5 years, after which renewal is required, making it a convenient long-term solution.  
+
+Benefits for Stakeholders:  
+- **Toll Operators:** Reduced operating costs and manual work, improved audit control, and increased highway network capacity without additional infrastructure.  
+- **Government:** Enhanced transparency and reduced corruption at toll plazas through electronic toll payments.  
+
+FAQs:  
+- **Is FASTag mandatory in India?**  
+  Yes, FASTag has been mandatory since 2021 for all vehicles.  
+- **What if I don’t have a FASTag on my vehicle?**  
+  Vehicle owners without FASTag must pay double the regular toll charges.  
+- **Can I use my bank account to recharge my FASTag?**  
+  Yes, you can link your bank account to your FASTag and recharge it directly.  
+- **Can I opt for Auto Recharge?**  
+  Yes, frequent travelers can activate Auto Recharge via UPI mandate by selecting the recharge date and amount.  
+
+KEY POINTS:  
+- FASTag enables cashless, automatic toll payments linked to bank accounts or prepaid wallets.  
+- Accepted nationwide on all national highways and select state highways.  
+- Valid for 5 years with easy online management and recharge options.  
+- Auto Recharge facility available through ICICI Bank via UPI mandate.  
+- Mandatory for all vehicles in India since 2021; non-compliance results in double toll charges.  
+- Benefits include convenience, environmental friendliness, and improved toll plaza efficiency.  
+
+URL:  
+https://www.icicibank.com/fastag

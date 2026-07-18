@@ -1,0 +1,59 @@
+TITLE: SBI Mutual Fund Schemes Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment  
+TAGS: SBI Mutual Fund, Hybrid Fund, Equity Fund, Consumption Fund, Energy Fund, Dividend Yield, Asset Allocation, Investment Options, IDCW, Growth Option  
+
+CONTENT:  
+This document provides an overview of various SBI Mutual Fund schemes, including their types, options, and unique identifiers (folio numbers). The schemes cover a range of investment categories such as Conservative Hybrid, Consumption Opportunities, Contra, Dividend Yield, Dynamic Asset Allocation, Energy Opportunities, Equity Hybrid, and Equity Savings funds. Each scheme is available in different plans (Direct and Regular) and options (Growth, IDCW - Income Distribution cum Capital Withdrawal, with Annual, Quarterly, or Monthly payout frequencies).
+
+Key SBI Mutual Fund Schemes and Options:
+
+1. SBI Conservative Hybrid Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: Annual IDCW, Quarterly IDCW, Monthly IDCW, Growth  
+   - Folio Numbers: 119837, 119838, 119836, 119839, 100968, 100927, 100928  
+
+2. SBI Consumption Opportunities Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 120575, 119730, 120576, 100645  
+
+3. SBI Contra Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 119835, 119724, 102414, 100915  
+
+4. SBI Dividend Yield Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 151478, 151475, 151476, 151477  
+
+5. SBI Dynamic Asset Allocation Active Fund of Funds (FoF)  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 153832, 153833, 153831, 153834  
+
+6. SBI Energy Opportunities Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 152417, 152420, 152418, 152419  
+
+7. SBI Equity Hybrid Fund  
+   - Options: Direct and Regular Plans  
+   - Payouts: IDCW, Growth  
+   - Folio Numbers: 119609, 119604, 102885, 101551  
+
+8. SBI Equity Savings Fund  
+   - Options: Direct Plan  
+   - Payouts: Monthly IDCW, Growth  
+   - Folio Numbers: 134643, 134641  
+
+KEY POINTS:  
+- SBI Mutual Fund schemes are available in Direct and Regular plans.  
+- Investors can choose between Growth option or IDCW (Income Distribution cum Capital Withdrawal) with payout frequencies of Annual, Quarterly, or Monthly depending on the scheme.  
+- Each scheme has a unique folio number for identification.  
+- The funds cover a wide range of investment objectives including conservative hybrid, consumption opportunities, contra, dividend yield, dynamic asset allocation, energy opportunities, equity hybrid, and equity savings.  
+- IDCW options provide periodic income to investors, while Growth options reinvest earnings to increase NAV.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/sbi-mutual-fund.page

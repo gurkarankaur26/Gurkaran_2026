@@ -1,0 +1,29 @@
+TITLE: ICICI Bank Car Loan Interest Rates and APR Information  
+SOURCE: ICICI Bank  
+CATEGORY: Loans / Car Loans  
+TAGS: Car Loan, Interest Rates, APR, New Car Loan, Used Car Loan, Loan Fees  
+
+CONTENT:  
+ICICI Bank offers car loans with varying interest rates depending on whether the vehicle is new or used. The interest rates are structured as follows:
+
+- New Car Loan:  
+  - Minimum Interest Rate: 7.8%  
+  - Maximum Interest Rate: 11.25%  
+  - Mean Interest Rate: 8.8%  
+
+- Used Car Loan:  
+  - Minimum Interest Rate: 9.75%  
+  - Maximum Interest Rate: 17.01%  
+  - Mean Interest Rate: 13.03%  
+
+The Annual Percentage Rate (APR) is used to compute the annualized credit cost, which includes both the interest rate and the loan origination fee. This provides a comprehensive measure of the cost of borrowing.
+
+For customers interested in calculating the APR for their specific loan scenario, ICICI Bank provides an APR calculator tool.
+
+KEY POINTS:  
+- New car loan interest rates range from 7.8% to 11.25%, with an average of 8.8%.  
+- Used car loan interest rates range from 9.75% to 17.01%, with an average of 13.03%.  
+- APR includes interest rate plus loan origination fees, reflecting the true cost of the loan.  
+- An APR calculator is available to help customers estimate their loan costs accurately.  
+
+URL: [https://www.icicibank.com](https://www.icicibank.com)

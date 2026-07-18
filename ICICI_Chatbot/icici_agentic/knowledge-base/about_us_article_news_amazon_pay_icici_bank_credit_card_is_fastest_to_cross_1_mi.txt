@@ -1,0 +1,24 @@
+TITLE:  
+Overview of Amazon Pay and Visa Inc. in Digital Payments
+
+SOURCE: ICICI Bank  
+CATEGORY: Digital Payments, Banking Services  
+TAGS: Amazon Pay, Visa, Digital Payments, Online Transactions, Payment Security, Cashless Society  
+
+CONTENT:  
+Amazon Pay is a trusted, convenient, and rewarding digital payment solution that enables users to pay for goods and services both on and off Amazon.in. It supports the Government of India’s vision of promoting electronic payments to create a less-cash society. Amazon Pay enhances the customer experience by offering ‘one-click’ payments for faster and smoother checkout processes. Additionally, its cash-load feature allows customers to load cash digitally, addressing the challenge of tendering exact cash amounts during delivery.
+
+Visa Inc. (NYSE: V) is a global leader in digital payments, operating the advanced VisaNet processing network capable of handling over 65,000 transaction messages per second. Visa’s mission is to connect the world through innovative, reliable, and secure payment networks that enable individuals, businesses, and economies to thrive. Visa focuses on innovation to support the rapid growth of digital commerce across all devices worldwide.
+
+KEY POINTS:  
+- Amazon Pay facilitates easy and secure digital payments on and off Amazon.in.  
+- Supports Government of India’s initiative for a less-cash society.  
+- Features ‘one-click’ payments for faster checkout.  
+- Cash-load feature helps customers convert cash into digital payments.  
+- Visa Inc. operates VisaNet, a global payment network processing 65,000+ transactions per second.  
+- Visa focuses on innovation, security, and reliability in digital payments worldwide.  
+- Both Amazon Pay and Visa contribute significantly to the growth of digital commerce and electronic payments.
+
+URL:  
+https://www.amazon.in/b?node=22222997031  
+https://visa.com/blog

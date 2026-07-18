@@ -1,0 +1,29 @@
+TITLE:  
+HDFC Mutual Funds - Scheme Details and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: HDFC Mutual Funds, Large Cap Fund, Mid Cap Fund, Multi Cap Fund, Nifty 50, Pharma Fund, Small Cap Fund, Fund Codes, IDCW, Growth  
+
+CONTENT:  
+This document provides a comprehensive list of HDFC Mutual Fund schemes along with their respective plan types and unique identification codes. The schemes include various fund categories such as Large Cap, Mid Cap, Multi Cap, Manufacturing, Pharma and Healthcare, Non-Cyclical Consumer, Nifty 50 Index, and Small Cap funds. Each scheme is available in different plan options like Direct (Dir) and Regular (Reg), and payout options such as Growth and IDCW (Income Distribution cum Capital Withdrawal).
+
+Key scheme details include:  
+- HDFC Large Cap Fund available in Direct IDCW and Growth plans with codes 119017 and 102000 respectively.  
+- HDFC Manufacturing Fund offered in Direct and Regular plans with Growth and IDCW options, codes ranging from 152600 to 152603.  
+- HDFC Mid Cap Fund available in Direct and Regular plans with Growth and IDCW options, codes 118989, 118988, 105758, and 105757.  
+- HDFC Multi Cap Fund offered in Direct and Regular plans with Growth and IDCW options, codes from 149365 to 149368.  
+- HDFC Nifty 50 Index Fund and ETF options with codes 101525, 119063, and 135853.  
+- HDFC Pharma and Healthcare Fund available in Direct and Regular plans with Growth and IDCW options, codes 152081 to 152084.  
+- HDFC Non-Cyclical Consumer Fund available in Direct and Regular plans with Growth and IDCW options, codes 151802 to 151805.  
+- HDFC Small Cap Fund details partially listed with Direct Growth plan code 130503.
+
+KEY POINTS:  
+- Each HDFC Mutual Fund scheme has a unique code for identification.  
+- Schemes are available in Direct and Regular plans.  
+- Payout options include Growth and IDCW (Income Distribution cum Capital Withdrawal).  
+- Fund categories cover a wide range of investment focuses including Large Cap, Mid Cap, Multi Cap, Manufacturing, Pharma, Consumer, and Index funds.  
+- Investors can choose schemes based on their investment goals and preferred plan types.
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds/hdfc-mutual-funds-scheme-codes

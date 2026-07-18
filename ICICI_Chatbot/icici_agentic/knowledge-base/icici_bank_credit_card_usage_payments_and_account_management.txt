@@ -1,0 +1,81 @@
+TITLE: ICICI Bank Credit Card - Usage, Payments, and Account Management  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards  
+TAGS: Credit Card, Payments, Net Banking, iMobile App, Billing Cycle, Customer Care, Auto Debit, Refunds  
+
+CONTENT:  
+- **Credit Card Delivery & Activation:**  
+  The first delivery attempt of your ICICI Bank Credit Card is typically made within 5 working days after the order is placed.  
+
+- **Viewing Credit Card Details:**  
+  You can view your Credit Card number by logging into the iMobile app or Net Banking and selecting your Credit Card details.  
+
+- **Mobile Number Registration & Alerts:**  
+  If you receive transaction alerts on your mobile, your number is registered with the Bank. To confirm your registered mobile number, call Customer Care from your registered mobile number.  
+
+- **User ID and Password Management:**  
+  - To get your User ID, call Customer Care and follow the self-banking option.  
+  - To generate a password, use the “Get Password” link on the ICICI Bank login page and validate your registered mobile number.  
+  - You can change your Net Banking User ID for credit cards once by logging into Net Banking > My Profile > Update user ID.  
+
+- **Bill Payment Registration:**  
+  Register your card as a biller via Net Banking: Payments & Transfer > Pay Bills > Bill Payment > Credit Card > Select “ICICI Bank Credit Card” and provide the 16-digit card number to complete registration.  
+
+- **Managing Card Usage:**  
+  Enable or disable Online, International, and Tap & Pay transactions via:  
+  - iMobile Pay > Cards & Forex > Choose your Credit Card > Manage Card > Enable Online/International/Tap & Pay  
+  - Or Net Banking > Cards > Credit Cards > Manage your Card > View All > Manage Credit Card > Manage Credit Card Usage.  
+
+- **Security & OTPs:**  
+  OTPs for transactions are sent only to your registered mobile number. Ensure your mobile number is updated with the Bank for security purposes.  
+
+- **Payment Methods:**  
+  You can pay your Credit Card bill through:  
+  - iMobile App  
+  - Net Banking  
+  - UPI  
+  - NEFT  
+  - Auto-debit setup  
+  - Cheque or cash payment at select ICICI Bank ATMs that accept Credit Card payments.  
+
+- **Late Payment Charges:**  
+  If cheque payments are not received and cleared by the due date, late payment charges and interest will be applied on the outstanding amount as per the Credit Card Terms & Conditions.  
+
+- **Excess Payment Handling:**  
+  Any excess amount paid becomes a credit balance on your Credit Card account and will be automatically adjusted against future transactions or outstanding dues.  
+
+- **Refunds and Chargebacks:**  
+  Merchant refunds, reversals, chargebacks, or permanent fraud credits posted to your card are treated as payments and adjusted against your outstanding balance.  
+
+- **Billing Cycle Change:**  
+  You may request a change in your billing cycle once every six months, subject to availability on your specific Credit Card and Bank approval.  
+
+- **Charges for Bill Payment:**  
+  Bill payment facility through Net Banking is free of cost.  
+
+- **Payment Allocation Order:**  
+  Payments are allocated in the following order: income and charges, then EMI principal, cash principal, and retail principal, as per the Bank’s payment application logic.  
+
+- **Payment Reflection Time:**  
+  Allow up to 24 hours for payments to reflect in your Credit Card account. If the payment does not appear after this period, contact Customer Care with payment reference details.  
+
+- **Auto Debit Setup:**  
+  You can set up Auto Debit through the iMobile app by selecting Cards & Forex > [Auto Debit setup options].  
+
+- **Customer Support:**  
+  For queries related to excess payments or other issues, contact Customer Care or email customer.care@icicibank.com from your registered email with the last 4 digits of your card.  
+
+KEY POINTS:  
+- Credit Card delivery within 5 working days.  
+- View card details via iMobile app or Net Banking.  
+- OTPs sent only to registered mobile number.  
+- Multiple payment options including iMobile, Net Banking, UPI, NEFT, auto-debit, cheque, and cash at select ATMs.  
+- Late payment charges apply if payments are delayed.  
+- Excess payments automatically adjusted to future dues.  
+- Billing cycle change allowed once every six months, subject to approval.  
+- Bill payment via Net Banking is free.  
+- Payments allocated in a specific order (income/charges, EMI principal, cash principal, retail principal).  
+- Payment reflection time up to 24 hours.  
+- Auto Debit can be set up via iMobile app.  
+
+URL: https://www.icicibank.com/credit-cards/usage-payments-account-management

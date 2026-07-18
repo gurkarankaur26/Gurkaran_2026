@@ -1,0 +1,68 @@
+TITLE:  
+ICICI Bank NRI and Deposit Account Service Forms and Procedures
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Banking Services, NRI Banking, Deposit Accounts, Wire Transfers
+
+TAGS:  
+NRI Banking, Deposit Closure, Account Upgrades, Wire Transfer, Remittance Declaration, Nominee Update, Passport Update, Digital Banking, RFC Deposit, Joint Account, Loan Repayment
+
+CONTENT:  
+ICICI Bank provides a comprehensive set of forms and procedures for NRI customers and deposit account holders to manage their accounts and transactions efficiently. These include forms for account upgrades, closures, nominee modifications, and remittance declarations.
+
+**Available Forms and Services:**  
+- ODFD Closure Form  
+- Fixed Deposit (FD) Closure through NetBanking  
+- Recurring Payment Plan (RPP)  
+- Fixed Coupon Payment Plan (FCPP)  
+- Flexible Coupon Payment Plan (FCCPP)  
+- Opening of Resident Foreign Currency (RFC) Deposit for RFC Form  
+- Minor to Major Account Upgrade Form  
+- Conversion from Savings Bank (SB) to Non-Resident Ordinary (NRO) Account  
+- NRI Smart Star to NRI Young Star Conversion Form  
+- NRI Account Closure Form (With and Without Demat)  
+- Form 97 (specific form details not provided)  
+- Request for Digital Banking Access  
+- Property Solution related forms  
+- Offshore Banking Unit (OBU) SEEPZ related requests including:  
+  - Closure of OBU SEEPZ deposits  
+  - Fax Indemnity Request  
+  - Address and Contact Details Update  
+  - Duplicate Deposit Confirmation Advice  
+  - Nominee Addition, Deletion, Modification, or opting for 'No Nominee'  
+  - Addition or Deletion of Joint Account Holder  
+  - Passport Details Update  
+  - Signature Change Request  
+- Feedback Form  
+
+**Wire Transfer / Foreign Currency Convertible (FCC) Transfer Purpose of Remittance Declaration Forms:**  
+- Annexure E: Sale of Foreign Company Share and Fund Transfer from Broking Account  
+- Annexure 1: Request for Issuance of Certificate of Foreign Inward Remittance  
+- Annexure 5: Declaration for Inward Remittance with Purpose: Sale of Immovable Property  
+- Annexure 6: Declaration from Resident Individual/Proprietorship for Inward Remittance with Purpose: Loan/Borrowing from Person Resident Outside India  
+- Annexure 7: Declaration for Inward Remittance with Purpose: Repayment of Loan/Borrowing  
+- Declaration from Beneficiary for Transfer Sale of Shares between Resident and Non-Resident  
+- One Time Declaration for Inward Wire Remittance  
+
+**Submission Process:**  
+- All forms and supporting documents must be sent to:  
+  ICICI Bank Ltd, RPC – NRI Cell, Autumn Estate, 5th Floor, "A" Wing, Near Mhada, Chandivali, Andheri (E), Mumbai – 400 072, India.  
+
+**Processing Timelines:**  
+| Mode of Dispatch       | Time to Reach ICICI Bank          | Time to Execute Transaction                  |  
+|-----------------------|----------------------------------|----------------------------------------------|  
+| Courier               | Minimum 7 working days            | Processed within 2 working days after receipt if documents are complete |  
+| Local Post            | Minimum 15 working days           | Processing time starts after receipt         |  
+
+KEY POINTS:  
+- ICICI Bank offers a wide range of forms for NRI and deposit account management including account upgrades, closures, nominee and joint holder modifications, and passport updates.  
+- Specific declaration forms are required for various inward remittance purposes such as sale of shares, immovable property, loans, and repayments.  
+- All forms must be sent to the designated NRI Cell address in Mumbai.  
+- Courier dispatch is faster (7 working days) compared to local post (15 working days) for document delivery.  
+- Transactions are processed within 2 working days after the bank receives complete documents.  
+
+URL:  
+https://www.icicibank.com (Official ICICI Bank website)

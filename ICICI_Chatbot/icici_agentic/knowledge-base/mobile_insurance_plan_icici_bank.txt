@@ -1,0 +1,47 @@
+TITLE: Mobile Insurance Plan - ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Insurance, Mobile Protection  
+TAGS: Mobile Insurance, Screen Damage, ICICI Bank, iMobile App, Claims, Coverage, Policy  
+
+CONTENT:  
+ICICI Bank offers a Mobile Insurance Plan exclusively for users of the ICICI Bank iMobile app. This insurance provides coverage for accidental screen damage to mobile devices, subject to eligibility based on the mobile device's health, which is determined through an SDK test.
+
+**Policy Conditions:**  
+- **Coverage:** One-time accidental screen damage protection.  
+- **Geographical Limit:** Coverage is valid only within India.  
+- **Eligibility:** Only new mobiles or mobiles less than 1 year old from the date of availing the coverage are eligible.  
+- **Enrollment:** Non-transferable.  
+- **Claims:** Only one claim for screen/display damage is allowed during the policy period.  
+- **Claim Limit:** The maximum liability is limited to the Sum Insured mentioned in the Certificate of Insurance or the original invoice value, whichever is lower.  
+- **Invoice Requirements:** For non-computerized bills, the IMEI number must be declared on the purchase invoice.  
+- **Exclusions:** Theft, loss, or any damage other than screen damage is not covered.  
+- **Cancellation/Refund:** Not allowed once the policy is purchased.  
+- **Waiting Period:** No claims are admissible during the first 30 days from the policy start date.  
+- **Damage Exclusions:** Damage caused by software issues (viruses, programs), data loss, mechanical or electrical breakdowns are excluded.  
+- **Claim Reporting:** Claims must be reported within 48 hours of discovering the damage.  
+- **Documentation:** Original purchase invoice is mandatory for claim processing.  
+- **No Free Look Period:** The policy does not offer a free look period.  
+- **Data Sharing Consent:** By purchasing, the insured consents to ICICI Bank sharing personal information with ICICI Lombard General Insurance Company Limited for claim processing.
+
+**Policy Exclusions:**  
+- Loss or damage due to mysterious disappearance or unexplained reasons.  
+- Theft or attempted theft from unlocked vehicles.  
+- Fraud or criminal activity by the insured or beneficiary.  
+- Detention or confiscation by customs or government authorities.  
+- Operational failure due to network infrastructure or subscription issues.  
+- Loss arising from lawful or illegal activities including criminal acts or acts of war.  
+- Consequential losses of any kind.  
+- Liability to any third party.
+
+KEY POINTS:  
+- One-time accidental screen damage coverage for mobiles less than 1 year old.  
+- Coverage valid only within India.  
+- Only one claim allowed per policy period.  
+- Maximum claim amount limited to Sum Insured or invoice value.  
+- Claims must be reported within 48 hours with original invoice.  
+- No coverage for theft, loss, software damage, or mechanical breakdown.  
+- No cancellation or refund after purchase.  
+- No claims allowed in the first 30 days of policy.  
+- Personal data shared with ICICI Lombard for claim processing.
+
+URL: https://www.icicibank.com/terms-condition/mobile-insurance-plan-tnc

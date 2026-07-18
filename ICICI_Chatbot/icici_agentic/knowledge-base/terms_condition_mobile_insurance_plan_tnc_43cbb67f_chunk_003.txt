@@ -1,0 +1,41 @@
+TITLE:  
+ICICI Lombard Device Insurance - Claim Process, Coverage, and Grievance Redressal
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Insurance - Device Insurance
+
+TAGS:  
+ICICI Lombard, Device Insurance, Claim Process, Cashless Repair, Reimbursement, Grievance Redressal, Insurance Terms
+
+CONTENT:  
+ICICI Lombard offers device insurance coverage with options for cashless repair or reimbursement depending on the serviceability of the insured location.
+
+**Claim Process:**  
+- If the insured device is not operational or the IMEI number is not clearly visible on the screen, ICICI Lombard will arrange for pickup of the device and process the claim on a cashless basis. The device will be repaired and returned to the customer.  
+- If the insured location is not serviceable for cashless repair, the insured can get the device repaired at an Authorized Service Center and claim reimbursement.  
+- In cases where the device repair cost exceeds the liability amount covered by ICICI Lombard, the customer must pay the balance amount in case of cashless repair. For reimbursement claims, only the liability amount will be reimbursed.
+
+**Grievance Redressal:**  
+ICICI Lombard is committed to fulfilling its promises and offers details of its insurance partners to ensure quality service and easy access to information.
+
+**Important Notes:**  
+- Insurance is underwritten by ICICI Lombard General Insurance Company Limited (CIN: U67200MH2000PLC129408, UIN: IRDAN115P0001V01200102).  
+- ICICI Bank acts only as a Corporate Agent (IRDAI Regn No.: CA0112) for ICICI Lombard.  
+- Enrollment in insurance products is voluntary and not linked to any other banking facility.  
+- Beware of fraudulent phone calls or offers claiming to sell insurance or announce bonuses; IRDAI is not involved in such activities.  
+- Customers receiving suspicious calls are advised to lodge a police complaint.
+
+KEY POINTS:  
+- Cashless repair available if device is non-operational or IMEI not visible; device pickup arranged by ICICI Lombard.  
+- Reimbursement option available if cashless service is not possible at the insured location.  
+- Customer pays balance if repair cost exceeds insurance liability in cashless claims; reimbursement limited to liability amount.  
+- Insurance underwritten by ICICI Lombard General Insurance Company Limited.  
+- ICICI Bank is a corporate agent, not the insurer.  
+- Enrollment is voluntary and independent of other banking services.  
+- Vigilance against fraudulent calls is advised.
+
+URL:  
+https://www.icicibank.com/insurance/device-insurance.page

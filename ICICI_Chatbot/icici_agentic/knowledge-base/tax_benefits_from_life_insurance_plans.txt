@@ -1,0 +1,38 @@
+TITLE: Tax Benefits From Life Insurance Plans  
+SOURCE: ICICI Bank  
+CATEGORY: Life Insurance, Tax Benefits  
+TAGS: Life Insurance, Tax Benefits, Section 80C, Section 10D, IRDAI, TDS, Premium Limits  
+
+CONTENT:  
+Life Insurance provides financial security to your family in case of unforeseen events and also offers significant tax benefits under the Income Tax Act. The tax benefits from life insurance policies can be broadly classified into the following categories:
+
+1. **Tax Deductions under Section 80C**  
+   - Premiums paid for life insurance policies for yourself, your spouse, and your children are eligible for tax deductions under Section 80C.  
+   - This deduction is available to individual taxpayers and Hindu Undivided Families (HUFs).  
+   - Premiums paid for insuring a child are eligible regardless of the child’s age or marital status.  
+   - For policies issued **after 1st April 2012**, the premium paid should not exceed **10% of the sum assured** to qualify for deduction.  
+   - For policies issued **before 1st April 2012**, the premium should not exceed **20% of the sum assured**.  
+
+2. **Tax Exemption under Section 10D**  
+   - Maturity proceeds, death benefits, and bonuses received from life insurance policies are exempt from tax under Section 10D, subject to premium limits.  
+   - The exemption applies only if the premium paid does not exceed 10% (for policies issued after 1st April 2012) or 20% (for policies issued before 1st April 2012) of the sum assured.  
+   - If the premium exceeds these limits, the entire amount received becomes taxable.  
+
+3. **Tax Deducted at Source (TDS)**  
+   - If the sum received from the insurance policy exceeds Rs. 1,00,000, the insurer deducts TDS at 1% before payment.  
+   - TDS also applies to any bonus amounts received.  
+   - No TDS is deducted if the sum received is less than Rs. 1,00,000.  
+   - The TDS deducted can be claimed as a credit while filing Income Tax returns.  
+
+Choosing a life insurance policy with premiums within the prescribed limits not only ensures tax benefits but also provides valuable financial protection to your family.
+
+KEY POINTS:  
+- Premiums paid for life insurance are eligible for deduction under Section 80C up to Rs. 1.5 lakh per annum.  
+- Premium limits for tax benefits:  
+  - Policies issued after 1st April 2012: Premium ≤ 10% of sum assured  
+  - Policies issued before 1st April 2012: Premium ≤ 20% of sum assured  
+- Maturity proceeds, death benefits, and bonuses are tax-exempt under Section 10D if premium limits are met.  
+- TDS of 1% is deducted on sums exceeding Rs. 1,00,000 received from the insurer.  
+- TDS can be claimed as credit in Income Tax returns.  
+
+URL: https://www.icicibank.com/blogs/life-insurance/tax-benefits-life-insurance-plans

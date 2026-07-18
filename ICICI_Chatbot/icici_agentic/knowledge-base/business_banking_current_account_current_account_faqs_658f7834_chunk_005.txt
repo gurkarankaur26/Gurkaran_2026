@@ -1,0 +1,63 @@
+TITLE:  
+ICICI Bank Business Current Account Features and Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Business Banking, Current Account, Payment Solutions
+
+TAGS:  
+Business Current Account, Payment Gateway, UPI, NEFT, RTGS, IMPS, Merchant Services, Forex, Sweep Facility, Overdraft, Reconciliation, Bulk Payouts, Account Closure
+
+CONTENT:  
+ICICI Bank offers a comprehensive Business Current Account designed to streamline business transactions and cash flow management with integrated payment and collection solutions.
+
+**Payment and Collection Integration:**  
+- Onboard ICICI Bank’s payment gateway and integrate it with your website or mobile app for real-time settlement and consolidated reporting.  
+- Supports multiple payment acceptance modes including UPI, QR codes, POS, and card payments. Funds from these channels settle into your current account as per the agreed settlement schedule and tariffs.  
+- Export receipts can be routed through ICICI Bank’s trade and foreign-exchange services, allowing foreign currency collections to be credited to EEFC or RFC accounts where eligible, or converted to INR at competitive forex rates.
+
+**Fund Transfer and Settlement Timelines:**  
+- IMPS credits are immediate.  
+- NEFT settlements are processed in scheduled batches.  
+- RTGS transactions are real-time during operating hours.  
+- Incoming funds are posted to your current account as per standard clearing timelines.
+
+**Payment Automation and Cashflow Management:**  
+- Standing instructions and mandates for repeat payments such as vendor payments, subscriptions, or rent can be configured via corporate netbanking or through your Relationship Manager.  
+- Merchant refunds and chargebacks for card and gateway transactions are facilitated with reconciliation and dispute-resolution support.  
+- Supports multiple file formats (CSV, Excel, MT940, etc.) and APIs compatible with leading ERP and accounting platforms for direct upload and automated reconciliation.
+
+**Sweep Facility:**  
+- Sweep-in automatically transfers surplus funds from the current account into term deposits to earn interest.  
+- Sweep-out converts term deposits back to current funds when transactional thresholds are crossed, maintaining liquidity and optimizing returns.  
+- Sweep features may be part of a packaged current-account solution; applicable charges are detailed in the Schedule of Charges or negotiated as part of the corporate relationship.
+
+**Payment Scheduling and Bulk Payouts:**  
+- Enables payment scheduling, bulk payouts, and approval workflows to control timing of large debits and coordinate liquidity planning, helping avoid overdraft triggers.
+
+**Overdraft Facility:**  
+- Repayment and reuse of sanctioned overdraft limits are generally immediate once funds are credited to the current account and in compliance with covenants.  
+- Updated facility availability is reflected in real time on ICICI Bank’s systems.
+
+**Account Closure:**  
+- Submit closure requests via your Relationship Manager or branch after settling all dues and clearing pending transactions.  
+- ICICI Bank will guide you on closure formalities, final settlement, and return of unused cheque leaves.  
+- Closure is processed after clearing obligations and may require settling outstanding fees or overdrafts. Large corporate closures follow standard exit procedures as per the Schedule of Charges.
+
+KEY POINTS:  
+- Real-time settlement and consolidated reporting via integrated payment gateway.  
+- Supports UPI, QR, POS, card acceptance with scheduled fund settlements.  
+- Foreign currency collections credited to EEFC/RFC accounts or converted at competitive rates.  
+- IMPS immediate, NEFT batch-wise, RTGS real-time during operating hours.  
+- Standing instructions for repeat payments via netbanking or Relationship Manager.  
+- Merchant refunds and chargeback support with reconciliation.  
+- Multiple file formats and APIs for automated reconciliation with ERP systems.  
+- Sweep-in/out facility to optimize liquidity and earn interest on surplus funds.  
+- Payment scheduling, bulk payouts, and approval workflows to manage cash flow.  
+- Overdraft limits are reusable immediately upon fund credit, reflected in real time.  
+- Account closure requires settling dues; process guided by Relationship Manager and Schedule of Charges.
+
+URL:  
+https://www.icicibank.com/business-banking/current-account.html

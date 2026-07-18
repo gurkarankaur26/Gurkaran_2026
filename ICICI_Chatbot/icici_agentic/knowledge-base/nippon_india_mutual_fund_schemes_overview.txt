@@ -1,0 +1,46 @@
+TITLE: Nippon India Mutual Fund Schemes Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Mutual Funds, Nippon India, Corporate Bond Fund, Credit Risk Fund, Dynamic Bond Fund, Floater Fund, Gilt Fund, Investment Options, Dividend Plans, Growth Plans  
+
+CONTENT:  
+This document provides a comprehensive list of Nippon India Mutual Fund schemes available for investment through ICICI Bank. The schemes include various types of bond funds, credit risk funds, dynamic bond funds, floater funds, gilt funds, and ETFs, each with different plan options such as Direct and Regular plans, and payout options including Growth, Dividend (IDCW), Weekly, Monthly, and Quarterly dividends.
+
+Key Schemes and Features:  
+
+1. **Nippon India Corporate Bond Fund**  
+   - Available in Regular Plan with Weekly IDCW (Income Distribution cum Capital Withdrawal) option.  
+
+2. **Nippon India Credit Risk Fund**  
+   - Available in Direct and Regular Plans.  
+   - Options include Growth, IDCW, and Quarterly IDCW.  
+   - Suitable for investors seeking higher returns by taking credit risk.  
+
+3. **Nippon India Dynamic Bond Fund**  
+   - Available in Direct and Regular Plans.  
+   - Options include Growth, IDCW, and Quarterly IDCW.  
+   - Invests dynamically across debt instruments to optimize returns.  
+
+4. **Nippon India Floater Fund**  
+   - Available in Direct and Regular Plans.  
+   - Multiple IDCW payout frequencies: Daily, Weekly, Monthly, Quarterly.  
+   - Also available in Growth option.  
+   - Invests in floating rate debt instruments to reduce interest rate risk.  
+
+5. **Nippon India Gilt Fund**  
+   - Available in Direct Plan with options such as Auto Annual Reinvestment, Bonus, Defined Maturity Date - Growth, and Growth.  
+   - Invests primarily in government securities.  
+
+6. **Nippon India ETFs**  
+   - Includes Nifty 1D Rate Liquid BeES, Nifty 8-13 yr G-Sec Long Term Gilt, and Nifty SDL Apr 2026 Top 20 Equal Weight ETFs.  
+   - Provides exposure to specific indices and government securities.  
+
+KEY POINTS:  
+- Multiple investment options available under each scheme: Growth, IDCW (Income Distribution cum Capital Withdrawal), and various IDCW payout frequencies (Weekly, Monthly, Quarterly, Daily).  
+- Plans available in Direct and Regular modes, allowing investors to choose based on their preference for distributor involvement and expense ratios.  
+- Schemes cover a wide range of risk profiles from low-risk gilt funds to higher-risk credit risk funds.  
+- ETFs provide passive investment options tracking specific indices or government securities.  
+- Suitable for investors looking for diversified fixed income and debt investment options.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/nippon-india-funds.page

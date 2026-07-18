@@ -1,0 +1,57 @@
+TITLE:  
+ICICI Bank Business Banking Current Account and Related Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Business Banking, Current Account, Loans, Merchant Services
+
+TAGS:  
+Business Current Account, Overdraft, Cash Credit, Business Loans, Merchant Acquiring, Payroll, APIs, ERP Integration, Fees, Interest Rates, Relationship Management
+
+CONTENT:  
+ICICI Bank offers a comprehensive Business Banking Current Account designed to support high-frequency transactions and efficient cash-flow management for businesses. The account includes dedicated business banking support, integrated merchant acquiring, payroll solutions, and access to various credit facilities such as overdraft, cash-credit, and FD-backed limits.
+
+**Account Features and Benefits:**  
+- Supports multiple user profiles with role-based access, allowing authorisation of signatories, designation of approvers, and setting individual user rights for collections, payments, and reconciliations.  
+- Provides APIs and bulk file formats (CSV, MT940, etc.) for integration with ERPs and accounting software, enabling automated reconciliation and payment initiation.  
+- Offers bulk-payout APIs and payroll upload tools to disburse salaries and vendor payments directly from the current account, simplifying payroll administration.  
+- Vertical-specific current account solutions and merchant acquiring packages tailored for sectors such as retail, e-commerce, export-import, manufacturing, and services, optimized for transaction mix, settlement frequency, and regulatory requirements.  
+- Sweep-in/sweep-out functionality and tailored reconciliation tools to help stabilize working capital and optimize liquidity.  
+
+**Credit Facilities and Interest Rates:**  
+- Overdraft and cash-credit interest rates are linked to prime lending rates and the borrower’s credit risk profile. Relationship Managers (RMs) provide applicable rates at sanction.  
+- ICICI Bank offers overdraft, cash-credit, and FD-backed limit products to support working capital needs.  
+
+**Relationship and Pricing Benefits:**  
+- Businesses with substantial volumes or consolidated relationships (deposits, merchant acquiring, loans) may receive preferential pricing, discounted merchant fees, waiver of certain charges, and priority servicing under ICICI Bank Business Banking relationship tiers.  
+- Large or strategic corporate customers benefit from priority servicing, dedicated RM teams, bespoke reporting, and preferential access to trade finance, forex desks, and treasury products.  
+- Periodic promotions for new business customers may include free POS terminal rental, waived opening fees, or discounted transaction rates for a limited period.  
+
+**Documentation and Eligibility:**  
+- Limits on credit and services are based on business cash flows, turnover, credit history, security offered, and relationship with ICICI Bank.  
+- Required documentation includes audited financials, bank statements, and security valuations.  
+
+**Repayment and Transaction Management:**  
+- EMIs for business loans can be auto-debited from the current account to ensure timely repayment and avoid penalties.  
+
+**Additional Services:**  
+- Integrated merchant acquiring and payroll solutions reduce operational friction and enable efficient cash-flow management through a single corporate banking relationship.  
+
+**Schedule of Charges:**  
+- The current Schedule of Charges and latest fees are available on ICICI Bank’s Business Banking website and branch notice boards.  
+
+KEY POINTS:  
+- Business Current Account supports multiple user roles and ERP integration.  
+- Overdraft and cash-credit interest rates linked to prime lending rates and credit profile.  
+- Preferential pricing and priority servicing for high-volume or consolidated relationship customers.  
+- Auto-debit facility for loan EMIs to avoid penalties.  
+- Bulk-payout APIs and payroll upload tools for salary and vendor payments.  
+- Vertical-specific solutions for various business sectors.  
+- Documentation includes audited financials, bank statements, and security valuations.  
+- Periodic promotional offers for new business customers.  
+- Schedule of Charges available online and at branches.  
+
+URL:  
+https://www.icicibank.com/business-banking/current-account.page

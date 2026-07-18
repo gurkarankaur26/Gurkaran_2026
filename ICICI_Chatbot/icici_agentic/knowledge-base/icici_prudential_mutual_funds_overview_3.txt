@@ -1,0 +1,49 @@
+TITLE: ICICI Prudential Mutual Funds Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Products  
+TAGS: ICICI Prudential, Mutual Funds, Bond Funds, Credit Risk Funds, Floating Interest Funds, Liquid Funds, Long Term Bond Funds, Medium Term Bond Funds, Growth, IDCW  
+
+CONTENT:  
+ICICI Prudential offers a wide range of mutual fund schemes catering to different investment needs and risk profiles. These include Corporate Bond Funds, Credit Risk Funds, Floating Interest Funds, Gilt Funds, Liquid Funds, Long Term Bond Funds, and Medium Term Bond Funds. Each fund is available in various plans such as Direct and Regular, and options like Growth and IDCW (Income Distribution cum Capital Withdrawal) with different payout frequencies (Daily, Weekly, Quarterly).
+
+Key Mutual Fund Schemes:  
+
+1. **Corporate Bond Fund**  
+   - Plan Types: Regular  
+   - Options: Quarterly IDCW  
+
+2. **Credit Risk Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, Quarterly IDCW  
+
+3. **Floating Interest Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, Daily IDCW, Weekly IDCW, IDCW Others  
+
+4. **Gilt Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, IDCW  
+
+5. **Liquid Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, Daily IDCW, Weekly IDCW, IDCW Others  
+
+6. **Long Term Bond Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, Quarterly IDCW  
+
+7. **Medium Term Bond Fund**  
+   - Plan Types: Direct, Regular  
+   - Options: Growth, Quarterly IDCW  
+
+Each scheme has a unique identification number (e.g., ICICI Prudential Corporate Bond Fund - Reg - Qtly IDCW: 111992) for easy reference and transaction.
+
+KEY POINTS:  
+- Multiple fund categories to suit different investment goals and risk appetites.  
+- Availability in Direct and Regular plans.  
+- Options for Growth and IDCW with various payout frequencies (Daily, Weekly, Quarterly).  
+- Unique scheme codes for identification.  
+- Suitable for investors seeking income distribution or capital appreciation.  
+
+URL:  
+https://www.icicibank.com/wealth-management/mutual-funds.page

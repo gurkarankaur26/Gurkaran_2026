@@ -1,0 +1,67 @@
+TITLE:  
+ICICI Bank NRO Account: Repatriation, PAN Requirements, Account Opening, and Card Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRO Account Services, NRI Banking, Fund Repatriation, Debit Card Services
+
+TAGS:  
+NRO Account, Fund Repatriation, PAN, TDS, NRI Banking, Debit Card, ATM Card, Fund Transfer
+
+CONTENT:  
+**Repatriation of Funds from NRO Account:**  
+- Proceeds from the sale of property can be repatriated from the NRO account subject to documentation and limits.  
+- Required documents include:  
+  - Property sale deed and purchase deed copies.  
+  - If property was acquired as gift/inheritance, submit gift deed or Will/Succession certificate/Certificate of probate/Legal Heirship certificate.  
+  - Documents in languages other than English or Hindi must be submitted with a notarized translated copy and vernacular declaration.  
+- The repatriation amount should not exceed the sales proceeds and must be within USD 1,000,000 per financial year.
+
+**PAN Requirements:**  
+- From April 1, 2010, PAN (Permanent Account Number) is mandatory for NRIs to avail benefits under the Double Taxation Avoidance Agreement (DTAA).  
+- PAN submission is essential for:  
+  - Lower tax deduction at source (TDS).  
+  - Repatriation of funds from NRO accounts.  
+  - Receiving TDS certificates and tax credit in the tax passbook.
+
+**NRO Savings Account Opening:**  
+- NRO Savings Account can be opened online.  
+- After applying online, a customer service representative will contact the applicant within 15 minutes to assist with account opening.
+
+**ATM/Debit Card Services:**  
+- Request for ATM/Debit Card can be made online via the "Service Request" option in Net Banking.  
+- Alternatively, card requests can be made by contacting ICICI Bank’s 24-hour Customer Care.  
+- Request forms can be downloaded, filled, and mailed to:  
+  ICICI Bank Limited,  
+  RPC Mumbai,  
+  5th Floor, A-Wing, Autumn Estates,  
+  Chandivali Farm Road, Chandivali,  
+  Landmark: Next to Chandivali Studio, Opp MHADA,  
+  Andheri-East, Mumbai - 400072, INDIA.  
+- NRIs in USA, UK, Canada, Australia, Singapore, and UAE can post documents to local P.O. Boxes to save courier charges.  
+- Card requests can also be submitted at any ICICI Bank branch in India.  
+- Applicable service charges will apply.
+
+**ATM/Debit Card Deactivation (Hotlisting):**  
+- Cardholders can request deactivation online via Net Banking "Service Request" option or by calling 24-hour Customer Care.  
+- Requests can also be submitted at any ICICI Bank branch in India.
+
+**Funds Transfer:**  
+- Online funds transfer is available for:  
+  - Other ICICI Bank accounts  
+  - Non-ICICI Bank accounts  
+  - Card-to-Card transfers  
+- Payee registration is required before initiating transfers.
+
+KEY POINTS:  
+- Repatriation limit from NRO account: USD 1,000,000 per financial year.  
+- Mandatory PAN for NRIs from April 1, 2010, for tax benefits and repatriation.  
+- NRO Savings Account can be opened online with quick assistance.  
+- ATM/Debit Card requests and deactivation available online, via customer care, by mail, or at branches.  
+- NRIs in select countries can use local P.O. Boxes for document submission.  
+- Funds transfer requires payee registration and can be done online.
+
+URL:  
+https://www.icicibank.com/nri-banking/nro-account.page

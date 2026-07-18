@@ -1,0 +1,62 @@
+TITLE:  
+ICICI Bank Fixed Deposit - Premature Withdrawal, Joint Account, Nomination, Overdraft, and Related Policies
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Fixed Deposits, Account Management, Banking Services  
+
+TAGS:  
+Fixed Deposit, Premature Withdrawal, Joint Account, Nomination, Overdraft, TDS, Deposit Account, ICICI Bank  
+
+CONTENT:  
+**Premature Withdrawal of Fixed Deposit (FD):**  
+- Certain deposits like Tax Saver FD have a mandatory lock-in period and cannot be withdrawn prematurely.  
+- For premature withdrawal of other FDs, interest is paid only for the period the deposit was held, at the prevailing rate at the time of booking, not the contracted rate, minus a penal charge.  
+- Penal charges apply as per the Bank’s schedule (refer to ICICI Bank for current penal rates).  
+- Premature withdrawal can be done via ICICI Bank Net Banking, iMobile app, or other digital channels only if the FD is held singly.  
+- For joint FDs with operational modes ‘Either or Survivor’, ‘Former or Survivor’, or ‘Anyone or Survivor’, signatures of all depositors are required for premature withdrawal.  
+- No penal charges apply for premature withdrawal in case of the depositor’s death.  
+
+**Deceased Depositor:**  
+- For sole depositors, proceeds are paid to the registered nominee. If no nominee exists, legal heirs can claim the amount upon submission of legal documents such as a succession certificate.  
+- For joint accounts, payment is made to surviving depositors as per the operational mandate.  
+
+**Joint Account Provisions:**  
+- Clear operational instructions must be provided (e.g., ‘Either or Survivor’, ‘Former or Survivor’, ‘Jointly’).  
+- All joint account holders are jointly and severally liable for all obligations related to the account.  
+- Any modifications to account details require consent from all joint holders.  
+
+**Nomination Facility:**  
+- Available as per the Banking Regulation Act, 1949.  
+- The nominee is entitled to receive the deposit amount upon the death of the sole or all joint depositors.  
+- Payment to the nominee discharges the Bank’s liability; the nominee holds the funds as a trustee for legal heirs.  
+
+**Overdraft Against Deposit:**  
+- The Bank may grant an overdraft facility against the security of the term deposit at its discretion.  
+- The term deposit receipt (TDR) will be lien-marked and held by the Bank until the overdraft is fully repaid.  
+- Terms, interest rates, and margin for the overdraft are determined by the Bank.  
+
+**Bank’s Lien and Right of Set-Off:**  
+- The Bank holds a general lien and right of set-off over all funds in the deposit account.  
+- This allows the Bank to appropriate funds to settle any debts or liabilities owed by the depositor to the Bank after due notice.  
+
+**Tax Deduction at Source (TDS):**  
+- TDS is deducted on interest earned as per the Income Tax Act, 1961.  
+- Depositors can submit Form 15G (resident individuals) or Form 15H (senior citizens) to claim exemption from TDS if eligible.  
+
+**Communication:**  
+- All communications related to the deposit will be sent to the depositor’s registered email ID, mobile number, and address.  
+
+KEY POINTS:  
+- Premature withdrawal of Tax Saver FD is not allowed.  
+- Premature withdrawal interest is paid at prevailing rates minus penal charges.  
+- Joint FD premature withdrawal requires all depositors’ signatures.  
+- No penalty on premature withdrawal in case of depositor’s death.  
+- Nomination facility protects deposit proceeds for legal heirs.  
+- Overdraft facility available against term deposits with lien-marking.  
+- Bank can exercise lien and set-off rights on deposit funds.  
+- TDS deducted on interest; exemption possible via Form 15G/15H.  
+- All communications sent to registered contact details.  
+
+URL:  
+https://www.icicibank.com/knowledge-base/fixed-deposit-premature-withdrawal-joint-account-nomination-overdraft

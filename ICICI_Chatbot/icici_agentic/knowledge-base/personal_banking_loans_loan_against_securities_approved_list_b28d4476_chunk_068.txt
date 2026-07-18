@@ -1,0 +1,34 @@
+TITLE:  
+Mutual Fund Schemes and Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Investment, Debt Funds, Equity Funds, ICICI Bank  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their unique identification codes (folio numbers) from various fund houses such as HDFC and HSBC. The schemes include different types of funds such as Money Market Funds, Overnight Funds, Short Term Debt Funds, Ultra Short Term Funds, Banking and PSU Debt Funds, and Corporate Bond Funds. Each scheme is available in different plans like Direct (Dir) and Regular (Reg), and options such as Growth and Income Distribution cum Capital Withdrawal (IDCW) with varying frequencies (Daily, Weekly, Monthly, Quarterly, Semi-Annual, Annual).
+
+Key mutual fund schemes and their codes include:
+
+- HDFC Money Market Fund (Direct Weekly IDCW) - Code: 119094  
+- HDFC Money Market Fund (Daily IDCW) - Code: 101994  
+- HDFC Money Market Fund (Growth) - Code: 101993  
+- HDFC Nifty G-sec Dec 2026 Index Fund (Direct Growth) - Code: 150845  
+- HDFC Overnight Fund (Direct Daily IDCW) - Code: 119109  
+- HDFC Short Term Debt Fund (Direct Growth) - Code: 119016  
+- HDFC Ultra Short Term Fund (Direct Monthly IDCW) - Code: 145036  
+- HSBC Banking and PSU Debt Fund (Direct Monthly IDCW) - Code: 151106  
+- HSBC Corporate Bond Fund (Direct Annual IDCW) - Code: 151000  
+
+These codes are essential for investors to identify and transact in specific mutual fund schemes through ICICI Bank’s platform or other investment channels.
+
+KEY POINTS:  
+- Mutual fund schemes are categorized by fund house, plan type (Direct/Regular), option (Growth/IDCW), and IDCW frequency.  
+- Each scheme has a unique code for identification and transaction purposes.  
+- IDCW options provide periodic income distribution with frequencies such as daily, weekly, monthly, quarterly, semi-annual, and annual.  
+- Growth option reinvests earnings to increase the NAV.  
+- Fund types include Money Market, Overnight, Short Term Debt, Ultra Short Term, Banking and PSU Debt, and Corporate Bond Funds.  
+- Investors should use the correct scheme code when investing or redeeming units.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/mutual-fund-schemes-list.page

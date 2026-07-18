@@ -1,0 +1,79 @@
+TITLE: Bandhan Mutual Fund Schemes - Key Details  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Bandhan Mutual Fund, Growth, IDCW, Investment, Fund Codes  
+
+CONTENT:  
+This document provides a structured list of Bandhan Mutual Fund schemes available for investment, including their plan types, options, and unique scheme codes. The schemes are categorized into Direct (Dir) and Regular (Reg) plans, with options for Growth and IDCW (Income Distribution cum Capital Withdrawal).
+
+Key Schemes and Details:  
+- Bandhan Business Cycle Fund  
+  - Direct Growth: Code 152878  
+  - Direct IDCW: Code 152879  
+  - Regular Growth: Code 152877  
+  - Regular IDCW: Code 152880  
+
+- Bandhan Financial Services Fund  
+  - Direct Growth: Code 151816  
+  - Direct IDCW: Code 151817  
+  - Regular Growth: Code 151818  
+  - Regular IDCW: Code 151819  
+
+- Bandhan Flexi Cap Fund  
+  - Direct Growth: Code 118424  
+  - Direct IDCW: Code 118423  
+  - Regular Growth: Code 108594  
+  - Regular IDCW: Code 108595  
+
+- Bandhan Focused Fund  
+  - Direct Growth: Code 118421  
+  - Direct IDCW: Code 118422  
+  - Regular Growth: Code 108592  
+  - Regular IDCW: Code 108593  
+
+- Bandhan Innovation Fund  
+  - Direct Growth: Code 152607  
+  - Direct IDCW: Code 152604  
+  - Regular Growth: Code 152606  
+  - Regular IDCW: Code 152605  
+
+- Bandhan Large & Mid Cap Fund  
+  - Direct Growth: Code 118419  
+  - Direct IDCW: Code 118420  
+  - Regular Growth: Code 108596  
+  - Regular IDCW: Code 108597  
+
+- Bandhan Large Cap Fund  
+  - Direct Growth: Code 118479  
+  - Direct IDCW: Code 118478  
+  - Regular Growth: Code 108799  
+  - Regular IDCW: Code 108800  
+
+- Bandhan Midcap Fund  
+  - Direct Growth: Code 150404  
+  - Direct IDCW: Code 150401  
+  - Regular Growth: Code 150402  
+  - Regular IDCW: Code 150403  
+
+- Bandhan Multi Asset Allocation Fund  
+  - Direct Growth: Code 152324  
+  - Direct IDCW: Code 152323  
+  - Regular Growth: Code 152326  
+  - Regular IDCW: Code 152325  
+
+- Bandhan Multi Cap Fund  
+  - Direct Growth: Code 149303  
+  - Direct IDCW: Code 149304  
+  - Regular Growth: Code 149305  
+
+Note: IDCW refers to Income Distribution cum Capital Withdrawal option, where investors receive periodic payouts. Growth option reinvests earnings to increase NAV.
+
+KEY POINTS:  
+- Bandhan Mutual Fund offers multiple schemes with Direct and Regular plans.  
+- Each scheme has Growth and IDCW options catering to different investor preferences.  
+- Unique scheme codes are assigned for easy identification and transaction.  
+- IDCW option provides periodic income, while Growth option focuses on capital appreciation.  
+- Investors can choose plans based on their investment strategy and preference for income or growth.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/bandhan-mutual-fund.page

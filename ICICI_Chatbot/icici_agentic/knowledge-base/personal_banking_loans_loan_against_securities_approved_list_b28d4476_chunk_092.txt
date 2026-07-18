@@ -1,0 +1,86 @@
+TITLE:  
+UTI Mutual Fund Schemes - Plan Types and Dividend Options
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: UTI Mutual Fund, Corporate Bond Fund, Dynamic Bond Fund, Floater Fund, Gilt Fund, Liquid Fund, Dividend Options, Growth Plan, IDCW, Investment Codes  
+
+CONTENT:  
+This document provides a detailed list of various UTI Mutual Fund schemes available for investment through ICICI Bank, including their plan types (Direct/Regular), dividend options, and unique scheme codes.
+
+**Scheme Types and Options:**
+
+1. **UTI Corporate Bond Fund**  
+   - Available in Direct and Regular plans.  
+   - Dividend options: Growth, Annual IDCW (Income Distribution cum Capital Withdrawal), Half-Yearly IDCW, Quarterly IDCW, Flexi IDCW.  
+   - Scheme Codes:  
+     - Direct Growth: 144339  
+     - Direct Half-Yearly IDCW: 144340  
+     - Direct Quarterly IDCW: 144346  
+     - Regular Annual IDCW: 144337  
+     - Regular Flexi IDCW: 144338  
+     - Regular Growth: 144345  
+     - Regular Half-Yearly IDCW: 144343  
+     - Regular Quarterly IDCW: 144342  
+
+2. **UTI Dynamic Bond Fund**  
+   - Available in Direct and Regular plans.  
+   - Dividend options: Growth, IDCW.  
+   - Scheme Codes:  
+     - Direct Growth: 120762  
+     - Direct IDCW: 120763  
+     - Regular Growth: 113077  
+
+3. **UTI Floater Fund**  
+   - Available in Direct and Regular plans.  
+   - Dividend options: Annual IDCW, Flexi IDCW, Growth, Half-Yearly IDCW, Quarterly IDCW.  
+   - Scheme Codes:  
+     - Direct Annual IDCW: 145293  
+     - Direct Flexi IDCW: 145291  
+     - Direct Growth: 145295  
+     - Direct Half-Yearly IDCW: 145296  
+     - Direct Quarterly IDCW: 145290  
+     - Regular Annual IDCW: 145289  
+     - Regular Flexi IDCW: 145292  
+     - Regular Growth: 145287  
+     - Regular Half-Yearly IDCW: 145288  
+     - Regular Quarterly IDCW: 145294  
+
+4. **UTI Gilt Fund**  
+   - Available in Direct and Regular plans.  
+   - Dividend options: Growth, IDCW.  
+   - Scheme Codes:  
+     - Direct Growth: 120792  
+     - Direct IDCW: 120791  
+     - Regular Growth: 102510  
+     - Regular IDCW: 102509  
+
+5. **UTI Liquid Fund**  
+   - Available in Direct and Regular plans.  
+   - Dividend options: Annual IDCW, Flexi IDCW, Half-Yearly IDCW, Quarterly IDCW, Weekly IDCW, Fortnightly IDCW.  
+   - Scheme Codes:  
+     - Direct Annual IDCW: 134427  
+     - Direct Flexi IDCW: 141768  
+     - Direct Half-Yearly IDCW: 140504  
+     - Direct Quarterly IDCW: 140024  
+     - Direct Weekly IDCW: 120777  
+     - Direct Fortnightly IDCW: 140913  
+     - Discontinued Regular Growth: 102009  
+     - Discontinued Regular Monthly IDCW: 102008  
+
+**Key Terms:**  
+- **Direct Plan:** Investment made directly with the fund house without intermediaries, usually with lower expense ratios.  
+- **Regular Plan:** Investment made through intermediaries or distributors.  
+- **Growth Option:** Earnings are reinvested in the scheme, increasing NAV.  
+- **IDCW (Income Distribution cum Capital Withdrawal):** Periodic dividend payouts to investors.  
+- **Flexi IDCW:** Dividend payout frequency is flexible as per scheme terms.  
+
+KEY POINTS:  
+- Multiple UTI Mutual Fund schemes are available with various dividend payout options and plan types.  
+- Each scheme and option has a unique code for identification and investment purposes.  
+- Investors can choose between Direct and Regular plans based on their preference for expense ratio and intermediary involvement.  
+- Dividend options include Growth, Annual, Half-Yearly, Quarterly, Monthly, Weekly, Fortnightly, and Flexi IDCW.  
+- Some schemes like UTI Liquid Fund have discontinued certain plans/options.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/uti-mutual-funds.page

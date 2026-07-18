@@ -1,0 +1,45 @@
+TITLE: NRI Recurring Deposit (RD) Interest Rates and Terms  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Deposits, Recurring Deposits  
+TAGS: NRI RD, Recurring Deposit, Interest Rates, Tenure, Penalties, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers Recurring Deposit (RD) schemes for Non-Resident Indians (NRIs) with competitive interest rates based on the tenure of the deposit. The interest rates are effective from 29 December 2025 and vary according to the deposit period.  
+
+**Interest Rates for NRI Recurring Deposits:**  
+
+| Tenure (Period)               | Rate of Interest (% p.a.) w.e.f 29 December 2025 |  
+|------------------------------|-------------------------------------------------|  
+| 6 months                     | 4.50%                                           |  
+| 9 months                     | 5.50%                                           |  
+| 12 months                   | 6.25%                                           |  
+| 15 months                   | 6.25%                                           |  
+| 18 months                   | 6.30%                                           |  
+| 21 months                   | 6.30%                                           |  
+| 24 months                   | 6.30%                                           |  
+| 27 months                   | 6.45%                                           |  
+| 30 months                   | 6.45%                                           |  
+| 33 months                   | 6.45%                                           |  
+| 36 months                   | 6.45%                                           |  
+| Above 3 years up to 5 years | 6.50%                                           |  
+| Above 5 years up to 10 years| 6.50%                                           |  
+
+**Premature Withdrawal Penalty Rates:**  
+
+| Tenure of Deposit           | Less than ₹25 crore | ₹25 crore and above |  
+|----------------------------|---------------------|---------------------|  
+| Less than 1 year           | 0.50%               | 0.50%               |  
+| 1 year & above but less than 5 years | 1.00%       | 1.00%               |  
+| 5 years and above          | 1.00%               | 1.50%               |  
+
+- Penalties and interest rates are subject to revision without prior notice.  
+- For detailed terms and conditions, customers are advised to visit the nearest ICICI Bank branch.  
+
+KEY POINTS:  
+- NRI Recurring Deposit interest rates range from 4.50% p.a. (6 months) to 6.50% p.a. (above 3 years).  
+- Interest rates increase with longer tenure, with highest rates for deposits above 3 years.  
+- Premature withdrawal penalties vary based on deposit amount and tenure, ranging from 0.50% to 1.50%.  
+- Rates and penalties are subject to change without prior notice.  
+- For full terms and conditions, visit an ICICI Bank branch.  
+
+URL: https://www.icicibank.com/nri-banking/deposits/recurring-deposits/rd-interest-rates

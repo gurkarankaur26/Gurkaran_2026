@@ -1,0 +1,54 @@
+TITLE: Process for Rematerialisation of Shares and Related Services  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Services / Share Rematerialisation  
+TAGS: Rematerialisation, Physical Shares, Demat Account, Registrar, ISIN, RRF, Share Certificates  
+
+CONTENT:  
+ICICI Bank provides a detailed process for rematerialisation (remat) of shares, allowing customers to convert their dematerialised shares back into physical share certificates. The process involves submitting a Rematerialisation Request Form (RRF) at any ICICI Bank branch.
+
+**Steps for Rematerialisation:**  
+1. **Obtaining the RRF:**  
+   - The Rematerialisation Request Form is available at all ICICI Bank branches.  
+   - A separate RRF must be filled for each ISIN (International Securities Identification Number).  
+
+2. **Filling the RRF:**  
+   - Ensure the form is completely and correctly filled; incomplete forms may be rejected.  
+   - Enter the correct name of the security and ISIN number.  
+   - Submit separate RRFs for securities under lock-in and free securities. For lock-in securities with different release dates or reasons, separate RRFs are required.  
+   - Clearly mention the lot type (Jumbo or Market Lot). If not specified, certificates will be sent in market lot.  
+   - Ensure sufficient free balance in your demat account for the ISIN for which the RRF is submitted.  
+   - The RRF must be signed by all account holders in the same order as the specimen signature with ICICI Bank.  
+
+3. **Submitting the RRF:**  
+   - Submit the RRF in triplicate at any ICICI Bank branch.  
+   - An acknowledgement slip will be stamped and handed over after verification.  
+
+4. **Receipt of Physical Shares:**  
+   - The RRF is forwarded to the registrar for processing.  
+   - Upon acceptance, the demat account will be debited, and physical share certificates will be sent directly to the customer by the registrar.  
+   - Customers can track the status via ICICI Bank’s website (www.icicibank.com), IVR, phone, or branch visit.  
+   - SMS alerts will be sent for success or failure of the request if mobile alerts are registered.  
+   - Normal processing time is up to 30 days, but this may vary depending on the registrar.  
+   - If physical shares are not received within 30 days, customers can contact ICICI Bank via phone or email for assistance.  
+   - For delays beyond 40 days, ICICI Bank can provide the registrar’s contact details and the Remat Request Number (RRN).  
+
+5. **Rejection of Remat Requests:**  
+   - Requests may be rejected by ICICI Bank’s Central Processing Office or the registrar for various reasons.  
+   - Customers will be informed of the reason for rejection.  
+   - A fresh request can be submitted after resolving the issues causing rejection.  
+
+6. **Additional Information:**  
+   - ICICI Bank also handles repurchase of units of UTI US '64 bonds as per instructions from National Securities Depository Limited (NSDL).  
+   - UTI has converted US64 units in demat form to 6.75% tax-free GOI US64 bonds. Requests related to rematerialisation, dematerialisation, or repurchase of these units are processed accordingly.  
+
+KEY POINTS:  
+- RRF must be filled separately for each ISIN and for lock-in and free securities.  
+- Lot type (Jumbo or Market Lot) must be clearly mentioned.  
+- RRF must be signed by all account holders matching specimen signatures.  
+- Submit RRF in triplicate at any ICICI Bank branch.  
+- Physical shares are usually received within 30 days; delays can be tracked and escalated.  
+- Rejection reasons will be communicated; resubmission possible after correction.  
+- SMS alerts available for request status if registered.  
+- ICICI Bank facilitates repurchase of UTI US '64 units converted to GOI bonds.  
+
+URL: https://www.icicibank.com/knowledge-base/demat-services/rematerialisation-of-shares.page

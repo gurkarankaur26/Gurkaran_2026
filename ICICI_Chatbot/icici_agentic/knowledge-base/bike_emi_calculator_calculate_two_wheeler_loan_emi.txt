@@ -1,0 +1,19 @@
+TITLE: Bike EMI Calculator - Calculate Two Wheeler Loan EMI  
+SOURCE: ICICI Bank  
+CATEGORY: Loans, Two Wheeler Loan, EMI Calculator  
+TAGS: Two Wheeler Loan, EMI Calculator, Bike Loan, Loan Tenure, Interest Rate, Monthly Repayment  
+
+CONTENT:  
+The Bike EMI Calculator is an online financial tool provided by ICICI Bank to help customers estimate the Equated Monthly Installment (EMI) for a Two-Wheeler Loan. By inputting the loan amount, interest rate, and loan tenure, users can instantly calculate their expected monthly repayment amount. This tool aids in financial planning by allowing customers to compare different repayment options, understand their affordability, and select a suitable loan tenure before applying for the loan. It is especially useful for individuals planning to purchase a new bike or scooter and wanting to manage their monthly budget effectively.  
+
+The EMI displayed by the calculator is indicative and may vary during the actual loan processing based on the final loan terms and conditions.  
+
+KEY POINTS:  
+- Tool to calculate estimated EMI for Two-Wheeler Loans  
+- Inputs required: Loan amount, interest rate, loan tenure  
+- Provides instant monthly repayment estimates  
+- Helps in comparing repayment options and planning finances  
+- Indicative EMI; actual EMI may vary during loan processing  
+- Useful for customers purchasing bikes or scooters  
+
+URL: https://www.icicibank.com/personal-banking/loans/two-wheeler-loan/emi-calculator

@@ -1,0 +1,51 @@
+TITLE: Difference Between iWish RD, FD and RD  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Products, Deposits, Investment Options  
+TAGS: Fixed Deposit, Recurring Deposit, iWish, Flexible RD, Interest Rates, Investment, ICICI Bank  
+
+CONTENT:  
+When choosing investment products, Fixed Deposits (FDs) and Recurring Deposits (RDs) are popular options due to their risk-free nature and fixed returns. Both products are not affected by market fluctuations, making them suitable for conservative investors. ICICI Bank also offers a flexible recurring deposit called iWish, which provides additional convenience.
+
+**What is a Fixed Deposit (FD)?**  
+- Deposit a fixed amount for a specific tenure ranging from 7 days to 10 years.  
+- Interest is credited monthly, quarterly, or reinvested in the principal.  
+- Interest rates remain fixed for the entire tenure.  
+
+**What is a Recurring Deposit (RD)?**  
+- Deposit a fixed amount at regular intervals, usually monthly.  
+- Interest is earned monthly and compounded quarterly.  
+- Interest rates remain fixed for the entire tenure.  
+
+**What is the iWish Flexible Recurring Deposit?**  
+- Allows investing any amount at any time during the tenure, unlike fixed monthly deposits in regular RD.  
+- Available to all ICICI Bank Internet Banking customers at no extra cost.  
+- Offers the same interest rates as regular RD.  
+
+**Benefits of FD, RD, and iWish Flexible RD:**  
+- Higher returns compared to regular savings accounts.  
+- Secured investment with guaranteed returns.  
+- Flexible tenure and investment amount options.  
+- Can be used as collateral for credit cards or loans.  
+- Helps inculcate the habit of regular investing.  
+
+**Comparison Table: FD vs RD vs iWish Flexible RD**
+
+| Feature                  | Fixed Deposit (FD)           | Recurring Deposit (RD)          | iWish Flexible RD               |
+|--------------------------|------------------------------|--------------------------------|--------------------------------|
+| Interest Rates (per annum)| 2.50% - 5.50%                | 3.50% - 5.50%                  | 3.50% - 5.35%                  |
+| Tenure                   | 7 days to 10 years            | 6 months to 10 years            | 6 months to 5 years             |
+| Minimum Deposit Amount    | ₹10,000                      | ₹500                           | ₹50                            |
+| Deposit Frequency        | Lump sum                     | Fixed monthly installments     | Flexible deposits anytime       |
+| Interest Crediting       | Monthly, Quarterly, or Reinvested | Monthly                      | Monthly                        |
+| Collateral Facility      | Yes                         | Yes                           | Yes                           |
+
+KEY POINTS:  
+- FD and RD offer fixed returns and are risk-free investment options.  
+- iWish flexible RD allows flexible deposit amounts and timing.  
+- Interest rates vary between 2.50% to 5.50% depending on the product and tenure.  
+- Minimum deposit amounts differ: FD (₹10,000), RD (₹500), iWish (₹50).  
+- Tenure options vary: FD (7 days to 10 years), RD (6 months to 10 years), iWish (6 months to 5 years).  
+- All three can be used as collateral for loans or credit cards.  
+- Suitable for conservative investors looking for guaranteed returns.  
+
+URL: https://www.icicibank.com/blogs/iwish/iwish-flexible-rd-vs-fixed-deposit

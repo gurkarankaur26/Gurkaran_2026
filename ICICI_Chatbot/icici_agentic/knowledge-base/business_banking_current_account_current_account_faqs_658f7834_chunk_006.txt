@@ -1,0 +1,48 @@
+TITLE:  
+ICICI Bank Business Banking Services and Security Features
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Business Banking, Corporate Accounts, Security, Account Management
+
+TAGS:  
+Business Accounts, Account Consolidation, Fraud Prevention, Mobile Banking Security, Reporting, Escrow Services, Group Banking, APIs, Reconciliation, Customer Support
+
+CONTENT:  
+ICICI Bank offers comprehensive business banking solutions designed to centralize and streamline corporate banking needs. Businesses can consolidate multiple accounts within ICICI Bank under a single Relationship Manager (RM) and client profile for easier management. Remaining balances in accounts are paid out as per customer instructions—either transferred to a nominated account or paid by cheque—after settling all cheques, standing instructions, and pending settlements.
+
+Security is a key focus area. ICICI Bank employs multi-factor authentication, transaction-behaviour analytics, 3D Secure for card payments, tokenization, real-time alerts, and role-based access controls to detect and prevent fraud in business current accounts and merchant services. Internal controls include role-based access, segregated duties, multi-stage approval flows, and audit trails to mitigate insider risks. Corporate mobile apps are secured with encryption, device-binding, biometric access, and OTP verification to protect business transactions and sensitive data on smartphones and tablets.
+
+For corporate governance changes such as board resolutions or authorised signatory updates, customers must submit the relevant documents along with KYC proofs to their ICICI Bank branch. The bank updates mandate records after verifying compliance with corporate governance formalities.
+
+ICICI Bank provides tailored Management Information Systems (MIS), daily or monthly statements, and custom reports covering collections, merchant settlements, cash deposits, and charges to meet internal reporting requirements. Customers can automate reconciliation of collections, merchant settlements, and bank charges by using the bank’s APIs or scheduled downloadable reports integrated with their accounting systems.
+
+Bank statements, certifications, and auditor-verified reports from ICICI Bank are accepted for statutory audits, filings, and compliance reporting, subject to standard verification procedures. Transaction-level statements and reconciliation support are available to assist businesses in preparing GST returns and tax filings. Relationship Managers can provide report formats tailored to specific accounting needs.
+
+ICICI Bank offers escrow and trustee solutions for project collections, real estate (RERA), and platform-based transactions, featuring specialized current-account structuring and segregated settlements. Group banking services allow consolidation of several legal entities under a master relationship to centralize cash management and access preferential pricing.
+
+While ICICI Bank does not provide direct tax or legal advice, Relationship Managers can connect clients to partner advisory firms or in-house specialists for compliant solutions. Fintech companies can partner with ICICI Bank to integrate payment gateways, co-branded merchant acquiring, bank APIs, and white-label solutions, subject to regulatory and commercial terms.
+
+For customer support, clients can contact their Relationship Manager for priority handling. Unresolved issues can be escalated through ICICI Bank’s grievance redressal channels or the Business Banking service desk for faster resolution.
+
+KEY POINTS:  
+- Consolidation of multiple business accounts under a single RM and client profile is available.  
+- Remaining balances are paid out after settling all pending transactions as per customer instructions.  
+- Fraud prevention includes multi-factor authentication, transaction-behaviour analytics, 3D Secure, tokenization, real-time alerts, and role-based access controls.  
+- Internal controls include segregated duties, multi-stage approvals, and audit trails to mitigate insider risk.  
+- Corporate mobile apps secured with encryption, device-binding, biometric access, and OTP verification.  
+- Board resolution or authorised signatory changes require submission of KYC documents to the branch.  
+- Tailored MIS, daily/monthly statements, and custom reports available for collections, settlements, deposits, and charges.  
+- APIs and downloadable reports support automated reconciliation with accounting systems.  
+- Bank statements and auditor-verified reports accepted for statutory audits and compliance.  
+- Transaction-level statements assist in GST return and tax filing preparation.  
+- Escrow and trustee solutions offered for project collections, real estate, and platforms with segregated settlements.  
+- Group banking consolidates multiple legal entities under a master relationship for centralized cash management and preferential pricing.  
+- Relationship Managers facilitate connections to tax/legal advisory partners.  
+- Fintech partnerships available for payment gateway integration, co-branded merchant acquiring, APIs, and white-label solutions.  
+- Priority customer support via Relationship Managers and escalation through grievance redressal channels and Business Banking service desk.
+
+URL:  
+https://www.icicibank.com/business-banking/services

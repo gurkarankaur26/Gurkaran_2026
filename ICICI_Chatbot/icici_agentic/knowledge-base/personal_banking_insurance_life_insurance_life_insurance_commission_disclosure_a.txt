@@ -1,0 +1,53 @@
+TITLE:  
+Term Insurance Plan with Commission Disclosure
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Life Insurance, Commission Disclosure
+
+TAGS:  
+Term Insurance, Life Insurance, Commission, ICICI Prudential, Insurance Intermediary, RBI Circular, IRDAI Regulations
+
+CONTENT:  
+As per RBI circular RBI/2009-10/225 dated November 16, 2009, ICICI Bank, acting as a Corporate Agent for ICICI Prudential Life Insurance Company Limited, discloses the commission structure applicable on the sale of life insurance products. This disclosure is in compliance with IRDAI (Payment of Commission or Remuneration or reward to insurance agents and insurance intermediaries) Regulations, 2016 and related circulars.
+
+**Commission on Single Premium Life Insurance Products:**  
+| Category of Life Insurance Product or Policy | Maximum Commission/Remuneration on Single Premium payable to insurance intermediary |  
+|----------------------------------------------|----------------------------------------------------------------------------------|  
+| All individual life products except pure risk products | 2% |  
+| Individual Pure Risk products | 7.5% |  
+| Individual Immediate/Deferred Annuity | 2% |  
+| One year renewable group pure risk insurance | 5% of premium paid during the year or Rs 10 lakhs, whichever is less |  
+| Group Pure Risk (including Group credit) | 5% |  
+| Group Savings Variable Life Insurance | 2% |  
+| Group Fund based | 0.5% of premium paid during the year or Rs 10 lakhs, whichever is less |  
+
+**Commission on Regular Premium Life Insurance Products:**  
+| Category | First Year Premium | Renewal Premium |  
+|----------|-------------------|-----------------|  
+| Individual Pure Risk | 40% | 10% |  
+| Individual other than Pure Risk: | | |  
+| - Premium Payment Term (PPT) 5 to 11 Years | PPT * 3% | 7.5% |  
+| - PPT 12 Years or More | 35% | 7.5% |  
+| Individual Deferred Annuity / Pension | 7.5% | 2% |  
+| Group Pure Risk (including Group credit) and Group Savings Variable Life | 7.5% (only on pure risk premium) | 7.5% |  
+| Government Scheme - Life - Health | As per Government Notification | As per Government Notification |  
+
+**Additional Information:**  
+- ICICI Bank Limited is a corporate agent (Composite, IRDAI Regn No.: CA0112 valid till 31/03/2022) of ICICI Prudential Life Insurance Company Limited (IRDAI Regn No. 105).  
+- Insurance products are underwritten by ICICI Prudential Life Insurance Company Limited.  
+- The commission rates are subject to regulatory guidelines and may vary as per product and policy terms.
+
+KEY POINTS:  
+- Commission disclosure is mandated by RBI and IRDAI regulations.  
+- Commission varies by product type, premium type (single or regular), and premium payment term.  
+- Highest commission on first-year premium for individual pure risk products is 40%.  
+- Renewal commissions are lower than first-year commissions, typically ranging from 2% to 10%.  
+- Group insurance products have capped commissions based on premium or fixed limits.  
+- Government schemes follow commission as per government notifications.  
+- ICICI Bank acts as a corporate agent and earns commission on sales of ICICI Prudential Life Insurance products.
+
+URL:  
+https://www.icicibank.com/personal-banking/insurance/life-insurance/life-insurance-commission-disclosure

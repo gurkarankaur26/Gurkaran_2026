@@ -1,0 +1,48 @@
+TITLE: Car Loan Processing Fees & Charges  
+SOURCE: ICICI Bank  
+CATEGORY: Loans  
+TAGS: Car Loan, Processing Fee, Charges, Interest Rates, Prepayment, Penal Charges, Service Charges  
+
+CONTENT:  
+ICICI Bank offers flexible car loan schemes with quick processing and attractive interest rates for both new and used cars. Below is the detailed structure of processing fees, charges, and other applicable fees related to ICICI Bank Car Loans.
+
+**Processing Fees:**  
+- **New Car Loan Processing Fee:** Up to ₹8,500 + applicable GST (non-refundable)  
+- **Used Car Loan Processing Fee:** 2% of loan amount, max up to ₹20,000 + applicable GST (non-refundable)  
+
+**Application Charges:**  
+- Loan documentation charges: ₹500 + applicable GST  
+- Registration Certificate (RC) Collection Fee: ₹600 + applicable GST  
+- Stamp duty charges: As per state stamp duty act + applicable GST  
+- Valuation Charges (Used Car): ₹800 + applicable GST  
+- Information Utility Charges (Corporate cases only): ₹300 + applicable GST  
+
+**Prepayment and Penal Charges:**  
+- Part Prepayment Charges:  
+  - Nil if loan seasoning is above 24 months  
+  - 3% plus GST if loan seasoning is up to 24 months  
+- Penal charges for late payment: 5% plus GST per annum on overdue EMI until repayment  
+- Penal charge for dishonour of cheque, AD, ECS, or NACH per transaction: ₹500 + applicable GST  
+- Loan Cancellation Charges (Digital Lending):  
+  - NIL within Free Look / Cooling off period  
+  - ₹2,500 + applicable GST if cancelled post cooling period and before 1 EMI date (from 16th day till 1st EMI date)  
+
+**Service Charges:**  
+- Duplicate repayment or amortization schedule (physical print): ₹200 + applicable GST; Nil for digital channels  
+- Statement of Account (physical print at branch): ₹200 + applicable GST  
+- Prepayment statement (physical print at branch): ₹200 + applicable GST  
+- Duplicate No Objection Certificate (NOC) / No Due Certificate: ₹250 + applicable GST  
+- Revalidation of No Objection Certificate: ₹250 + applicable GST  
+- NOC for conversion from Petrol to LPG or CNG: ₹250 + applicable GST  
+- NOC for conversion from private to commercial or vice versa: ₹250 + applicable GST  
+- Repayment mode swap charges: ₹500 + applicable GST  
+
+KEY POINTS:  
+- Processing fee for new car loans is up to ₹8,500 + GST; for used cars, 2% of loan amount capped at ₹20,000 + GST.  
+- Part prepayment charges are waived after 24 months of loan seasoning; otherwise, 3% + GST applies.  
+- Late payment penal interest is 5% + GST per annum on overdue EMI.  
+- Dishonour of payment instructions attracts ₹500 + GST per instance.  
+- Loan cancellation is free within cooling-off period; ₹2,500 + GST applies if cancelled after cooling-off but before first EMI.  
+- Various service charges apply for duplicate documents and NOCs, generally ₹200-₹500 + GST.  
+
+URL: https://www.icicibank.com/personal-banking/loans/car-loan/service-charges

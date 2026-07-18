@@ -1,0 +1,75 @@
+TITLE:  
+Mutual Fund Schemes and Codes
+
+SOURCE: ICICI Bank
+
+CATEGORY:  
+Mutual Funds
+
+TAGS:  
+Mutual Funds, Fund Codes, HDFC Funds, HSBC Funds, Investment, Growth, IDCW, Dividend
+
+CONTENT:  
+This document provides a list of mutual fund schemes along with their respective scheme codes. The schemes include various fund types such as Growth and IDCW (Income Distribution cum Capital Withdrawal) options under different fund houses like HDFC and HSBC. Each scheme is identified by a unique code which is essential for transactions and investments.
+
+Key Mutual Fund Schemes and Codes:
+
+- HDFC Small Cap Fund  
+  - Direct IDCW: 130504  
+  - Growth: 130502  
+  - IDCW: 130501  
+
+- HDFC Transportation and Logistics Fund  
+  - Direct Growth: 151901  
+  - Direct IDCW: 151899  
+  - Regular Growth: 151900  
+  - Regular IDCW: 151902  
+
+- HDFC Value Fund  
+  - Direct Growth: 118935  
+  - Direct IDCW: 118934  
+  - Growth: 101764  
+  - IDCW: 101765  
+
+- HSBC Aggressive Hybrid Fund  
+  - Direct Annual IDCW: 151125  
+  - Direct Growth: 151122  
+  - Direct IDCW: 151123  
+  - Regular Annual IDCW: 151124  
+  - Regular Growth: 151120  
+  - Regular IDCW: 151121  
+
+- HSBC Arbitrage Fund  
+  - Direct Growth: 151138  
+  - Direct Monthly IDCW: 151135  
+  - Direct Quarterly IDCW: 151136  
+  - Regular Growth: 151134  
+  - Regular Monthly IDCW: 151140  
+  - Regular Quarterly IDCW: 151137  
+
+- HSBC Balanced Advantage Fund  
+  - Direct Growth: 151129  
+  - Direct IDCW: 151128  
+  - Regular Growth: 151127  
+  - Regular IDCW: 151126  
+
+- HSBC Business Cycles Fund  
+  - Direct Growth: 151142  
+  - Direct IDCW: 151145  
+  - Regular Growth: 151144  
+  - Regular IDCW: 151143  
+
+- HSBC Consumption Fund  
+  - Direct Growth: 152032  
+  - Direct IDCW: 152028  
+  - Regular Growth: 152027  
+
+KEY POINTS:  
+- Each mutual fund scheme is associated with a unique code used for identification and transactions.  
+- Schemes are available in different options such as Growth and IDCW (dividend payout).  
+- Both Direct and Regular plans are available for most schemes.  
+- Fund houses included are primarily HDFC and HSBC in this list.  
+- IDCW options may have different payout frequencies such as monthly, quarterly, or annual.  
+
+URL:  
+https://www.icicibank.com/ (Official ICICI Bank website)

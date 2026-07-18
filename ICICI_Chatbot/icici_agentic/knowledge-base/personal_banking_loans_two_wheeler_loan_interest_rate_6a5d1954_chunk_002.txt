@@ -1,0 +1,65 @@
+TITLE:  
+ICICI Bank Loan Charges, Fees, and Penal Charges Policy
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Loans, Fees & Charges, Penal Charges
+
+TAGS:  
+Loan Charges, Prepayment Charges, Penal Charges, SARFAESI, EMI Repayment, No Objection Certificate, Loan Recovery, GST, Priority Sector Lending
+
+CONTENT:  
+This document outlines the various charges, fees, and penal charges applicable to ICICI Bank loan accounts, including details on prepayment charges, recovery charges, and RBI guidelines on penal charges effective from April 1, 2024.
+
+**Loan Charges and Fees:**  
+- Objection Certificate charges: ₹250 + applicable GST  
+- No Objection Certificate charges for conversion between private and commercial vehicle loans: ₹250 + applicable GST  
+- Repayment mode swap charges: ₹500 + applicable GST  
+- Cash transaction charges for repayment of EMI dues in cash at branches: ₹100 + applicable GST  
+- Prepayment (Foreclosure) charges: 4% on Point of Sale (POS)  
+
+**Loan Related Recovery Charges (if applicable):**  
+- Charges incurred in SARFAESI proceedings: At actuals  
+- Charges incurred in sending different notices: At actuals  
+- Enforcement charges: At actuals  
+- Non Maintenance of Mode of Payment (NMMP) charges: ₹800 + GST  
+- Paper advertisement charges: At actuals  
+- Repossession charges: At actuals  
+- Security guard charges: At actuals  
+
+**Important Notes:**  
+- All charges are exclusive of Goods and Services Tax (GST). Applicable GST, taxes, and/or other statutory levies will be charged over and above the stated fees.  
+- Stamp Duty will be applicable as per the State Stamp Duty Act relevant to the state.  
+- Charges or fees are subject to change; the charges recorded in the loan application/agreement are final and binding.  
+- Nil prepayment charges apply on all fixed rate loans if the loan is booked under priority sector lending, the borrower type is Small or Micro, and the loan amount is ≤ ₹50 lakh.  
+- Nil prepayment charges also apply on all floating rate loans if the borrower type is Small or Micro in accordance with the MSE Code of Commitment.  
+
+**RBI Guidelines on Penal Charges (Effective 01 April 2024):**  
+- RBI Circular No. RBI/2023-24/53 dated 18 August 2023 mandates that penalties for non-compliance with material terms and conditions of loan contracts will be treated as penal charges, not penal interest.  
+- Penal charges will not be capitalized; no further interest will be computed on such penal charges.  
+- This guideline applies to all fresh loan facilities executed from 01 April 2024. For existing loans, the switchover to the new penal charges regime will occur by the next review or renewal date or before 30 June 2024, whichever is earlier.  
+
+**Revised Penal Charges:**  
+| Existing Penal Interest | Applicable Penal Charges |  
+|------------------------|--------------------------|  
+| 24% per annum          | 5% per annum             |  
+
+*Goods and Services Tax and other government taxes, levies, etc., applicable as per prevailing rates will be charged over and above the penal charges.*
+
+For further details or clarifications, customers are advised to visit the nearest ICICI Bank branch or contact Customer Care.
+
+KEY POINTS:  
+- Objection Certificate and conversion charges: ₹250 + GST  
+- Repayment mode swap: ₹500 + GST  
+- Cash EMI repayment charges: ₹100 + GST  
+- Prepayment charges: 4% on POS; Nil for priority sector loans ≤ ₹50 lakh and Small/Micro borrowers  
+- Recovery charges are charged at actuals or fixed rates (e.g., NMMP ₹800 + GST)  
+- RBI mandates penal charges capped at 5% p.a. replacing penal interest of 24% p.a. from 01 April 2024  
+- Penal charges are not capitalized and no interest is charged on penal charges  
+- Charges exclusive of GST and other statutory levies  
+- Stamp duty applicable as per state laws  
+
+URL:  
+https://www.icicibank.com/loan-charges-and-penal-charges

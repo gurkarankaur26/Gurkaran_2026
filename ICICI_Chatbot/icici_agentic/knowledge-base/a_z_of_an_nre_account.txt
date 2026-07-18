@@ -1,0 +1,35 @@
+TITLE: A-Z of an NRE Account  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking / NRE Account  
+TAGS: NRE Account, NRI Banking, Fixed Deposit, Recurring Deposit, Repatriation, Tax Benefits, FEMA Regulations  
+
+CONTENT:  
+A Non-Resident External (NRE) account is a bank account designed for Non-Resident Indians (NRIs), Persons of Indian Origin (PIOs), and Overseas Citizens of India (OCIs) to manage their foreign earned income in India. The account is denominated in Indian Rupees (₹), with foreign currency deposits automatically converted to INR at prevailing exchange rates. There is no upper limit on the balance maintained in an NRE account.
+
+**Key Features and Benefits:**  
+- **Repatriability:** Both principal and interest amounts in the NRE account can be freely repatriated abroad without any upper limit.  
+- **Tax Benefits:** Interest earned on the NRE account is completely exempt from income tax in India.  
+- **Account Types:** Apart from the savings account, NRIs can open NRE Fixed Deposit (FD) and Recurring Deposit (RD) accounts with tenures ranging from 1 to 10 years (tenure may vary by bank). Upon maturity, the principal and interest amounts are credited back to the NRE savings account and are freely repatriable.  
+- **Eligibility:** Available to NRIs, PIOs, and OCIs. NRIs who qualify as Indian residents under FEMA regulations must close their NRE accounts.  
+
+**Permissible Transactions (as per FEMA Regulations 2016):**  
+- **Credits:**  
+  - Remittances from overseas accounts or transfers from NRE/Foreign Currency Non-Resident (FCNR) accounts.  
+  - Funds from NRO accounts up to USD 1 million per financial year (applicable on capital income such as maturity proceeds of FD, sale of property, redemption of mutual funds and shares).  
+- **Debits:**  
+  - Payments for local Indian expenses, investments, and transfers abroad without restrictions.  
+
+**Additional Information:**  
+- The NRE account helps NRIs send money to family in India, manage local expenses, and invest in India using foreign income.  
+- The account is maintained in Indian Rupees, providing convenience and protection against exchange rate fluctuations for funds held in India.  
+
+KEY POINTS:  
+- NRE account is for NRIs, PIOs, and OCIs to hold foreign income in INR.  
+- No upper limit on balance maintained.  
+- Interest earned is tax-free in India.  
+- Funds (principal + interest) are fully repatriable without limit.  
+- NRE FD and RD available with 1 to 10 years tenure.  
+- Funds can be credited from overseas remittances, NRE/FCNR accounts, and NRO accounts (up to USD 1 million).  
+- NRIs qualifying as Indian residents must close NRE accounts as per FEMA.  
+
+URL: https://www.icicibank.com/nri-banking/nriedge/nri-articles/a-z-of-nre-account

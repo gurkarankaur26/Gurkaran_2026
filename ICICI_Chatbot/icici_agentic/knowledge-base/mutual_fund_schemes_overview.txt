@@ -1,0 +1,61 @@
+TITLE: Mutual Fund Schemes Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Investment Products  
+TAGS: Mutual Funds, Investment, Fund Schemes, Growth, IDCW, Hybrid Funds, Arbitrage Funds  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes available, including their types, plan options, and identification codes. The schemes cover various categories such as multi-cap funds, index funds, small cap funds, sectoral funds, hybrid funds, and arbitrage funds. Each scheme is available in different plan options like Direct (Dir) and Regular (Reg), and payout options such as Growth and IDCW (Income Distribution cum Capital Withdrawal).
+
+Key Mutual Fund Schemes and Details:  
+
+1. **Bandhan Multi Cap Fund**  
+   - Plan Options: Regular  
+   - Payout Options: IDCW  
+   - Codes: 149302  
+
+2. **Bandhan Nifty 50 Index Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 118482, 118483, 112877, 112878  
+
+3. **Bandhan Nifty100 Low Volatility 30 Index Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 150633, 150634, 150635  
+
+4. **Bandhan Small Cap Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 147943, 147944, 147945, 147946  
+
+5. **Bandhan Transportation and Logistics Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 150716, 150717, 150718, 150719  
+
+6. **Bandhan Value Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 108908, 108909, 118480, 118481  
+
+7. **Baroda BNP Paribas Aggressive Hybrid Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth and IDCW  
+   - Codes: 150258, 150259, 150260, 150261  
+
+8. **Baroda BNP Paribas Arbitrage Fund**  
+   - Plan Options: Direct and Regular  
+   - Payout Options: Growth, Adhoc IDCW, Monthly IDCW, Quarterly IDCW  
+   - Codes: 150251, 150252, 150253, 150255, 150256  
+
+Note: IDCW refers to Income Distribution cum Capital Withdrawal, which is a payout option where investors receive periodic income distributions.
+
+KEY POINTS:  
+- Mutual funds are available in Direct and Regular plans.  
+- Payout options include Growth (reinvestment of earnings) and IDCW (periodic income distribution).  
+- Various fund categories are offered: Multi Cap, Index, Small Cap, Sectoral, Hybrid, and Arbitrage.  
+- Each scheme has a unique identification code for easy reference.  
+- Investors can choose funds based on their risk appetite and investment goals.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

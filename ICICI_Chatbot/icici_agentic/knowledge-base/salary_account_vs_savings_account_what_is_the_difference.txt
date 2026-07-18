@@ -1,0 +1,35 @@
+TITLE: Salary Account vs Savings Account: What is the Difference  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Accounts  
+TAGS: Salary Account, Savings Account, Minimum Balance, Interest Rates, Account Features, ICICI Bank  
+
+CONTENT:  
+A salary account is a specialized type of savings account primarily used for receiving monthly salary payments from an employer. Employers typically have tie-ups with specific banks to open salary accounts for their employees. In contrast, a regular savings account is designed for individuals to deposit and manage their savings independently.
+
+**Key Differences Between Salary Account and Savings Account:**
+
+1. **Account Purpose:**  
+   - *Salary Account:* Used for salary deposits by employers.  
+   - *Savings Account:* Used by individuals to save and manage money.
+
+2. **Minimum Balance Requirements:**  
+   - *Salary Account:* Usually no minimum balance requirement; entire salary can be withdrawn without penalty.  
+   - *Savings Account:* Minimum balance requirements apply; failure to maintain minimum balance may attract penalties.
+
+3. **Account Convertibility:**  
+   - *Salary Account:* Automatically converts to a regular savings account if no salary is credited for a certain period (generally 3 months). Post conversion, minimum balance rules apply.  
+   - *Savings Account:* Can be converted to a salary account if the bank permits and the employer has a tie-up with the bank.
+
+4. **Account Opening and Interest Rates:**  
+   - *Salary Account:* Opened by employer or employee in a bank empanelled with the company.  
+   - *Savings Account:* Can be opened by any individual.  
+   - Both accounts earn interest, with rates subject to the bank’s terms.
+
+KEY POINTS:  
+- Salary accounts are primarily for salary deposits and have no minimum balance requirements.  
+- Savings accounts require maintaining a minimum balance to avoid penalties.  
+- Salary accounts convert to savings accounts if salary credits stop for about 3 months.  
+- Savings accounts can be converted to salary accounts if the employer’s bank tie-up exists.  
+- Both accounts earn interest, but interest rates and terms may vary.  
+
+URL: https://www.icicibank.com/blogs/saving-account/salary-account-vs-savings-account

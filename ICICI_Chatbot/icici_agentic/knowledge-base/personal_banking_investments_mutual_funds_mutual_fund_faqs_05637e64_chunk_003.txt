@@ -1,0 +1,58 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment Guide
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment, Savings Account
+
+TAGS:  
+Mutual Fund, Investment ID, KYC, Expense Ratio, Exit Load, Tax, Net Banking, iMobile, SIP, Lumpsum
+
+CONTENT:  
+ICICI Bank customers can invest in mutual funds through their savings account, which can be held in single or joint mode. Mutual fund investments can be made via ICICI Bank Net Banking or iMobile app after completing the necessary KYC requirements.
+
+**Investment Process:**  
+- For savings accounts in single or joint mode where the mutual fund purchase is in the first holder’s name, customers can create an Investment ID instantly via iMobile or Net Banking by selecting the account and providing basic details such as Date of Birth and PAN.  
+- For joint accounts wishing to invest in Any or Survivor mode, customers must visit the branch to activate the Mutual Fund section by submitting the MF online registration form along with PAN and Aadhaar.  
+- Investments can be made through:  
+  - ICICI Bank Net Banking: Login > Investment > Buy Mutual Fund > Select category > Choose scheme > Invest  
+  - iMobile App: Login > Invest > Mutual Fund > Select category > Choose fund > Invest  
+- Customers can choose the investment mode as SIP (Systematic Investment Plan) or Lumpsum, confirm the mandate, and authorize payment securely.  
+- KYC completion is mandatory before investing and can be done via the mutual fund section in iMobile.
+
+**Switching Funds:**  
+- Switching between schemes of the same Asset Management Company (AMC) is allowed and treated as redemption from the existing scheme and purchase into the new scheme.  
+- Applicable exit loads and tax rules apply.  
+- Funds under lock-in period cannot be switched or transferred before the lock-in tenure ends.
+
+**Charges and Fees:**  
+- Expense Ratio: Charged by the AMC for managing the fund, deducted from the NAV daily. It affects the NAV and returns and is available on AMC websites and mutual fund fact sheets.  
+- Exit Load: Charged if units are redeemed before a specified period to discourage early withdrawals. Details are available in the scheme’s SID/KIM documents.  
+- Transaction Charges: Applicable for certain investments above SEBI thresholds.  
+- Stamp Duty: Applicable on purchase transactions.  
+- Securities Transaction Tax (STT): Applicable on redemption transactions.  
+- ICICI Bank does not charge any additional brokerage for mutual fund purchases via regular plans.  
+- Entry loads have been removed by SEBI; no upfront commission is charged to investors.  
+- Tax Deducted at Source (TDS) applies to NRI customers.
+
+**Taxation:**  
+- Returns from mutual funds come in the form of capital gains and dividends, both taxable in the hands of the investor.  
+- Capital gains or losses arise when units are sold.  
+- Dividends are paid proportionally to units held at the time of dividend announcement.
+
+KEY POINTS:  
+- Investment ID creation via iMobile/Net Banking for single holder mutual fund purchases.  
+- Branch visit required for joint account investments in Any or Survivor mode.  
+- Investment modes: SIP and Lumpsum.  
+- KYC mandatory before investing.  
+- Switching allowed within same AMC schemes, subject to exit loads and lock-in periods.  
+- Expense ratio and exit load details available in scheme documents.  
+- No entry loads; no brokerage charged by ICICI Bank.  
+- Stamp duty and STT applicable on purchase and redemption respectively.  
+- TDS applicable for NRI investors.  
+- Taxable returns include capital gains and dividends.
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds/investment-guide

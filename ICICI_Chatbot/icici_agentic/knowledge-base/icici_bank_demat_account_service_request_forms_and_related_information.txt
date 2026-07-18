@@ -1,0 +1,50 @@
+TITLE: ICICI Bank Demat Account Service Request Forms and Related Information  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Services  
+TAGS: Demat Account, Service Request Forms, KYC, Fees, Nomination, Delivery Instructions, Account Modification  
+
+CONTENT:  
+ICICI Bank provides a comprehensive set of service request forms for Demat account holders to facilitate various transactions and account management activities. Customers can download these forms and submit them at any demat-enabled ICICI Bank branch along with the required KYC documents.
+
+**Key Services and Forms Available:**  
+- Demat Account Opening Form  
+- CDSL Pledge and Unpledge Request Forms  
+- Rights and Obligations Document for Demat Account  
+- Dematerialisation and Rematerialisation of Shares Forms  
+- Repurchase or Redemption of Units Form  
+- Application for Reissue of TIFD or DIS Booklet (without requisition slip)  
+- Account Freezing and Defreezing Forms  
+- Demat or Trading Account Closure Form  
+- E-instruction Facility Forms  
+- Demat Account Details Modification/Updation Forms  
+- CERSAI / KRA KYC Forms  
+- Nomination Facility Forms or Declaration for No Nominee  
+- Correspondence Address Change Form  
+- Transmission Related Documents  
+- Additional Documents if Nomination is Not Done  
+- Net Banking, Phone Banking Access, Mobile Alerts, and E-statement Forms  
+- Pledge and Hypothecation Forms  
+- FATCA or CRS Declaration and Annexures  
+- Delivery Instruction Slip Annexures including:  
+  - FORM 12: Delivery Instructions by Client  
+  - FORM 13: Delivery Instructions by Power of Attorney Holder on Behalf of Clients  
+  - FORM 15: Inter-Depository Delivery Instructions  
+  - FORM 16: Inter-Depository Delivery Instructions by POA Holder  
+  - NSDL/CDSL Annexure for Off-Market Sale Consideration Payment Details  
+  - Annexure for Processing Off-Market Transfer Instructions in Shares of Private Limited Companies  
+- Declaration Form for Separate Mobile Number and Email ID  
+
+**Fees and Charges:**  
+- There is no fee for opening a Demat Account with ICICI Bank.  
+- Nominal fees apply based on the services availed. Customers should refer to the official service charges schedule for detailed information.  
+
+KEY POINTS:  
+- Demat account opening is free of charge.  
+- Multiple service request forms are available for various Demat account operations.  
+- All forms require submission at demat-enabled ICICI Bank branches with KYC documents.  
+- Nomination facility and address change can be managed through specific forms.  
+- Delivery instruction slips and off-market transfer annexures are provided for share transactions.  
+- FATCA/CRS declarations are part of compliance documentation.  
+- Customers can update mobile number and email ID separately via a declaration form.  
+
+URL: https://www.icicibank.com/personal-banking/demat/bankingstandard

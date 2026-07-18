@@ -1,0 +1,56 @@
+TITLE:  
+ICICI Bank NRO Savings Account - Features, Eligibility, Interest Rates, and Processes
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Bank Accounts / NRO Savings Account
+
+TAGS:  
+NRO Account, Savings Account, Interest Rates, Account Opening, NRI Banking, Fund Transfer, Eligibility, Fees
+
+CONTENT:  
+ICICI Bank offers an NRO (Non-Resident Ordinary) Savings Account designed for Non-Resident Indians (NRIs) to manage their income earned in India. The account can be opened jointly only with relatives, and the mode of operation is either 'former or survivor,' where only the primary applicant has rights for financial and non-financial transactions. A resident joint applicant can be added as a mandate holder.
+
+**Account Opening and Documentation:**  
+- The NRO Savings Account can be opened with Indian Rupees (INR) or any convertible foreign currency. The foreign currency will be converted into INR, and the account will be maintained only in INR.  
+- NRIs residing in the USA, UK, Canada, Australia, Singapore, and UAE can submit their documents via local P.O. Boxes to save on courier charges.  
+- Alternatively, customers can download the registration form from the ICICI Bank website, fill it, and mail it to the following address:  
+  ICICI Bank Limited  
+  Net Banking Department  
+  6th Floor, A-Wing, Autumn Estates  
+  Chandivali Farm Road, Chandivali  
+  Landmark: Next to Chandivali Studio, Opp MHADA  
+  Andheri-East, Mumbai - 400072, INDIA  
+- Customers can also visit any ICICI Bank branch in India to submit the registration form.  
+
+**Linking Loan Account to Savings Account:**  
+- Customers can link their loan account to their Savings account by applying online through the "Service Request" option available in Net Banking.
+
+**Interest Rates and Calculation:**  
+- Interest on all rupee savings accounts, including NRO Savings Account, is calculated on the daily closing balance.  
+- Interest rates effective from August 19, 2017:  
+  - 4.00% per annum for end-of-day balances equal to or above INR 50 lakhs  
+  - 3.50% per annum for end-of-day balances below INR 50 lakhs  
+- Interest is rounded off to the nearest rupee, ignoring fractions of a rupee.
+
+**Fund Transfer and Repatriation:**  
+- Funds from the NRO account cannot be transferred to NRE (Non-Resident External) or FCNR (Foreign Currency Non-Resident) accounts as funds in an NRO account are not freely repatriable outside India.  
+- However, the Reserve Bank of India (RBI) permits transfer from NRO to NRE account subject to submission of required documents and compliance with repatriation limits.
+
+**Customer Support:**  
+- For any clarifications or more information, customers can contact ICICI Bank’s 24-hour Customer Care or write through the "Email us" option on the official website.
+
+KEY POINTS:  
+- NRO Savings Account can be opened jointly only with relatives; primary applicant has full rights.  
+- Account can be opened with INR or convertible foreign currency (converted to INR).  
+- Interest rates: 4% p.a. for balances ≥ INR 50 lakhs; 3.5% p.a. for balances < INR 50 lakhs.  
+- Interest calculated daily on closing balance and rounded to nearest rupee.  
+- Loan accounts can be linked to Savings accounts via Net Banking service request.  
+- Funds in NRO accounts cannot be freely repatriated; transfers to NRE accounts allowed with documentation and RBI approval.  
+- Documents can be submitted via local P.O. Boxes for NRIs in select countries or at any ICICI Bank branch in India.  
+- 24-hour customer support available for assistance.
+
+URL:  
+https://www.icicibank.com/knowledge-base/nro-savings-account.html

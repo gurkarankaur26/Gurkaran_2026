@@ -1,0 +1,33 @@
+TITLE: Currency Exchange Rates and Money Transfer Charges for NRIs  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Money Transfer  
+TAGS: Currency Exchange, NRI Services, Money Transfer, Exchange Rates, Service Charges  
+
+CONTENT:  
+ICICI Bank provides competitive currency exchange rates and low-cost money transfer services for Non-Resident Indians (NRIs) through its Money2India platform. The service offers fast transfers with real-time tracking from countries including the USA, UAE, Canada, Europe, Singapore, and the UK.
+
+Exchange Rates and Service Charges (as of July 01, 2026, 10:00 AM IST):  
+
+| Country  | Exchange Rate (INR) | Service Charges                          |  
+|----------|---------------------|----------------------------------------|  
+| USA      | 94.19               | Below USD 1,000 – USD 4 fee             |  
+|          |                     | USD 1,000 & above – Zero fee            |  
+| UAE      | 25.67               | 12 AED                                 |  
+| Canada   | 65.35               | Zero fee                               |  
+| Europe   | 108.01*             | 0.5% of remitting amount*               |  
+| Singapore| 72.74               | Zero fee                               |  
+| UK       | 124.68              | Zero fee                               |  
+
+*Note: Exchange rates are volatile and subject to change. The exact rate and charges applicable to your transfer can be checked by logging into the Money2India platform.
+
+KEY POINTS:  
+- Money2India offers low-cost, fast money transfers with real-time tracking for NRIs.  
+- Exchange rates vary by country and are updated regularly; rates shown are as of July 01, 2026.  
+- Service charges differ by country and transfer amount; some transfers have zero fees above certain thresholds.  
+- For USA transfers, a fee of USD 4 applies for amounts below USD 1,000; transfers of USD 1,000 and above have zero fees.  
+- UAE transfers incur a fixed charge of 12 AED.  
+- Europe transfers attract a service charge of 0.5% of the remitting amount.  
+- Transfers from Canada, Singapore, and the UK have zero service charges.  
+- Customers should verify the latest exchange rates and fees on the Money2India platform before initiating transfers.  
+
+URL: https://www.icicibank.com/nri-banking/money-transfer/money-transfer-rates

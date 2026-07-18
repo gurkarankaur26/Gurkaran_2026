@@ -1,0 +1,51 @@
+TITLE:  
+ICICI Bank NRI Services: Payee Registration, Fund Transfers, Demand Draft Requests, and Address Updation
+
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking Services  
+TAGS: NRI Banking, Payee Registration, Fund Transfer, Demand Draft, Address Update, Customer Care, NRE Account, NRO Account  
+
+CONTENT:  
+ICICI Bank provides comprehensive services for Non-Resident Indians (NRIs) including payee registration confirmation, fund transfers, demand draft requests, and address updation. These services can be accessed via net banking, customer care, or by submitting physical documents to ICICI Bank branches or designated addresses.
+
+**Payee Registration and Fund Transfer:**  
+- Upon successful authentication, the payee registration status changes from "pending confirmation" to "registration confirmed," enabling fund transfers to the registered payee for specific services.  
+- Payee confirmation can also be done by calling ICICI Bank’s 24-hour Customer Care.  
+- Alternatively, NRIs can send a signed letter with complete fund transfer details to the following address:  
+  ICICI Bank Limited,  
+  RPC Mumbai,  
+  5th Floor, A-Wing, Autumn Estates,  
+  Chandivali Farm Road, Chandivali,  
+  Landmark: Next to Chandivali Studio, Opp MHADA,  
+  Andheri-East, Mumbai - 400072, INDIA.  
+- NRIs residing in USA, UK, Canada, Australia, Singapore, and UAE can post documents to local P.O. Boxes to save on courier charges.  
+- Fund transfers via net banking are subject to daily transfer limits applicable to NRI customers.  
+
+**Demand Draft Requests:**  
+- Demand drafts can be requested online through the "Service Request" option in net banking.  
+- Alternatively, NRIs can fill out a demand draft request form, print it, and mail it to the above India address or submit it at any ICICI Bank branch in India.  
+- NRIs in USA, UK, Canada, Australia, Singapore, and UAE can post documents to local P.O. Boxes to avoid courier charges.  
+- Applicable service charges will be levied for demand draft issuance.  
+
+**Address Updation:**  
+- NRIs can update their address by sending a signed 'Address Change' request form along with valid address proof to the India address mentioned above.  
+- The 'Address Change' form and list of valid address proofs are available for download on the ICICI Bank website.  
+- Attaching the correct address proof is essential to avoid delays in processing the request.  
+
+**Additional Information:**  
+- For any clarifications or further information, NRIs can contact ICICI Bank’s 24-hour Customer Care or use the "Email us" option on the official website www.icici.bank.in.  
+- Minimum balance requirements and daily transfer limits for NRE and NRO accounts are available on the ICICI Bank website.  
+- Documents accepted as proof of credit to NRE accounts are specified by the bank and can be referred to online.  
+
+KEY POINTS:  
+- Payee registration confirmation enables fund transfers.  
+- Multiple channels for payee confirmation: net banking, customer care, physical letter.  
+- Demand drafts can be requested online or via physical forms.  
+- Address updation requires a signed form and valid proof sent to the bank’s India address.  
+- NRIs in select countries can use local P.O. Boxes to avoid courier charges.  
+- 24-hour Customer Care support is available for all queries.  
+- Service charges apply for demand drafts and other services.  
+- Daily transfer limits and minimum balance requirements apply for NRE/NRO accounts.  
+
+URL:  
+https://www.icicibank.com/nri-banking/services.page

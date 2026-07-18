@@ -1,0 +1,47 @@
+TITLE: Comparison of ICICI Bank Fixed Deposit, Recurring Deposit, and iWish Flexible RD  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Products, Deposits, Investment Options  
+TAGS: Fixed Deposit, Recurring Deposit, iWish, Tax Saving FD, Premature Withdrawal, Interest Rates, Penalties, Investment Options  
+
+CONTENT:  
+ICICI Bank offers three primary deposit investment products: Fixed Deposit (FD), Recurring Deposit (RD), and iWish Flexible RD. Each product caters to different investment needs and preferences.
+
+**Fixed Deposit (FD):**  
+- Investment: One-time lump sum deposit.  
+- Deposit Amount: Multiples of 100 INR.  
+- Deposit Date: Once at the start of the investment.  
+- Number of Deposits: Not applicable (single deposit).  
+- Premature Withdrawal: Available with or without premature withdrawal facility. Premature closure may attract penalties and adjusted interest rates.  
+- Tax Benefits: Tax Saving FD available with a lock-in period of 5 years, eligible for tax benefits under Section 80C. Interest rates on tax-saving FDs are higher than regular FDs.  
+
+**Recurring Deposit (RD):**  
+- Investment: Fixed monthly instalments.  
+- Deposit Amount: Multiples of 100 INR.  
+- Deposit Date: A fixed date every month.  
+- Number of Deposits: One per month.  
+- Penalty for Missing Deposits: Yes, Rs. 12 penalty for every Rs. 1000 on the interest rate.  
+- Premature Withdrawal: Allowed with penalty and interest adjustment.  
+- Tax Benefits: No tax benefits on RD.  
+
+**iWish Flexible RD:**  
+- Investment: Flexible monthly contributions; any amount and any number of times per month.  
+- Deposit Date: Any date you wish.  
+- Penalty for Missing Deposits: No penalties; you can skip deposits anytime.  
+- Premature Withdrawal: Allowed with penalty and interest adjustment.  
+- Tax Benefits: Tax saving benefits available in iWish.  
+
+**Choosing the Right Product:**  
+- If you have a lump sum amount to invest immediately, choose an FD.  
+- For tax-saving on FD, opt for Tax Saving FD with a 5-year lock-in.  
+- If you can only invest small fixed amounts monthly, RD is suitable.  
+- If you want flexibility in monthly contributions or may skip some months, iWish Flexible RD is ideal.  
+
+KEY POINTS:  
+- FD is a one-time lump sum investment; RD and iWish involve monthly deposits.  
+- FD offers tax-saving options under Section 80C with a 5-year lock-in.  
+- RD penalizes missed monthly instalments; iWish does not.  
+- Premature withdrawal is allowed in all products but may attract penalties and interest adjustments.  
+- iWish offers flexible monthly contributions with no penalties for missed deposits.  
+- Choose the product based on your investment amount, frequency, and tax-saving needs.  
+
+URL: https://www.icicibank.com/personal-banking/investments/fixed-deposit.page

@@ -1,0 +1,52 @@
+TITLE:  
+HSBC Mutual Fund Schemes Overview
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds
+
+TAGS:  
+HSBC, Mutual Funds, Bond Fund, Corporate Bond Fund, Liquid Fund, Low Duration Fund, Money Market Fund, Growth, Dividend, IDCW, Investment
+
+CONTENT:  
+This document provides an overview of various HSBC Mutual Fund schemes available for investment, including their plan types, dividend options, and scheme codes. The schemes cover a range of fund categories such as Bond Funds, Corporate Bond Funds, Liquid Funds, Low Duration Funds, and Money Market Funds. Each scheme is available in different options such as Regular and Direct plans, with dividend payout frequencies including Growth, Daily IDCW (Income Distribution cum Capital Withdrawal), Weekly IDCW, Monthly IDCW, Quarterly IDCW, Semi-Annual IDCW, and Annual IDCW.
+
+Key HSBC Mutual Fund Schemes:
+
+1. **Bond Fund**  
+   - Regular Plan with Annual IDCW option  
+   - Scheme Code: 151001
+
+2. **Corporate Bond Fund**  
+   - Regular Plan with Bonus, Growth, Quarterly IDCW, and Semi-Annual IDCW options  
+   - Scheme Codes: 150992 to 150995
+
+3. **CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund**  
+   - Direct and Regular Plans with Growth and IDCW options  
+   - Scheme Codes: 149962 to 149966
+
+4. **Liquid Fund**  
+   - Direct and Regular Plans with Daily, Weekly, Monthly IDCW and Growth options  
+   - Scheme Codes: 118901 to 120040
+
+5. **Low Duration Fund**  
+   - Direct and Regular Plans with Annual, Monthly IDCW and Growth options  
+   - Scheme Codes: 151114 to 151119
+
+6. **Money Market Fund**  
+   - Direct and Regular Plans with Daily, Weekly, Monthly IDCW and Growth options  
+   - Scheme Codes: 151048 to 151055
+
+These schemes provide investors with multiple options to suit their investment goals, whether seeking growth or regular income through dividend payouts. The availability of Direct and Regular plans allows investors to choose based on their preference for distribution channels.
+
+KEY POINTS:  
+- Multiple HSBC Mutual Fund schemes are available across different fund categories.  
+- Plans include Regular and Direct options.  
+- Dividend options include Growth, Daily, Weekly, Monthly, Quarterly, Semi-Annual, and Annual IDCW.  
+- Scheme codes are provided for easy identification and transaction.  
+- Suitable for investors seeking diversified fixed income and liquid investment options.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/hsbc-mutual-funds.page

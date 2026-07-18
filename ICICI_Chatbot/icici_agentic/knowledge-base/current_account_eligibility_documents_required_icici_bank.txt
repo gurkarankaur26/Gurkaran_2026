@@ -1,0 +1,59 @@
+TITLE: Current Account Eligibility & Documents Required | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Business Banking / Current Account  
+TAGS: Current Account, Eligibility, Documents Required, Business Banking, Sole Proprietorship, HUF, Partnership Firm, Private Limited Company, Public Limited Company, KYC  
+
+CONTENT:  
+ICICI Bank provides detailed guidelines on the eligibility and documentation required to open a Current Account for various business entities including Individuals (for business purposes), Sole Proprietorship Firms, Hindu Undivided Families (HUF), Partnership Firms, and Private/Public Limited Companies.
+
+**Documents Required for Current Account Opening**
+
+1. **For Sole Proprietorship Firm:**  
+   - Two government-issued documents in the name of the sole proprietorship firm confirming name and address (registration/license documents).  
+   - Latest passport-size colour photograph of the sole proprietor.  
+   - PAN Card of the sole proprietor.  
+   - Proof of identity and proof of address of the sole proprietor.  
+   - If Power of Attorney (POA) is granted for account operations, photograph, identity, and address proof of the POA holder.  
+   - Account opening cheque from an existing Current Account.
+
+2. **For Hindu Undivided Family (HUF):**  
+   - Latest passport-size colour photograph of the karta/authorized signatories.  
+   - Identity and address proof of the karta/authorized signatories.  
+   - Current landline/mobile number and e-mail ID.  
+   - Permanent Account Number (PAN) in the name of the HUF.  
+   - HUF Letter (available as a PDF document).  
+   - Account opening cheque from an existing Current Account or Karta’s Savings Account.
+
+3. **For Partnership Firm:**  
+   - Latest passport-size colour photographs of authorized signatories.  
+   - Identity and address proof of authorized signatories.  
+   - List of beneficial owners holding more than 10% in the firm (on letterhead).  
+   - Identity and address proof of such beneficial owners.  
+   - Proof of address of the entity.  
+   - Permanent Account Number (PAN) of the entity.  
+   - Current landline/mobile number and e-mail ID of the entity.  
+   - Partnership deed.  
+   - Partnership letter.  
+   - Account opening cheque from an existing Current Account.  
+   - **Note:** In case of change in partner(s), complete KYC documents need to be submitted.
+
+4. **For Private/Public Limited Company (including One Person Company - OPC):**  
+   - Certificate of incorporation.  
+   - Memorandum of Association (MoA) and Articles of Association (AoA).  
+   - ICICI Bank Board Resolution for opening the account.  
+   - (Further documents typically required but not fully listed in the source.)
+
+**Additional Information:**  
+- All documents must be self-attested.  
+- Proof of identity and address documents should be selected from the bank’s prescribed list of acceptable documents.  
+- Account opening cheque should be from an existing current account to facilitate the process.
+
+KEY POINTS:  
+- Different business entities require specific sets of documents for current account opening.  
+- PAN card and proof of identity/address are mandatory for all types of accounts.  
+- Partnership firms must disclose beneficial owners holding more than 10%.  
+- KYC compliance is mandatory and must be updated in case of changes in partners or authorized signatories.  
+- Account opening cheque from an existing current account is required for verification.  
+- HUF accounts require a specific HUF letter and PAN in the name of the HUF.  
+
+URL: https://www.icicibank.com/business-banking/current-account/documentation

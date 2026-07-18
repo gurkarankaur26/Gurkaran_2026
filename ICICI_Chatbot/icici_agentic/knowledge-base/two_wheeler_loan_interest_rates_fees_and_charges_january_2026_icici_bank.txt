@@ -1,0 +1,51 @@
+TITLE: Two-Wheeler Loan Interest Rates, Fees and Charges (January 2026) | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Loans / Two-Wheeler Loan  
+TAGS: Two-Wheeler Loan, Bike Loan, Interest Rates, Fees, Charges, EMI, Loan Processing, Prepayment, Penal Charges  
+
+CONTENT:  
+ICICI Bank offers competitive Two-Wheeler Loan (Bike Loan) interest rates and flexible repayment options to help customers finance their new bike or scooter. The interest rates vary based on loan amount, tenure, and borrower creditworthiness. The bank provides both fixed interest rate options and convenient loan repayment plans.
+
+**Interest Rates:**  
+- Interest rates generally range from 10.25%* to 26.10%* per annum.  
+- For the quarter ended March 2026, the Bike Loan interest rate per annum ranged between 12.00% (minimum) and 15.00% (maximum), with a mean of 20.00%.  
+- Rates are subject to change based on various factors and terms and conditions.
+
+**Fees and Charges:**  
+
+| Sr. No | Charges                                   | Amount / Details                                      |
+|--------|-------------------------------------------|-----------------------------------------------------|
+| **A. On Application** |                                   |                                                     |
+| i.     | Loan processing fee                        | Up to 4% of loan amount                              |
+| ii.    | Loan documentation charge                  | ₹500 + applicable GST                                |
+| iii.   | Registration Certificate (RC) Collection Fee | ₹600 + applicable GST                                |
+| iv.    | Stamp duty charges                         | As per State Stamp Duty Act + applicable GST        |
+| v.     | Information Utility Charges (Corporate cases only) | ₹300 + applicable GST                                |
+| **B. During the Loan Tenure (Contingent Charges)** |                   |                                                     |
+| i.     | Part Payment Charges                       | Nil if loan seasoning > 24 months; 3% of part payment amount if ≤ 24 months |
+| ii.    | Penal charges for late payment             | 5% per annum + applicable GST on overdue EMI until repayment |
+| iii.   | Penal charge for dishonour of cheque/AD/ECS/NACH per transaction | ₹500 + applicable GST per instance                   |
+| iv.    | Loan Cancellation Charges                  | Digital Lending: NIL within Free Look/Cooling-off period; ₹2,500 + GST if cancelled post cooling-off and before 1st EMI date |
+| **C. Service Charges** |                                   |                                                     |
+| i.     | Duplicate repayment or amortization schedule charges | ₹200 + GST for physical printout; Nil for digital channels |
+| ii.    | Statement of Account charges               | ₹200 + GST for physical printout at branch          |
+| iii.   | Prepayment statement charges               | ₹200 + GST for physical printout at branch          |
+| iv.    | Duplicate No Objection Certificate (NOC) or No Due Certificate charges | ₹250 + GST                                          |
+| v.     | Revalidation of NOC charges                | (Details not provided in source)                     |
+
+**Additional Information:**  
+- Part payment charges are waived if the loan has been active for more than 24 months.  
+- Penal charges apply for late payments and dishonoured payment instruments.  
+- Loan cancellation charges vary depending on the timing of cancellation and whether the loan was digitally processed.  
+- Physical copies of statements and schedules incur nominal fees; digital copies are free.  
+
+KEY POINTS:  
+- Two-Wheeler Loan interest rates range from 10.25%* to 26.10%* per annum, subject to borrower profile and loan details.  
+- Loan processing fee can be up to 4% of the loan amount.  
+- Part payment charges are nil after 24 months of loan seasoning; otherwise, 3% applies.  
+- Late payment penal interest is 5% per annum plus GST on overdue EMIs.  
+- Dishonour of payment instruments attracts a ₹500 + GST penalty per instance.  
+- Loan cancellation charges are nil within the cooling-off period for digital loans; ₹2,500 + GST applies if cancelled after cooling-off but before first EMI.  
+- Physical document requests attract nominal fees; digital requests are free.  
+
+URL: https://www.icicibank.com/personal-banking/loans/two-wheeler-loan/interest-rate

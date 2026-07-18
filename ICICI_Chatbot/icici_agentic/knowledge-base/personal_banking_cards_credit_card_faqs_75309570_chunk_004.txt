@@ -1,0 +1,53 @@
+TITLE:  
+ICICI Bank Credit Card Limits, Controls, and Rewards Program
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Credit Cards
+
+TAGS:  
+Credit Limit, Credit Card Controls, Rewards Program, ICICI Bank, iMobile App, Net Banking, RuPay Card, Spending Limits, Temporary Credit Limit, Customer Support
+
+CONTENT:  
+ICICI Bank credit card limits are assigned based on the type of card applied for, the applicant’s credit profile, and the Bank’s internal risk evaluation. These limits may be revised over time depending on usage patterns, repayment behaviour, and overall creditworthiness.
+
+**Credit Limit Management:**  
+- You can request a credit limit increase via the iMobile app, Net Banking, or by contacting customer support. Approval depends on your usage, repayment history, income documentation, and credit profile.  
+- The Bank may reduce your credit limit based on internal risk assessments, regulatory requirements, or changes in your creditworthiness.  
+- You may request changes to your credit limit at any time, subject to approval based on eligibility criteria.  
+- A self-set limit feature allows you to define a spending limit lower than your assigned credit limit to control expenses and enhance security.  
+- Temporary credit-limit enhancement is available after 9 months of card membership, allowing higher spending capacity for a short period. This requires contacting ICICI Bank Customer Care and is granted based on credit history and at the Bank’s discretion.
+
+**Usage Controls:**  
+- Through the iMobile Pay app, you can manage spend limits, enable or disable domestic or international transactions, and control specific transaction channels such as online, POS, or ATM.  
+- International transactions may be declined if international usage is disabled. You can enable international usage via the iMobile app under card controls.
+
+**Linking RuPay Credit Card to UPI:**  
+- Log in to the iMobile app.  
+- Go to UPI Payments > UPI Settings > Link your RuPay Credit Card to UPI.  
+- Enter and confirm your preferred UPI ID.  
+- Select your ICICI Bank RuPay Credit Card and tap Confirm.
+
+**Reducing Credit Limit:**  
+You can reduce your credit limit through:  
+- **iMobile App:** Log in > Cards/Forex/PayLater > Select Credit Card > Manage Card > Manage Credit Limit > Adjust and submit.  
+- **Net Banking:** Log in > Cards > Credit Card > Modify Credit Limit > Proceed.  
+- **Customer Care/Branch:** Contact ICICI Bank Customer Care or visit a branch.
+
+**ICICI Bank Rewards Program:**  
+- Earn reward points on eligible credit card transactions.  
+- Points can be redeemed for vouchers, merchandise, travel, or statement credit depending on the card benefits.  
+- Redeem points via Net Banking (Cards > Credit Cards > Reward Points > Redeem Now) or iMobile app (Cards & Forex > Select Credit Card > View and redeem points).
+
+KEY POINTS:  
+- Credit limits assigned based on card type, credit profile, and risk evaluation.  
+- Credit limit increases and decreases can be requested via iMobile, Net Banking, or Customer Care.  
+- Self-set limits and temporary credit limit enhancements available for better expense control.  
+- Spend controls available for domestic/international transactions and specific channels via iMobile app.  
+- RuPay Credit Cards can be linked to UPI through the iMobile app.  
+- ICICI Bank Rewards program offers points on eligible transactions redeemable for various benefits.
+
+URL:  
+https://www.icicibank.com/credit-cards

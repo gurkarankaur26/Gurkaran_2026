@@ -1,0 +1,65 @@
+TITLE:  
+Kotak Mutual Fund Schemes Overview
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Products
+
+TAGS:  
+Kotak Mutual Fund, Liquid Fund, Low Duration Fund, Medium Term Fund, Money Market Fund, Nifty SDL Fund, Overnight Fund, Savings Fund, Investment Options
+
+CONTENT:  
+This document provides a comprehensive list of Kotak Mutual Fund schemes, including various fund categories such as Liquid Funds, Low Duration Funds, Medium Term Funds, Money Market Funds, Nifty SDL Equal Weight Index Funds, Overnight Funds, and Savings Funds. Each scheme is available in different plans (Direct and Regular) and options (Growth, Dividend - Daily, Monthly, or Annual IDCW).
+
+Key Kotak Mutual Fund Schemes:
+
+1. **Kotak Liquid Fund**  
+   - Available in Direct and Regular plans  
+   - Options: Daily IDCW, Growth  
+   - Suitable for short-term investments with high liquidity
+
+2. **Kotak Low Duration Fund**  
+   - Direct and Standard plans  
+   - Options: Growth, Monthly IDCW  
+   - Ideal for low-risk, short-term debt investments
+
+3. **Kotak Medium Term Fund**  
+   - Direct and Regular plans  
+   - Options: Growth, Annual IDCW  
+   - Suitable for medium-term debt investment horizon
+
+4. **Kotak Money Market Fund**  
+   - Direct and Regular plans  
+   - Options: Growth, Monthly IDCW  
+   - Focuses on money market instruments for liquidity and safety
+
+5. **Kotak Nifty SDL Apr 2027 & 2032 Top 12 Equal Weight Index Fund**  
+   - Direct and Regular plans  
+   - Options: Growth, IDCW  
+   - Invests in State Development Loans (SDLs) with a focus on top 12 states by equal weight
+
+6. **Kotak Overnight Fund**  
+   - Direct and Regular plans  
+   - Options: Daily IDCW, Growth  
+   - Invests in overnight securities for very short-term investment
+
+7. **Kotak Savings Fund**  
+   - Direct and Regular plans  
+   - Options: Growth, Monthly IDCW  
+   - Designed for investors seeking regular income and capital preservation
+
+Each scheme is identified by a unique code for easy reference and transaction.
+
+KEY POINTS:  
+- Multiple Kotak Mutual Fund schemes available catering to different investment horizons and risk profiles  
+- Plans offered: Direct and Regular  
+- Options include Growth and Dividend (IDCW) payout frequencies: Daily, Monthly, Annual  
+- Suitable for investors seeking liquidity, income, or capital appreciation  
+- Unique scheme codes provided for each fund variant for identification  
+- Investment in State Development Loans through Nifty SDL Equal Weight Index Funds available for specific maturity years (2027, 2032)  
+- Overnight and Money Market funds focus on very short-term debt instruments ensuring safety and liquidity
+
+URL:  
+https://www.icicibank.com/wealth/investments/mutual-funds.page

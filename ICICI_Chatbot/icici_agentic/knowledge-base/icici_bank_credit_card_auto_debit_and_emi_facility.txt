@@ -1,0 +1,56 @@
+TITLE: ICICI Bank Credit Card Auto Debit and EMI Facility  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards, Payments, EMI  
+TAGS: Auto Debit, EMI, Credit Card, Payment, Interest, Foreclosure, Amortisation Schedule  
+
+CONTENT:  
+ICICI Bank offers convenient options to manage your Credit Card payments through Auto Debit and EMI conversion facilities.  
+
+**Auto Debit Facility:**  
+- You can activate Auto Debit for your Credit Card payments via:  
+  - Net Banking: Cards > Credit Cards > Manage Your Credit Card > View All > Manage Auto Pay  
+  - iMobile app  
+  - Submitting a printed Auto Debit form to the Bank. The form can be downloaded from www.icicibank.in > Form Center > Auto-Debit Facility under Credit Card.  
+- Linking your savings account to the credit card does not automatically activate Auto Debit; you must complete the Auto Debit registration process.  
+- Auto Debit options can be changed anytime through iMobile app, Net Banking, or by calling Customer Care from your registered mobile number after authentication.  
+
+**EMI Conversion Facility:**  
+- Retail transactions of ₹1,500 and above are eligible for conversion into EMI with tenure options of 3, 6, 9, 12, 18, or 24 months.  
+- Transactions related to cash, jewellery, and fuel are not eligible for EMI conversion.  
+- EMI billing dates cannot be changed; the EMI amount will appear in your monthly Credit Card statement.  
+- EMI amounts are included in the monthly Credit Card statement and can be paid using any regular Credit Card payment method; no separate payment is required.  
+- New Private Label Credit Card (PLCC) conversions follow the same statement date and payment due date as your Credit Card.  
+
+**EMI Foreclosure and Part Payment:**  
+- You can foreclose your EMI or PLCC loan through:  
+  - iMobile app: Cards & Forex > Manage Card > EMI Closure  
+  - Net Banking: Cards > Credit Card > EMI Closure  
+  - Customer Care: Call from your registered mobile number or email customer.care@icicibank.com with the last four digits of your Credit Card.  
+- Part-payment option is not available for EMI or PLCC loans.  
+
+**Reward Points:**  
+- Reward points are not earned on EMI transactions or purchases converted into EMI.  
+
+**EMI Tenure and Amortisation Schedule:**  
+- Remaining EMI tenure can be checked via iMobile app, Net Banking, or Customer Care.  
+- A soft copy of the amortisation schedule can be downloaded on iMobile: Cards & Forex > Manage Card > EMI Summary > Download by selecting the PLCC/EMI transaction.  
+- Alternatively, request a soft copy by calling Customer Care or emailing customer.care@icicibank.com with the last four digits of your Credit Card. The schedule is sent to your registered email within 1 working day.  
+
+**Interest Charges:**  
+- Interest is charged if the Total Amount Due is not paid by the due date.  
+- Interest accrues on the total outstanding balance and all new transactions from the transaction date until previous dues are fully cleared.  
+- Interest is also levied on cash advances from the date of withdrawal until repayment.  
+- Interest charges stop immediately once the complete outstanding dues are paid in full as per the statement and within the due date.  
+
+KEY POINTS:  
+- Auto Debit activation requires registration; linking accounts alone is insufficient.  
+- EMI conversion available for retail transactions ₹1,500 and above, excluding cash, jewellery, and fuel.  
+- EMI tenures: 3, 6, 9, 12, 18, 24 months.  
+- EMI billing dates are fixed and cannot be changed.  
+- EMI payments are included in the monthly Credit Card statement; no separate payment needed.  
+- Foreclosure of EMI/PLCC possible via app, Net Banking, or Customer Care; no part-payment option.  
+- No reward points on EMI transactions.  
+- Amortisation schedule available digitally or via Customer Care.  
+- Interest charged on unpaid dues and cash advances until full repayment.  
+
+URL: https://www.icicibank.com/credit-cards/manage-auto-pay-emi-facility.html

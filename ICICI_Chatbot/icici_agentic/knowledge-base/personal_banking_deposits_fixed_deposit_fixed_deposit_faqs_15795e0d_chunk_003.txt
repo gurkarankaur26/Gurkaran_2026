@@ -1,0 +1,76 @@
+TITLE:  
+ICICI Bank Fixed Deposit (FD) - Features, Interest Rates, Overdraft Facility, Nomination, and Taxation
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Fixed Deposits, Banking Products, Personal Finance
+
+TAGS:  
+Fixed Deposit, FD Interest Rates, Overdraft Facility, Nomination, Taxation, Form 15G, Form 15H, Premature Closure, Sweep-in Facility, Loan Collateral
+
+CONTENT:  
+ICICI Bank Fixed Deposits (FDs) offer a secure investment option with competitive interest rates that vary based on deposit amount, tenure, and market conditions. The bank periodically updates FD interest rates on its official website.
+
+**Interest Rates and Tenure:**  
+- FD interest rates differ depending on the deposit amount and tenure.  
+- Certain long-term FD tenures offer enhanced interest rates based on market conditions.  
+- Rates are subject to change and should be verified on the ICICI Bank website before booking.  
+- FD interest rates are uniform across all booking channels.
+
+**Taxation and TDS:**  
+- Interest earned on FDs is fully taxable as per the applicable income tax slab.  
+- Investment in FDs qualifies for deduction under Section 80C, but interest income is taxable.  
+- TDS is deducted if total interest earned across all FDs in a financial year exceeds the prescribed threshold.  
+- To avoid TDS deduction, eligible individuals can submit Form 15G (below 60 years) or Form 15H (senior citizens) via:  
+  - ICICI Bank iMobile app  
+  - Net Banking  
+  - Branch visit
+
+**Premature Closure:**  
+- No service charges for closing an FD.  
+- Premature closure may attract interest rate adjustments or penalties as per bank policy.
+
+**Overdraft Facility Against FD:**  
+- ICICI Bank offers an overdraft facility against your FD, allowing withdrawal up to 90% of the deposit amount, subject to internal policies and FD type.  
+- Interest on overdraft is linked to the FD interest rate and charged only on the utilized amount.  
+- The FD continues to earn interest at the contracted rate even when an overdraft is availed.  
+- Overdraft facility can be requested via:  
+  - iMobile app  
+  - Net Banking  
+  - Branch  
+- The facility is activated instantly for eligible customers.  
+- Overdraft must be settled before or at FD maturity; the facility closes automatically on maturity.
+
+**Nomination Facility:**  
+- Nominee can be added at the time of FD creation or anytime later.  
+- Nomination ensures easy claim of deposit amount by the nominee in case of unforeseen events.  
+- Nominee details can be modified or replaced anytime by submitting a nomination update form through:  
+  - iMobile app  
+  - Net Banking  
+  - Branch
+
+**Sweep-in Facility:**  
+- Allows linking FD to Savings or Current Account.  
+- When linked account balance falls below a threshold, funds are automatically swept in from the FD, ensuring liquidity without breaking the entire deposit.
+
+**Pledging FD as Loan Collateral:**  
+- FDs can be pledged as collateral for loans and overdrafts.  
+- Bank issues lien letter or certificate upon request.
+
+**FD Calculator:**  
+- Customers can enter deposit amount, tenure, and interest rate to estimate maturity amount and total interest earned.
+
+KEY POINTS:  
+- FD interest rates vary by amount and tenure; check latest rates on ICICI Bank website.  
+- Interest earned is taxable; submit Form 15G/15H to avoid TDS if eligible.  
+- No service charge for FD closure; premature closure may incur penalties.  
+- Overdraft facility up to 90% of FD amount available with interest charged only on utilized amount.  
+- Nomination can be added or updated anytime.  
+- Sweep-in facility links FD to savings/current account for liquidity.  
+- FDs can be pledged as collateral for loans.  
+- FD calculator available for maturity and interest estimation.
+
+URL:  
+https://www.icicibank.com/personal-banking/deposits/fixed-deposit.page

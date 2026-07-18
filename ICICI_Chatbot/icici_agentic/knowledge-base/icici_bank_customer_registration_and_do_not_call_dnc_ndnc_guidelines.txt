@@ -1,0 +1,30 @@
+TITLE: ICICI Bank Customer Registration and Do Not Call (DNC/NDNC) Guidelines  
+SOURCE: ICICI Bank  
+CATEGORY: Customer Service / Regulatory Compliance  
+TAGS: DNC, NDNC, Customer Registration, Telemarketing, Consent, ICICI Bank  
+
+CONTENT:  
+ICICI Bank adheres to the regulatory guidelines related to the Do Not Call (DNC) and National Do Not Call (NDNC) registries to ensure customer privacy and prevent unsolicited telemarketing calls. Customers can register their phone numbers in the DNC/NDNC registry to avoid receiving promotional calls from the bank and other entities.
+
+**Registration Process:**  
+- Customers can register their phone numbers on the DNC/NDNC registry through the official channels provided by the Telecom Regulatory Authority of India (TRAI).  
+- Once registered, telemarketers, including ICICI Bank, are required to refrain from making promotional calls to these numbers.  
+- Customers must provide explicit consent if they wish to receive marketing communications from ICICI Bank.  
+
+**Customer Rights and Bank Obligations:**  
+- ICICI Bank respects customer preferences regarding telemarketing and ensures compliance with DNC/NDNC regulations.  
+- Customers can update or revoke their consent for receiving marketing calls at any time by contacting the bank’s customer service.  
+- The bank maintains a robust system to filter out numbers registered under DNC/NDNC to avoid unsolicited calls.  
+
+**Important Notes:**  
+- Registration in DNC/NDNC is applicable only to telemarketing calls and does not restrict transactional or service-related communications from ICICI Bank.  
+- Customers are encouraged to verify their registration status and report any unsolicited calls to the bank or the TRAI helpline.  
+
+KEY POINTS:  
+- Customers can register their phone numbers in the DNC/NDNC registry to avoid promotional calls.  
+- ICICI Bank complies with TRAI regulations and respects customer consent for marketing communications.  
+- Customers can update or revoke marketing consent anytime via customer service.  
+- DNC/NDNC registration blocks only telemarketing calls, not service-related communications.  
+- Customers should report unsolicited calls to ICICI Bank or TRAI.  
+
+URL: https://www.icicibank.com/ (Refer to official ICICI Bank website for detailed guidelines)

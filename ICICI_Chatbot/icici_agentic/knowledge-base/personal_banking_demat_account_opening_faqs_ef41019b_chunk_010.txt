@@ -1,0 +1,51 @@
+TITLE:  
+ICICI Bank Demat Account Services – Signature Change, Nomination, and Online Access
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Demat Account Services
+
+TAGS:  
+Demat Account, Signature Change, Nomination, Online Access, Securities, ICICI Bank
+
+CONTENT:  
+**Change of Signature in Demat Account**  
+- To change the signature on your Demat Account, submit the 'Change of Signature' form at any ICICI Bank branch offering Demat services.  
+- The new signature must be attested by the Branch Manager of the branch where your bank account linked to the Demat Account is held.  
+- Mention the reason for the change of signature in the form.  
+- After submission, the new signature will be updated in the records within 7 working days.  
+- The 'Change of Signature' form can be downloaded from the ICICI Bank website.
+
+**Nomination Facility in Demat Account**  
+- Nomination can be made by individuals only; non-individuals such as societies, trusts, body corporates, partnership firms, Karta of Hindu Undivided Family, or holders of power of attorney cannot nominate.  
+- A nominee can be a minor; in such cases, the guardian’s name and address must be provided.  
+- Nomination can be made at the time of account opening or later by submitting a duly filled nomination form at any ICICI Bank Demat servicing branch.  
+- Up to three nominees can be appointed per Demat Account.  
+- If multiple nominees are appointed, the account holder must specify the percentage share for each nominee, totaling 100%.  
+- If no percentage is specified, the default is equal distribution among nominees. Any odd lot will be transferred to the first nominee listed.  
+- To opt out of nomination, submit the ‘Declaration Form for opting out of nomination’ at any ICICI Bank branch offering Demat services.
+
+**Online Access to Demat Account**  
+- Customers can access their Demat accounts 24/7 via the internet at www.icicibank.com.  
+- Available online facilities include:  
+  - Viewing transaction statements  
+  - Viewing holdings  
+  - Viewing account details  
+  - Retrieving ISIN for securities  
+  - Getting settlement details  
+  - Requesting TIFD booklet or Client Master List (CML)  
+  - e-Instructions facility to transfer securities  
+- To use these online services, customers must register by submitting the prescribed registration form at any ICICI Bank branch offering Demat services.  
+- The ICICI Bank Call Centre is also available to handle specific Demat account queries.
+
+KEY POINTS:  
+- Signature change requires submission of a form with attestation by Branch Manager; updated within 7 working days.  
+- Nomination allowed only for individuals; up to 3 nominees with specified share percentages.  
+- Nomination can be opted out by submitting a declaration form.  
+- 24/7 online access to Demat account with multiple facilities available after registration.  
+- Registration form for online access available at ICICI Bank Demat branches.
+
+URL:  
+https://www.icicibank.com/ (specific Demat services page)

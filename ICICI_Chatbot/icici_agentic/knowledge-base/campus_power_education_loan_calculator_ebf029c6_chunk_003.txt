@@ -1,0 +1,38 @@
+TITLE:  
+ICICI Bank Education Loan EMI Calculator and Benefits
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Education Loan, Loan Calculator, Personal Finance
+
+TAGS:  
+Education Loan, EMI Calculator, Interest Rates, Loan Repayment, Loan Tenure, Scholarship Adjustment, Fixed Rate, Floating Rate
+
+CONTENT:  
+ICICI Bank offers an Education Loan EMI calculator designed to help students and their families plan the financial aspects of higher education, whether in India or abroad. The calculator enables users to estimate monthly EMIs, total interest payable, and the total repayment amount based on the loan amount, interest rate, and tenure selected.
+
+Key features and benefits of the ICICI Bank Education Loan EMI calculator include:
+
+- **Loan Amount Input:** Users can enter the desired loan amount after deducting any scholarships or grants received. This amount should cover tuition fees, hostel charges, travel, study materials, and other education-related expenses.
+- **Interest Rate Flexibility:** The calculator allows input of current interest rates, reflecting ICICI Bank’s offering of both fixed and floating interest rate options. Users can simulate different interest rate scenarios to understand their impact on EMIs and total repayment.
+- **Tenure Comparison:** Students can compare different loan tenures to find a manageable EMI and total repayment plan.
+- **Repayment Planning:** By calculating EMIs and total interest payable before applying, students can better plan cash flows and understand the financial commitment involved.
+- **Scenario Testing:** The tool supports testing various loan amounts, interest rates, and tenures to help users make informed borrowing decisions.
+- **Effective Cost of Borrowing:** Using the calculator helps highlight the potential savings and benefits of availing an education loan versus self-funding.
+
+ICICI Bank’s Education Loan EMI calculator is a valuable resource for understanding the financial impact of education loans, enabling better planning and decision-making.
+
+KEY POINTS:  
+- The calculator estimates monthly EMI, total interest payable, and total repayment amount.  
+- Loan amount should be net of scholarships or grants.  
+- Covers tuition fees, hostel, travel, study materials, and other education-related expenses.  
+- Supports fixed and floating interest rate inputs to simulate different scenarios.  
+- Helps compare different loan tenures for manageable repayment.  
+- Enables planning of cash flows and total study cost before loan application.  
+- Useful for students studying in India or abroad.  
+- Facilitates understanding of effective cost of borrowing and potential savings.  
+
+URL:  
+https://www.icicibank.com/education-loan-emi-calculator

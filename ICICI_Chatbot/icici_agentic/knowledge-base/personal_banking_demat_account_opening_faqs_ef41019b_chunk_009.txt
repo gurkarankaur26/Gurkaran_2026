@@ -1,0 +1,42 @@
+TITLE:  
+ICICI Bank Demat Account - Processes, Benefits, and FAQs
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Demat Account Services
+
+TAGS:  
+Demat Account, Securities, Shares, Corporate Benefits, Public Issue, Standing Instructions, Mobile Alerts, ICICI Direct
+
+CONTENT:  
+ICICI Bank Demat Account facilitates the holding and transfer of securities in electronic form. All purchase and receipt of securities in your Demat account are processed as per your 'Standing Instructions for Credit' given to ICICI Bank, usually provided during account opening or later by writing to the Depository Participant (DP). If no standing instruction is given, a specific receipt instruction must be submitted for each credit.
+
+Shares can only be bought or sold through a stockbroker. ICICI Bank Demat Account helps in delivering shares against sell transactions or receiving shares for buy transactions. Customers can open an account with icicidirect.com for seamless trading and settlement.
+
+In case of corporate benefits such as bonuses or dividends announced by companies in which you hold shares, these benefits will be credited directly to your Demat Account or bank account depending on the nature of the benefit.
+
+When subscribing to shares in a public issue, you can request securities to be credited directly to your Demat Account by quoting your Demat Account number in the application form. After allotment, securities will be credited to your Demat Account before the listing date. If the Demat Account details are incorrect, securities will be allotted in physical form and certificates will be sent.
+
+SEBI mandates compulsory dematerialization of shares for all investors in public offers, making it advantageous to opt for allotment in Demat form for higher liquidity.
+
+You will be notified via letter in case of any failure in processing your transactions due to issues such as signature mismatch or incomplete forms. On receiving such intimation, you should submit a correctly filled Transfer Instruction Form (TIFD) considering the reasons for rejection.
+
+You can check your Demat account status and transaction details online at www.icicibank.com, through IVR, by phone, or by visiting the nearest branch. SMS alerts for transaction success or failure are available upon registration for Mobile Alerts on the website.
+
+Mobile number and email ID updates for your Demat Account can be done through specified modes provided by ICICI Bank.
+
+KEY POINTS:  
+- Shares can only be bought/sold through a stockbroker; ICICI Bank Demat facilitates settlement.  
+- Standing instructions for automatic credit of securities can be given at account opening or later.  
+- Corporate benefits like dividends and bonuses are credited directly to Demat or bank accounts.  
+- Public issue allotments can be credited directly to Demat accounts; physical certificates issued if details are incorrect.  
+- SEBI mandates compulsory demat settlement for public offers.  
+- Failure in transaction processing due to signature mismatch or incomplete forms will be intimated; corrective action required.  
+- Account status and transaction details accessible online, via IVR, phone, or branch visit.  
+- SMS alerts available for transaction updates upon registration.  
+- Mobile number and email ID can be updated through ICICI Bank’s prescribed modes.
+
+URL:  
+https://www.icicibank.com/Personal-Banking/investments/demat-account.page

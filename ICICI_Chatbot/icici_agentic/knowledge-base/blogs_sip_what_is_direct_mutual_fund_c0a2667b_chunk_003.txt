@@ -1,0 +1,45 @@
+TITLE:  
+Taxation and Investment Process for Direct Mutual Funds
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment, Taxation  
+TAGS: Mutual Funds, Direct Plans, Taxation, Equity Funds, Debt Funds, Investment Process, KYC, Expense Ratio  
+
+CONTENT:  
+Taxation of direct mutual funds depends on the type of fund and the holding period. Mutual funds investing 65% or more in equities or related instruments are classified as equity funds, while others are considered debt funds.
+
+**Taxation on Equity Funds:**  
+- Short-Term Capital Gains (STCG) tax rate: 15%  
+- Long-Term Capital Gains (LTCG) tax rate: 10%  
+- LTCG up to ₹1 lakh in a financial year is exempt from tax  
+
+**Taxation on Debt Funds:**  
+- Capital gains are taxed according to the investor’s applicable income tax slab  
+- Gains are added to the investor’s taxable income  
+
+**Investment Process for Direct Mutual Funds:**  
+- Investors can invest directly via the AMC’s (Asset Management Companies) website or through ICICI Bank’s digital platforms such as the iMobile app and Internet Banking.  
+- Ensure your KYC (Know Your Customer) is verified before investing.  
+- Once KYC is verified, browse through fund options and invest with a few clicks.  
+- Direct plans eliminate distributor commissions, resulting in cost savings.  
+- It is advisable to compare fund performance, objectives, and expense ratios before investing to make informed decisions.  
+
+**Benefits of Direct Mutual Funds:**  
+- Lower expense ratios compared to regular plans  
+- Increased transparency  
+- No intermediary commissions  
+- Suitable for long-term wealth creation  
+- Cost-efficient and personalized investment experience  
+
+KEY POINTS:  
+- Equity funds require 65%+ investment in equities; others are debt funds  
+- STCG on equity funds taxed at 15%; LTCG taxed at 10% with ₹1 lakh exemption  
+- Debt fund gains taxed as per individual tax slab  
+- Direct mutual funds can be purchased via AMC websites or ICICI Bank digital platforms  
+- KYC verification is mandatory before investing  
+- Direct plans save on distributor commissions, reducing costs  
+- Compare fund performance and expense ratios before investing  
+- Direct mutual funds are ideal for long-term wealth creation due to lower costs and transparency  
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds/direct-mutual-funds-taxation-investment-process

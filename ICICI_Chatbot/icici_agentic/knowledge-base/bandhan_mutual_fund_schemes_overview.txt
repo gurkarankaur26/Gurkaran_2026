@@ -1,0 +1,32 @@
+TITLE: Bandhan Mutual Fund Schemes Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Bandhan Mutual Fund, Low Duration Fund, Money Market Fund, Ultra Short Duration Fund, Growth, IDCW, Investment Options  
+
+CONTENT:  
+This document provides an overview of various Bandhan Mutual Fund schemes, including their plan types, dividend options, and unique identification numbers (folio codes). The schemes are categorized mainly into Low Duration Fund, Money Market Fund, and Ultra Short Duration Fund, each available in Direct and Regular plans with multiple dividend payout options such as Growth, Daily IDCW (Income Distribution cum Capital Withdrawal), Weekly IDCW, Monthly IDCW, Quarterly IDCW, and Periodic IDCW.
+
+**Bandhan Low Duration Fund**  
+- Available in Direct and Regular plans.  
+- Dividend options: Growth, Daily IDCW, Weekly IDCW, Monthly IDCW, Quarterly IDCW.  
+- Folio codes range from 108632 to 118373 depending on plan and dividend option.
+
+**Bandhan Money Market Fund**  
+- Available in Direct and Regular plans.  
+- Dividend options: Growth, Daily IDCW, Weekly IDCW, Monthly IDCW, Periodic IDCW.  
+- Folio codes range from 108650 to 131389.
+
+**Bandhan Ultra Short Duration Fund**  
+- Available in Direct and Regular plans.  
+- Dividend options: Growth, Daily IDCW, Weekly IDCW, Monthly IDCW, Quarterly IDCW, Periodic IDCW.  
+- Folio codes range from 144172 to 144196.
+
+KEY POINTS:  
+- Multiple Bandhan Mutual Fund schemes are available with various dividend payout options to suit investor preferences.  
+- Plans are offered in both Direct and Regular modes.  
+- Each scheme and dividend option has a unique folio code for identification.  
+- Dividend options include Growth (reinvestment), Daily, Weekly, Monthly, Quarterly, and Periodic IDCW.  
+- These funds cater to investors looking for low duration, money market, and ultra-short duration investment options.  
+
+URL:  
+https://www.icicibank.com/wealth/mutual-funds/bandhan-mutual-fund.page

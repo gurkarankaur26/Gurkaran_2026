@@ -1,0 +1,64 @@
+TITLE: FASTag KYC Update: Step-by-Step Guide to Complete KYC  
+SOURCE: ICICI Bank  
+CATEGORY: Payments / FASTag / KYC  
+TAGS: FASTag, KYC, PPI Wallet, ICICI Bank, Customer Verification, Wallet Limits, Full KYC  
+
+CONTENT:  
+ICICI Bank issues FASTag wallets as Prepaid Payment Instruments (PPIs) with two types of KYC statuses: Small PPI and Full KYC PPI. Each has specific eligibility, limits, and benefits.
+
+**Small PPI Wallet (Minimum KYC):**  
+- Issued after verifying minimum customer details: mobile number (verified via OTP) and self-declaration of name and unique identity number from any officially valid document (OVD) such as:  
+  - Aadhar Card  
+  - PAN Card  
+  - NREGA Job Card  
+  - Driving License  
+  - Passport  
+- Wallet balance limit: ₹10,000 at any point in time.  
+- Monthly loading limit: ₹10,000.  
+- Annual loading limit: ₹1,20,000.  
+- No cash withdrawal or fund transfer allowed from the wallet.  
+- Closure proceeds are transferred back to the source account from which the wallet was loaded.  
+
+**Full KYC Wallet:**  
+- Requires submission of full KYC documents either at ICICI Bank branches or via online/video-based KYC verification (where available).  
+- Documents required for individuals:  
+  - Aadhar Card  
+  - PAN Card  
+  - NREGA Job Card  
+  - Driving License  
+  - Passport  
+  - Application form  
+- Documents required for corporate customers:  
+  - GSTIN  
+  - Incorporation certificate  
+  - Partnership Deed  
+  - UDYAM Certificate  
+  - List of Partners/Directors  
+  - Company PAN  
+  - Photo ID and address proof of Authorized Signatory/Beneficial Owner  
+  - Application form  
+- Benefits of Full KYC:  
+  - Increased wallet outstanding balance limit up to ₹1,00,000.  
+  - Ability to load higher amounts subject to limits.  
+- Closure proceeds are transferred back to the source account.  
+- Branch officials verify documents and update KYC as per guidelines.  
+
+**Process to Update FASTag KYC:**  
+1. Visit ICICI Bank branch with required documents for Full KYC submission.  
+2. Alternatively, complete video-based KYC verification online where available.  
+3. After verification and approval, Full KYC benefits will be activated.  
+4. Customers can check their FASTag KYC status by logging into the ICICI Bank FASTag portal and reviewing wallet or KYC details.  
+
+**Customer Support:**  
+- For assistance, customers may contact ICICI Bank FASTag customer support using their registered mobile number.  
+
+KEY POINTS:  
+- Small PPI wallet limits: ₹10,000 balance, ₹10,000 monthly load, ₹1,20,000 annual load.  
+- Full KYC wallet limit: ₹1,00,000 outstanding balance.  
+- No cash withdrawal or fund transfer allowed from wallet.  
+- Closure proceeds transferred back to source account.  
+- Full KYC can be completed at branch or via video KYC.  
+- Required documents vary for individuals and corporates.  
+- KYC status can be checked online via ICICI Bank FASTag portal.  
+
+URL: https://www.icicibank.com/personal-banking/payments/fastag/kyc

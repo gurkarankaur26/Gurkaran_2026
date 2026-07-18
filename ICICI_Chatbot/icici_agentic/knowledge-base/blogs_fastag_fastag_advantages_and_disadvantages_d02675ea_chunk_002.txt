@@ -1,0 +1,80 @@
+TITLE:  
+ICICI Bank FASTag and Video KYC Process
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, KYC, Digital Banking, Payments
+
+TAGS:  
+FASTag, KYC, Video KYC, Toll Payments, HPCL, Recharge, Net Banking, WhatsApp Banking, RFID, Fuel Payments
+
+CONTENT:  
+**Video KYC for FASTag**  
+Know Your Customer (KYC) is a mandatory process to verify your identity for availing banking services including FASTag. ICICI Bank offers a convenient Video KYC process where you can complete your KYC verification via a video call with a bank officer, eliminating the need to visit a branch physically. During the video call, your KYC documents will be verified and your signature recorded.
+
+**Benefits of Video KYC:**  
+- Enables higher recharge limits for FASTag.  
+- Min-KYC customers have a monthly recharge limit of INR 10,000 and an annual wallet load limit of ₹1 lakh.  
+- Fully KYC-completed customers can maintain a wallet balance up to ₹1 lakh at any time.
+
+**Pre-requisites for Video KYC:**  
+- Keep your KYC documents ready.  
+- Ensure your location is set to India during the process.  
+- Have access to your Aadhaar registered mobile number for OTP verification.
+
+**Video KYC Process:**  
+1. Visit the designated ICICI Bank Video KYC link.  
+2. Enable location services and confirm your location as India.  
+3. Enter your profile details and proceed.  
+4. Verify OTP sent to your Aadhaar registered mobile number.  
+5. Provide consent and confirm communication address details.  
+6. Accept Terms and Conditions and connect with the bank officer for video verification.  
+7. Your KYC status will be updated within 2 working days after verification.
+
+---
+
+**ICICI Bank FASTag Overview**  
+ICICI Bank FASTag is an electronic toll collection system that uses RFID technology for seamless toll payments. ICICI Bank has partnered with Hindustan Petroleum Corporation Limited (HPCL) to enable FASTag payments for fuel purchases including petrol, diesel, CNG, and lubricants.
+
+**Benefits of ICICI Bank FASTag:**  
+- Free RFID tag delivery at your doorstep when you apply online.  
+- Convenient application through ICICI Bank Net Banking, iMobile, InstaBIZ, or Pockets app.  
+- Multiple online recharge options including iMobile app, Credit/Debit Card, NEFT, RTGS, UPI, and Net Banking.  
+- SMS alerts for all transactions on your registered mobile number.  
+- Cashless toll payments without the need to carry cash.  
+- Fuel payments at HPCL outlets using FASTag.
+
+**How to Apply for FASTag:**  
+- Apply online via ICICI Bank website or mobile apps.  
+- Use WhatsApp Banking by sending ‘Hi’ to 86400 86400 from your registered mobile number to:  
+  - Request new FASTag  
+  - Check FASTag balance  
+  - Update Vehicle Registration Number  
+  - View last 5 transactions  
+  - Close FASTag account  
+  - Get FASTag statement  
+  - Request tag replacement  
+  - Check FASTag status
+
+**FASTag Recharge Options:**  
+- Recharge online via iMobile app, Credit/Debit Card, NEFT, RTGS, UPI, or Net Banking.
+
+**Customer Support and Alerts:**  
+- Customers receive SMS alerts for every transaction.  
+- Toll plazas automatically read the FASTag and deduct the toll amount from the wallet.
+
+KEY POINTS:  
+- Video KYC enables remote identity verification for FASTag with a 2-day processing time.  
+- Min-KYC customers have a monthly recharge limit of INR 10,000 and annual limit of ₹1 lakh.  
+- Fully KYC-completed customers can hold up to ₹1 lakh in their FASTag wallet.  
+- ICICI Bank FASTag can be used for toll payments and fuel payments at HPCL outlets.  
+- FASTag application is free with doorstep delivery of RFID tag.  
+- Multiple digital channels available for FASTag application and recharge.  
+- WhatsApp Banking offers easy FASTag management via simple SMS commands.  
+- SMS alerts keep customers informed of all transactions.  
+- Cashless and contactless toll and fuel payments enhance convenience.
+
+URL:  
+https://www.icicibank.com/fastag

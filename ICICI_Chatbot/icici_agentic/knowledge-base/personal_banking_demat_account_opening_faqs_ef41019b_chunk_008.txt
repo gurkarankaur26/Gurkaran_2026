@@ -1,0 +1,60 @@
+TITLE:  
+ICICI Bank Securities Transfer Process and Guidelines
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Securities Transfer, Demat Account, Banking Procedures
+
+TAGS:  
+Securities Transfer, TIFD Slip, IDT Slip, Demat Account, Execution Date, Late Charges, ICICI Bank, Market Trades, Off-Market Trades
+
+CONTENT:  
+ICICI Bank provides a structured process for transferring securities through TIFD (Transfer Instruction for Delivery) and IDT (Inter Depository Transfer) slips. These instructions must be submitted timely to ensure successful execution.
+
+**Types of Trades and Relevant Slips:**  
+- Off-Market Trades: Details must be filled only in the TIFD slip.  
+- Market Trades: Details must be filled only in the IDT slip.  
+- For both Market and Off-Market Trades, details must be filled in both TIFD and IDT slips.
+
+**Submission Guidelines:**  
+- Instructions should be issued well in advance of the desired debit date to avoid non-execution due to last-minute submission.  
+- The TIFD slip must be submitted by 4 p.m. on the business day prior to the execution date.  
+- TIFDs received after 4 p.m. will be accepted on a 'Best Effort' basis without any liability on ICICI Bank for non-execution. Late submissions may attract charges.  
+- Transfer instructions should not be submitted for execution on a holiday. If a holiday falls between submission and execution, submit instructions one day earlier.
+
+**Best Effort Stamp & Late Charges:**  
+| Instruction Submitted On | Execution Date | Best Effort Stamp | Late Charges* |  
+|-------------------------|----------------|-------------------|--------------|  
+| Monday (Day T)          | Wednesday (T+2)| No                | No           |  
+| Tuesday (T+1) till 4 p.m.| Wednesday (T+2)| No                | No           |  
+| Tuesday (T+1) after 4 p.m.| Wednesday (T+2)| Yes               | No           |  
+| Wednesday (T+2) before Pay-in deadline | Wednesday (T+2) at 10:30 AM (On-Market) & 7:30 AM (Off-Market) | Yes | Yes |  
+
+*Late charge is Rs. 10 per ISIN.
+
+**Form Submission:**  
+- Submit the TIFD slip at any ICICI Bank branch and obtain an acknowledgement copy stamped by the bank official.  
+- Future dated instructions are recommended to mitigate risks of non-execution.
+
+**Debit in Demat Account:**  
+- Securities will be debited on the execution date specified in the instruction.  
+- Customers can verify the debit via transaction statements, ICICI Bank website (www.icicibank.com), IVR, or by visiting the nearest branch.  
+- SMS alerts for success or failure of the transfer are available upon registration for Mobile Alerts on the ICICI Bank website.
+
+**Failure to Execute Instructions:**  
+- Instructions may fail at ICICI Bank’s Central Processing Office or at NSDL/CDSL.  
+- ICICI Bank does not undertake liability for non-execution due to late submission or other reasons beyond its control.
+
+KEY POINTS:  
+- Submit TIFD slips by 4 p.m. on the business day before execution date.  
+- Late submissions accepted on 'Best Effort' basis; may incur Rs. 10 per ISIN late charge.  
+- Different slips required for Market (IDT) and Off-Market (TIFD) trades.  
+- Future dated instructions recommended to avoid last-minute issues.  
+- Debit reflected on execution date; check via multiple channels.  
+- SMS alerts available for transfer status.  
+- No execution on holidays; submit instructions one day earlier if holiday intervenes.
+
+URL:  
+https://www.icicibank.com

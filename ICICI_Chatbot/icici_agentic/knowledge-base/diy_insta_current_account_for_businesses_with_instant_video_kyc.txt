@@ -1,0 +1,28 @@
+TITLE: DIY Insta Current Account for Businesses with Instant Video-KYC  
+SOURCE: ICICI Bank  
+CATEGORY: Business Banking, Current Account  
+TAGS: Current Account, Business Banking, Video-KYC, InstaBIZ app, Overdraft, Paperless KYC, Instant Account Opening  
+
+CONTENT:  
+ICICI Bank offers the all-new DIY Insta Current Account designed to meet the needs of businesses with minimal formalities and paperwork. This Current Account can be opened instantly through the InstaBIZ mobile app or Corporate Internet Banking, featuring a fully digital onboarding process enabled by Video-KYC. The account is accessible even to non-ICICI Bank customers, eliminating the need to visit a branch.
+
+Key features include:  
+- Instant account opening with Video-KYC for Individuals, Sole Proprietors, and Legal Entities (Private Limited, Public Limited Companies).  
+- Paperless KYC process with instant fetching of PAN, Aadhaar, GST, and other details via API integration.  
+- Unlimited transaction limit per day.  
+- Instant sanction of an Overdraft facility.  
+- Fully operational Current Account immediately upon opening.  
+- Available across various business constitutions including individuals, proprietors, and companies with Video-KYC for directors, partners, and authorized signatories.  
+
+This DIY Insta Current Account empowers startups and new businesses to open and operate a Current Account seamlessly from home, ensuring convenience, security, and quick access to business banking services.
+
+KEY POINTS:  
+- Instant Current Account opening via InstaBIZ app or Corporate Internet Banking.  
+- Video-KYC enabled for Individuals, Sole Proprietors, and Legal Entities.  
+- Paperless KYC with API-based data fetching (PAN, Aadhaar, GST).  
+- Unlimited daily transaction limit.  
+- Instant Overdraft facility sanction.  
+- No branch visit required; accessible to non-ICICI Bank customers.  
+- Suitable for startups and new businesses needing regulatory account numbers quickly.  
+
+URL: https://www.icicibank.com/blogs/current-account/newinstabiz-current-account

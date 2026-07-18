@@ -1,0 +1,27 @@
+TITLE:  
+Mutual Fund Schemes and Codes List
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Investment, ICICI Bank  
+
+CONTENT:  
+This document provides a list of various mutual fund schemes along with their unique identification codes (folio or scheme codes). The schemes include different types of funds such as ultra short duration funds, gilt funds, liquid funds, money market funds, and bond ETFs. Each scheme is listed with its variant (e.g., Growth, IDCW - Income Distribution cum Capital Withdrawal, Monthly IDCW, Weekly IDCW, Quarterly IDCW, Periodic IDCW) and the corresponding code.
+
+Examples of schemes listed:  
+- Bandhan Ultra Short Duration Fund (Growth, Monthly IDCW, Weekly IDCW, Quarterly IDCW, Periodic IDCW)  
+- Baroda BNP Paribas Gilt Fund (Growth, IDCW)  
+- Baroda BNP Paribas Liquid Fund (Growth, Daily IDCW, Weekly IDCW)  
+- Baroda BNP Paribas Money Market Fund (Growth, Daily IDCW, Monthly IDCW, Weekly IDCW)  
+- Baroda BNP Paribas Ultra Short Duration Fund (Daily IDCW, Weekly IDCW)  
+- BHARAT Bond ETF (April 2030, 2031, 2032, 2033)  
+
+KEY POINTS:  
+- Each mutual fund scheme has a unique code for identification.  
+- Schemes are available in multiple variants such as Growth and IDCW (Income Distribution cum Capital Withdrawal) with different payout frequencies (daily, weekly, monthly, quarterly, periodic).  
+- The list includes both regular and direct plan options.  
+- BHARAT Bond ETFs are listed with maturity years 2030, 2031, 2032, and 2033.  
+- This list is useful for investors to identify and select specific mutual fund schemes for investment or transaction purposes.
+
+URL:  
+https://www.icicibank.com/ (Official ICICI Bank website - Mutual Funds section)

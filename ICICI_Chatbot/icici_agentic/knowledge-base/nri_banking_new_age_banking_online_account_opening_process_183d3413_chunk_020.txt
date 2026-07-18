@@ -1,0 +1,70 @@
+TITLE:  
+ICICI Bank NRI Net Banking Services, Payee Registration, Tax Benefits, and Domestic Debit Card Request
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRI Banking, Net Banking, Fund Transfer, Taxation, Debit Card
+
+TAGS:  
+NRI Banking, Net Banking, Payee Registration, Fund Transfer Limits, DTAA, Tax Benefits, Domestic Debit Card, Customer Care
+
+CONTENT:  
+**Payee Registration Process for Fund Transfers:**  
+- When you register a payee, the status will initially be "pending confirmation." No transfers can be made to the payee until confirmation.  
+- You will receive an email alert with a Unique Registration Number (URN).  
+- Log in to Net Banking and confirm the payee registration by entering the URN in the “confirm payee” section.  
+- Upon successful authentication, the payee status updates to "registration confirmed," allowing fund transfers to that payee for the specified service.  
+- Alternatively, payee confirmation can be done by calling ICICI Bank’s 24-hour Customer Care.  
+- You may also send a signed letter with complete fund transfer details to the following address:  
+  ICICI Bank Limited,  
+  RPC Mumbai,  
+  5th Floor, A-Wing, Autumn Estates,  
+  Chandivali Farm Road, Chandivali,  
+  Land Mark: Next to Chandivali Studio, Opp MHADA,  
+  Andheri-East, Mumbai - 400072, INDIA.  
+- NRIs in USA, UK, Canada, Australia, Singapore, and UAE can post documents to local P.O. Boxes to save courier charges.  
+- You can also visit any ICICI Bank branch in India to submit a signed letter for fund transfer.  
+
+**Net Banking Transactions for NRI Customers:**  
+- NRI customers can perform various transactions via Net Banking.  
+- Daily transfer limits apply for NRI customers (specific limits to be checked on the official website or by contacting customer care).  
+
+**Tax Credit and Double Taxation Avoidance Agreement (DTAA):**  
+- Tax credit statements can be viewed by logging into Net Banking.  
+- Interest earned on NRO accounts can benefit from DTAA to avoid double taxation.  
+- Double taxation occurs when income is taxed both in the home country (based on tax residency) and the source country (where income is earned).  
+- DTAA is a tax treaty between India and other countries to reduce or eliminate double taxation, often by taxing income at a lower or nil rate in the source country.  
+- To avail DTAA benefits in India, the following documents must be furnished:  
+  - Tax Residency Certificate (TRC)  
+  - Form 10F  
+  - Permanent Account Number (PAN)  
+- If PAN is not furnished, concessional DTAA rates will not apply.  
+- Income tax rates will follow the DTAA agreement between India and the respective country.  
+
+**Requesting a Domestic Debit Card:**  
+- Domestic debit cards can be requested through:  
+  - Phone banking  
+  - Online request via Net Banking  
+  - Downloading the registration form and mailing it to the India address:  
+    ICICI Bank Limited,  
+    RPC Mumbai,  
+    5th Floor, A-Wing, Autumn Estates,  
+    Chandivali, Mumbai - 400072, INDIA.  
+
+**Customer Support:**  
+- For any clarifications or more information, contact ICICI Bank’s 24-hour Customer Care.  
+- Alternatively, use the "Email us" option available on the official website www.icicibank.in.  
+
+KEY POINTS:  
+- Payee registration requires confirmation via URN to enable fund transfers.  
+- Multiple options available for confirming payee registration: Net Banking, Customer Care call, signed letter submission.  
+- NRIs can save courier charges by using local P.O. Boxes in select countries.  
+- Tax benefits on NRO account interest via DTAA require TRC, Form 10F, and PAN.  
+- PAN is mandatory to avail concessional DTAA tax rates.  
+- Domestic debit cards can be requested via phone banking, Net Banking, or by mailing a signed form.  
+- 24-hour Customer Care support is available for assistance.  
+
+URL:  
+https://www.icicibank.com (for general reference and further details)

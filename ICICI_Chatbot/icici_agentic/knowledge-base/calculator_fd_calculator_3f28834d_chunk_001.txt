@@ -1,0 +1,64 @@
+TITLE:  
+FD Calculator - Fixed Deposit Calculator Online | ICICI Bank
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Fixed Deposits, Investment Tools
+
+TAGS:  
+Fixed Deposit, FD Calculator, Interest Rates, NRE FD, NRO FD, Senior Citizen FD, Tenure, Maturity Amount, Compound Interest, Tax Deducted at Source (TDS)
+
+CONTENT:  
+ICICI Bank’s FD Calculator is an online tool designed to help customers estimate the maturity amount and interest earned on their Fixed Deposits (FDs). It provides instant and accurate calculations based on the principal amount, tenure, and applicable interest rates, enabling customers to plan their investments effectively.
+
+**Key Features and Usage:**  
+- The calculator requires minimal input: FD amount and tenure.  
+- Interest rates are auto-filled based on the latest rates offered by ICICI Bank.  
+- Provides indicative maturity amounts for various FD types including NRE and NRO Term Deposits with premature withdrawal options.  
+- The tool is free to use and accessible online from anywhere.  
+- Covers deposits up to ₹3 crore. For deposits exceeding ₹3 crore, customers should refer to NRE or NRO interest rates separately.  
+- Senior citizen interest rates do not apply to NRE and NRO deposits.  
+- The calculator does not support FCNR Account Deposit maturity calculations; separate interest rates are available for FCNR deposits.
+
+**FD Types and Tenure Options:**  
+- Regular Fixed Deposit: Minimum ₹10,000  
+- Cumulative FD: 6 months to 10 years  
+- Quarterly Interest Payout FD: 3 months to 10 years  
+- Monthly Interest Payout FD: 3 months to 10 years  
+- Short-term FD: 7 days to 185 days  
+- NRE FD: Minimum ₹25,000; tenure 1 year to 10 years  
+- NRO FD: Minimum ₹25,000; tenure 7 days to 10 years
+
+**Interest Calculation:**  
+The maturity amount is calculated using the compound interest formula:  
+A = P (1 + r/n)^(n*t)  
+Where:  
+- A = Maturity amount  
+- P = Principal amount (initial deposit)  
+- r = Annual interest rate (in decimal)  
+- n = Number of times interest is compounded per year (quarterly compounding means n=4)  
+- t = Tenure in years
+
+**Example:**  
+An investment of ₹1,00,000 at an interest rate of 6.60% per annum compounded quarterly for 3 years results in a maturity amount of approximately ₹1,21,699.
+
+**Taxation:**  
+- Interest earned on FDs is subject to Tax Deducted at Source (TDS) as per prevailing rates.  
+- NRO FDs are subject to TDS.  
+- Senior citizen rates do not apply to NRE and NRO deposits.
+
+KEY POINTS:  
+- Minimum FD amount: ₹10,000 (₹25,000 for NRE/NRO FDs)  
+- Tenure ranges from 7 days to 10 years depending on FD type  
+- Interest compounded quarterly for most FDs  
+- Calculator supports deposits up to ₹3 crore  
+- TDS applicable on interest earned, especially on NRO FDs  
+- Senior citizen rates excluded for NRE and NRO deposits  
+- Free, online, and easy-to-use tool for estimating FD returns  
+- Does not calculate FCNR deposit maturity; separate rates apply  
+- Provides instant maturity amount and interest earned estimates  
+
+URL:  
+https://www.icicibank.com/calculator/fd-calculator

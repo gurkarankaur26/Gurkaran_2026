@@ -1,0 +1,62 @@
+TITLE:  
+Home Loan Interest Rates and Details (May 2026) | ICICI Bank
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Home Loans
+
+TAGS:  
+Home Loan, Interest Rates, Fixed Interest, Floating Interest, Loan Eligibility, Processing Fee, Loan Amount, EMIs
+
+CONTENT:  
+ICICI Bank offers Home Loans up to ₹10 crore* with flexible interest rate options including floating and fixed rates tailored to customer needs. The interest rates are linked to the repo rate (effective 5 December 2025: 5.25%) and vary based on credit bureau score, customer segment, and profile. The rates and offers are valid till 30th June 2026.
+
+**Interest Rates (Floating) based on Credit Score and Customer Type:**  
+| Credit Score | Salaried | Self-Employed |  
+|--------------|----------|---------------|  
+| 800          | 8.50%    | 8.50%         |  
+| 750 – 800    | 8.50%    | 8.60%         |  
+
+**Tiered Loan Slabs (Floating Interest Rates):**  
+| Loan Slab          | Salaried       | Self-Employed  |  
+|--------------------|----------------|----------------|  
+| Up to ₹35 lakh      | 8.50% – 9.40%  | 8.50% – 9.55%  |  
+| ₹35 lakh to ₹75 lakh| 8.50% – 9.55%  | 8.50% – 9.70%  |  
+| Above ₹75 lakh      | 8.50% – 9.65%  | 8.50% – 9.80%  |  
+
+**Fixed Home Loan Interest Rates:**  
+| Fixed Tenure       | Rate of Interest |  
+|--------------------|------------------|  
+| 24 Months          | 9.10% – 9.15%    |  
+| 37 Months          | 8.90% – 9.15%    |  
+| 60 Months          | Not specified    |  
+| 120 Months         | 10.50% – 10.60%  |  
+| Full Term          | 10.90% – 11.20%  |  
+
+**Fixed Interest Rates by Loan Slab and Customer Type:**  
+| Loan Slab          | Salaried or Self-Employed (PSL) | Self-Employed (Non-PSL) |  
+|--------------------|---------------------------------|-------------------------|  
+| Up to ₹50 lakh      | 11.10% – 11.75%                 | 11.60% – 12.25%         |  
+| ₹50 lakh to ₹1 Crore| 10.85% – 11.50%                 | 11.35% – 12.00%         |  
+| Above ₹1 crore      | 10.60% – 11.25%                 | 11.10% – 11.75%         |  
+
+**Additional Information:**  
+- Customers with a Pre-approved Home Loan can avail online sanctioning at an interest rate of 7.55%* p.a. (subject to terms and conditions and bureau score).  
+- Processing fee: 0.5% of the loan amount plus applicable taxes.  
+- Interest rates are subject to change based on repo rate fluctuations, credit score, customer segment, and profile.  
+- The bank offers minimal documentation and quick processing to facilitate home ownership.  
+
+KEY POINTS:  
+- Home Loan amount up to ₹10 crore available.  
+- Floating interest rates start at 7.50%* p.a. (pre-approved loans at 7.55%* p.a.).  
+- Fixed interest rates available for tenures from 24 months to full loan term.  
+- Interest rates linked to repo rate (5.25% effective 5 Dec 2025).  
+- Processing fee: 0.5% of loan amount + taxes.  
+- Interest rates vary by credit score, customer type (salaried/self-employed), and loan amount.  
+- Validity of rates: Till 30th June 2026.  
+- Online sanctioning available for pre-approved customers.  
+
+URL:  
+https://www.icicibank.com/personal-banking/loans/home-loan/interest-rates

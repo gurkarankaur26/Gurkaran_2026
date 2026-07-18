@@ -1,0 +1,31 @@
+TITLE: ICICI Prudential Mutual Funds Overview  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Products  
+TAGS: ICICI Prudential, Mutual Funds, Equity Funds, Debt Funds, Balanced Funds, ETFs, Growth Option, Dividend Option  
+
+CONTENT:  
+ICICI Prudential Mutual Funds offer a wide range of investment options catering to different investor needs, including equity funds, balanced advantage funds, asset allocator funds, sectoral funds, and ETFs. These funds are available in both Direct and Regular plans with options for Growth and Dividend (IDCW - Income Distribution cum Capital Withdrawal) payouts, including monthly dividend options.
+
+Key Fund Categories and Options:  
+- **Equity Funds:** Focus on capital appreciation by investing primarily in equity and equity-related instruments. Examples include ICICI Prudential Active Momentum Fund, ICICI Prudential Banking and Financial Services Fund, ICICI Prudential Bharat Consumption Fund, and ICICI Prudential Value Fund.  
+- **Balanced Advantage Funds:** These funds dynamically manage equity and debt allocation to balance risk and return, such as ICICI Prudential Balanced Advantage Fund.  
+- **Asset Allocator Funds (FOF):** Invest in a mix of equity and debt mutual funds to provide diversified exposure, e.g., ICICI Prudential Asset Allocator Fund.  
+- **Sectoral/Thematic Funds:** Target specific sectors or themes like banking, consumption, or Bharat 22 ETF.  
+- **Exchange Traded Funds (ETFs):** Passively managed funds tracking indices like BSE Sensex or Bharat 22.  
+
+Investment Options:  
+- **Direct Plan:** Investors invest directly with the fund house, avoiding distributor commissions, resulting in lower expense ratios.  
+- **Regular Plan:** Investments routed through distributors/advisors, with applicable commissions.  
+- **Growth Option:** Earnings are reinvested, increasing NAV.  
+- **Dividend Option (IDCW):** Periodic income distribution to investors, including monthly dividend options for some funds.  
+
+Each fund has a unique identification code (e.g., ICICI Prudential Active Momentum Fund - Dir - Growth: 153684) for easy reference and transaction processing.
+
+KEY POINTS:  
+- Multiple fund categories: Equity, Balanced, Asset Allocator, Sectoral, ETFs.  
+- Available in Direct and Regular plans.  
+- Options for Growth and Dividend payouts, including monthly dividends.  
+- Suitable for investors seeking capital appreciation, income, or balanced risk-return profiles.  
+- Unique fund codes facilitate transactions and identification.  
+
+URL: https://www.icicibank.com/investment/mutual-funds.page

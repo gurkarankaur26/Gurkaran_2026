@@ -1,0 +1,36 @@
+TITLE:  
+Conversion of ICICI Bank Savings Account to NRO Account
+
+SOURCE: ICICI Bank  
+CATEGORY: Banking Accounts / NRO Account Conversion  
+TAGS: Savings Account, NRO Account, Resident Account, Non-Resident Indian, Account Conversion, FEMA Guidelines  
+
+CONTENT:  
+ICICI Bank allows customers to convert their Resident Savings Account into a Non-Resident Ordinary (NRO) Account through two modes:
+
+1. **DIY (Do It Yourself) Mode:**  
+   - Log into your Net Banking account.  
+   - Navigate: Login > Customer Service > Service Request > Click on ‘Convert your SB account to NRO Account’.  
+
+2. **Assisted Mode:**  
+   - While filling in relationship details, mention the Resident Account number(s) to be converted to NRO Account(s).  
+   - The Account number(s) will remain the same for convenience.  
+
+**Important Information:**  
+- If you hold both a Resident Account and a Non-Resident Account and your status is Non-Resident Indian (NRI), you must convert your Resident Account to an NRO Account as per FEMA guidelines.  
+- You need to fill out the Resident-to-NRO conversion request form (available as a PDF, 132 KB).  
+- After conversion, your Account Number remains unchanged. Funds from the Resident Savings Account will be automatically transferred to the NRO Savings Account.  
+- If your Indian address has not changed, no proof of address submission is required.  
+- If your Indian address has changed, you must submit proof of the changed address.  
+- Submission of proof of your current overseas address is mandatory.  
+
+KEY POINTS:  
+- Two modes for conversion: DIY via Net Banking and Assisted Mode.  
+- Account number remains the same post-conversion.  
+- Mandatory submission of overseas address proof.  
+- Proof of Indian address required only if changed.  
+- Compliance with FEMA guidelines is necessary for NRIs holding both Resident and Non-Resident accounts.  
+- Resident-to-NRO conversion request form must be submitted.  
+
+URL:  
+https://www.icicibank.com/personal-banking/accounts/savings-account

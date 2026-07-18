@@ -1,0 +1,43 @@
+TITLE: Dematerialisation of Shares Process at ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Services  
+TAGS: Dematerialisation, Shares, DRF, Registrar, Demat Account, ICICI Bank  
+
+CONTENT:  
+Dematerialisation is the process of converting physical share certificates into electronic form and crediting them to your Demat account. ICICI Bank facilitates this process with the following guidelines and steps:
+
+1. **Name Matching on Certificates and Demat Account**  
+   - The combination and order of holders' names on the Dematerialisation Request Form (DRF) and the share certificates must exactly match the names in the Demat account.  
+   - For example, if shares are held jointly by X and Y (X as first holder, Y as second), they cannot be dematerialised in the account of X alone or Y alone.  
+   - If the combination of holders is the same but the order differs between the certificates and Demat account, dematerialisation is possible by submitting a Transposition Request Form along with the DRF. This form is available at any ICICI Bank branch.
+
+2. **Filling and Signing the Dematerialisation Request Form (DRF)**  
+   - The DRF must be signed by all account holders in the same order as on the certificates and Demat account.  
+   - Signatures on the DRF should match the specimen signatures registered with ICICI Bank. If there is a mismatch, the DRF should be signed in the presence of a Branch Officer.  
+   - If unsure about signature matching with the Registrar, get the DRF signature attested by your banker.  
+   - Details such as folio number, certificate number, and distinctive number must be correctly filled on the DRF.  
+   - A sample filled DRF is available in Annexure-1 for reference.
+
+3. **Submitting the DRF and Share Certificates**  
+   - Before submission, deface the physical share certificates by stamping or writing "Surrendered for Dematerialisation". Do this only after confirming the security’s eligibility for dematerialisation, as defaced certificates cannot be sold physically.  
+   - If defaced by mistake, send the certificates to the registrar for replacement.  
+   - Certificates should not be mutilated or defaced to the extent that material information becomes unreadable.  
+   - Attach certificates in the same order as mentioned in the DRF.  
+   - Submit the DRF in triplicate at any ICICI Bank branch.  
+   - After verification, an acknowledgement slip will be stamped and handed over to you.
+
+4. **Credit of Shares in Demat Account**  
+   - ICICI Bank sends the defaced certificates and DRF to the registrar, who credits the shares to your Demat account.  
+   - The usual time for crediting shares after registrar confirmation is about 30 days, but this may vary depending on the registrar.  
+   - You can verify credit by checking your transaction statement.
+
+KEY POINTS:  
+- Names and order on DRF, certificates, and Demat account must match exactly.  
+- Transposition Request Form required if holder order differs but combination is same.  
+- DRF must be signed by all holders with matching signatures.  
+- Certificates must be defaced with "Surrendered for Dematerialisation" before submission.  
+- Submit DRF in triplicate at ICICI Bank branches.  
+- Shares credited to Demat account typically within 30 days after registrar confirmation.  
+- Check transaction statements to confirm credit.
+
+URL: https://www.icicibank.com/knowledge-base/demat-services/dematerialisation-process.html

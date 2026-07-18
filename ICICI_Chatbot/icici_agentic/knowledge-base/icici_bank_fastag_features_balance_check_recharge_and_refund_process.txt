@@ -1,0 +1,43 @@
+TITLE: ICICI Bank FASTag - Features, Balance Check, Recharge, and Refund Process  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Services / FASTag  
+TAGS: FASTag, Toll Payments, Recharge, Balance Check, Refund, ICICI Bank, iMobile App, Internet Banking  
+
+CONTENT:  
+ICICI Bank FASTag enables seamless, cashless toll payments on national highways, reducing waiting time at toll plazas. The FASTag is linked to your vehicle and can be managed conveniently through the ICICI Bank iMobile app or Internet Banking portal.
+
+**Recharge Process:**  
+1. Log in to the ICICI Bank iMobile app or Internet Banking.  
+2. Navigate to the FASTag section.  
+3. Select your vehicle linked to the FASTag.  
+4. Enter the recharge amount as per your requirement.  
+5. Confirm the payment using the available payment modes.  
+Recharge is processed instantly upon successful transaction.
+
+**Checking FASTag Status and Balance:**  
+- Log in to the ICICI Bank iMobile app or Internet Banking and access the FASTag section to view your FASTag status and balance.  
+- Alternatively, call ICICI Bank Customer Care for FASTag status updates.  
+- You can also receive SMS alerts on your registered mobile number for balance updates and transaction notifications.  
+- To check balance or status, you may need to provide vehicle details or your registered mobile number.  
+- It is recommended to check your FASTag balance regularly, especially if you travel frequently (weekly checks suggested).  
+- The minimum FASTag balance varies depending on the vehicle category and applicable toll norms. Maintaining sufficient balance is essential to avoid toll payment interruptions.
+
+**Refund and Closure:**  
+- Upon closure of the FASTag account, the available balance may be refunded after verification and completion of closure formalities as per ICICI Bank’s policy terms.
+
+**Benefits of ICICI Bank FASTag:**  
+- Enables smooth and quick travel on highways without cash transactions.  
+- Easy management through iMobile app and Internet Banking.  
+- Instant recharge and real-time balance updates.  
+- SMS alerts and customer care support for assistance.  
+- Helps avoid delays at toll plazas by ensuring sufficient balance.
+
+KEY POINTS:  
+- Recharge via iMobile app or Internet Banking with instant processing.  
+- Balance and status can be checked online or via SMS and customer care.  
+- Minimum balance depends on vehicle category; maintain sufficient balance to avoid toll disruptions.  
+- Refund available on closure after verification.  
+- Recommended to check balance weekly if frequently traveling.  
+- FASTag facilitates cashless, hassle-free toll payments.
+
+URL: https://www.icicibank.com/fastag

@@ -1,0 +1,46 @@
+TITLE: New NRI - Types of Accounts FAQs  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Accounts  
+TAGS: NRI Accounts, NRE Account, NRO Account, FCNR Account, Fixed Deposits, Repatriation, TDS, Account Opening  
+
+CONTENT:  
+As a Non-Resident Indian (NRI), you can open various types of accounts with ICICI Bank to manage your funds in India and overseas. These accounts can be maintained in Indian Rupees (INR) or foreign currency and include savings accounts, current accounts, and fixed deposits.
+
+**Types of NRI Accounts:**
+
+| Feature                     | NRE Account                              | NRO Account                              | FCNR (B) Deposits                         |
+|-----------------------------|----------------------------------------|-----------------------------------------|-------------------------------------------|
+| Purpose                     | To deposit overseas savings remitted to India | To deposit Indian earnings like rent, salary, dividend, or other current income | To deposit overseas savings in foreign currency |
+| Currency                    | Indian Rupee                           | Indian Rupee                            | USD, GBP, EUR, JPY, AUD, CAD, SGD, HKD, CHF |
+| Account Types               | Savings, Current, Fixed Deposits      | Savings, Current, Fixed Deposits       | Fixed Deposits only                        |
+| Joint Holding               | With Resident Indians/NRIs             | With Resident (as second holder)/Non-resident | With Resident Indians/NRIs                 |
+| Repatriation of Principal & Interest | Fully repatriable from India          | Repatriable up to USD 1 million or equivalent per financial year for bonafide purposes | Fully repatriable from India               |
+| Tax Deducted at Source (TDS) | Exempt from TDS in India               | Subject to TDS as per relevant guidelines | Exempt from TDS in India                   |
+| Cash Deposit                | Not allowed                           | Allowed                                | Not allowed                               |
+| Mode of Funding             | Remittance from abroad, foreign currency cash/cheque, transfer from other NRE/FCNR (B) deposits | Cash (INR), transfer from resident account, resident account cheque, plus NRE funding methods | Remittance from abroad, foreign currency cash/cheque, transfer from other NRE/FCNR (B) deposits |
+| Advantages                  | Rupee account with full repatriation benefits | Suitable for local funds in India      | No exchange rate risk                      |
+
+**Account Opening Process:**  
+- You can open an NRI account by visiting the nearest ICICI Bank branch or representative offices located in Singapore, United Kingdom, Bahrain, Hong Kong, or UAE.  
+- Required documents vary depending on whether you are opening the account from India or overseas.  
+- For first-time travelers abroad, specific documentation is required (details available at the branch).  
+- After submitting the documents, the account is typically opened within 2 working days if all documents are in order.  
+- You can check the status of your account opening by contacting the branch where you submitted your documents.
+
+**Documents Required:**  
+- Proof of NRI status (passport, visa, work permit, OCI card, etc.)  
+- Proof of overseas address  
+- Recent photographs  
+- PAN card or Form 60/61 (as applicable)  
+- Additional documents may be required depending on the account type and location of account opening.
+
+KEY POINTS:  
+- NRE accounts are for overseas earnings and are fully repatriable and tax-exempt in India.  
+- NRO accounts are for income earned in India and have repatriation limits and are subject to TDS.  
+- FCNR (B) deposits are fixed deposits in foreign currency with no exchange risk and full repatriability.  
+- Cash deposits are allowed only in NRO accounts.  
+- Joint holding rules differ by account type.  
+- Account opening requires submission of valid documents and can be done at ICICI Bank branches or overseas representative offices.  
+- Account opening is completed within 2 working days after document verification.  
+
+URL: https://www.icicibank.com/nri-banking/accounts/new-nri-types-of-accounts-faqs

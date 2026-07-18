@@ -1,0 +1,59 @@
+TITLE: How to Create Recurring Deposits on iMobile  
+SOURCE: ICICI Bank  
+CATEGORY: Deposits  
+TAGS: Recurring Deposit, iMobile, ICICI Bank, Savings, Investment, Fixed Deposit  
+
+CONTENT:  
+ICICI Bank offers a convenient way to create Recurring Deposits (RD) through its mobile banking app, iMobile. Recurring Deposits are a disciplined savings instrument that allows customers to save a fixed amount every month and earn interest on the accumulated amount.
+
+**How to Create Recurring Deposits on iMobile:**  
+1. Log in to the iMobile app using your credentials.  
+2. Navigate to the 'Deposits' section.  
+3. Select 'Recurring Deposit' from the options.  
+4. Enter the amount you wish to deposit monthly.  
+5. Choose the tenure of the RD (minimum and maximum tenure options available).  
+6. Select the account from which the monthly installment will be debited.  
+7. Confirm the details and submit the request.  
+8. You will receive a confirmation message once the RD is successfully created.
+
+**Key Features and Benefits of ICICI Bank Recurring Deposits:**  
+- Flexible tenure options to suit your savings goals.  
+- Competitive interest rates, compounded quarterly.  
+- Premature withdrawal facility available with applicable penalties.  
+- Auto-debit facility from your savings account for hassle-free monthly deposits.  
+- Loan against RD available as per bank’s policy.  
+- Nomination facility for added security.  
+
+**Interest Rates:**  
+Interest rates on Recurring Deposits vary and are subject to change as per RBI guidelines and bank policies. Customers are advised to check the latest rates on the official ICICI Bank website or iMobile app before creating an RD.
+
+**Eligibility:**  
+- Resident individuals, including minors through guardians, can open an RD.  
+- NRIs are eligible to open RDs subject to applicable regulations.  
+
+**Fees and Charges:**  
+- No account opening charges for RD.  
+- Premature withdrawal may attract penalty charges as per bank norms.  
+- No charges for auto-debit facility.  
+
+**FAQs:**  
+- *Can I increase the monthly installment after opening the RD?*  
+  No, the monthly installment amount is fixed at the time of opening the RD.  
+- *Is there a minimum deposit amount?*  
+  Yes, the minimum monthly deposit amount is ₹100.  
+- *Can I open multiple RDs?*  
+  Yes, customers can open multiple Recurring Deposits.  
+- *What happens if a monthly installment is missed?*  
+  The RD will be treated as discontinued if installments are missed beyond the grace period, and interest will be paid accordingly.  
+
+KEY POINTS:  
+- Create Recurring Deposits easily via iMobile app.  
+- Flexible tenure and monthly deposit options.  
+- Competitive interest rates, compounded quarterly.  
+- Auto-debit facility for monthly installments.  
+- Premature withdrawal allowed with penalties.  
+- Minimum monthly deposit ₹100.  
+- Eligible for resident individuals and NRIs.  
+- No account opening charges; penalties applicable for premature withdrawal.  
+
+URL: https://www.icicibank.com/personal-banking/iplay/create-recurring-deposits-on-imobile

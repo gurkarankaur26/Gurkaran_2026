@@ -1,0 +1,57 @@
+TITLE: ICICI Bank Credit Card Security, Usage, and Management Guide  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards  
+TAGS: Credit Card, Security, PIN, Blocking, Fraud, Transactions, Customer Care, Net Banking, iMobile App  
+
+CONTENT:  
+ICICI Bank provides comprehensive security features and management options for its Credit Cards to ensure safe and convenient usage.  
+
+**Security and Fraud Prevention:**  
+- Transactions may be declined for security reasons if suspicious activity is detected, such as high-risk payment locations, incorrect OTP entries, or unusual spending patterns.  
+- Contact Customer Care at 1800 1080 from your registered mobile number to confirm and unblock your card if required.  
+- Contactless transactions require the card to be held within approximately 4 cm of the terminal, and the cashier must enter the transaction amount before tapping. Accidental contactless transactions cannot occur.  
+- If you notice any fraudulent transaction, report it immediately to the Bank. The Bank will investigate and may provide temporary liability protection depending on the card’s terms and the timing of the report. Prompt blocking of the card helps prevent further unauthorized use.  
+- Multiple taps of the card for the same purchase will only process one transaction.  
+
+**Card Blocking and Locking:**  
+- You can block your Credit Card instantly via:  
+  - iMobile app: Cards & Forex > Block  
+  - Net Banking: Cards > Credit Cards > Manage Your Credit Card > Block Card  
+  - Calling Customer Care from your registered mobile number  
+  - Visiting the nearest ICICI Bank branch  
+- Temporary locking of the Credit Card is also available through Net Banking, iMobile app, or Customer Care.  
+- In case of loss or suspected fraud, immediately block your card and request assistance or a replacement.  
+
+**Transaction Security Tips:**  
+- For online transactions, always use secure websites.  
+- Avoid using public or unsecured Wi-Fi networks.  
+- Ensure OTP-based authentication is enabled.  
+- Never share card details or respond to phishing emails claiming to be from the Bank.  
+
+**Limit Changes and Account Linking:**  
+- Limit change requests can only be made by the account holder after authentication; third parties cannot request limit changes.  
+- Multiple ICICI Bank relationships (savings accounts, Credit Cards, Demat Accounts) can be linked to a single Net Banking User ID if key details match. Joint account linking follows specific rules.  
+
+**CVV and PIN Details:**  
+- CVV (Card Verification Value):  
+  - Visa and MasterCard Credit Cards have a 3-digit CVV printed on the signature strip on the back.  
+  - American Express cards have a 4-digit CVV printed on the front.  
+- PINs:  
+  - Each card (primary and add-on) requires a separate 4-digit ATM PIN for authentication.  
+  - In India, a PIN is required for most POS transactions. Internationally, a PIN is required only if the POS terminal supports PIN authentication.  
+  - 3D Secure PIN can be generated or changed via the iMobile app or Net Banking by following on-screen instructions.  
+  - ATM PIN and 3D Secure PIN can be reset through the iMobile app, Net Banking, or at any ICICI Bank ATM.  
+
+KEY POINTS:  
+- Contact Customer Care at 1800 1080 for card issues from your registered mobile number.  
+- Contactless transactions require close proximity and cashier input; accidental taps do not process transactions.  
+- Report fraudulent transactions immediately for investigation and possible liability protection.  
+- Instant card blocking and temporary locking available via iMobile app, Net Banking, Customer Care, or branch visit.  
+- Online transaction safety includes using secure websites, avoiding public Wi-Fi, enabling OTP, and avoiding phishing scams.  
+- Only authenticated account holders can request credit limit changes.  
+- Multiple ICICI Bank accounts can be linked to one Net Banking ID if details match.  
+- CVV codes differ by card type and location on the card.  
+- Separate 4-digit ATM PINs are required for each card; PINs are mandatory for most POS transactions in India.  
+- PINs and 3D Secure PINs can be managed via digital channels or ATMs.  
+
+URL: https://www.icicibank.com/credit-cards/security-and-management

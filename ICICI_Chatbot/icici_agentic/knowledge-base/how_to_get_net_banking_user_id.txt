@@ -1,0 +1,41 @@
+TITLE: How to Get Net Banking User ID  
+SOURCE: ICICI Bank  
+CATEGORY: Digital Banking  
+TAGS: Net Banking, User ID, Internet Banking, ICICI Bank, Online Banking, Registration  
+
+CONTENT:  
+To access ICICI Bank’s net banking services, you need a unique User ID. This User ID is essential for logging into your internet banking account and managing your finances online securely.
+
+**How to Get Your Net Banking User ID:**  
+1. **Check Your Welcome Kit:**  
+   When you open an account with ICICI Bank, your net banking User ID is often provided in the welcome kit sent to you.  
+
+2. **Via SMS:**  
+   If you have registered your mobile number with the bank, you can receive your User ID via SMS by sending a request to the bank’s designated number or through the bank’s mobile app.  
+
+3. **Through the Bank’s Website:**  
+   - Visit the ICICI Bank net banking login page.  
+   - Click on the option “Forgot User ID” or “Get User ID.”  
+   - Enter your registered mobile number, account number, or debit card details as prompted.  
+   - Follow the verification steps to retrieve your User ID.  
+
+4. **Using the Mobile Banking App:**  
+   - Log in to the ICICI Bank mobile app using your registered mobile number and MPIN.  
+   - Navigate to the net banking section to view or retrieve your User ID.  
+
+5. **Contact Customer Care:**  
+   If you face difficulties, you can call ICICI Bank customer care for assistance in retrieving your User ID.  
+
+**Important Notes:**  
+- Ensure your mobile number is updated with the bank to receive SMS alerts and User ID information.  
+- Keep your User ID confidential to protect your account from unauthorized access.  
+- Use the official ICICI Bank website or app to avoid phishing scams.  
+
+KEY POINTS:  
+- Net Banking User ID is required to access ICICI Bank’s internet banking services.  
+- User ID can be found in the welcome kit, received via SMS, retrieved online, or through the mobile app.  
+- Verification through registered mobile number or account details is necessary to retrieve User ID.  
+- Customer care support is available for assistance.  
+- Keep User ID secure and updated mobile number is essential.  
+
+URL: https://www.icicibank.com/videos/how-to-get-internet-banking-user-id

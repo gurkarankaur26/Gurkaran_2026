@@ -1,0 +1,50 @@
+TITLE: ICICI Bank Business Current Account FAQs  
+SOURCE: ICICI Bank  
+CATEGORY: Business Banking  
+TAGS: Current Account, Business Banking, MSME, Overdraft, Merchant Services, Payments, Cash Management  
+
+CONTENT:  
+An ICICI Bank Current Account for businesses is a transactional account designed to meet the high-frequency payment and collection needs of firms, partnerships, proprietorships, and corporate entities. It supports bulk collections, merchant-services integration, cash management solutions, and tailored limits to facilitate day-to-day business operations. This account is the standard business current account offering under ICICI Bank Business Banking.
+
+The account is widely used by micro, small and medium enterprises (MSMEs), traders, exporters/importers, startups, partnerships, and corporates to receive payments, pay salaries, manage vendor payouts, and access merchant services. Unlike savings accounts, business current accounts are optimized for large transaction volumes and do not earn retail savings interest.
+
+ICICI Bank offers multiple current account variants tailored to specific business needs, including Roaming Current Account, RERA accounts, GEM/government-tender accounts, escrow accounts, and merchant accounts. These variants help businesses comply with regulatory requirements and align with their transaction patterns.
+
+Core features of the ICICI Bank Business Current Account include:  
+- Instant collections via NEFT, RTGS, and IMPS  
+- Merchant solutions such as POS machines, QR payments, and e-commerce payment gateways  
+- Bulk payroll and vendor payments  
+- Overdraft and cash credit facility linkage (subject to credit assessment)  
+- Cash management services  
+- Detailed statements and reconciliation tools  
+- Online banking for easy account administration  
+
+The account integrates seamlessly with ICICI Bank’s merchant-services ecosystem, enabling businesses to accept card payments, UPI, and online payments. Daily receipts can be reconciled and routed directly into the current account for instant liquidity.
+
+Overdraft, cash credit, and working capital limits are available on the current account subject to credit assessment, allowing businesses to draw funds in excess of their account balance for short-term liquidity needs.
+
+ICICI Bank Current Accounts can be linked with other business banking products such as business loans, trade finance instruments (letters of credit, bank guarantees), merchant acquiring services, payroll solutions, fixed deposit-backed limits, and corporate credit cards to create a comprehensive business banking relationship.
+
+Account opening is available at ICICI Bank branches across India and through digital and relationship manager channels. Specialized variants for government, export, and import businesses may require additional documentation.
+
+ICICI Bank’s online banking platform provides:  
+- Detailed account statements  
+- Bulk transaction reports  
+- Downloadable CSV/Excel files  
+- Reconciliation tools  
+- Customized reports and API feeds for integration with ERP or accounting systems (for larger customers)  
+
+Typical documentation required includes entity proof such as certificate of incorporation, registration, partnership deed, or proprietorship declaration.
+
+KEY POINTS:  
+- Business current accounts are designed for high-volume transactions, not for earning interest.  
+- Multiple account variants available to suit different business and regulatory needs.  
+- Supports instant payments and collections via NEFT, RTGS, IMPS.  
+- Integrated merchant services: POS, QR, payment gateway.  
+- Overdraft and cash credit facilities available subject to credit assessment.  
+- Can be linked with business loans, trade finance, payroll, and credit cards.  
+- Account opening available digitally and at branches across India.  
+- Online banking offers detailed statements, bulk reports, reconciliation, and ERP integration.  
+- Required documents include entity proof like incorporation certificate or partnership deed.  
+
+URL: https://www.icicibank.com/business-banking/current-account/current-account-faqs

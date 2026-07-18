@@ -1,0 +1,54 @@
+TITLE:  
+ICICI Bank Fixed Deposit (FD) - Features, Premature Withdrawal, Loans, and Closure
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Fixed Deposits, Loans Against FD, Account Services
+
+TAGS:  
+Fixed Deposit, FD Closure, Premature Withdrawal, FD Loan, Interest Rates, Penalties, Auto-Renewal, ICICI Bank, Digital Banking
+
+CONTENT:  
+ICICI Bank Fixed Deposits (FDs) can be managed digitally via Net Banking or the iMobile app, or by visiting a branch. Customers can close their FD accounts either digitally or physically, with the maturity proceeds credited to their linked Savings or Current Account.
+
+**Premature Withdrawal and Penalties:**  
+- FDs have a minimum lock-in period of 7 days. No interest is paid if the FD is closed prematurely within this period.  
+- A penalty of up to 1% is applied on the interest rate for the period the FD was held if closed prematurely. This results in an effective interest rate lower than the originally contracted rate.  
+- Interest is paid at the revised applicable rate for the actual tenure after deducting premature withdrawal penalties.  
+- Senior citizen FDs are subject to the same premature withdrawal penalties unless specific promotional schemes waive them.  
+- Partial withdrawals may be allowed on some FD types but will attract penalty charges.  
+- For online premature withdrawal requests, funds are credited instantly. For branch requests, funds are credited the same day or the next working day depending on the time of request.
+
+**Loan/Overdraft Facility Against FD:**  
+- Customers can avail a loan or overdraft facility against their FD without breaking it, allowing liquidity while the FD continues to earn interest.  
+- Typically, up to 90% of the FD value can be availed as a loan, subject to internal credit policies and FD type.  
+- Interest on the loan is charged only on the utilized amount, generally at the FD interest rate plus a fixed spread (e.g., +2%).  
+- The loan or overdraft facility can be activated instantly through the iMobile app or Net Banking for eligible FDs.  
+- The FD remains intact and continues to earn interest at the contracted rate during the loan tenure.  
+- The loan or overdraft must be repaid before or at the time of FD maturity. Any outstanding amount is adjusted against the maturity proceeds.  
+- Prepayment of the entire outstanding loan amount is allowed at any time without prepayment charges. Interest is calculated only for the period the loan was utilized.
+
+**FD Booking and Refunds:**  
+- If FD booking fails due to technical issues but the account is debited, the amount is automatically reversed within the same day or T+1 working day.  
+- Customers can raise a request through customer care or branch if the reversal does not reflect.  
+- Refunds are processed on the same day or within T+1 working day.  
+- No interest is paid for the time funds remained in transition if the deposit was not successfully created.
+
+**FD Closure on Maturity and Auto-Renewal:**  
+- FD closure on maturity can be done via iMobile app, Net Banking, or by visiting any ICICI Bank branch.  
+- Maturity proceeds are credited to the linked Savings or Current Account as per customer instructions.  
+- Auto-renewal option allows the FD to be renewed automatically for the same tenure at the prevailing interest rate on the date of renewal.  
+- Customers can modify auto-renewal instructions any time before FD maturity through the iMobile app or Net Banking.
+
+KEY POINTS:  
+- Minimum lock-in period: 7 days; no interest if closed prematurely within this period.  
+- Premature withdrawal penalty: up to 1% on interest rate applicable for the period FD was held.  
+- Partial withdrawals allowed on some FD types with penalties.  
+- Loan against FD: up to 90% of FD value, interest = FD rate + fixed spread, repayable before maturity.  
+- Instant activation of loan/overdraft via digital channels for eligible FDs.  
+- FD booking failures are auto-reversed within T+1 working day; refunds processed promptly.  
+- Auto-renewal available and modifiable before maturity digitally.  
+- Maturity proceeds credited to linked account as per instructions.
+
+URL:  
+https://www.icicibank.com/personal-banking/deposits/fixed-deposit.page

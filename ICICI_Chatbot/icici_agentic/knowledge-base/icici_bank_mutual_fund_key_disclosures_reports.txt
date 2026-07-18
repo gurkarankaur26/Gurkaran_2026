@@ -1,0 +1,42 @@
+TITLE: ICICI Bank Mutual Fund – Key Disclosures & Reports  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investments  
+TAGS: Mutual Funds, Commission, SEBI, AMFI, Investment Risk, ICICI Prudential, Transaction Charges  
+
+CONTENT:  
+ICICI Bank acts as a registered distributor of mutual fund schemes, including those of its subsidiary, ICICI Prudential Asset Management Company. The bank earns commissions and trail fees from various Asset Management Companies (AMCs) for distributing their mutual fund products. The commission rates vary by fund type and are subject to change at the discretion of ICICI Bank and the respective AMCs.
+
+**Commission Disclosure (April 2026 - June 2026):**  
+| Fund Schemes                          | Minimum 1st Yr Trail | Maximum 1st Yr Trail |  
+|-------------------------------------|---------------------|---------------------|  
+| Arbitrage Fund                      | 0.19%               | 1.50%               |  
+| Asset Allocation Fund               | 0.07%               | 1.83%               |  
+| Bond Funds                         | 0.05%               | 1.25%               |  
+| Children’s Fund                   | 0.65%               | 1.99%               |  
+| ELSS (Equity Linked Savings Scheme) | 0.76%               | 1.83%               |  
+| Equity Funds                      | 0.12%               | 2.07%               |  
+| Floater Fund                     | 0.17%               | 0.47%               |  
+| FoFs (Overseas or Domestic)       | 0.05%               | 1.26%               |  
+| Gilt Fund                       | 0.09%               | 1.06%               |  
+| Hybrid Funds                    | 0.17%               | 1.77%               |  
+| Index Funds or ETFs              | 0.00%               | 1.83%               |  
+| Liquid or Overnight or Money Market Fund | 0.01%               | 0.59%               |  
+| Low or Medium or Long Duration Fund | 0.00%               | 1.30%               |  
+| Retirement Fund                 | 0.79%               | 1.99%               |  
+
+**Important Notes:**  
+- ICICI Bank is an AMFI-registered mutual fund distributor.  
+- The commission rates are indicative and may change without prior notice.  
+- From 1 October 2013, ICICI Bank has waived transaction charges on all mutual fund purchases, both online and offline. Investors receive mutual fund units equivalent to the full subscription amount without any deduction for transaction charges.  
+- Mutual fund investments are subject to market risks. Investors should carefully read the offer documents, including the Scheme Information Document (SID), Statement of Additional Information (SAI), and Key Information Memorandum (KIM), before investing.  
+- ICICI Bank acts only as a distributor and is not responsible for any losses arising from investments in third-party mutual fund products. The investment contract is directly between the investor and the AMC.  
+- Investors are advised to seek professional advice (tax, legal, financial, accounting) before making investment decisions.  
+
+KEY POINTS:  
+- Commission rates vary by mutual fund scheme type, with maximum first-year trail commissions up to 2.07% for equity funds.  
+- No transaction charges on mutual fund purchases since 1 October 2013.  
+- ICICI Bank is a registered distributor under AMFI and complies with SEBI and RBI guidelines.  
+- Mutual fund investments carry market risk; investors should read all related documents carefully.  
+- ICICI Bank is not liable for losses from third-party mutual fund investments.  
+
+URL: https://www.icicibank.com/personal-banking/investments/mutual-funds/disclosure

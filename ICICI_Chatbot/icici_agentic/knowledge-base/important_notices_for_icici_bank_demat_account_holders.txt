@@ -1,0 +1,44 @@
+TITLE: Important Notices for ICICI Bank Demat Account Holders  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Information  
+TAGS: Demat Account, SEBI Circulars, NSDL, CDSL, Nomination, Aadhaar Linking, Investor Guidelines, Complaint Redressal  
+
+CONTENT:  
+This document provides important updates and regulatory notices relevant to ICICI Bank Demat account holders. It includes key circulars and guidelines issued by SEBI, NSDL, CDSL, and RBI that impact the operation, compliance, and services related to Demat accounts.
+
+Key Notices and Updates:  
+1. RBI Press Release on Action against Paytm Payments Bank Ltd under Section 35A of the Banking Regulation Act, 1949 (31-Jan-24)  
+2. SEBI Circular on Mandatory updation of Nominee in NSDL and CDSL Demat accounts (27-Jul-21)  
+3. World Investor Week (23-29 November 2020) celebrated under IOSCO and SEBI, promoting investor awareness and education.  
+4. Change in Off-market transfer reason codes for NSDL and CDSL (30-Jul-19)  
+5. SEBI Circular on Complaint Redress System (SCORES) for investor grievances (18-Jul-19)  
+6. NSDL Circular on Non-availability of Inter Depository transfer instructions on Trading Holidays (9-Apr-18)  
+7. Linking of Aadhaar to Demat Accounts through NSDL and general Aadhaar linking guidelines (4-Apr-18 and 8-Aug-17)  
+8. Notification regarding discontinuation of Rajiv Gandhi Equity Savings Scheme (RGESS) (28-Jun-17)  
+9. Multiple Nomination Facility in Demat Accounts (7-Dec-16)  
+10. FATCA and CRS Guidelines compliance for Demat accounts (10-Jun-16)  
+11. SEBI Circular on Standardisation, monitoring, and scanning of Delivery Instruction Slips (DIS) for Demat Accounts (18-Dec-15)  
+12. Guidelines on ASBA (Application Supported by Blocked Amount) and IPO process (23-Nov-15)  
+13. Compliance Report related to RGESS (16-Sep-15)  
+14. Requirement of separate mobile number and email address for each client (13-Apr-15)  
+15. SEBI notification on KYC information availability on Depository Participants’ websites (2-Sep-14)  
+16. Procedure to receive Annual Report and AGM Notice electronically (1-Sep-14)  
+17. Investor advisory on SMS Alerts for Demat transactions (28-Aug-14)  
+18. NSDL Circular on Email address updation in Demat accounts (22-Nov-13)  
+19. SEBI circular on Securities Lending and Borrowing (SLB) framework (30-May-13)  
+
+KEY POINTS:  
+- Nominee updation in Demat accounts is mandatory as per SEBI guidelines.  
+- Aadhaar linking with Demat accounts is required for compliance and ease of transactions.  
+- Multiple nomination facility is available for Demat accounts to ensure smooth succession.  
+- Investors should be aware of complaint redressal mechanisms via SEBI’s SCORES platform.  
+- Off-market transfer reason codes have been updated and must be used correctly for transfers.  
+- Demat account holders must maintain separate mobile numbers and email IDs for KYC and communication.  
+- Delivery Instruction Slips (DIS) are standardized and monitored to prevent fraud.  
+- Investors should utilize SMS alerts to monitor Demat account activities.  
+- Compliance with FATCA and CRS guidelines is mandatory for foreign account reporting.  
+- Important investor awareness events like World Investor Week are conducted to educate investors.  
+- Rajiv Gandhi Equity Savings Scheme (RGESS) has been discontinued; investors should note this for tax benefits.  
+- Securities Lending and Borrowing framework is regulated by SEBI for enhanced liquidity.  
+
+URL: https://www.icicibank.com/personal-banking/demat/important-notices-to-demat-customers

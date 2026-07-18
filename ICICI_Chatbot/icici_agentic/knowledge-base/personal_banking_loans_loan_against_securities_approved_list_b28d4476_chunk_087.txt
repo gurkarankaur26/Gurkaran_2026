@@ -1,0 +1,55 @@
+TITLE:  
+ICICI Bank - Mutual Fund Investment Options and Details
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Products  
+TAGS: Mutual Funds, Investment, SBI Mutual Funds, Growth Option, Dividend Option, Liquid Funds, Bond Funds, Gilt Funds
+
+CONTENT:  
+This document provides detailed information on various mutual fund schemes available through ICICI Bank, primarily focusing on SBI Mutual Fund products. The schemes include different fund types such as Credit Risk Funds, Gilt Index Funds, SDL Index Funds, Dynamic Bond Funds, Liquid Funds, and Long Duration Funds. Each scheme is available in multiple variants including Direct and Regular plans, with options for Growth and Dividend (IDCW) payouts.
+
+Key Mutual Fund Schemes and Features:
+
+1. **Credit Risk Funds**  
+   - SBI Credit Risk Fund - Direct and Regular plans  
+   - Options: Growth and IDCW (Income Distribution cum Capital Withdrawal)  
+   - Suitable for investors seeking exposure to credit risk with potential for higher returns.
+
+2. **Gilt Index Funds**  
+   - SBI CRISIL IBX Gilt Index Funds with maturity dates such as June 2036 and April 2029  
+   - Available in Direct and Regular plans  
+   - Options: Growth and IDCW  
+   - Invests in government securities, suitable for risk-averse investors seeking stable returns.
+
+3. **SDL Index Funds**  
+   - SBI CRISIL IBX SDL Index September 2027 Fund  
+   - Direct and Regular plans with Growth and IDCW options  
+   - Invests in State Development Loans, offering moderate risk and returns.
+
+4. **Dynamic Bond Funds**  
+   - SBI Dynamic Bond Fund in Direct and Regular plans  
+   - Growth and IDCW options available  
+   - Invests in a mix of debt instruments with dynamic duration management.
+
+5. **Liquid Funds**  
+   - SBI Liquid Fund available in Direct, Regular, and Institutional Plans (IP)  
+   - Dividend options include Daily, Fortnightly, and Weekly IDCW  
+   - Growth option also available  
+   - Suitable for short-term investments and liquidity management.
+
+6. **Long Duration Funds**  
+   - SBI Long Duration Fund in Direct and Regular plans  
+   - Growth and IDCW options  
+   - Invests in long-term debt securities, suitable for investors with a longer investment horizon.
+
+KEY POINTS:  
+- Mutual fund schemes are available in Direct and Regular plans.  
+- Investment options include Growth and IDCW (dividend payout) variants.  
+- IDCW options have different payout frequencies: Daily, Weekly, Fortnightly.  
+- Fund types cover a broad spectrum: Credit Risk, Gilt, SDL, Dynamic Bond, Liquid, and Long Duration.  
+- Suitable for various investor risk profiles and investment horizons.  
+- No specific fees, eligibility criteria, or interest rates are mentioned in the provided data.  
+- Investors should refer to the respective scheme documents for detailed performance, risk factors, and expense ratios.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

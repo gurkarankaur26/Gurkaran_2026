@@ -1,0 +1,40 @@
+TITLE: Gold Loan Interest Rate Calculation – How It Works  
+SOURCE: ICICI Bank  
+CATEGORY: Loans / Gold Loan  
+TAGS: Gold Loan, Interest Rate, Simple Interest, Loan Calculation, Repayment Options, Fees  
+
+CONTENT:  
+Gold loans allow customers to quickly access funds by pledging their gold assets. Understanding how the interest rate on a gold loan is calculated is crucial for managing repayment and overall loan cost.
+
+**Types of Interest Rates:**  
+- ICICI Bank offers a fixed interest rate throughout the loan tenure.  
+- Gold loans typically use simple interest for calculation.
+
+**Interest Calculation Formula:**  
+Interest = Principal (P) × Rate of Interest (R) × Time (T)  
+Example: For a loan of ₹10,000 at 10% annual interest for 1 year, interest = 10,000 × 0.10 × 1 = ₹1,000.
+
+**Additional Charges:**  
+- Processing Fees  
+- Valuation Charges  
+- Penal Charges  
+These charges affect the total repayment amount.
+
+**Repayment Options:**  
+- ICICI Bank provides flexible repayment options allowing payment of principal and interest at any point during the tenure.  
+- Some lenders offer part-payment or prepayment options to help manage the loan effectively.
+
+**Tools and Advice:**  
+- Use the ICICI Bank Gold Loan Calculator to estimate the principal amount based on gold loan per gram.  
+- It is advisable to compare interest rates, fees, and terms across lenders before finalizing a loan.  
+- Consulting a financial advisor or using online calculators can provide personalized and accurate loan cost estimates.
+
+KEY POINTS:  
+- ICICI Bank gold loans have fixed interest rates and use simple interest calculation.  
+- Interest = Principal × Rate × Time.  
+- Additional fees like processing and valuation charges apply.  
+- Flexible repayment options available, including part-payment and prepayment.  
+- Use ICICI Bank’s Gold Loan Calculator for precise calculations.  
+- Always compare offers and read terms carefully before borrowing.
+
+URL: https://www.icicibank.com/blogs/gold-loan/how-gold-loan-interest-rate-is-calculated

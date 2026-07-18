@@ -1,0 +1,54 @@
+TITLE:  
+Aditya Birla Sun Life Mutual Fund Schemes Overview
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Products
+
+TAGS:  
+Mutual Funds, Aditya Birla Sun Life, Liquid Fund, Low Duration Fund, Medium Term Plan, Money Manager Fund, Nifty SDL Index Fund, Investment Options
+
+CONTENT:  
+This document provides a structured overview of various Aditya Birla Sun Life Mutual Fund schemes available for investment. The schemes include Liquid Funds, Low Duration Funds, Medium Term Plans, Money Manager Funds, and Nifty SDL Index Funds, each with different plan options such as Direct (Dir), Regular (Reg), and Retail (Ret) categories, and dividend payout options like Daily IDCW (Income Distribution cum Capital Withdrawal), Weekly IDCW, Half Yearly IDCW, Quarterly IDCW, and Growth options.
+
+Key Mutual Fund Schemes:
+
+1. **Aditya Birla Sun Life Liquid Fund**  
+   - Retail - DAP  
+   - Retail - Growth
+
+2. **Aditya Birla Sun Life Low Duration Fund**  
+   - Direct Plan: Daily IDCW, Weekly IDCW, Growth  
+   - Institutional Plan: Daily IDCW, Growth  
+   - Regular Plan: Daily IDCW, Weekly IDCW, Growth
+
+3. **Aditya Birla Sun Life Medium Term Plan**  
+   - Direct Plan: Growth, Half Yearly IDCW, Quarterly IDCW, IDCW  
+   - Regular Plan: Growth, Half Yearly IDCW, Quarterly IDCW, IDCW
+
+4. **Aditya Birla Sun Life Money Manager Fund**  
+   - Direct Plan: Daily IDCW, Weekly IDCW, Growth  
+   - Regular Plan: Daily IDCW, Weekly IDCW, Growth  
+   - Retail Plan: Daily IDCW, Weekly IDCW, Growth
+
+5. **Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund**  
+   - Direct Plan: Growth, IDCW  
+   - Regular Plan: Growth, IDCW
+
+6. **Aditya Birla Sun Life Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund**  
+   - Direct Plan: Growth, IDCW
+
+Each scheme is identified by a unique code for easy reference.
+
+KEY POINTS:  
+- Multiple investment options available under each scheme: Growth and IDCW (Income Distribution cum Capital Withdrawal) with varying payout frequencies (Daily, Weekly, Half Yearly, Quarterly).  
+- Plans are available in Direct, Regular, and Retail categories to suit different investor preferences.  
+- The schemes cover a range of investment horizons and risk profiles, from liquid funds for short-term needs to medium-term and index funds for longer-term investments.  
+- Unique scheme codes are provided for each variant to facilitate transactions and tracking.  
+- Investors can choose dividend payout frequency as per their income requirements.  
+- These funds are managed by Aditya Birla Sun Life AMC, a reputed asset management company.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/aditya-birla-sun-life.page

@@ -1,0 +1,45 @@
+TITLE: ICICI Bank Fixed Deposit (FD) Terms and Conditions  
+SOURCE: ICICI Bank  
+CATEGORY: Fixed Deposit  
+TAGS: Fixed Deposit, FD, Term Deposit, Interest Rates, Account Opening, Renewal, Maturity, ICICI Bank  
+
+CONTENT:  
+This document outlines the key terms and conditions governing Fixed Deposit (FD) accounts with ICICI Bank, applicable to both resident and non-resident depositors. It supplements specific terms provided during account opening and is subject to the Bank’s internal policies and RBI KYC guidelines.
+
+**Account Opening:**  
+- Subject to ICICI Bank’s internal policies and RBI KYC compliance.  
+- Applicants must provide all required documentation for verification.  
+- The Bank reserves the right to refuse account opening without providing reasons.
+
+**Account Closure:**  
+- Depositors can close the FD by submitting a written request. For joint accounts, all holders must sign.  
+- The Bank may close accounts for unsatisfactory operation or other valid reasons after notifying the depositor.
+
+**Term Deposit Receipt (TDR):**  
+- A TDR or deposit advice is issued as proof of deposit.  
+- It is non-transferable and not a negotiable instrument.  
+- In case of loss or damage, the depositor must notify the Bank immediately and follow procedures for duplicate issuance, which may require indemnity.
+
+**Interest:**  
+- Interest rates depend on the deposit tenure at the time of booking.  
+- Interest calculation method (simple or compounded) and payout frequency (monthly, quarterly, or at maturity) depend on the product chosen.  
+- Interest rates are subject to change at the Bank’s discretion. Renewed deposits earn interest at rates prevailing on the renewal date.
+
+**Renewal of Deposit:**  
+- Depositors can opt for auto-renewal at account opening.  
+- If auto-renewal is enabled, principal and/or interest is renewed for the original tenure at the prevailing interest rate on maturity.  
+- If no instruction is given, the deposit is considered overdue after maturity.
+
+**Repayment on Maturity:**  
+- Unless auto-renewed, maturity proceeds are credited to the depositor’s designated Savings or Current account.  
+- Payments are made according to operational instructions such as ‘Either or Survivor’ or ‘Former or Survivor’.
+
+KEY POINTS:  
+- FD accounts require KYC compliance and are subject to Bank’s internal policies.  
+- TDR is proof of deposit but non-transferable.  
+- Interest rates vary by tenure and product, and can change at Bank’s discretion.  
+- Auto-renewal option available; otherwise, deposits become overdue on maturity.  
+- Maturity proceeds credited to operative account unless auto-renewed.  
+- Account closure requires written request; joint accounts need all holders’ consent.  
+
+URL: https://www.icicibank.com/terms-condition/open-fixed-deposit

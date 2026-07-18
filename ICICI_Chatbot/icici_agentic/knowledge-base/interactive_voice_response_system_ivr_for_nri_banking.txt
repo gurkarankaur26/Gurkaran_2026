@@ -1,0 +1,34 @@
+TITLE: Interactive Voice Response System (IVR) for NRI Banking  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Customer Service  
+TAGS: IVR, NRI Banking, Customer Support, Account Services, Money Transfer, Loans, Cards  
+
+CONTENT:  
+ICICI Bank offers an Interactive Voice Response (IVR) system tailored for NRI customers to access a wide range of banking services conveniently and efficiently. The IVR system provides 24x7 automated assistance for various banking needs, enabling NRIs to manage their accounts and transactions without visiting a branch.
+
+Key services accessible via the IVR system include:  
+- Account Information: Check balances and recent transactions for NRE/NRO accounts.  
+- Fixed Deposits: Information on Fixed Deposit schemes offering up to 7.2% returns.  
+- Money Transfer: Access to Money2India, a cost-effective online money transfer service for sending money to India.  
+- Loans and Cards: Digital sanctioning of loans and credit cards in 5 simple steps.  
+- Investments: Information on Mutual Funds (SIP) and Portfolio Investment Scheme for NRIs to purchase and sell shares.  
+- Payments: Scan and Pay services for seamless payments.  
+- Digital Banking: Full control over bank accounts through digital platforms.  
+- Business Banking: Services including cash management, bulk payments via I-multipay, merchant services with instant settlements, and trade finance for export-import transactions.  
+- Customer Support: Assistance with queries related to accounts, cards, loans, and other banking products.
+
+The IVR system is designed to provide quick, reliable, and secure access to banking services, ensuring NRIs can manage their finances anytime, anywhere.
+
+KEY POINTS:  
+- IVR system available 24x7 for NRI banking services.  
+- Supports account balance and transaction inquiries for NRE/NRO accounts.  
+- Fixed Deposits offer up to 7.2% returns.  
+- Money2India service for cost-effective online money transfers.  
+- Digital sanctioning of loans and credit cards in 5 steps.  
+- Access to Mutual Funds (SIP) and Portfolio Investment Scheme for NRIs.  
+- Scan and Pay for instant payments.  
+- Comprehensive digital banking control.  
+- Business banking services including cash management, bulk payments, merchant services, and trade finance.  
+- Secure and convenient customer support for all banking needs.
+
+URL: https://www.icicibank.com/nri-banking/RHStemp/ivr

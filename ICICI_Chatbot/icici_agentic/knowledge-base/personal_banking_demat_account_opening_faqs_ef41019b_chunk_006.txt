@@ -1,0 +1,50 @@
+TITLE:  
+Pledge and Hypothecation of Securities in Demat Account
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Securities, Demat Account, Loan Against Securities  
+
+TAGS:  
+Pledge, Hypothecation, Demat Account, NSDL, CDSL, Loan Against Securities, ICICI Bank  
+
+CONTENT:  
+Securities held in demat form can be pledged or hypothecated by clients to avail loan or credit facilities. The pledge of securities requires both the borrower (pledgor) and the lender (pledgee) to have demat accounts with the same depository—either NSDL or CDSL. Inter-depository pledges (where pledgor and pledgee have accounts in different depositories) are not permitted.
+
+Even after securities are pledged, the pledgor remains the beneficial owner and continues to receive benefits from corporate actions.
+
+**Process for Pledge/Hypothecation:**
+
+1. **Form:**  
+   A common pledge/hypothecation form is used for all pledge requests, including creation and closure of pledges. These forms are available at any ICICI Bank branch.
+
+2. **Filling the Form:**  
+   - Tick the appropriate box to indicate whether the instruction is for pledge or hypothecation.  
+   - Fill the form completely to avoid rejection.  
+   - Enter the correct DPID and demat account number on the left side of the form.  
+   - Enter the counter-party (pledgee) details on the right side.  
+   - Provide the Agreement number as per the pledge agreement signed between pledgor and pledgee.  
+   - Provide the Closure date as per the pledge agreement.  
+   - Enter the ISIN and security name of the securities to be pledged.  
+   - If shares are under lock-in, specify the lock-in reason and lock-in release date.  
+   - Enter the number of securities correctly. For pledge creation, ensure free balance of securities in the ISIN mentioned.  
+   - The instruction must be signed by all account holders in the same order as the specimen signature with ICICI Bank.  
+   - For all pledge instructions other than pledge creation, enter the Pledge order number.
+
+3. **Submission:**  
+   Submit the completed pledge request form at any ICICI Bank branch. An acknowledgement will be provided upon submission.
+
+**Important Notes:**  
+- Financial transactions related to pledge are handled outside the depository system.  
+- Pledgor retains beneficial ownership and rights to corporate benefits during the pledge period.
+
+KEY POINTS:  
+- Pledge/hypothecation requires both parties to have demat accounts with the same depository (NSDL or CDSL).  
+- Inter-depository pledges are not allowed.  
+- Use a common pledge/hypothecation form available at ICICI Bank branches.  
+- Complete and accurate form filling is mandatory to avoid rejection.  
+- Pledgor remains beneficial owner and receives corporate benefits during pledge.  
+- Submit the form at ICICI Bank branches and obtain acknowledgement.  
+
+URL:  
+https://www.icicibank.com/knowledge-base

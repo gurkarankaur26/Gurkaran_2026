@@ -1,0 +1,49 @@
+TITLE:  
+KYC and Account Opening Documents for Limited Liability Partnership (LLP) and Other Entities
+
+SOURCE: ICICI Bank
+
+CATEGORY:  
+Account Opening, KYC, Corporate Banking
+
+TAGS:  
+LLP, KYC Documents, Account Opening, Corporate Accounts, PAN, Address Proof, Authorised Signatories, Power of Attorney, Beneficial Owners
+
+CONTENT:  
+This document outlines the mandatory Know Your Customer (KYC) documents and details required for opening and maintaining accounts for Limited Liability Partnerships (LLP) registered under the LLP Act 2008, as well as guidelines for Liaison, Representative, Project, or Branch office accounts.
+
+**Documents Required for Limited Liability Partnership (LLP):**  
+- Certificate of Registration issued by Registrar of LLP.  
+- Proof of address of the entity if different from the address on the Certificate of Registration.  
+- Current landline/mobile number and e-mail ID of the entity.  
+- Permanent Account Number (PAN) of the entity.  
+- Latest passport-size colour photograph of each authorised signatory.  
+- Valid photo identification and address proof of each authorised signatory.  
+- If Power of Attorney (POA) is granted for account operations, submit photograph, identity, and address proof of the POA holder along with the POA agreement.  
+- Shareholding pattern or list of beneficial owners holding more than 10% in the company (directly or indirectly) on company letterhead.  
+- PAN or identity proof of such beneficial owners.  
+- Address proof of beneficial owners.  
+- LLP deed agreement.  
+- LLP Letter (official document).  
+- Updated list of designated partners.  
+- Account opening cheque from existing current account.  
+
+**Note:** In case of any change in partner(s), complete KYC documents must be updated and submitted.
+
+**KYC Guidelines for Liaison, Representative, Project, or Branch Office Accounts:**  
+- Certificate of Incorporation (COI) and company formation documents, duly notarised by the Indian Embassy or notary public in the country of registration. If documents are not in English, an English attested version is required. All copies must be certified as “True and Updated Copy” and attested by a Company Secretary or director of the foreign company.  
+- Proof of address of the entity (only Indian communication address proof is accepted).  
+- Current landline/mobile number and e-mail ID of the entity.  
+- Permanent Account Number (PAN) of the entity.  
+- Latest passport-size colour photograph of each authorised signatory.  
+- Valid photo identification and address proof of each authorised signatory. For foreign nationals, a copy of passport attested by the customer is required, and the signature on the Customer Information Updation Form must be verified by a foreign notary public, Consulate General, or Indian Embassy.
+
+KEY POINTS:  
+- LLP account opening requires Certificate of Registration, PAN, address proof, authorised signatories’ ID and photographs, POA documents if applicable, shareholding details, LLP deed, and updated partner list.  
+- Beneficial owners holding more than 10% must be identified with PAN and address proof.  
+- Changes in partners require fresh KYC documentation.  
+- Foreign entities must provide notarised and attested incorporation documents and Indian communication address proof.  
+- Foreign nationals as authorised signatories must provide attested passports and verified signatures.  
+
+URL:  
+https://www.icicibank.com/business-banking/know-your-customer-kyc.page

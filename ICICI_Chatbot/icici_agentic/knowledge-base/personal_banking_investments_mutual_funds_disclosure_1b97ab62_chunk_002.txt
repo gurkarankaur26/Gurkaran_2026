@@ -1,0 +1,43 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment Guidelines and Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Services
+
+TAGS:  
+Mutual Funds, Investment, NAV, SEBI Guidelines, AMFI, ICICI Bank, ARN, Market Risk
+
+CONTENT:  
+ICICI Bank acts as a distributor of Mutual Funds, facilitating transactions on an "Execution only" basis unless otherwise agreed with the customer. All Mutual Fund investments are subject to market risk, and customers are advised to read all scheme-related documents carefully before investing.
+
+As per SEBI circulars (SEBI/HO/IMD/DF2/CIR/P/2020/175 dated 17 September 2020 and SEBI/HO/IMD/DF2/CIR/P/2020/253 dated 31 December 2020), effective from 1 February 2021, the applicable Net Asset Value (NAV) for purchase of Mutual Fund units will be determined only after the realization and availability of funds in the Mutual Fund’s bank account before the cut-off timings for purchase transactions. This rule applies to all Mutual Fund schemes, including Liquid and Overnight Funds.
+
+Investors must ensure that the Mutual Fund application form is complete and all required details are accurately filled. ICICI Bank is not liable for any consequences arising from false, incorrect, or incomplete information provided by the investor. Additionally, if investors give direct instructions to the Asset Management Company (AMC) or their agents, ICICI Bank will not be responsible for any outcomes related to such instructions.
+
+The timeline for processing Mutual Fund application forms depends on the category of the branch where the form is submitted. Indicative timelines for the form to reach the nearest AMC or Registrar collection center are as follows (excluding Saturdays and Sundays):
+
+- Metro branches: Within T+1 working day  
+- Urban branches: Within T+1 working day  
+- Semi-Urban branches: Within T+3 working days  
+- Rural branches: Within T+3 working days  
+
+ICICI Bank provides access to daily NAVs of various Mutual Fund schemes, scheme portfolios, and other scheme-related details to assist investors in making informed decisions.
+
+ICICI Bank Limited is an AMFI-registered Mutual Fund distributor and SIF Distributor. The AMFI Registration Number (ARN) is 0020, with the initial registration date on 19 February 2007 and current validity until 18 February 2027.
+
+KEY POINTS:  
+- ICICI Bank distributes Mutual Funds on an "Execution only" basis unless otherwise agreed.  
+- NAV applicability for purchases is subject to fund realization before cut-off timings as per SEBI guidelines effective 1 Feb 2021.  
+- Investors must provide complete and accurate application forms; ICICI Bank is not liable for incorrect or incomplete information.  
+- Direct instructions to AMC or agents are outside ICICI Bank’s responsibility.  
+- Application form processing timelines vary by branch category:  
+  - Metro & Urban: T+1 working day  
+  - Semi-Urban & Rural: T+3 working days  
+- Mutual Fund investments carry market risk; investors should read scheme documents carefully.  
+- ICICI Bank is an AMFI-registered distributor (ARN 0020), valid until 18 Feb 2027.  
+
+URL:  
+https://www.icicibank.com/knowledge-base/mutual-funds

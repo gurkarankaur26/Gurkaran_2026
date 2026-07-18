@@ -1,0 +1,37 @@
+TITLE: Documents Required for Two-Wheeler Loan 2026  
+SOURCE: ICICI Bank  
+CATEGORY: Loans  
+TAGS: Two-Wheeler Loan, Loan Documents, Eligibility, Income Proof, ICICI Bank  
+
+CONTENT:  
+To apply for an ICICI Bank Two-Wheeler Loan, applicants must submit specific documents based on their employment status. The required documents include proof of identity, proof of address, income proof, proof of purchase, and photographs. Additional documents vary for salaried and self-employed applicants.
+
+**Required Documents for Two-Wheeler Loan Application:**
+
+| Document                          | Salaried Applicant | Self-Employed Professional |
+|----------------------------------|--------------------|----------------------------|
+| Application Form                 | Required           | Required                   |
+| KYC Documents                   | Required           | Required                   |
+| Photographs                     | Required           | Required                   |
+| Proof of Identity               | Required           | Required                   |
+| Proof of Address                | Required           | Required                   |
+| Age Proof                      | Required           | Required                   |
+| Bank Statements                | Required           | Required                   |
+| Signature Verification         | Required           | Required                   |
+| Income Proof                   | Required           | Required                   |
+| Latest Salary Slip or Form 16 | Required           | Not Applicable             |
+| Income Tax Returns (ITR) for the latest one year | Not Applicable     | Required                   |
+| Business Stability Proof or Ownership Proof | Not Applicable     | Required                   |
+| Employment Stability Proof     | Required           | Not Applicable             |
+
+**Additional Information:**  
+- Udyam Registration Certificate (URC) is mandatory to classify the loan under Micro and Small Enterprise (MSE) category, subject to fulfillment of norms.
+
+KEY POINTS:  
+- Different document requirements for salaried and self-employed applicants.  
+- Proof of identity, address, age, and income are mandatory.  
+- Salaried applicants need recent salary slips or Form 16.  
+- Self-employed applicants need Income Tax Returns and business stability proof.  
+- Udyam Registration Certificate required for MSE classification.  
+
+URL: https://www.icicibank.com/personal-banking/loans/two-wheeler-loan/documents-required

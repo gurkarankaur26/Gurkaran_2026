@@ -1,0 +1,81 @@
+TITLE:  
+ICICI Bank NRI Fund Transfer and Withdrawal Services
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRI Banking, Fund Transfer, Account Management
+
+TAGS:  
+NRI, NRE Account, NRO Account, Fund Transfer, Wire Transfer, Money2India, Exchange Houses, Foreign Currency Cheques, INR Cheques, Net Banking, RTGS, Remittance
+
+CONTENT:  
+ICICI Bank offers multiple convenient modes for Non-Resident Indians (NRIs) to transfer and withdraw funds from their NRE (Non-Resident External) and NRO (Non-Resident Ordinary) accounts.
+
+**Money Transfer Options**
+
+1. **Online Modes**  
+- **Money2India**: An internet-based money transfer tracking service available only in Canada, Hong Kong, Singapore, Sweden, Switzerland, UK, USA, and UAE.  
+- Features: Anytime, anywhere access, online tracking of funds, competitive exchange rates, 24-hour customer care via toll-free phone and email.  
+- Registration: One-time instant online registration required at www.money2india.com.
+
+2. **Offline Modes**  
+- **Wire Transfer**: Available for most countries, suitable for large value transfers. Initiated by visiting your local bank abroad and providing wire transfer instructions.  
+- **Exchange House Transfers**: ICICI Bank partners with 24 key Exchange houses and Correspondent banks in Gulf Cooperation Council (GCC) countries (Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, UAE) offering Insta-Transfers, I-Express, Speed Remittance, and INR Demand Draft (DD) facilities.  
+- **Foreign Currency Cheques**: Cheques drawn on foreign banks in foreign currency can be deposited into the beneficiary’s NRE Savings Account.  
+- **INR Cheques**:  
+  - INR cheques can be drawn from other NRE Savings Accounts in favor of your ICICI Bank NRE Savings Account.  
+  - INR cheques can be drawn from any account in favor of your ICICI Bank NRO Savings Account.
+
+**Withdrawal and Payment from NRE/NRO Accounts**
+
+You can make payments to individuals and companies in India through the following channels:
+
+1. **Net Banking**  
+- Recommended for convenience and speed.  
+- For high-value transactions, use the RTGS (Real Time Gross Settlement) facility.
+
+2. **Cheque**  
+- Issue cheques from your NRI account (NRE or NRO) for payments.
+
+3. **Branch Visit**  
+- Visit the nearest ICICI Bank branch in India to place a request for fund transfer.
+
+**Permitted Transfers to Individuals**
+
+| Sending From | Sending To | Permitted Channels | Notes |
+|--------------|------------|--------------------|-------|
+| NRE Account  | NRE Account | Net Banking, Cheque, Through Branch | Allowed |
+| NRE Account  | NRO Account | Net Banking, Cheque, Through Branch | Allowed |
+| NRE Account  | Resident   | Net Banking, Cheque, Through Branch | Allowed |
+| NRO Account  | NRE Account | Restricted (Refer to NRO to NRE Transfers policy) | Limited |
+| NRO Account  | NRO Account | Net Banking, Cheque, Through Branch | Allowed |
+| NRO Account  | Resident   | Net Banking, Cheque, Through Branch | Allowed |
+| Resident     | NRE Account | Not Permitted | Not Allowed |
+| Resident     | NRO Account | Net Banking, Cheque, Through Branch | Allowed |
+
+**Payments to Companies in India**
+
+- From ICICI NRO/NRE account to INR account of a company:  
+  - Use Bill Payment through Net Banking.  
+  - Process: Login to Net Banking -> Bill Payment section -> Select company and pay.
+
+**Important Notes**
+
+- Some transfer modes may not be available depending on your country of residence.  
+- GCC countries include Bahrain, Kuwait, Qatar, Saudi Arabia, Oman, and UAE.
+
+KEY POINTS:  
+- Money2India is an online money transfer and tracking service available in select countries with 24-hour customer support.  
+- Wire transfers and exchange house transfers are available offline for large and quick remittances.  
+- Foreign currency cheques can be deposited into NRE accounts; INR cheques can be drawn in favor of NRE/NRO accounts.  
+- Payments and withdrawals can be made via Net Banking, Cheque, or branch visit.  
+- RTGS is recommended for high-value transactions.  
+- Transfers from NRE to Resident accounts are permitted; transfers from Resident to NRE accounts are not permitted.  
+- Bill payments to companies in India can be done via Net Banking from NRE/NRO accounts.  
+- Availability of transfer modes depends on the country of residence.  
+- GCC countries have special exchange house tie-ups for remittance.
+
+URL:  
+https://www.icicibank.com/nri-banking/fund-transfer.page

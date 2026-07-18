@@ -1,0 +1,27 @@
+TITLE: What is Mutual Fund? Types, Benefits & How Mutual Funds Work  
+SOURCE: ICICI Bank  
+CATEGORY: Investment, Mutual Funds  
+TAGS: Mutual Funds, SIP, Systematic Investment Plan, Investment Types, Tax Benefits, Rupee Cost Averaging, Equity Linked Savings Scheme (ELSS)  
+
+CONTENT:  
+A Mutual Fund is an investment vehicle that pools capital from multiple investors to create a large fund, which is then invested in a diversified portfolio of financial instruments such as stocks, bonds, and other securities. This diversification helps spread and potentially minimize risk. Professional fund managers manage these funds, making informed decisions to generate favorable returns for investors. Mutual funds provide access to a variety of investments that might be difficult or risky for individual investors to undertake alone.
+
+A Systematic Investment Plan (SIP) is a disciplined investment approach to mutual funds, allowing investors to contribute a fixed amount at regular intervals (monthly or quarterly) instead of making a lump sum investment. SIPs are suitable for investors who prefer to invest smaller amounts over time and help in managing market volatility through Rupee Cost Averaging. This method encourages consistent investing habits and reduces the impact of market fluctuations.
+
+Key differences between SIP and Mutual Funds:  
+- Mutual Funds are the actual investment products.  
+- SIP is a method of investing in mutual funds regularly and systematically.  
+- SIPs help in disciplined investing and managing market volatility.  
+- Lump sum investments require larger amounts and market timing, which can be riskier.  
+
+Certain mutual funds, such as Equity Linked Savings Scheme (ELSS), offer tax benefits under applicable laws, making them attractive for investors seeking tax savings along with investment growth.
+
+KEY POINTS:  
+- Mutual Funds pool money from investors to invest in diversified assets.  
+- Managed by professional fund managers.  
+- SIP allows regular, fixed-amount investments in mutual funds.  
+- SIP benefits include disciplined investing and Rupee Cost Averaging.  
+- Lump sum investments require higher capital and involve market timing risks.  
+- ELSS mutual funds provide tax benefits.  
+
+URL: https://www.icicibank.com/blogs/mutual-fund/sip-vs-mutual-fund

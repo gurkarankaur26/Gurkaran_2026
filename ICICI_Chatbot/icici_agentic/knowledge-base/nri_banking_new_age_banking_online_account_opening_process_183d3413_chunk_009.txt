@@ -1,0 +1,49 @@
+TITLE:  
+Mandate Holder and Nomination Facility for ICICI Bank Accounts
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Account Management
+
+TAGS:  
+Mandate Holder, Nomination, NRI Account, Fixed Deposit, Account Operations, Nominee, Banking Rules, Account Security
+
+CONTENT:  
+**Mandate Holder on ICICI Bank Account**  
+- To change the mandate holder on your account, download the Mandate Updation form from ICICI Bank’s website. The form must be duly signed by the account holder(s), the existing mandate holder, and the new mandate holder.  
+- The new mandate holder must visit an ICICI Bank branch to submit the form along with relevant documents.  
+- Required documents include a recent photograph and self-attested copies of valid Identity and Address proof. Originals must be presented for verification.  
+- The mandate holder is authorized to operate the NRI account locally, including:  
+  - Issuing cheques for local payments on behalf of the account holder.  
+  - Opening fixed deposits on behalf of the account holder.  
+  - Executing all instructions except:  
+    - Closure of fixed deposits.  
+    - Repatriation of funds to anyone other than the account holder.  
+    - Gifting of funds.  
+
+**Nomination Facility for Bank Accounts**  
+- A nominee is a person designated to receive assets such as bank deposits, insurance policies, or locker contents after the account holder’s death.  
+- Benefits of nomination include:  
+  - Ease of transfer, avoiding lengthy legal procedures.  
+  - Security and peace of mind for the account holder.  
+  - Financial security for dependents through prompt access to funds.  
+- As per the Department of Finance Gazette notification dated October 27, 2025, effective November 1, 2025, the nomination facility rules are updated as follows:  
+  - An account holder can nominate up to 4 nominees for an account or locker.  
+  - Two nomination methods are available:  
+    1. **Successive Nomination:** Nominees inherit in a specified order if the preceding nominee is deceased.  
+       - Example: Mr. A nominates his wife, mother, son, and daughter. Upon his death, the wife inherits the entire balance. If she is deceased, the mother inherits, followed by the son, then the daughter.  
+    2. **Simultaneous Nomination:** Nominees inherit simultaneously in specified proportions.  
+       - Example: Mr. A nominates his wife, son, and daughter with a 50:25:25 ratio for ₹20 lakh. Upon his death, the wife receives ₹10 lakh, son ₹5 lakh, and daughter ₹5 lakh.  
+
+KEY POINTS:  
+- Mandate holder change requires a signed form and submission at a branch with valid ID and address proofs.  
+- Mandate holders can operate NRI accounts locally but cannot close fixed deposits, repatriate funds to others, or gift funds.  
+- Nomination facility allows up to 4 nominees per account or locker.  
+- Nomination can be successive (priority order) or simultaneous (proportional distribution).  
+- New nomination rules effective from November 1, 2025, as per Finance Ministry notification.  
+- Nomination ensures quick and secure transfer of assets after account holder’s death.  
+
+URL:  
+www.icicibank.in

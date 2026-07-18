@@ -1,0 +1,65 @@
+TITLE: ICICI Prudential All Seasons Bond Fund and Related Mutual Fund Options  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Products  
+TAGS: Mutual Funds, Bond Funds, Investment Options, ICICI Prudential, HSBC Funds, Dividend Payout, Growth Option  
+
+CONTENT:  
+This document provides a structured overview of various mutual fund schemes offered by ICICI Prudential and HSBC, focusing on bond funds and overnight/short duration funds. These funds offer multiple investment options including growth and dividend payout plans with different frequencies such as daily, weekly, monthly, quarterly, and annual income distribution cum capital withdrawal (IDCW).
+
+**ICICI Prudential All Seasons Bond Fund**  
+- Available options:  
+  - Annual IDCW (Income Distribution cum Capital Withdrawal)  
+  - Direct Plan Annual IDCW  
+  - Direct Plan IDCW (frequency unspecified)  
+  - Direct Plan Growth Option  
+  - Direct Plan Quarterly IDCW  
+  - Direct Plan Weekly IDCW  
+- Fund Codes:  
+  - Annual IDCW: 113218  
+  - Direct Annual IDCW: 120601  
+  - Direct IDCW: 120600  
+  - Direct Growth: 120603  
+  - Direct Quarterly IDCW: 120602  
+  - Direct Weekly IDCW: 120604  
+
+**HSBC Overnight Fund**  
+- Available in Direct and Regular plans with options:  
+  - Daily IDCW  
+  - Weekly IDCW  
+  - Monthly IDCW  
+  - Growth Option  
+- Fund Codes range from 147287 to 147301 depending on plan and option.
+
+**HSBC Short Duration Fund**  
+- Available in Direct and Regular plans with options:  
+  - Growth  
+  - Monthly IDCW  
+  - Quarterly IDCW  
+  - Annual IDCW  
+  - Bonus Option (Regular Plan)  
+- Fund Codes range from 151062 to 151071.
+
+**HSBC Ultra Short Duration Fund**  
+- Available in Direct and Regular plans with options:  
+  - Daily IDCW  
+  - Weekly IDCW  
+  - Monthly IDCW  
+  - Growth Option  
+- Fund Codes range from 147907 to 147916.
+
+**Key Features Across Funds:**  
+- Multiple IDCW payout frequencies to suit investor income needs.  
+- Growth options for capital appreciation.  
+- Direct and Regular plans to cater to different investor preferences.  
+- Suitable for investors seeking low to moderate risk fixed income investment options.  
+
+KEY POINTS:  
+- ICICI Prudential All Seasons Bond Fund offers diversified bond investment with multiple IDCW options and growth plans.  
+- HSBC offers Overnight, Short Duration, and Ultra Short Duration funds with flexible IDCW frequencies and growth options.  
+- Fund codes are provided for easy identification and transaction.  
+- These funds are suitable for investors looking for regular income or capital growth with relatively lower risk.  
+- IDCW options allow investors to receive periodic income from their investments.  
+- Direct plans typically have lower expense ratios compared to regular plans.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

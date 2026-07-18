@@ -1,0 +1,75 @@
+TITLE:  
+DSP Mutual Funds Overview
+
+SOURCE: ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Products
+
+TAGS:  
+Mutual Funds, DSP Funds, Equity Funds, Healthcare Funds, Large Cap, Mid Cap, Fund Codes, Growth, IDCW, Direct Plan, Regular Plan
+
+CONTENT:  
+This document provides a comprehensive list of DSP Mutual Fund schemes available for investment through ICICI Bank. The schemes include various fund categories such as Equity Savings, Flexi Cap, Focused, Global Innovation Overseas Equity, Healthcare, India Tiger, Large & Mid Cap, Large Cap, Midcap, and Multi Asset Allocation funds. Each scheme is available in different plan types (Direct and Regular) and options (Growth and IDCW - Income Distribution cum Capital Withdrawal) with monthly or quarterly IDCW where applicable.
+
+Key DSP Mutual Fund Schemes and Details:
+
+1. DSP Equity Savings Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW, Monthly IDCW, Quarterly IDCW  
+   - Fund Codes: 136563 to 136570
+
+2. DSP Flexi Cap Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 119076, 119077, 105875, 100080
+
+3. DSP Focused Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 119096, 119095, 112901, 113032
+
+4. DSP Global Innovation Overseas Equity Omni FoF  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 149814 to 149817
+
+5. DSP Healthcare Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 145453 to 145456
+
+6. DSP India Tiger Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 102434, 102435, 119247, 119248
+
+7. DSP Large & Mid Cap Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 103819, 103820, 119218, 119219
+
+8. DSP Large Cap Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 101635, 101636, 119249, 119250
+
+9. DSP Midcap Fund  
+   - Plans: Direct and Regular  
+   - Options: Growth, IDCW  
+   - Fund Codes: 104481, 104482, 119070, 119071
+
+10. DSP Multi Asset Allocation Fund  
+    - Plan: Direct  
+    - Option: Growth  
+    - Fund Code: Not fully listed
+
+KEY POINTS:  
+- DSP Mutual Funds are available in Direct and Regular plans.  
+- Options include Growth and IDCW (Income Distribution cum Capital Withdrawal) with monthly or quarterly IDCW payouts where applicable.  
+- Each scheme has a unique fund code for identification.  
+- These funds cover a wide range of investment strategies including equity savings, flexi cap, focused equity, global innovation, healthcare, sectoral (India Tiger), large & mid cap, large cap, midcap, and multi-asset allocation.  
+- Investors can choose plans and options based on their investment goals and income preferences.
+
+URL:  
+https://www.icicibank.com/wealth/investments/mutual-funds.page

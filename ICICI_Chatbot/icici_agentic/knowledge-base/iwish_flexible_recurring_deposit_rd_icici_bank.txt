@@ -1,0 +1,52 @@
+TITLE: iWish Flexible Recurring Deposit (RD) - ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Savings & Deposits  
+TAGS: Flexible Recurring Deposit, iWish, Savings, ICICI Bank, RD, Interest Rates, Banking Products  
+
+CONTENT:  
+A Recurring Deposit (RD) is a savings instrument that allows you to save small amounts at fixed intervals, making it easier to build savings without a large initial investment. Unlike Fixed Deposits (FDs), RDs require monthly contributions. However, traditional RDs require a fixed monthly deposit, which may not suit individuals with variable income or expenses.
+
+ICICI Bank offers a flexible RD product called **iWish Flexible Recurring Deposit**, designed to provide greater convenience and flexibility for savers. This product is available exclusively to ICICI Bank Savings Account holders with Internet Banking activated.
+
+**Key Features of iWish Flexible RD:**  
+- **Flexible Deposit Amount:** You can deposit any amount at any time, with no fixed monthly commitment.  
+- **Multiple Deposits:** You can make multiple deposits in a month, unlike regular RDs which allow only one fixed deposit per month.  
+- **No Penalty for Missed Payments:** There is no penalty if you miss a deposit, unlike regular RDs which impose penalties for missed payments.  
+- **Minimum Initial Deposit:** Rs. 50  
+- **Goal-Based Savings:** You can set specific savings goals such as Vacation, Education, Electronics, Shopping, Down payment, etc., specifying the target amount and time frame.  
+- **Interest Rates:** Interest rates are similar to regular ICICI Bank RDs for the same tenure. Interest is calculated on the amount and tenure of each deposit.  
+
+**How to Open iWish Flexible RD:**  
+1. Log in to ICICI Bank Internet Banking.  
+2. Navigate to My Accounts > Deposits > iWish-Flexible RD.  
+3. Click on ‘Start iWish’.  
+4. Enter details such as the type of goal, goal amount, time period, and initial deposit amount.  
+5. Transfer the initial deposit from your Savings Account to activate the iWish RD.  
+
+**Benefits of iWish Flexible RD:**  
+- Flexibility to save according to your income and expenditure patterns.  
+- Ability to contribute more when income is high and less when income is low.  
+- No penalties for missed or irregular deposits.  
+- Helps in disciplined savings towards specific financial goals.  
+
+**Comparison: Regular RD vs iWish Flexible RD**
+
+| Feature                     | Regular RD               | iWish Flexible RD          |
+|-----------------------------|-------------------------|----------------------------|
+| Deposit Amount              | Fixed amount every month | Any amount                 |
+| Deposit Frequency           | Fixed date every month   | Any time                   |
+| Penalty for Missed Payments | Yes                     | No                         |
+| Minimum Initial Deposit     | Rs. 50                  | Rs. 50                     |
+| Next Deposit Amount         | Any amount in multiples of Rs. 100 | Any amount         |
+| Number of Deposits per Month| One                      | Multiple                   |
+
+KEY POINTS:  
+- iWish Flexible RD is ideal for individuals with variable income or expenses.  
+- No fixed monthly deposit requirement; deposits can be made anytime and in any amount.  
+- No penalties for missed deposits.  
+- Minimum initial deposit is Rs. 50.  
+- Available exclusively to ICICI Bank Savings Account holders with Internet Banking.  
+- Interest rates are comparable to regular RDs for the same tenure.  
+- Enables goal-based savings with customizable targets and timelines.  
+
+URL: https://www.icicibank.com/blogs/iwish/flexible-recurring-deposit-advantages

@@ -1,0 +1,24 @@
+TITLE: Axis Mutual Fund Schemes – Key Details and Codes  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Axis Mutual Fund, Fund Codes, Growth Option, IDCW Option  
+
+CONTENT:  
+This document provides a structured list of Axis Mutual Fund schemes along with their respective scheme codes and options available. The schemes are categorized by type (e.g., Flexi Cap, Focused Fund, Large Cap, Midcap, Innovation Fund) and by investment option (Direct/Regular plans and Growth/IDCW payout options).  
+
+Each scheme is identified by a unique code which is essential for transactions such as investments, redemptions, and tracking. The options available include:  
+- Direct Plan (Dir) – Growth  
+- Direct Plan (Dir) – IDCW (Income Distribution cum Capital Withdrawal)  
+- Regular Plan (Reg) – Growth  
+- Regular Plan (Reg) – IDCW  
+
+KEY POINTS:  
+- Each Axis Mutual Fund scheme has a unique code for identification.  
+- Investment options include Growth and IDCW payout.  
+- Plans are available in Direct and Regular variants.  
+- The list includes popular schemes such as Axis Flexi Cap Fund, Axis Focused Fund, Axis Large Cap Fund, Axis Midcap Fund, Axis Innovation Fund, and others.  
+- IDCW option refers to periodic income distribution to investors.  
+- Growth option refers to reinvestment of earnings into the scheme.  
+
+URL:  
+https://www.icicibank.com/personal-banking/investments/mutual-funds.page

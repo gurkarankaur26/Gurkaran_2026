@@ -1,0 +1,35 @@
+TITLE: ICICI Bank iMobile App – Download and Activation Guide  
+SOURCE: ICICI Bank  
+CATEGORY: Mobile Banking  
+TAGS: iMobile app, Mobile Banking, ICICI Bank, App Download, Activation, Login, Security  
+
+CONTENT:  
+ICICI Bank’s iMobile app offers convenient mobile banking services accessible via smartphones. To start using the app, customers must register their mobile number with the bank and ensure their device has an active internet connection.
+
+**How to Download the iMobile App:**  
+- Visit the Google Play Store or Apple App Store and search for “ICICI Bank iMobile.”  
+- Alternatively, SMS “iMobile” to 5676766 to receive the download link.  
+- Or visit http://mobile.icicibank.com/dl from your mobile browser.
+
+**Activation and Login Process:**  
+1. After downloading, open and install the app.  
+2. Verify your registered mobile number.  
+3. Select the Login option. First-time users must authenticate their account by:  
+   - Entering their Internet Banking User ID and Password. (If forgotten, users can retrieve them via the app.)  
+   - Setting a 4-digit Login PIN, which will be required for every login. It is recommended to choose a PIN different from other banking PINs (ATM, Phone Banking, etc.).  
+   - Completing a one-time grid card authentication by entering grid values found on the back of the Debit card linked to the account.  
+
+**Security Features:**  
+- Users can enable or disable fingerprint login during activation.  
+- Each app launch will prompt for the chosen login method (Fingerprint or MPIN).  
+- Grid card authentication is required for all financial transactions to ensure security.
+
+KEY POINTS:  
+- Mobile number registration with ICICI Bank is mandatory.  
+- App available on Google Play Store, Apple App Store, or via SMS link (5676766).  
+- Login requires Internet Banking credentials and setting a unique 4-digit PIN.  
+- One-time grid card authentication enhances transaction security.  
+- Fingerprint login option available for ease and security.  
+- Grid card authentication required for all financial transactions within the app.
+
+URL: https://www.icicibank.com/mobile-banking/download

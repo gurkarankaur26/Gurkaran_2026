@@ -1,0 +1,74 @@
+TITLE:  
+ICICI Bank FASTag Automatic Recharge and Standing Instructions (SI) Guide
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Payments, Standing Instructions, Auto Recharge
+
+TAGS:  
+FASTag, Standing Instructions, Auto Recharge, NEFT, IMPS, RTGS, UPI Mandate, CUG Wallet, Toll Payments
+
+CONTENT:  
+ICICI Bank offers a convenient way to manage your FASTag wallet balance through Standing Instructions (SI) and automatic recharge options to ensure seamless toll payments without any disruption.
+
+**Key Features and Processes:**
+
+1. **Payment Modes for FASTag Recharge:**  
+   - Only NEFT, IMPS, or RTGS payment modes are accepted for FASTag wallet recharge. Payments initiated through any other mode will be declined.
+
+2. **Transfer from CUG Wallet to FASTag:**  
+   - Amounts can be transferred from the ‘CUG Wallet’ to the FASTag wallet (referred to as ‘Tag’) either automatically or manually.  
+   - Transactions through your FASTag are possible only when funds are transferred from the CUG Wallet to the Tag.
+
+3. **Standing Instructions (SI) Setup:**  
+   - SI allows automatic top-up of your FASTag wallet when the balance falls below a defined threshold.  
+   - You can set SI via:  
+     - Retail Internet Banking (RIB)  
+     - Corporate Internet Banking (CIB)  
+   - Example: If you set a threshold amount of ₹500 and a top-up amount of ₹1,000 with a start date, the system will automatically recharge ₹1,000 whenever your wallet balance falls below ₹500 starting from the specified date.
+
+4. **How to Set SI:**  
+   - Log in to Retail Internet Banking or Corporate Internet Banking.  
+   - Navigate to ‘Payments’ > ‘Standing Instructions’ or ‘Statement and Activity’ > ‘Recent Activity’.  
+   - Enter your Tag Account/Vehicle Number and CUG Wallet details.  
+   - Define the threshold amount, top-up amount, and start date.  
+   - Confirm and activate the SI.
+
+5. **SI Execution and Failure Handling:**  
+   - If there are insufficient funds in your linked Savings Account or if debit is barred, the system will retry the transaction after 8 hours.  
+   - It will attempt 3 retries; if all fail, the SI will be automatically disabled.  
+   - To re-enable SI, log in again to RIB and follow the activation steps.
+
+6. **Disabling SI:**  
+   - To disable SI, log in to RIB with the same User ID used to activate the SI and follow the disable instructions.
+
+7. **Avoiding Toll Payment Hassles:**  
+   - Insufficient funds in your FASTag wallet can cause delays and double toll charges at toll plazas.  
+   - Automatic recharge via SI or UPI Mandate helps avoid such issues by ensuring your wallet is always funded.
+
+8. **Auto Recharge via UPI Mandate:**  
+   - ICICI Bank offers an auto recharge facility through UPI Mandate with frequency options as per your preference.  
+   - This ensures your FASTag wallet is recharged automatically without manual intervention.
+
+9. **Customer Support:**  
+   - For any queries, customers can reach out to ICICI Bank’s toll-free number: 1800-2100-104.
+
+**Important Notes:**  
+- Ensure you use the correct Tag Account/Vehicle Number and CUG Wallet details while setting up SI.  
+- Only payments through NEFT, IMPS, or RTGS are accepted for FASTag wallet top-ups.  
+- Standing Instructions are linked to your internet banking credentials; use the same User ID for enabling or disabling SI.
+
+KEY POINTS:  
+- Accepted payment modes for FASTag recharge: NEFT, IMPS, RTGS only.  
+- Automatic and manual transfer options from CUG Wallet to FASTag wallet.  
+- Standing Instructions enable automatic top-up based on threshold and top-up amounts.  
+- SI retries 3 times on failure before disabling automatically.  
+- SI can be enabled/disabled via Retail or Corporate Internet Banking.  
+- Auto recharge via UPI Mandate available for hassle-free wallet funding.  
+- Toll-free customer support: 1800-2100-104.  
+- Avoid double toll charges by maintaining sufficient FASTag wallet balance.
+
+URL:  
+https://www.icicibank.com/fastag

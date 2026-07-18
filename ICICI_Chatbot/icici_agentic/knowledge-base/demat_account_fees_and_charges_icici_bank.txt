@@ -1,0 +1,79 @@
+TITLE: Demat Account Fees and Charges | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account, Charges, Fees  
+TAGS: Demat Account, NSDL, CDSL, Service Charges, Fees, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers Demat accounts for holding securities in electronic form through NSDL and CDSL. The following are the detailed fees and charges applicable for ICICI Bank Demat accounts:
+
+**Demat Account Charges and Fees (NSDL & CDSL):**
+
+1. **Account Opening Charges:**  
+   - No charges for opening a Demat account.
+
+2. **Annual Maintenance Charges (AMC):**  
+   - Rs. 300 per annum (exclusive of GST) for NSDL Demat accounts.  
+   - Rs. 300 per annum (exclusive of GST) for CDSL Demat accounts.
+
+3. **Transaction Charges:**  
+   - Debit Transaction (Selling/Transfer of securities): Rs. 15 per transaction (exclusive of GST).  
+   - Credit Transaction (Receiving securities): No charges.
+
+4. **Pledge Creation/Closure:**  
+   - Rs. 25 per pledge creation or closure (exclusive of GST).
+
+5. **Dematerialization Charges:**  
+   - Rs. 25 per certificate (exclusive of GST).
+
+6. **Rematerialization Charges:**  
+   - Rs. 25 per certificate (exclusive of GST).
+
+7. **Other Charges:**  
+   - Duplicate Demat statement: Rs. 50 per statement (exclusive of GST).  
+   - Demat account closure: No charges.
+
+**Eligibility:**  
+- Individuals, HUFs, Companies, Trusts, and other entities can open a Demat account with ICICI Bank.
+
+**Process to Open a Demat Account:**  
+- Submit the completed account opening form along with KYC documents (PAN card, Aadhaar, address proof, photograph).  
+- Complete in-person verification (IPV) as per regulatory guidelines.  
+- Sign the agreement and submit the necessary documents.  
+- Account activation typically occurs within 3-5 business days.
+
+**Benefits of ICICI Bank Demat Account:**  
+- Safe and secure holding of securities in electronic form.  
+- Easy transfer and settlement of securities.  
+- Access to online trading and portfolio management.  
+- Nomination facility available.  
+- Consolidated account statement for all holdings.  
+- Integration with ICICI Bank savings account for seamless fund transfer.
+
+**FAQs:**  
+- **Is there any charge for opening a Demat account?**  
+  No, ICICI Bank does not charge for opening a Demat account.  
+
+- **What is the annual maintenance charge?**  
+  Rs. 300 per annum (exclusive of GST).  
+
+- **Are there charges for receiving securities?**  
+  No, credit transactions are free of charge.  
+
+- **How long does it take to open a Demat account?**  
+  Typically 3-5 business days after submission of documents and IPV.  
+
+- **Can NRIs open a Demat account?**  
+  Yes, NRIs are eligible to open Demat accounts subject to applicable regulations.
+
+KEY POINTS:  
+- No account opening charges.  
+- Annual Maintenance Charge: Rs. 300 per annum (exclusive of GST).  
+- Debit transaction charges: Rs. 15 per transaction (exclusive of GST).  
+- Credit transactions are free.  
+- Charges applicable for pledge creation/closure, dematerialization, rematerialization, and duplicate statements.  
+- Account closure is free.  
+- Eligibility includes individuals, HUFs, companies, trusts, and NRIs.  
+- Account opening requires KYC and IPV.  
+- Benefits include secure holding, easy transfer, online access, and nomination facility.
+
+URL: https://www.icicibank.com/personal-banking/demat/servicecharges

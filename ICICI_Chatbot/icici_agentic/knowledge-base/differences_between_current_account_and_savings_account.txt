@@ -1,0 +1,45 @@
+TITLE: Differences Between Current Account and Savings Account  
+SOURCE: ICICI Bank  
+CATEGORY: Banking Accounts  
+TAGS: Current Account, Savings Account, Interest Rates, Overdraft, Transaction Limits, Business Banking, Personal Banking  
+
+CONTENT:  
+Current Account and Savings Account are two primary types of bank accounts offered by ICICI Bank, catering to different financial needs and customer profiles.
+
+**Current Account:**  
+- Designed primarily for businesses, entrepreneurs, companies, and firms.  
+- Facilitates frequent and large transactions without restrictions.  
+- Does not earn interest.  
+- Provides benefits such as overdraft facilities, cheque books, and easy online banking.  
+- Suitable for managing daily business expenses, supplier payments, and collections from clients.  
+- Allows overdrawing (overdraft facility).  
+- Supports multiple transactions with higher limits.  
+
+**Savings Account:**  
+- Intended for individuals such as housewives, students, retired professionals, HUFs, and salaried professionals.  
+- Helps in saving money safely while earning interest on deposits.  
+- Encourages the habit of saving with secure storage and steady growth of funds.  
+- Offers features like easy deposits, ATM withdrawals, debit cards, and online banking.  
+- Ideal for building emergency funds, saving for future goals, or keeping extra money safe.  
+- Does not permit overdrawing.  
+- Has limited transaction limits compared to current accounts.  
+- Interest rates are applicable and updated periodically (refer to ICICI Bank’s official site for current rates).  
+
+**Comparison Table:**  
+
+| Criteria           | Current Account                          | Savings Account                          |  
+|--------------------|----------------------------------------|-----------------------------------------|  
+| Purpose            | Spending and Frequent Transactions     | Savings and Wealth Building              |  
+| Suitability        | Entrepreneurs, Businessmen, Companies  | Housewives, Students, Retired Professionals, HUFs, Salaried Professionals |  
+| Interest Rate      | Nil                                    | Applicable (varies, check latest rates) |  
+| Transaction Limit  | Multiple, higher limits                 | Limited                                 |  
+| Overdrawing        | Permitted (Overdraft facility)         | Not Permitted                           |  
+
+KEY POINTS:  
+- Current Accounts are best suited for business needs with frequent transactions and overdraft facilities but do not earn interest.  
+- Savings Accounts are ideal for individuals aiming to save money and earn interest with limited transaction capabilities and no overdraft.  
+- Interest rates on Savings Accounts are subject to change; customers should check the latest rates on the ICICI Bank website.  
+- Overdraft facility is exclusive to Current Accounts.  
+- Both accounts offer online banking and debit card facilities for convenience.  
+
+URL: https://www.icicibank.com/blogs/saving-account/current-account-vs-savings-account

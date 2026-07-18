@@ -1,0 +1,75 @@
+TITLE:  
+ICICI Bank NRE and NRO Accounts – Features, Eligibility, Processes, and Regulations
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+NRI Banking, Savings Accounts, Account Management
+
+TAGS:  
+NRE Account, NRO Account, Non-Resident Indian, Repatriation, Tax Deducted at Source, KYC, RBI Guidelines, Account Redesignation, Form 15CA, Form 15CB
+
+CONTENT:  
+ICICI Bank offers specialized banking solutions for Non-Resident Indians (NRIs) through NRE (Non-Resident External) and NRO (Non-Resident Ordinary) accounts. These accounts cater to different financial needs and comply with RBI and Income Tax regulations.
+
+**Account Types and Purpose:**  
+- **NRE Account:** Designed to park overseas earnings remitted to India after conversion into Indian Rupees (INR).  
+- **NRO Account:** Used to manage income earned in India such as rent, salary, dividends, and also allows credit of overseas income.
+
+**Currency:**  
+Both NRE and NRO accounts are maintained in Indian Rupees (INR).
+
+**Joint Holding:**  
+- NRE accounts can only be jointly held with other NRIs.  
+- NRO accounts can be jointly held with residents or non-residents.
+
+**Tax Deducted at Source (TDS):**  
+- NRE accounts are exempt from TDS in India.  
+- NRO accounts are subject to TDS at 30.9%.
+
+**Repatriation Rules:**  
+- Principal amount in NRE accounts is freely repatriable.  
+- Principal amount in NRO accounts is repatriable up to USD 1 million per financial year, subject to conditions.  
+- Interest earned in both NRE and NRO accounts is freely repatriable.
+
+**Account Redesignation:**  
+When an individual attains non-resident status, it is mandatory to redesignate their resident savings account to an NRO account. This can be done by visiting the nearest ICICI Bank branch or through other prescribed modes.
+
+**Regulatory Compliance:**  
+- Form 15CA and Form 15CB (Chartered Accountant certificate) are required for remittances from NRO accounts. Form 15CA must be filled online, printed, signed by the remitter, and submitted along with Form 15CB to the remitting branch.  
+- Customers must comply with RBI Master Circulars on Non-Resident Ordinary Rupee Accounts and KYC/AML/CFT guidelines under the Prevention of Money Laundering Act (PMLA), 2002.  
+- Periodic KYC updates are mandatory as per RBI guidelines.
+
+**Customer Communication:**  
+- It is important to keep your email ID registered with ICICI Bank to receive important updates and information.  
+- Email ID can be updated by calling the 24-hour customer care or visiting the nearest branch in India.
+
+**Cheque Book Information:**  
+- Charges apply for ordering new cheque books; details are available on request.  
+- For resident accounts redesignated as NRO accounts, old cheque books remain valid.
+
+**Welcome Kit:**  
+- Upon account opening, customers receive a welcome kit.  
+- NRI Select and NRI Premium customers receive additional benefits included in their welcome kit.
+
+**ICICI Bank NRI Cell Address:**  
+ICICI Bank Limited  
+RPC – NRI Cell  
+Autumn Estate, 5th Floor, "A" Wing,  
+Near Mhada, Chandivali,  
+Andheri (E), Mumbai – 400 072, India
+
+KEY POINTS:  
+- NRE accounts are for overseas income, exempt from TDS, and principal & interest are freely repatriable.  
+- NRO accounts are for Indian income, subject to TDS at 30.9%, with repatriation limits on principal.  
+- Joint holding rules differ between NRE and NRO accounts.  
+- Mandatory redesignation of resident accounts to NRO upon attaining non-resident status.  
+- Form 15CA and 15CB are required for remittances from NRO accounts.  
+- Compliance with RBI KYC, AML, and PMLA regulations is mandatory.  
+- Keep email ID updated for important communications.  
+- Cheque book charges apply; old cheque books remain valid after redesignation.  
+- ICICI Bank provides a welcome kit with additional benefits for premium NRI customers.
+
+URL:  
+https://www.icicibank.com/nri-banking/accounts/nre-nro-accounts.page

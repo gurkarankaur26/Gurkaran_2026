@@ -1,0 +1,37 @@
+TITLE:  
+Transmission of Securities to Legal Heirs or Legal Representatives
+
+SOURCE: ICICI Bank  
+CATEGORY: Securities Transmission, Legal Heir Process  
+TAGS: Transmission, Legal Heir, Securities, Depository Participant, Death Certificate, Succession Certificate, Probate, Letter of Administration, Indemnity, Affidavit
+
+CONTENT:  
+When a securities account holder passes away, the legal heir(s) or legal representative(s) must apply to the Depository Participant (DP) to transmit the shares held in the deceased’s account to their own account. The transmission process requires submission of specific documents to the DP.
+
+Documents required for transmission:  
+1. A duly notarised copy of the death certificate of the deceased.  
+2. One of the following notarised documents:  
+   - Succession certificate, or  
+   - Court order from a competent jurisdiction if the deceased did not leave a Will, or  
+   - Probate or Letter of Administration.
+
+If the legal heir(s) or legal representative(s) cannot produce any of the above documents (Succession certificate, Probate, or Letter of Administration), and the market value of the securities held in the deceased’s account does not exceed Rs. 5,00,000 as on the date of application, the DP may process the transmission based on the following:  
+- Request for transmission in the specified Transmission Form.  
+- Notarised copy of the death certificate.  
+- Letter of Indemnity supported by a guarantee of an independent Surety acceptable to the DP, made on appropriate non-judicial stamp paper.  
+- Affidavit made on appropriate non-judicial stamp paper.  
+- No Objection Certificate(s) from all legal heirs who do not object to the transmission.
+
+The DP will verify the documents and, if found in order, will transfer the securities to the legal heir’s or legal representative’s account and subsequently close the deceased’s account.
+
+The process for liquidation of securities in the secondary market and repatriation of sale proceeds follows the same guidelines as above.
+
+KEY POINTS:  
+- Transmission of securities requires application to the Depository Participant (DP).  
+- Mandatory documents: notarised death certificate and either succession certificate, court order, or probate/letter of administration.  
+- For securities valued up to Rs. 5,00,000, transmission can be processed with death certificate, indemnity letter, affidavit, and NOC from other heirs if succession documents are unavailable.  
+- DP verifies documents before transferring securities and closing the deceased’s account.  
+- Liquidation and repatriation of sale proceeds follow the same process.
+
+URL:  
+https://www.icicibank.com/knowledge-base/securities-transmission-legal-heirs

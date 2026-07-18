@@ -1,0 +1,52 @@
+TITLE:  
+KYC and Documentation Requirements for Foreign Entities Opening Accounts with ICICI Bank
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Account Opening, KYC, Foreign Entity Banking  
+
+TAGS:  
+KYC, Foreign Entity, RBI Permission, SEZ, Project Office, Liaison Office, Branch Office, Beneficial Owners, PAN, Address Proof  
+
+CONTENT:  
+To open an account with ICICI Bank for foreign entities, the following documents and permissions are required depending on the type of office being established in India:
+
+1. **General Documentation for All Foreign Entities:**  
+   - Current passport bearing the photograph and signature of the applicant.  
+   - Shareholding pattern or list of beneficial owners holding more than 25% in the company, either directly or indirectly, on company letterhead.  
+   - PAN or identity proof of the beneficial owners identified above.  
+   - Address proof of the beneficial owners identified above.  
+   - Account opening cheque from an existing current account (if applicable).  
+   - KYC documents must be valid on the date of submission.  
+   - Any other identity, address, or entity document may be accepted subject to the bank’s satisfaction.  
+
+2. **Specific Permissions Based on Office Type:**  
+
+   - **Liaison or Representative Office:**  
+     - Copy of permission from the Reserve Bank of India (RBI), OR  
+     - Copy of Insurance Regulatory and Development Authority (IRDA) approval for foreign insurance companies.  
+
+   - **Branch Office:**  
+     - Copy of RBI permission to open a Branch Office in India, OR  
+     - For banking companies, a copy of approval under provisions of The Banking Regulation Act, OR  
+     - For branch or unit in a Special Economic Zone (SEZ), a copy of the certificate to establish a branch/unit in SEZ.  
+
+   - **Project Office:**  
+     - Duly acknowledged copy of report stating project details made to the RBI, OR  
+     - Project/Contract award letter and declaration in lieu of RBI permission for project office, along with underlying documents confirming the project category is among those allowed.  
+
+3. **Additional Notes:**  
+   - Original verification and other guidelines are applicable as per the current process.  
+   - The list of KYC documents is indicative and subject to change as per regulatory guidelines and ICICI Bank’s internal KYC circulars.  
+   - For more information, customers are advised to visit the nearest ICICI Bank branch.  
+
+KEY POINTS:  
+- Passport must be current with photograph and signature.  
+- Beneficial owners holding more than 25% must be identified with PAN and address proof.  
+- RBI or IRDA permissions are mandatory depending on the office type.  
+- Specific permissions required for Liaison Office, Branch Office, and Project Office.  
+- KYC documents must be valid and may be supplemented by other documents as per bank discretion.  
+- Documentation requirements are subject to regulatory changes.  
+
+URL:  
+https://www.icicibank.com/ (Refer to official ICICI Bank website for latest updates)

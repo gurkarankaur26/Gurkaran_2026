@@ -1,0 +1,45 @@
+TITLE: How to Track Mutual Fund & SIP Investments Online  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Tracking  
+TAGS: SIP, Mutual Funds, Investment Monitoring, Portfolio Tracking, CAS, AMC, NAV, SEBI Advisor  
+
+CONTENT:  
+Systematic Investment Plans (SIPs) are a popular way to invest in mutual funds, offering diversification and professional management of your money. However, it is important to regularly monitor your SIP and mutual fund investments to ensure they align with your financial goals and adapt to market changes.
+
+Key methods to track your mutual fund and SIP investments include:
+
+1. **Consolidated Account Statement (CAS):**  
+   - CAS consolidates all your mutual fund transactions across different fund houses and folios under the same PAN for a specific month.  
+   - It is sent to your registered email and can also be accessed online.  
+   - CAS simplifies monitoring multiple holdings in one statement.
+
+2. **AMC Mobile App/Web Portal:**  
+   - Asset Management Companies provide dedicated apps and web portals to track investments.  
+   - You can log in to view your account statement and fund performance.  
+   - This is convenient if you invest in funds from a single AMC.
+
+3. **Mutual Fund Factsheet:**  
+   - A factsheet is a one-page summary of a mutual fund scheme.  
+   - It includes details such as scheme name, objective, expense ratio, fund manager’s expertise, Assets Under Management (AUM), Net Asset Value (NAV), portfolio turnover, and benchmark comparison.  
+   - Reviewing factsheets helps understand fund performance and costs.
+
+4. **Online Portfolio Trackers:**  
+   - These tools consolidate investments from multiple AMCs, provide daily NAV updates, and offer portfolio insights.  
+   - Some trackers suggest alternative funds if current holdings underperform.  
+   - Various apps are available in the market for this purpose.
+
+5. **SEBI-Registered Investment Advisor:**  
+   - For personalized guidance and monitoring, consulting a SEBI-registered investment advisor is recommended.  
+   - Advisors provide expert advice tailored to your financial goals.
+
+Regular monitoring of your mutual fund and SIP investments helps you stay informed, make timely decisions, and optimize returns in a changing market environment.
+
+KEY POINTS:  
+- SIPs offer easy and diversified mutual fund investing but require regular monitoring.  
+- Consolidated Account Statement (CAS) provides a monthly summary of all mutual fund transactions under one PAN.  
+- AMC apps and portals allow tracking of investments from a single fund house.  
+- Mutual Fund factsheets provide essential scheme information including expense ratio, NAV, and benchmark returns.  
+- Online portfolio trackers consolidate multiple AMC investments and provide performance insights.  
+- SEBI-registered investment advisors offer personalized investment monitoring and advice.  
+
+URL: https://www.icicibank.com/blogs/mutual-fund/monitor-and-track-your-sip-investments

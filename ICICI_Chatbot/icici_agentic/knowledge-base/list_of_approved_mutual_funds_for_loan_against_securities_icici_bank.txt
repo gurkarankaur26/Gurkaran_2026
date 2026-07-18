@@ -1,0 +1,35 @@
+TITLE: List of Approved Mutual Funds for Loan Against Securities | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Loan Against Securities  
+TAGS: Loan Against Securities, Mutual Funds, Approved List, ICICI Bank, AMFI Code  
+
+CONTENT:  
+ICICI Bank provides a list of approved mutual fund schemes eligible for availing Loan Against Securities (LAS). This list is effective as of June 2026 and includes various schemes from Aditya Birla Sun Life Mutual Fund. Each scheme is identified by its name and AMFI code. Customers can pledge units of these approved mutual funds as collateral to avail loans from ICICI Bank.
+
+Approved Mutual Fund Schemes for Loan Against Securities (Sample):  
+| Sr No | Scheme Name | AMFI Code |  
+|---|---|---|  
+| 1 | Aditya Birla Sun Life Arbitrage Fund - Dir - Growth | 119526 |  
+| 2 | Aditya Birla Sun Life Arbitrage Fund - Dir - IDCW | 119525 |  
+| 3 | Aditya Birla Sun Life Arbitrage Fund - Growth | 112088 |  
+| 4 | Aditya Birla Sun Life Arbitrage Fund - IDCW | 112087 |  
+| 5 | Aditya Birla Sun Life Balanced Advantage Fund - Dir - Growth | 131670 |  
+| 6 | Aditya Birla Sun Life Balanced Advantage Fund - Dir - IDCW | 131671 |  
+| 7 | Aditya Birla Sun Life Balanced Advantage Fund - Growth | 131666 |  
+| 8 | Aditya Birla Sun Life Balanced Advantage Fund - IDCW | 131665 |  
+| 9 | Aditya Birla Sun Life Banking and Financial Services Fund - Dir - Growth | 125597 |  
+| 10 | Aditya Birla Sun Life Banking and Financial Services Fund - Dir - IDCW | 125598 |  
+| ... | ... | ... |  
+
+(Note: The full list includes multiple schemes under Aditya Birla Sun Life Mutual Fund with various growth and IDCW options.)
+
+KEY POINTS:  
+- The list is effective from June 2026.  
+- Only mutual fund schemes listed by ICICI Bank are eligible for Loan Against Securities.  
+- The schemes include both Direct (Dir) and Regular plans with Growth and IDCW (Income Distribution cum Capital Withdrawal) options.  
+- Each scheme is identified by a unique AMFI code for verification.  
+- Customers can pledge units of these approved mutual funds as collateral to avail loans.  
+- Loan Against Securities allows customers to borrow funds by pledging their mutual fund units without redeeming them.  
+- This facility helps in liquidity without disturbing the investment portfolio.  
+
+URL: https://www.icicibank.com/personal-banking/loans/loan-against-securities/approved-list

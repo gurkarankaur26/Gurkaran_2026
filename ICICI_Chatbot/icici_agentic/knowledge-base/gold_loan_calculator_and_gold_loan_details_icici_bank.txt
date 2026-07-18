@@ -1,0 +1,42 @@
+TITLE: Gold Loan Calculator and Gold Loan Details | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Loans  
+TAGS: Gold Loan, Loan Calculator, Interest Rates, Loan Eligibility, Loan Tenure, Loan-to-Value Ratio  
+
+CONTENT:  
+ICICI Bank’s Gold Loan Calculator is an online tool designed to help customers estimate the loan amount they can avail by pledging gold as collateral. The calculator factors in the gold’s weight, purity (ranging from 18 to 24 carats), number of ornaments, and the prevailing market price of gold to provide an accurate estimate of the eligible loan amount.  
+
+To use the calculator, customers need to enter:  
+- Gold purity (18 to 24 carats)  
+- Gold weight (in grams, net weight excluding precious stones)  
+- Number of gold ornaments  
+- Desired loan tenure (6 or 12 months)  
+
+The calculator applies the Loan-to-Value (LTV) ratio and current market gold price to determine the maximum loan amount. The LTV ratio and market price are based on ICICI Bank’s prevailing policies and rates.  
+
+Key features and information about the Gold Loan Calculator and Gold Loan:  
+- The calculator provides an approximate loan amount; the final loan amount depends on in-branch gold valuation and bank approval.  
+- The loan tenure options available for calculation are 6 months and 12 months.  
+- The calculator uses the current market rate of gold, but the actual loan amount may vary on the day of application due to price fluctuations.  
+- The loan amount is calculated on the net weight of gold after removing precious stones.  
+- The calculator is free to use and does not require the user to have an ICICI Bank account, although having an account can facilitate a smoother loan application process.  
+- The calculator is specifically for gold loans and does not estimate loans for other products like Personal Loans or Home Loans. Separate calculators are available for those.  
+- For EMI calculations related to gold loans, ICICI Bank provides a separate EMI Calculator.  
+- Interest rates and charges on gold loans are subject to periodic revisions; customers should verify the latest rates before applying.  
+- Terms and conditions apply.  
+
+Disclaimer:  
+The Gold Loan Calculator provides indicative and tentative estimates based on user inputs. Actual loan terms, eligibility, and interest rates are subject to ICICI Bank’s approval and prevailing policies. Customers are advised to consult ICICI Bank representatives for precise loan details before making financial decisions.  
+
+KEY POINTS:  
+- Gold purity accepted: 18 to 24 carats  
+- Loan tenure options: 6 months, 12 months  
+- Loan amount based on net gold weight (excluding precious stones)  
+- Uses current market gold price and LTV ratio for calculation  
+- Calculator provides approximate loan amount; final approval by bank required  
+- Free to use, no ICICI Bank account required  
+- Separate EMI Calculator available for repayment estimates  
+- Interest rates and charges subject to change; verify before applying  
+- Terms and conditions apply  
+
+URL: https://www.icicibank.com/personal-banking/loans/gold-loan/calculator

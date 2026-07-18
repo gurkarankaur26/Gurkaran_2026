@@ -1,0 +1,39 @@
+TITLE:  
+List of Mutual Fund Schemes and Their Codes
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Fund Codes, Growth, IDCW, Kotak Funds, JM Funds  
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their respective codes. The schemes include various fund types such as Growth and IDCW (Income Distribution cum Capital Withdrawal) options under different fund houses like JM and Kotak. Each scheme is identified by a unique code for easy reference and transaction purposes.
+
+The list includes:  
+- JM Midcap Fund (Regular Growth and IDCW options)  
+- Kotak Active Momentum Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Aggressive Hybrid Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Arbitrage Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Balanced Advantage Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Banking & Financial Services Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Business Cycle Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Consumption Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Contra Fund (Direct and Regular, Growth and IDCW options)  
+- Kotak Debt Hybrid Fund (Direct, Growth and Monthly IDCW options)  
+
+Each entry includes:  
+- Scheme Name  
+- Plan Type (Direct or Regular)  
+- Option (Growth or IDCW)  
+- Unique Scheme Code  
+
+KEY POINTS:  
+- The document lists mutual fund schemes with their unique identification codes.  
+- Schemes are available in both Direct and Regular plans.  
+- Options include Growth and IDCW (Income Distribution cum Capital Withdrawal).  
+- Fund houses mentioned include JM and Kotak.  
+- The codes are essential for transactions and identification of specific schemes.  
+
+URL:  
+https://www.icicibank.com/  
+
+(Note: This document is a partial list and does not include detailed information on eligibility, fees, interest rates, or processes.)

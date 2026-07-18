@@ -1,0 +1,55 @@
+TITLE:  
+ICICI Bank Current Account Opening - Documents and Requirements for Companies, Trusts, Societies, Associations, and Clubs
+
+SOURCE: ICICI Bank  
+CATEGORY: Banking - Current Account Opening  
+TAGS: Current Account, Account Opening, Documents Required, Companies, Trusts, Societies, Associations, Clubs, PAN, Beneficial Owners, Authorised Signatories  
+
+CONTENT:  
+This document outlines the detailed list of documents and requirements for opening a Current Account with ICICI Bank for different types of entities including companies, trusts, societies, associations, and clubs.
+
+**For Companies:**  
+- Updated list of directors (PDF available).  
+- Proof of address of the entity if different from the address on the Certificate of Registration.  
+- Current landline/mobile number and e-mail ID of the entity.  
+- Permanent Account Number (PAN) of the entity.  
+- Latest passport-size colour photograph of each authorised signatory.  
+- A copy of one valid photo identification and address proof of each authorised signatory.  
+- Shareholding pattern or list of beneficial owners holding more than 10% in the company, either directly or indirectly, on company letterhead (PDF available).  
+- PAN or identity proof of such beneficial owners.  
+- Address proof of such beneficial owners.  
+- Identity and address proof of the Senior Managing Official if the ultimate natural person is not identified as the beneficial owner.  
+- Account opening cheque from an existing Current Account (if applicable).  
+
+**For Trusts, Societies, Associations, and Clubs (TASC):**  
+- Constitution document of the entity:  
+  - Trust Deed for public/private trusts, or  
+  - Bye-laws for societies, associations, or clubs, or  
+  - Memorandum of Association or Articles of Association for Section 25 companies, or  
+  - Rules of Acts or Gazette notifications for Government, Quasi-Government, Semi-Government entities or entities established under specific Acts.  
+- List of directors or members of the managing committee/council.  
+- Proof of identity of the entity:  
+  - Registration Certificate issued by Registrar (for societies), or  
+  - Charity Commissioner certificate (for trusts or charitable societies), or  
+  - Certificate of Incorporation issued by Registrar of Companies (for companies).  
+- Recognition certificate for educational institutions (if applicable).  
+- PAN card or proof of exemption from income tax (if applicable).  
+- Proof of communication address of the entity.  
+- Latest passport-size colour photograph of each authorised signatory.  
+- A copy of one valid photo identification and address proof of each authorised signatory.  
+- List of beneficial owners holding more than 15% in the Trust (directly or indirectly) on letterhead.  
+- PAN or identity proof of such beneficial owners.  
+- Address proof of such beneficial owners.  
+- Darpan Registration for Non-Profit Organisations (NPOs) registered as trusts or societies under the Societies Registration Act, 1860 or similar acts.  
+
+KEY POINTS:  
+- Different sets of documents are required based on the type of entity (Company vs Trust/Society/Association/Club).  
+- PAN and address proofs are mandatory for the entity, authorised signatories, and beneficial owners.  
+- Beneficial owners holding more than 10% (companies) or 15% (trusts/societies) must be disclosed with supporting documents.  
+- Identity and address proofs of senior managing officials may be required if beneficial owners are not identified.  
+- Latest passport-size photographs of authorised signatories are mandatory.  
+- Specific registration or recognition certificates are required depending on the entity type.  
+- Darpan Registration is required for NPOs registered under the Societies Registration Act or similar.  
+
+URL:  
+https://www.icicibank.com/business-banking/current-account.page

@@ -1,0 +1,42 @@
+TITLE:  
+Home Loan EMI Calculator and Repayment Information
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Home Loans, Loan Repayment, EMI Calculation
+
+TAGS:  
+Home Loan, EMI Calculator, Loan Repayment, Interest Rate, Loan Tenure, Pre-EMI, Loan Processing
+
+CONTENT:  
+Repayment of a home loan typically begins one month after the loan amount is disbursed. The exact start date is specified in your loan agreement. During the initial period, you may be required to pay pre-EMI interest depending on your loan terms and whether you are already paying EMIs or waiting for full disbursement.
+
+You can request to change your EMI payment date by contacting ICICI Bank. It is important to inquire about any charges or conditions associated with changing the EMI date.
+
+The EMI calculator requires three mandatory inputs: loan amount, annual interest rate, and loan tenure (in months or years). Using these inputs, it estimates the monthly EMI, total interest payable, and total repayment amount.
+
+The EMI calculator provides close estimates based on the entered values. However, actual EMI and total cost may vary due to factors such as floating interest rate changes, processing fees, prepayments, insurance, taxes, or other charges. The calculator output is indicative, and customers should confirm the final loan quote with ICICI Bank.
+
+The EMI calculator uses the standard reducing-balance formula. It does not include property tax, home insurance, or other homeownership costs, which should be budgeted separately.
+
+Benefits of using the EMI calculator include:  
+- Estimating EMI in advance  
+- Understanding total interest cost  
+- Comparing different loan options  
+- Assessing affordability  
+- Planning finances effectively before applying for a home loan
+
+KEY POINTS:  
+- Home loan repayment starts one month after disbursement as per loan agreement.  
+- Pre-EMI interest may be applicable during the disbursement phase.  
+- EMI payment date can be changed by contacting the bank; check for applicable charges.  
+- EMI calculator inputs: loan amount, interest rate, loan tenure.  
+- EMI calculator output is indicative; actual figures may vary due to fees, floating rates, taxes, insurance, and prepayments.  
+- Calculator uses reducing-balance formula.  
+- Property tax and home insurance are excluded from EMI calculations.  
+- EMI calculator helps in financial planning and loan comparison.
+
+URL:  
+https://www.icicibank.com/personal/loans/home-loan.page

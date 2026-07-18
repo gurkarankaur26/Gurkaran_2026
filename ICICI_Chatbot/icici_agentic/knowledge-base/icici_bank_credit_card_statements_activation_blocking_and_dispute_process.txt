@@ -1,0 +1,47 @@
+TITLE: ICICI Bank Credit Card Statements, Activation, Blocking, and Dispute Process  
+SOURCE: ICICI Bank  
+CATEGORY: Credit Cards  
+TAGS: Credit Card, Statements, Activation, Blocking, Dispute, Customer Care, Security  
+
+CONTENT:  
+ICICI Bank provides multiple convenient options for accessing your Credit Card statements. You can request an interest calculation sheet by contacting Customer Care via phone or email at customer.care@icicibank.com, providing the last four digits of your Credit Card. Soft copies of statements are sent to your registered email within 3 days, and physical copies are delivered to your registered mailing address within 7 days.  
+
+Your e-statement is password protected. The password is composed of the first four letters of your name (as printed on your Credit Card, in lowercase) followed by your date and month of birth in DDMM format. The password is case sensitive and excludes spaces or special characters. For assistance in opening your statement, contact Customer Care.  
+
+You can also view and download your Credit Card statements through the iMobile app by navigating to Cards & Forex > View Statement, or via Net Banking under Cards > Credit Cards. Statements are available for the current month, last month, past months, and up to 5 years back. Custom date ranges can be selected for older statements within this period. Statements can also be emailed on request.  
+
+Upon receiving your Credit Card, it is important to:  
+- Sign the back of the card  
+- Activate the card as per instructions  
+- Set your PIN  
+- Enable required transaction channels such as online, international, or contactless usage via the iMobile app or Net Banking  
+
+If your Credit Card is lost or stolen, block it immediately using one of the following methods:  
+- iMobile app: Cards & Forex > Block  
+- Net Banking: Cards > Credit Cards > Manage Your Credit Card > Block Card  
+- Call Customer Care from your registered mobile number  
+- Visit the nearest ICICI Bank branch  
+
+Note that financial liability for unauthorized transactions made before blocking the card rests with the cardholder. Claims for such transactions may not be accepted.  
+
+When traveling to high-risk countries, inform ICICI Bank in advance, enable only necessary transaction channels, and monitor SMS and email alerts for unusual activity. It is advisable to replace your card after returning if it was used in a high-risk region.  
+
+To raise a dispute on a transaction:  
+- Contact Customer Care from your registered mobile number or email customer.care@icicibank.com with the last four digits of your Credit Card and dispute details  
+- Download and fill the Transaction Dispute Form (CDF) from the ICICI Bank website  
+- Submit the form along with supporting documents relevant to the dispute type, such as merchant communication for goods/services not received, cancellation proof for unprocessed refunds, or payment proof if the transaction was paid by another mode  
+
+You may withdraw a dispute by calling Customer Care or emailing with the necessary details.  
+
+KEY POINTS:  
+- Statements available via iMobile app, Net Banking, email, or physical copy on request  
+- Password for e-statements: first 4 letters of name (lowercase) + DDMM of birthdate  
+- Statements accessible for up to 5 years with custom date range option  
+- Card activation requires signing, PIN setup, and enabling transaction channels  
+- Immediate blocking of lost/stolen cards via app, Net Banking, Customer Care, or branch  
+- Liability for unauthorized transactions before blocking rests with cardholder  
+- Inform Bank before traveling to high-risk countries; consider card replacement after  
+- Disputes require submission of Transaction Dispute Form and supporting documents  
+- Disputes can be raised or withdrawn via Customer Care or email  
+
+URL: https://www.icicibank.com/credit-cards

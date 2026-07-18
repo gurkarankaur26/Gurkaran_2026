@@ -1,0 +1,31 @@
+TITLE: Documents Required for Personal Loan in India | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: Personal Loans  
+TAGS: Personal Loan, Documents Required, Income Proof, Identity Proof, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers a seamless personal loan application process with minimal documentation requirements. The documents required vary slightly for salaried and self-employed applicants. Aadhaar and PAN details are mandatory for all applicants and co-applicants (where applicable).  
+
+As part of the bank’s ‘Go Green’ initiative, all personal loan-related documents will be sent electronically to the registered email ID from 5 February 2017. If the email ID is not registered, communication will be sent via physical letters. Customers are encouraged to update their email ID by visiting the nearest loan servicing branch or contacting Customer Care.  
+
+**Document Requirements:**  
+
+| Document Category       | Details                                                                                   |  
+|------------------------|-------------------------------------------------------------------------------------------|  
+| Identity & Residence Proof | PAN is mandatory. Identity is verified automatically using the Aadhaar number provided. |  
+| Income Proof             | Income details may be fetched securely through Net Banking or an account aggregator. For non-ICICI Bank customers, salary slips may be required. |  
+| Office Address Proof     | Salaried customers can enter their office address during application. Self-employed applicants may need to provide office address proof. |  
+| Business Continuity Proof| Not applicable digitally; business continuity is verified via account information if needed. |  
+
+*ICICI Bank may request additional documents during the verification process if required.*  
+
+KEY POINTS:  
+- Aadhaar and PAN are mandatory for all personal loan applicants and co-applicants.  
+- Income proof can be submitted digitally via Net Banking or account aggregators; salary slips required for some non-ICICI Bank customers.  
+- Office address proof is required for self-employed applicants; salaried applicants provide office address during application.  
+- Business continuity proof is generally not required digitally but may be verified if necessary.  
+- Loan documents are sent electronically to registered email IDs as part of the ‘Go Green’ initiative.  
+- Customers without registered email IDs will receive physical communication and are advised to update their email details.  
+- Additional documents may be requested during verification.  
+
+URL: https://www.icicibank.com/personal-banking/loans/personal-loan/documentation

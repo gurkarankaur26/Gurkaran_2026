@@ -1,0 +1,58 @@
+TITLE:  
+ICICI Bank Fixed Deposit (FD) - Features, Benefits, Interest Rates, and FAQs
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Fixed Deposit, Investment, Banking Products
+
+TAGS:  
+Fixed Deposit, FD Calculator, Interest Rates, Tax Saver FD, Loan Facility, FD Benefits, Premature Withdrawal, FD Laddering, Deposit Insurance
+
+CONTENT:  
+ICICI Bank Fixed Deposits (FDs) offer guaranteed returns at fixed interest rates with flexible tenures ranging from 7 days to 10 years. Customers can open and manage FDs digitally via ICICI Bank’s iMobile app and Net Banking.
+
+**Interest Rates and Calculation:**  
+- Interest rates vary based on tenure and customer category and are subject to change.  
+- Interest can be credited monthly or quarterly to the linked Savings or Current Account.  
+- Interest is calculated at the contracted rate; monthly payouts are at a discounted rate.  
+- The FD Calculator on the ICICI Bank website provides indicative maturity amounts based on user inputs but does not include tax deductions or TDS.  
+- Tax Saver FDs with a tenure of 5 years are available and can be estimated using the FD Calculator.
+
+**Benefits of ICICI Bank Fixed Deposits:**  
+- Guaranteed fixed returns, unaffected by market fluctuations.  
+- Flexible tenure options from 7 days up to 10 years.  
+- Monthly or quarterly interest payout options for regular income.  
+- Loan or overdraft facility against FD.  
+- Auto-renewal or auto-closure options upon maturity.  
+- Digital opening and management through iMobile app and Net Banking.  
+- Deposits insured up to ₹5 lakh per depositor per bank under DICGC (including principal and interest).  
+- Suitable for low-risk or conservative investors.  
+- FD laddering allows creating multiple smaller-tenure FDs to maintain liquidity and earn better interest than Savings Accounts.
+
+**Premature Withdrawal and Closure:**  
+- Callable FDs can be closed before maturity but are subject to penalties and revised interest rates as per bank policy.  
+- Short-tenure and laddered FDs provide liquidity and flexibility.  
+- Upon maturity, funds are credited to the linked account if auto-closure is selected; otherwise, the FD renews automatically for the same tenure if auto-renewal is chosen.  
+- Interest payout failures due to incorrect or inactive account details are reprocessed after correction. Account details can be updated via Net Banking, iMobile app, or branch.
+
+**Process to Manage FDs:**  
+- Open and manage FDs digitally via ICICI Bank’s iMobile app or Net Banking.  
+- Update payout account details online or at any branch.  
+- Withdraw or renew FDs online or by visiting a branch.
+
+KEY POINTS:  
+- Tenure: 7 days to 10 years  
+- Interest payout: Monthly or quarterly  
+- Tax Saver FD tenure: 5 years  
+- Deposit insurance: Up to ₹5 lakh per depositor under DICGC  
+- Premature withdrawal: Allowed with penalties and revised interest rates  
+- Digital management: Available via iMobile app and Net Banking  
+- Loan facility: Available against FD  
+- Auto-renewal and auto-closure options available  
+- FD laddering helps maintain liquidity and better returns than Savings Account  
+- FD Calculator provides indicative returns excluding tax deductions
+
+URL:  
+https://www.icicibank.com/personal-banking/investments/fixed-deposit.page

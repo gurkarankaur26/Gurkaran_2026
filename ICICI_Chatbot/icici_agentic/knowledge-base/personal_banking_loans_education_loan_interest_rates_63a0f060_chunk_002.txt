@@ -1,0 +1,65 @@
+TITLE:  
+ICICI Bank Loan Charges and Fees Structure
+
+SOURCE: ICICI Bank  
+CATEGORY:  
+Loan Charges and Fees
+
+TAGS:  
+CERSAI Charges, Prepayment Charges, Penal Charges, Loan Conversion Charges, Loan Cancellation, Loan Documentation Fees
+
+CONTENT:  
+This document outlines the various charges and fees applicable to ICICI Bank loans, including CERSAI charges, prepayment and foreclosure charges, penal charges, loan conversion fees, and other miscellaneous fees related to loan processing and management.
+
+**CERSAI Charges:**  
+- For loan up to Rs. 5 lakhs: Rs. 50 (Non-refundable)  
+- For loan above Rs. 5 lakhs: Rs. 100 (Non-refundable)  
+
+**Prepayment / Foreclosure Charges:**  
+- Floating rate loans: NIL prepayment charges  
+- Fixed rate loans:  
+  - Within 37 months from loan origination: 2% of the principal amount prepaid  
+  - After 37 months from loan origination: NIL  
+
+**Penal Charges:**  
+- 5% per annum on the overdue sum from due date to actual payment date  
+- Dishonor of Cheque/AD/NACH per transaction: Rs. 500  
+- Non-Maintenance of Mode of Payment (NMMP) charges, if applicable: Rs. 800  
+
+**Loan Conversion Charges (Switching between floating and fixed rates):**  
+- Floating to fixed rate conversion: Rs. 3,000  
+- Fixed to floating rate conversion:  
+  - If fixed rate tenure up to 37 months: 0.50% of principal outstanding  
+  - If fixed rate tenure above 37 months: 2.00% of principal outstanding  
+
+**Other Charges:**  
+- Cash Transaction Charges: Rs. 100  
+- Amortization Schedule (Physical copy): Rs. 200  
+- Duplicate No Objection / No Dues Certificate: Rs. 250  
+- Prepayment / Foreclosure Statement (Physical copy): Rs. 200  
+- Statement of Account (Physical copy): Rs. 200  
+- Revalidation of No Objection Certificate: Rs. 250  
+- Loan Cancellation Charges (Digital and Non-Digital): Rs. 2,500  
+- Digital Lending Cancellation: NIL within Free Look / Cooling off period  
+- Loan / Property Document Retrieval Charges: Rs. 500  
+- Recovery Charges (if applicable): Rs. 500  
+
+**Charges Incurred at Actuals:**  
+- SARFAESI proceedings  
+- Sending different notices  
+- Enforcement charges  
+- Paper advertisement charges  
+- Repossession charges  
+- Security guard charges  
+
+KEY POINTS:  
+- CERSAI charges vary by loan amount: Rs. 50 for loans up to Rs. 5 lakhs, Rs. 100 for above Rs. 5 lakhs  
+- No prepayment charges on floating rate loans; fixed rate loans attract 2% prepayment charges if prepaid within 37 months  
+- Penal interest of 5% p.a. on overdue amounts  
+- Dishonor of cheque and NMMP charges are Rs. 500 and Rs. 800 respectively  
+- Loan conversion charges depend on direction and tenure of loan  
+- Various documentation and service charges apply, mostly between Rs. 100 to Rs. 2,500  
+- Certain legal and recovery-related charges are billed at actual cost  
+
+URL:  
+https://www.icicibank.com/loan-charges-fees

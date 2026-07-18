@@ -1,0 +1,43 @@
+TITLE:  
+ICICI Bank FASTag – Easy Online and Offline Application for Cashless Toll Payments
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+FASTag, Digital Payments, Toll Payments
+
+TAGS:  
+FASTag, Toll Payments, ICICI Bank, Online Application, Offline Application, Cashless Toll, Vehicle Sticker, Activation, Recharge
+
+CONTENT:  
+FASTag is an electronic toll collection system that enables cashless payments at toll plazas, allowing you to pass through without stopping for cash transactions. ICICI Bank offers a convenient way to obtain a FASTag either online or offline.
+
+**Application Process:**  
+- **Online Application:** Apply via ICICI Bank’s iMobile app or Internet Banking by uploading the required documents digitally. The FASTag is then delivered to your doorstep. This method is faster and more convenient.  
+- **Offline Application:** Visit a FASTag booth at a toll plaza or the nearest ICICI Bank branch offering this service. Submit the required documents physically and wait for verification before receiving your FASTag.
+
+**FASTag Activation:**  
+- Affix the magnetic FASTag sticker on the inner side of the front windscreen, centrally below the rear-view mirror.  
+- Activate the FASTag by visiting the provider’s website, entering the FASTag ID or scanning the QR code.  
+- Link the FASTag to a prepaid wallet or directly to your bank account for automatic toll deductions.
+
+**Recharge and Payment:**  
+- Recharge your FASTag using Internet Banking, prepaid e-wallets, Credit Card, or Debit Card.  
+- Linking FASTag directly to your bank account enables automatic toll tax deduction, eliminating the need for manual recharges.
+
+**Vehicle Compatibility and Sticker Colours:**  
+FASTag is vehicle-specific and available in different colour-coded stickers based on vehicle categories such as cars, buses, trucks, and heavy construction vehicles.
+
+KEY POINTS:  
+- FASTag enables cashless, hassle-free toll payments.  
+- Online application via ICICI Bank’s iMobile app or Internet Banking is quick and convenient.  
+- Offline application requires visiting a toll plaza booth or bank branch.  
+- FASTag sticker must be affixed inside the front windscreen below the rear-view mirror.  
+- Activation involves entering FASTag ID or scanning QR code and linking to wallet or bank account.  
+- Recharge options include Internet Banking, prepaid wallets, Credit/Debit Cards.  
+- Linking FASTag to bank account allows automatic toll deductions.  
+- Different sticker colours correspond to different vehicle categories.
+
+URL:  
+https://www.icicibank.com/fastag

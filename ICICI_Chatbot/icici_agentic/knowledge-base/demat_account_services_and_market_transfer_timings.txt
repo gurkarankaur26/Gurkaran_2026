@@ -1,0 +1,37 @@
+TITLE: Demat Account Services and Market Transfer Timings  
+SOURCE: ICICI Bank  
+CATEGORY: Demat Account Services  
+TAGS: Demat Account, Market Transfer, E-Instruction, Nominee, Client Master List, Account Update, ICICI Bank iMobile  
+
+CONTENT:  
+ICICI Bank provides various services related to Demat accounts, including market transfers, inter-depository transfers, account updates, and nominee additions. Customers can manage their Demat accounts conveniently through Net Banking and the ICICI Bank iMobile app.
+
+**Market Transfer Timings:**  
+- Monday to Friday: 6 p.m.*  
+- Saturday: 2 p.m.*  
+
+**Inter Depository Transfer Timings:**  
+- Monday to Friday: 4 p.m.*  
+- Saturday: 11 a.m.*  
+
+*Note: For market transfers, e-Instructions must be submitted at least one hour prior to the NSDL pay-in deadline time. E-Instructions cannot be cancelled once submitted through Net Banking.
+
+**Available Demat Account Services:**  
+- Request closure of Demat account  
+- Add a nominee to the Demat account  
+- Update income range in the Demat account  
+- Request Client Master List (CML) online or by post  
+- Update mobile number, telephone number, and email ID  
+
+**Access through ICICI Bank iMobile app:**  
+All the above services can be accessed conveniently via the ICICI Bank iMobile app.
+
+KEY POINTS:  
+- Market transfer deadlines: Mon-Fri 6 p.m., Sat 2 p.m.  
+- Inter Depository transfer deadlines: Mon-Fri 4 p.m., Sat 11 a.m.  
+- E-Instructions must be submitted at least 1 hour before NSDL pay-in deadline  
+- E-Instructions cannot be cancelled after submission via Net Banking  
+- Services include Demat account closure, nominee addition, income update, CML request, and contact detail updates  
+- Services accessible via ICICI Bank iMobile app  
+
+URL: https://www.icicibank.com/ (specific page not provided)

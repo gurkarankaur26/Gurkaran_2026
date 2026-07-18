@@ -1,0 +1,56 @@
+TITLE:  
+Nippon India Mutual Fund Schemes Overview
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds  
+TAGS: Mutual Funds, Nippon India, Large Cap Fund, Multi Asset Fund, Index Fund, Growth, Dividend, Bonus  
+
+CONTENT:  
+This document provides a structured overview of various Nippon India Mutual Fund schemes available for investment. The schemes include different fund categories such as Large Cap Funds, Multi Asset Funds, Multi Cap Funds, and Index Funds with options for Growth, Dividend (IDCW), and Bonus plans. Each scheme is identified by a unique code for easy reference.
+
+Key Nippon India Mutual Fund Schemes:  
+
+1. Nippon India Large Cap Fund  
+   - Plans: Regular - Bonus, Regular - Growth, Regular - IDCW  
+   - Codes: 106240 (Bonus), 106235 (Growth), 106236 (IDCW)  
+
+2. Nippon India Multi Asset Omni FoF  
+   - Plans: Direct - Daily IDCW, Direct - Growth, Regular - Growth, Regular - IDCW  
+   - Codes: 148664 (Direct Daily IDCW), 148666 (Direct Growth), 148663 (Regular Growth), 148665 (Regular IDCW)  
+
+3. Nippon India Multi Asset Allocation Fund  
+   - Plans: Direct - Growth, Direct - IDCW, Regular - Growth, Regular - IDCW  
+   - Codes: 148457 (Direct Growth), 148458 (Direct IDCW), 148459 (Regular Growth), 148460 (Regular IDCW)  
+
+4. Nippon India Multi Cap Fund  
+   - Plans: Direct - Bonus, Direct - Growth, Direct - IDCW, Regular - Bonus, Regular - Growth, Regular - IDCW  
+   - Codes: 118651 (Direct Bonus), 118650 (Direct Growth), 118652 (Direct IDCW), 101162 (Regular Bonus), 101161 (Regular Growth), 101163 (Regular IDCW)  
+
+5. Nippon India Nifty 50 Value 20 Index Fund  
+   - Plans: Direct - Growth, Direct - IDCW, Regular - Growth, Regular - IDCW  
+   - Codes: 148721 (Direct Growth), 148722 (Direct IDCW), 148719 (Regular Growth), 148720 (Regular IDCW)  
+
+6. Nippon India Nifty 500 Momentum 50 Index Fund  
+   - Plans: Direct - Growth, Direct - IDCW, Regular - Growth, Regular - IDCW  
+   - Codes: 152881 (Direct Growth), 152884 (Direct IDCW), 152883 (Regular Growth), 152882 (Regular IDCW)  
+
+7. Nippon India Nifty Alpha Low Volatility 30 Index Fund  
+   - Plans: Direct - Growth, Direct - IDCW, Regular - Growth, Regular - IDCW  
+   - Codes: 150487 (Direct Growth), 150488 (Direct IDCW), 150490 (Regular Growth), 150491 (Regular IDCW)  
+
+8. Nippon India Nifty Midcap 150 Index Fund  
+   - Plans: Direct - Growth, Direct - IDCW, Regular - Growth, Regular - IDCW  
+   - Codes: 148726 (Direct Growth), 148725 (Direct IDCW), 148723 (Regular Growth), 148724 (Regular IDCW)  
+
+Note: IDCW stands for Income Distribution cum Capital Withdrawal, which is a dividend payout option.
+
+KEY POINTS:  
+- Nippon India Mutual Fund schemes offer multiple investment options including Growth, Dividend (IDCW), and Bonus plans.  
+- Schemes are available in both Direct and Regular plans, with Direct plans generally having lower expense ratios.  
+- Fund categories include Large Cap, Multi Asset, Multi Cap, and various Index Funds tracking Nifty indices.  
+- Each scheme has a unique identification code for easy tracking and investment.  
+- Dividend options (IDCW) provide periodic income distribution to investors.  
+- Bonus plans reinvest dividends into additional units, increasing the investment corpus.  
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds/nippon-india-funds.html

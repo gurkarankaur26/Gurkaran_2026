@@ -1,0 +1,51 @@
+TITLE:  
+ICICI Bank Mutual Fund Investment and Tracking Guide
+
+SOURCE:  
+ICICI Bank
+
+CATEGORY:  
+Mutual Funds, Investment Services
+
+TAGS:  
+Mutual Funds, Investment Tracking, SIP, Portfolio Management, MF-KYC, Automated Investing, Tax Efficiency
+
+CONTENT:  
+ICICI Bank offers a comprehensive platform for investing in and tracking Mutual Funds, designed to help customers achieve their financial goals with ease and efficiency. The bank provides personalized investment guidance based on your financial goals and risk tolerance, helping you maximize returns.
+
+**Mutual Fund Investment and Tracking:**  
+- You can track your Mutual Fund investments using your folio number through ICICI Bank’s platform, including Internet Banking and the iMobile App.  
+- The iMobile App allows you to download your mutual fund statement in PDF format, which includes important details for portfolio review and income tax filing.  
+- Regular portfolio reviews are recommended to ensure your investments align with your risk tolerance, investment horizon, and financial objectives.
+
+**AI-Powered Automated Investment Platform:**  
+- ICICI Bank offers an AI-powered automated mutual fund investment platform backed by Nobel Prize-winning research.  
+- The platform uses smart algorithms to suggest a personalized portfolio that optimizes returns while managing risks effectively.  
+- It features continuous portfolio rebalancing 24/7, automatically adjusting your portfolio when it deviates from the optimal asset allocation.  
+- The platform also minimizes exit loads and capital gains tax by generating tax-efficient rebalancing triggers, helping you retain more earnings.  
+- This service is provided free of cost, offering expert-level investment assistance.
+
+**MF-KYC (Mutual Funds - Know Your Customer):**  
+- ICICI Bank provides an industry-first paperless registration process for MF-KYC, enabling quick and convenient registration with just one click.  
+- MF-KYC is mandatory for all Mutual Fund investments.  
+- You can register by visiting any ICICI Bank branch or by downloading and submitting the registration form along with:  
+  - A self-attested copy of your PAN Card  
+  - KYC acknowledgement slip or a photocopy of your KYC Status Screen  
+
+**Additional Benefits:**  
+- Access your mutual fund investments anytime via ICICI Bank Internet Banking.  
+- Downloadable mutual fund statements for easy portfolio management and tax filing.  
+- Expert guidance and personalized investment strategies to help you stay on track with your financial goals.
+
+KEY POINTS:  
+- Track Mutual Fund investments via folio number on ICICI Bank platform.  
+- Download mutual fund statements in PDF from iMobile App.  
+- AI-powered automated platform offers personalized portfolios and continuous rebalancing.  
+- Tax-efficient rebalancing minimizes exit loads and capital gains tax.  
+- Paperless MF-KYC registration process available; mandatory for all mutual fund investments.  
+- Required documents for MF-KYC: PAN Card copy and KYC acknowledgement slip/status.  
+- Free expert investment assistance and portfolio management tools.  
+- Access investments anytime through Internet Banking.
+
+URL:  
+https://www.icicibank.com/investments/mutual-funds.page

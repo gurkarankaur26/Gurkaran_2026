@@ -1,0 +1,27 @@
+TITLE: NRI Recurring Deposit (RD) – Interest Rates, Eligibility, and Calculator | ICICI Bank  
+SOURCE: ICICI Bank  
+CATEGORY: NRI Banking, Recurring Deposits, Savings  
+TAGS: NRI RD, Recurring Deposit, Interest Rates, Savings, Fixed Returns, Calculator, ICICI Bank  
+
+CONTENT:  
+ICICI Bank offers NRI Recurring Deposits (RD) that allow Non-Resident Indians to save systematically with small monthly investments while earning fixed and competitive interest rates. The minimum monthly deposit starts at ₹5,000 and can be increased in multiples of ₹1,000. The interest rate on the RD remains fixed for the entire tenure, providing stable and predictable returns.
+
+The NRI RD Calculator provided by ICICI Bank helps customers estimate their returns by entering the monthly deposit amount, tenure, and applicable interest rate. It instantly displays the total invested amount, interest earned, and maturity value, enabling better financial planning and transparency.
+
+Opening an NRI RD is a simple and quick online process, allowing NRIs to start saving effortlessly. However, the monthly deposit amount remains fixed throughout the tenure, and if flexibility is needed, a new RD with a different amount must be opened.
+
+Delayed payments on the RD may attract penalties, and repeated defaults could lead to discontinuation of the RD. To ensure uninterrupted benefits, regular monthly payments are recommended.
+
+KEY POINTS:  
+- Minimum monthly deposit: ₹5,000  
+- Additional deposits in multiples of ₹1,000  
+- Interest rate: Fixed for the entire tenure  
+- Tenure: Flexible (user selects tenure while using the calculator)  
+- Returns: Stable and predictable fixed interest  
+- Calculator: Estimates total invested amount, interest earned, and maturity value  
+- Opening process: Simple and quick online setup  
+- Deposit amount: Fixed throughout the tenure; no changes allowed during tenure  
+- Penalties: Applicable for delayed payments; repeated defaults may discontinue RD  
+- Benefits: Systematic savings, fixed returns, easy financial planning  
+
+URL: https://www.icicibank.com/nri-banking/deposits/recurring-deposits/rd-calculator

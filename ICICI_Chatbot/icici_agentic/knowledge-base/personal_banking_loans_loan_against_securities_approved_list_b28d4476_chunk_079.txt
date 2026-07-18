@@ -1,0 +1,31 @@
+TITLE:  
+Mutual Fund Schemes and Codes Overview
+
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds / Investment Products  
+TAGS: Mutual Funds, LIC Mutual Fund, Mirae Asset, Fund Codes, Investment Options, Dividend Plans, Growth Plans
+
+CONTENT:  
+This document provides a comprehensive list of mutual fund schemes along with their unique identification codes. It includes various plans offered by LIC Mutual Fund and Mirae Asset Mutual Fund, categorized by dividend payout frequency and growth options.
+
+LIC Mutual Fund Schemes:  
+- Banking & PSU Fund: Available in Direct plans with Daily, Monthly, Weekly IDCW (Income Distribution cum Capital Withdrawal) options and Growth option.  
+- Liquid Fund: Available in Direct plans with Daily IDCW and Growth options.  
+- Low Duration Fund: Available in Direct plans with Daily, Monthly, Weekly IDCW options and Growth option.  
+- Money Market Fund: Available in Direct and Regular plans with Growth and IDCW options.  
+- Nifty 8-13 yr G-Sec ETF: Listed with a unique code.
+
+Mirae Asset Mutual Fund Schemes:  
+- Liquid Fund: Available in Direct plans with Daily, Monthly, Weekly IDCW options and Growth option.
+
+Each scheme is identified by a unique numeric code for easy reference and transaction processing.
+
+KEY POINTS:  
+- Mutual fund schemes are available in various dividend payout frequencies: Daily, Weekly, Monthly IDCW, and Growth options.  
+- Plans are offered in Direct and Regular categories.  
+- Each scheme has a unique identification code for transactions.  
+- LIC Mutual Fund and Mirae Asset Mutual Fund are among the providers listed.  
+- The document lists multiple variants of funds including Banking & PSU, Liquid, Low Duration, Money Market, and ETFs.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds (example URL for reference)

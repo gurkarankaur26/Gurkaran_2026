@@ -1,0 +1,53 @@
+TITLE: Dematerialisation and Rematerialisation of Securities  
+SOURCE: ICICI Bank  
+CATEGORY: Securities Demat Services  
+TAGS: Dematerialisation, Rematerialisation, Demat Account, Securities, Transmission, ICICI Bank  
+
+CONTENT:  
+**Dematerialisation of Securities**  
+Dematerialisation is the process of converting physical share certificates into electronic form credited to your Demat account. After submitting your Demat Request Form (DRF) and physical certificates, the securities will be reflected in your pending Demat balance and, upon completion, under your free balance. You can submit requests via ICICI Bank branches, phone, or online at www.icic.ibank.in.  
+
+- If your account is not credited within one month, contact ICICI Bank via phone or email.  
+- For delays beyond 40 days, ICICI Bank can provide the registrar's contact details and your Demat Request Number (DRN).  
+
+**Rejection of Demat Requests**  
+Dematerialisation requests may be rejected by ICICI Bank’s Central Processing Office or the Registrar if genuineness or ownership is not verified. Rejected securities are returned with reasons for rejection. You must resolve the issues and resubmit the certificates with a fresh DRF (do not reuse the previous DRF).  
+
+**Transmission-cum-Demat**  
+In case of joint holdings, upon the death of one or more joint holders, the surviving holder(s) can:  
+- Get the deceased’s name removed from the physical certificate(s)  
+- Dematerialise the securities in the surviving holder’s Demat account  
+Required documents include:  
+- Notarised copy of the death certificate  
+- Notarised copy of the succession certificate or a court order if no Will exists  
+- Notarised copy of Probate or Letter of Administration  
+
+**FAQs**  
+- Can all securities be deposited in a single Demat account?  
+  Yes, if the securities have the same holders.  
+- Can pledged shares be dematerialised?  
+  Yes, with permission from the bank holding the pledge.  
+- Can odd lot share certificates be dematerialised?  
+  Yes.  
+- What if there is a change in name due to marriage?  
+  Submit a certified true copy of the marriage certificate along with the DRF and provide an attested new specimen signature.  
+- Can dematerialised securities be delivered against obligations in the physical segment?  
+  Yes, SEBI permits delivery of dematerialised securities against physical segment obligations at stock exchanges connected to the depository.  
+- Are all dematerialised securities eligible for delivery against physical segment obligations?  
+  Yes, for all companies eligible for dematerialisation, including delivery against auction of securities in the physical segment.  
+
+**Rematerialisation of Securities**  
+Rematerialisation is the reverse process of dematerialisation, converting securities held electronically in a Demat account back into physical certificates. This is done by submitting a completely filled Remat Request Form (RRF) in triplicate. The equivalent number of securities will be debited from your Demat account and physical certificates issued.  
+
+KEY POINTS:  
+- Dematerialisation converts physical shares to electronic form; rematerialisation reverses this.  
+- Submit Demat Request Form (DRF) and physical certificates for dematerialisation.  
+- Delays beyond 40 days allow you to request registrar details and DRN from ICICI Bank.  
+- Rejected demat requests must be resubmitted with a fresh DRF after resolving issues.  
+- Transmission-cum-Demat allows surviving joint holders to remove deceased names and dematerialise shares with required legal documents.  
+- Odd lot shares and pledged shares can be dematerialised with proper permissions.  
+- Name changes due to marriage require marriage certificate and new specimen signature.  
+- Dematerialised securities can be delivered against physical segment obligations as per SEBI guidelines.  
+- Rematerialisation requires submission of Remat Request Form (RRF) in triplicate.  
+
+URL: https://www.icicibank.com/Personal-Banking/investments/demat-services.page

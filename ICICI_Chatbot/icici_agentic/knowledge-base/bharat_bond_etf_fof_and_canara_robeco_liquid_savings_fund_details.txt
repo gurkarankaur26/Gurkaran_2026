@@ -1,0 +1,41 @@
+TITLE: BHARAT Bond ETF FOF and Canara Robeco Liquid & Savings Fund Details  
+SOURCE: ICICI Bank  
+CATEGORY: Mutual Funds, Investment Products  
+TAGS: BHARAT Bond ETF, Canara Robeco, Mutual Funds, Investment Options, Growth, IDCW, Direct Plan, Regular Plan  
+
+CONTENT:  
+This document provides details on various mutual fund schemes available through ICICI Bank, focusing on BHARAT Bond ETF Fund of Funds (FOF) and Canara Robeco Liquid and Savings Funds. These funds offer different investment options such as Growth and Income Distribution cum Capital Withdrawal (IDCW) plans, available in both Direct and Regular plans.
+
+**BHARAT Bond ETF FOF**  
+- Available maturities: April 2030, April 2031, April 2032, April 2033  
+- Plan types: Direct (Dir) and Regular (Reg)  
+- Options: Growth and IDCW (Income Distribution cum Capital Withdrawal)  
+- Each scheme has unique identification numbers (e.g., 147857 for BHARAT Bond FOF - April 2030 - Dir - Growth)  
+- IDCW options may be available in multiple payout frequencies (not explicitly detailed here)  
+- These funds invest primarily in bonds issued by public sector undertakings and government entities, aiming for steady income and capital preservation until maturity.
+
+**Canara Robeco Liquid Fund**  
+- Plan types: Direct and Regular  
+- Options: Growth, Daily IDCW, Weekly IDCW, Monthly IDCW  
+- Suitable for investors seeking liquidity with regular income options  
+- Identification numbers are provided for each variant (e.g., 118305 for Direct Growth, 118306 for Direct Monthly IDCW)  
+- These funds invest in short-term money market instruments and debt securities, offering low risk and high liquidity.
+
+**Canara Robeco Savings Fund**  
+- Plan types: Direct and Regular  
+- Options: Growth, Daily IDCW, Weekly IDCW, Monthly IDCW  
+- Identification numbers provided (e.g., 118291 for Direct Growth)  
+- Designed for investors seeking regular income with moderate risk  
+- Invests in a mix of debt and money market instruments to balance income and capital preservation.
+
+KEY POINTS:  
+- BHARAT Bond ETF FOF offers long-term bond investment options with maturity dates from 2030 to 2033.  
+- Both Direct and Regular plans are available, with Growth and IDCW payout options.  
+- Canara Robeco Liquid Fund provides high liquidity with multiple IDCW payout frequencies and Growth option.  
+- Canara Robeco Savings Fund offers a balanced approach with regular income and growth options.  
+- Each scheme has a unique identification number for easy reference and transaction.  
+- IDCW options allow investors to receive periodic income distributions.  
+- These funds are suitable for different investor needs: long-term bond investment, liquid funds for short-term needs, and savings funds for moderate risk and income.
+
+URL:  
+https://www.icicibank.com/investment/mutual-funds.page

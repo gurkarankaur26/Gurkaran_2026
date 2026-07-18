@@ -1,0 +1,16 @@
+TITLE: Car Loan EMI Calculator - Calculate EMI for New Car Loan  
+SOURCE: ICICI Bank  
+CATEGORY: Loans  
+TAGS: Car Loan, EMI Calculator, Loan Tenure, Interest Rate, Monthly Instalment  
+
+CONTENT:  
+ICICI Bank offers a Car Loan EMI Calculator to help customers estimate their monthly instalments and total interest payable over the loan tenure. Customers can input the loan amount starting from ₹1,00,000, select an approximate interest rate, and choose a loan tenure between 12 and 84 months. The calculator provides an indicative monthly EMI amount and total interest cost to assist in financial planning.  
+
+KEY POINTS:  
+- Loan amount starting from ₹1,00,000  
+- Loan tenure options between 12 and 84 months  
+- Approximate interest rate input for EMI estimation  
+- Calculates monthly EMI and total interest payable  
+- Results are indicative and subject to ICICI Bank’s final policies  
+
+URL: https://www.icicibank.com/personal-banking/loans/car-loan/emi-calculator
